@@ -380,6 +380,186 @@ function setExportStatus(message, tone = '') {
   els.exportStatus.className = `export-status ${tone}`.trim();
 }
 
+function slugFileName(value) {
+  return normalizeText(value)
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '') || 'liste-epicerie';
+}
+
+function buildPrintableHtml(selectedItems) {
+  const stores = groupSelectedByStore();
+  const generated = new Intl.DateTimeFormat('fr-CA', {
+    dateStyle: 'long',
+    timeStyle: 'short',
+  }).format(new Date());
+
+  const storeBlocks = stores.map(store => `
+    <section class="store">
+      <h2>${escapeHtml(store.name)}</h2>
+      ${store.address ? `<p class="address">${escapeHtml(store.address)}</p>` : ''}
+      <table>
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>Prix</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${store.items.map(item => `
+            <tr>
+              <td>${escapeHtml(item.name)}</td>
+              <td class="price">${escapeHtml(item.price)}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </section>
+  `).join('');
+
+  return `<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>${escapeHtml(state.week?.title || 'Liste d’épicerie')}</title>
+  <style>
+    @page { size: letter; margin: 0.55in; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: #171714;
+      background: #fffefa;
+      font-family: Avenir Next, Avenir, Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      line-height: 1.35;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      align-items: end;
+      padding-bottom: 18px;
+      border-bottom: 2px solid #171714;
+      margin-bottom: 18px;
+    }
+    h1 {
+      margin: 0;
+      font-family: Georgia, Times New Roman, serif;
+      font-size: 31px;
+      line-height: 1;
+    }
+    .meta {
+      color: #5f5a50;
+      text-align: right;
+      font-size: 11px;
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .summary div {
+      border: 1px solid #d8cdbb;
+      border-radius: 8px;
+      padding: 9px 10px;
+      background: #f8f5ed;
+      font-weight: 800;
+    }
+    .store {
+      break-inside: avoid;
+      margin: 0 0 18px;
+    }
+    h2 {
+      margin: 0 0 3px;
+      font-size: 18px;
+      line-height: 1.15;
+    }
+    .address {
+      margin: 0 0 7px;
+      color: #5f5a50;
+      font-size: 11px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid #d8cdbb;
+    }
+    th {
+      color: #fff;
+      background: #235845;
+      text-align: left;
+      font-size: 10px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    th, td {
+      padding: 8px;
+      border-bottom: 1px solid #e7dfd1;
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: 0; }
+    td.price {
+      width: 115px;
+      color: #171714;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+    @media screen {
+      body {
+        max-width: 8.5in;
+        margin: 24px auto;
+        padding: 0.55in;
+        box-shadow: 0 18px 48px rgba(38, 31, 18, 0.14);
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Liste d'épicerie</h1>
+      <div>${escapeHtml(state.week?.weekRange || state.week?.folderName || '')}</div>
+    </div>
+    <div class="meta">
+      ${escapeHtml(selectedItems.length)} item${selectedItems.length > 1 ? 's' : ''}<br />
+      ${escapeHtml(stores.length)} épicerie${stores.length > 1 ? 's' : ''}<br />
+      Généré le ${escapeHtml(generated)}
+    </div>
+  </header>
+  <div class="summary">
+    <div>${escapeHtml(selectedItems.length)} item${selectedItems.length > 1 ? 's' : ''} choisi${selectedItems.length > 1 ? 's' : ''}</div>
+    <div>${escapeHtml(stores.length)} arrêt${stores.length > 1 ? 's' : ''}</div>
+    <div>Prix en CAD</div>
+  </div>
+  ${storeBlocks}
+</body>
+</html>`;
+}
+
+function openBrowserPrintExport() {
+  const selectedItems = [...state.selected.values()];
+  const html = buildPrintableHtml(selectedItems);
+  const printWindow = window.open('', '_blank', 'noopener,noreferrer');
+  if (!printWindow) {
+    const blob = new Blob([html], { type: 'text/html;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `${slugFileName(state.week?.title || 'liste-epicerie')}.html`;
+    link.click();
+    URL.revokeObjectURL(url);
+    setExportStatus('Fichier imprimable téléchargé. Ouvre-le puis choisis Imprimer > Enregistrer en PDF.', 'success');
+    return;
+  }
+
+  printWindow.document.open();
+  printWindow.document.write(html);
+  printWindow.document.close();
+  printWindow.focus();
+  setTimeout(() => printWindow.print(), 250);
+  setExportStatus('Fenêtre d’impression ouverte. Choisis “Enregistrer en PDF” comme destination.', 'success');
+}
+
 async function exportPdfToDesktop() {
   if (!state.week) return;
   const selectedIds = [...state.selected.keys()];
@@ -391,9 +571,16 @@ async function exportPdfToDesktop() {
   const originalLabel = els.printButton.textContent;
   els.printButton.disabled = true;
   els.printButton.textContent = 'Création...';
-  setExportStatus('Création du PDF sur le bureau...', '');
+  setExportStatus('Préparation de la liste...', '');
+
+  const canUseLocalPdfEndpoint = ['localhost', '127.0.0.1'].includes(window.location.hostname);
 
   try {
+    if (!canUseLocalPdfEndpoint) {
+      openBrowserPrintExport();
+      return;
+    }
+
     const response = await fetch('/api/export-pdf', {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
@@ -402,11 +589,16 @@ async function exportPdfToDesktop() {
         selectedIds,
       }),
     });
-    const result = await response.json();
+    const contentType = response.headers.get('content-type') || '';
+    if (!contentType.includes('application/json')) {
+      throw new Error('Export local indisponible');
+    }
+    const text = await response.text();
+    const result = text ? JSON.parse(text) : {};
     if (!response.ok) throw new Error(result.error || 'Export impossible');
     setExportStatus(`PDF sauvegardé: ${result.fileName}`, 'success');
   } catch (err) {
-    setExportStatus(`${err.message}. Vérifie que le serveur local est ouvert avec npm run web.`, 'warning');
+    openBrowserPrintExport();
   } finally {
     els.printButton.disabled = false;
     els.printButton.textContent = originalLabel;
