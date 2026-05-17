@@ -2,6 +2,7 @@
 .env
 .dev.vars
 .cache/
+.firecrawl/
 .wrangler/
 .playwright-cli/
 .shopping-picker-watcher.pid

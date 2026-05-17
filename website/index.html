@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <a class="skip-link" href="#items">Aller aux items</a>
+    <a class="skip-link" href="#items">Aller aux produits</a>
     <header class="topbar">
       <div class="topbar-title">
         <p class="eyebrow">Joliette</p>
@@ -31,7 +31,7 @@
           <div id="week-options" class="week-options" role="listbox" hidden></div>
         </div>
         <div class="control-field search-panel">
-          <label for="item-search">Rechercher un item</label>
+          <label for="item-search">Rechercher un produit</label>
           <input id="item-search" name="item-search" type="search" autocomplete="off" placeholder="Ex. poulet, beurre, fraises…" />
         </div>
         <div class="control-field store-panel">
@@ -39,6 +39,13 @@
           <select id="store-filter" name="store-filter">
             <option value="">Toutes les épiceries</option>
           </select>
+        </div>
+        <div class="control-field mode-field">
+          <span class="control-label">Afficher</span>
+          <div id="mode-tabs" class="mode-tabs" role="tablist" aria-label="Mode d'affichage">
+            <button type="button" class="active" data-mode="deals" role="tab" aria-selected="true">Bons prix</button>
+            <button type="button" data-mode="all" role="tab" aria-selected="false">Tous les produits</button>
+          </div>
         </div>
         <div class="control-field rayon-field">
           <span class="control-label">Rayons</span>
@@ -59,6 +66,10 @@
         <div id="selection-summary" class="selection-summary"></div>
         <div id="export-status" class="export-status" role="status" aria-live="polite"></div>
         <div id="selection-list" class="selection-list"></div>
+        <div class="notes-field">
+          <label for="list-notes">Notes</label>
+          <textarea id="list-notes" rows="4" placeholder="Ex: vérifier les chandelles, shampoing, détergent…"></textarea>
+        </div>
         <div class="basket-actions">
           <button id="print-button" class="button secondary" type="button">Exporter PDF</button>
           <button id="clear-button" class="button ghost" type="button">Vider</button>
@@ -68,7 +79,7 @@
 
     <template id="empty-template">
       <div class="empty-state">
-        <p>Aucun item sélectionné.</p>
+        <p>Aucun produit sélectionné.</p>
         <span>Coche des spéciaux pour bâtir la liste par épicerie.</span>
       </div>
     </template>

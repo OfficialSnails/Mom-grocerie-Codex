@@ -198,9 +198,9 @@ function buildFinalList(items: PickerItem[], weekDir: string): string {
   lines.push('');
 
   if (items.length === 0) {
-    lines.push('Aucun item sélectionné pour le moment.');
+    lines.push('Aucun produit sélectionné pour le moment.');
     lines.push('');
-    lines.push(`Coche des items dans \`${PICKER_FILE}\`.`);
+    lines.push(`Coche des produits dans \`${PICKER_FILE}\`.`);
     lines.push('Ce fichier se met à jour automatiquement et regroupe les choix par magasin.');
     return lines.join('\n');
   }
@@ -214,7 +214,7 @@ function buildFinalList(items: PickerItem[], weekDir: string): string {
     lines.push('');
   }
 
-  lines.push('Pour enlever un item, coche sa case ici. Il disparaîtra de la liste finale.');
+  lines.push('Pour enlever un produit, coche sa case ici. Il disparaîtra de la liste finale.');
 
   return lines.join('\n');
 }

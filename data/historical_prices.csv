@@ -1548,3 +1548,356 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-14,bonichoix-joliette,CHIPS TORTILLA TOSTITOS (205 à 295 g) BRETZELS ROLD GOLD (198 à 370 g) MAÏS SOUFFLÉ SMARTFOOD (150 à 200 g) OU GRIGNOTISES CHEETOS (180 à 285 g) OU MUNCHIES (250 g),CHIPS TORTILLA TOSTITOS (205 à 295 g) BRETZELS ROLD GOLD (198 à 370 g) MAÏS SOUFFLÉ SMARTFOOD (150 à 200 g) OU GRIGNOTISES CHEETOS (180 à 285 g) OU MUNCHIES (250 g),TOSTITOS | ROLD GOLD | SMARTFOOD | CHEETOS | MUNCHIES,,8,,,8,unknown,flipp,
 2026-05-14,bonichoix-joliette,LAY'S CHIPS,LAY'S CHIPS,Lay's,,2.77,,,2.77,unknown,flipp,
 2026-05-14,bonichoix-joliette,FRIANDISES GLACÉES CHAPMAN'S,FRIANDISES GLACÉES CHAPMAN'S,Chapman's,,6.99,,,6.99,unknown,flipp,
+2026-05-14,familiprix-joliette,"ASPIRIN, ALEVE ou ALEVEX Produits sélectionnés","ASPIRIN, ALEVE ou ALEVEX Produits sélectionnés",,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Maybelline New York Produits de maquillage sélectionnés,Maybelline New York Produits de maquillage sélectionnés,MAYBELLINE NEW YORK,,14.99,,,14.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Biomedic Soulagement des brûlures d'estomac 60 ou 100 comprimés,Biomedic Soulagement des brûlures d'estomac 60 ou 100 comprimés,Biomedic,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"MOTRIN Ibuprofène 200 mg, 72 gélules, 90 comprimé ou Platine, Ibuprofène + Relaxant musculaire","MOTRIN Ibuprofène 200 mg, 72 gélules, 90 comprimé ou Platine, Ibuprofène + Relaxant musculaire",,,12.49,,,12.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CREST Vivid, Ensemble de blanchiment des dents 10 traitements","CREST Vivid, Ensemble de blanchiment des dents 10 traitements",Crest,,31.99,,,31.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,GUM Produits buccaux sélectionnés,GUM Produits buccaux sélectionnés,G.U.M,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel Produits buccaux sélectionnés,Essentiel Produits buccaux sélectionnés,Essentiel,,3.79,,,3.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"Essentiel Cure-oreilles, 400 unités","Essentiel Cure-oreilles, 400 unités",Essentiel,,3.79,,,3.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DEGREE, DOVE ou DOVE MEN CARE Clinical Protection,Antisudorifiques sélectionnés","DEGREE, DOVE ou DOVE MEN CARE Clinical Protection,Antisudorifiques sélectionnés",,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"M. NET Nettoyant, 1,21 litre","M. NET Nettoyant, 1,21 litre",M. NET,,5.49,,,5.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"POUR EXTRA ET REGULIERE ALBERTO, PANTENE, HERBAL ESSENCES ou PLAYTEX, Produits sélectionnés","POUR EXTRA ET REGULIERE ALBERTO, PANTENE, HERBAL ESSENCES ou PLAYTEX, Produits sélectionnés",,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"WHOLE BLENDS, Soins capillaires sélectionnés","WHOLE BLENDS, Soins capillaires sélectionnés",Whole Blends,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"L'ORÉAL PARIS, Produits de maquillage sélectionnés","L'ORÉAL PARIS, Produits de maquillage sélectionnés",L'Oréal,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"POUR EXTRA PUREX, Détergent à lessive 4,43 litres ou SUNLIGHT, 4 litres","POUR EXTRA PUREX, Détergent à lessive 4,43 litres ou SUNLIGHT, 4 litres",,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DEGREE, Antisudorifiques ou désodorisants sélectionnés","DEGREE, Antisudorifiques ou désodorisants sélectionnés",,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Crème anti-démangeaisons, 30 g","BIOMEDIC, Crème anti-démangeaisons, 30 g",Biomedic,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"POISE, Produits et formats sélectionnés","POISE, Produits et formats sélectionnés",Poise,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ONE A DAY, Femme ou Homme, Gummies, Suppléments multivitaminiques sélectionnés","ONE A DAY, Femme ou Homme, Gummies, Suppléments multivitaminiques sélectionnés",,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ENSURE, Substitut de repas/, 6 x 235 ml","ENSURE, Substitut de repas/, 6 x 235 ml",,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,TRESEMMÉ Produits capillaires sélectionnés,TRESEMMÉ Produits capillaires sélectionnés,TRESemmé,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Hydralax, Soulage la constipation occasionnelle, 238 g","BIOMEDIC, Hydralax, Soulage la constipation occasionnelle, 238 g",Biomedic,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CANESTEN, Crème antifongique externe ou crème topique pour les pieds, 15 g","CANESTEN, Crème antifongique externe ou crème topique pour les pieds, 15 g",CANESTEN,,8.79,,,8.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LISTERINE, Rince-bouches sélectionnés 1,5 litre","LISTERINE, Rince-bouches sélectionnés 1,5 litre",Listerine,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Gomme à la nicotine/Nicotine gum, 2 mg, 105 morceaux/pieces","BIOMEDIC, Gomme à la nicotine/Nicotine gum, 2 mg, 105 morceaux/pieces",Biomedic,,31.99,,,31.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,L'ORÉAL PARIS Colorations capillaires sélectionnées,L'ORÉAL PARIS Colorations capillaires sélectionnées,L'Oréal,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NICORETTE, Gomme de nicotine, 2 mg ou 4 mg, 30 morceaux","NICORETTE, Gomme de nicotine, 2 mg ou 4 mg, 30 morceaux",Nicorette,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"REFRESH, Gouttes oculaires lubrifiantes, formats sélectionnés","REFRESH, Gouttes oculaires lubrifiantes, formats sélectionnés",Refresh,,18.99,,,18.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SNACK POW, Mélange extrême, 140 g","SNACK POW, Mélange extrême, 140 g",SNACK POW,,3.29,,,3.29,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"KERI, Soins sélectionnés pour le corps","KERI, Soins sélectionnés pour le corps",Keri,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CREST, Produits sélectionnés","CREST, Produits sélectionnés",,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GILLETTE, Cartouches sélectionnées","GILLETTE, Cartouches sélectionnées",Gillette,,39.99,,,39.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"REACTINE, Produits sélectionnés","REACTINE, Produits sélectionnés",Reactine,,29.99,,,29.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Onguent ou crème antibiotique, 15 g","BIOMEDIC, Onguent ou crème antibiotique, 15 g",,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Biomedic nighttime acetaminophen caplets with antihistamine for adults 40un,Biomedic nighttime acetaminophen caplets with antihistamine for adults 40un,,,16.49,,,16.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BENADRYL, Allergies, 100 ml","BENADRYL, Allergies, 100 ml",Benadryl,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PAMPERS, Couches sélectionnées","PAMPERS, Couches sélectionnées",,,24.99,,,24.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"MONDOUX, Sweet Sixteen, Bonbon à peler, 100 g","MONDOUX, Sweet Sixteen, Bonbon à peler, 100 g",MONDOUX,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ALOEX, Gel d'aloe vera pur, 125 g","ALOEX, Gel d'aloe vera pur, 125 g",ALOEX,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"FERRERO ROCHER Barre de chocolat, 90 g","FERRERO ROCHER Barre de chocolat, 90 g",Ferrero Rocher,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,ESSENTIEL Papiers sélectionnés,ESSENTIEL Papiers sélectionnés,Essentiel,,15,,,15,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DEPEND, Produits et formats sélectionnés","DEPEND, Produits et formats sélectionnés",,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CLARITIN Allergies, 10 mg, 20 comprimés","CLARITIN Allergies, 10 mg, 20 comprimés",Claritin,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ARTHRI-PLUS, Produits sélectionnés/Selected products","ARTHRI-PLUS, Produits sélectionnés/Selected products",,,17.99,,,17.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Rasoirs ou cartouches sélectionnés","ESSENTIEL, Rasoirs ou cartouches sélectionnés",Essentiel,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ST. IVES, Produits pour le soin du visage ou du corps sélectionnés","ST. IVES, Produits pour le soin du visage ou du corps sélectionnés",,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BABY MUM-MUM, Gaufrettes de dentition douces, 50 g","BABY MUM-MUM, Gaufrettes de dentition douces, 50 g",,,2.79,,,2.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"OLD SPICE, Désodorisant pour tout le corps sans aluminium","OLD SPICE, Désodorisant pour tout le corps sans aluminium",Old Spice,,14.99,,,14.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GUM, Produits buccaux sélectionnés","GUM, Produits buccaux sélectionnés",,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,LYSOL Produits nettoyants sélectionnés,LYSOL Produits nettoyants sélectionnés,,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Lingettes pour bébé, 3 x 64 unités","ESSENTIEL, Lingettes pour bébé, 3 x 64 unités",Essentiel,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Annabelle Produits de maquillage sélectionnés,Annabelle Produits de maquillage sélectionnés,,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ANNABELLE, Produits de maquillage sélectionnés","ANNABELLE, Produits de maquillage sélectionnés",Annabelle,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ENERGIZER, MAX, Piles alcalines sélectionnées","ENERGIZER, MAX, Piles alcalines sélectionnées",Energizer,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Annabelle,Annabelle,,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"""PAMPERS, Couches sélectionnées/Selected diapers …""","""PAMPERS, Couches sélectionnées/Selected diapers …""",,,24.99,,,24.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Soulagement de la diarrhée, 2 mg, 12 caplets","BIOMEDIC Soulagement de la diarrhée, 2 mg, 12 caplets",,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ImPRESS, Ensembles d'ongles sélectionnés","ImPRESS, Ensembles d'ongles sélectionnés",,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"MAYBELLINE NEW YORK, Produits de maquillage sélectionnés","MAYBELLINE NEW YORK, Produits de maquillage sélectionnés",MAYBELLINE NEW YORK,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LYPSYL Baume pour les lèvres 4,2 g","LYPSYL Baume pour les lèvres 4,2 g",Lypsyl,,3,,,3,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BON DÉPART Plus, Préparation pour nourrisson prête à servir, 15 x 250 ml","BON DÉPART Plus, Préparation pour nourrisson prête à servir, 15 x 250 ml",,,56.99,,,56.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DOVE Savon en barres, 12 x 106 g","DOVE Savon en barres, 12 x 106 g",,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GLUCERNA, Substitut de repas, 6 x 237 ml","GLUCERNA, Substitut de repas, 6 x 237 ml",Glucerna,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel Sacs de cuisine formats sélectionnés,Essentiel Sacs de cuisine formats sélectionnés,,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,CANESTEN Traitements sélectionnés,CANESTEN Traitements sélectionnés,CANESTEN,,17.49,,,17.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BENADRYL, Produits sélectionnés","BENADRYL, Produits sélectionnés",Benadryl,,14.99,,,14.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"COVERGIRL, Produits de maquillage sélectionnés","COVERGIRL, Produits de maquillage sélectionnés",CoverGirl,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"Biomedic Écran solaire FPS/SPF 50, 1 litre","Biomedic Écran solaire FPS/SPF 50, 1 litre",Biomedic,,24.99,,,24.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CAREFREE, Protège-dessous sélectionnés","CAREFREE, Protège-dessous sélectionnés",Carefree,,7,,,7,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Serviettes ou protège-dessous sélectionnés","ESSENTIEL, Serviettes ou protège-dessous sélectionnés",Essentiel,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PAMPERS Lingettes pour bébé sans parfum à base de plantes, 52 unités","PAMPERS Lingettes pour bébé sans parfum à base de plantes, 52 unités",Pampers,,3.79,,,3.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL SNACK, Croustilles, 50 g","ESSENTIEL SNACK, Croustilles, 50 g",ESSENTIEL SNACK,,0.99,,,0.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,DOVE Produits sélectionnés,DOVE Produits sélectionnés,Dove,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,HUGGIES Lingettes pour bébé recharges sélectionnées,HUGGIES Lingettes pour bébé recharges sélectionnées,,,19.99,,,19.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Nettoyant corporel, 354 ml ou Gel douche pour homme, 400 ml","ESSENTIEL, Nettoyant corporel, 354 ml ou Gel douche pour homme, 400 ml",Essentiel,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NIZORAL Shampooing antipelliculaire, 325 ml","NIZORAL Shampooing antipelliculaire, 325 ml",,,28.99,,,28.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL SNACK, Le Coloré, Bar à bonbons, 400 g","ESSENTIEL SNACK, Le Coloré, Bar à bonbons, 400 g",ESSENTIEL SNACK,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PLAYTEX, Produits sélectionnés","PLAYTEX, Produits sélectionnés",Playtex,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NAIR, Produits dépilatoires sélectionnés","NAIR, Produits dépilatoires sélectionnés",NAIR,,14.49,,,14.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,ANNABELLE Produits de maquillage sélectionnés,ANNABELLE Produits de maquillage sélectionnés,Annabelle,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SOFTSOAP Gels douche sélectionnés, 591 ml","SOFTSOAP Gels douche sélectionnés, 591 ml",Softsoap,,5.49,,,5.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel demineralized spring water 4L,Essentiel demineralized spring water 4L,Essentiel,,0.99,,,0.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PINE-SOL, Nettoyant multi-surface, 1,41 litre","PINE-SOL, Nettoyant multi-surface, 1,41 litre",Pine-Sol,,5.79,,,5.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GERBER Purée pour bébé avec yaourt, 94 ml","GERBER Purée pour bébé avec yaourt, 94 ml",Gerber,,2.29,,,2.29,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BENEFIBER, Fibres alimentaires prébiotiques, poudre 248 g ou À emporte, 28 bâtonnets x 4 g","BENEFIBER, Fibres alimentaires prébiotiques, poudre 248 g ou À emporte, 28 bâtonnets x 4 g",Benefiber,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DEGREE, DOVE ou DOVE MEN CARE, Clinical Protection, Antisudorifiques sélectionnés","DEGREE, DOVE ou DOVE MEN CARE, Clinical Protection, Antisudorifiques sélectionnés",,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Soulagement des allergies extra fort, 10 mg, 30 comprimés","BIOMEDIC, Soulagement des allergies extra fort, 10 mg, 30 comprimés",Biomedic,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PROMENSIL, Ménopause extra fort, 60 comprimés","PROMENSIL, Ménopause extra fort, 60 comprimés",PROMENSIL,,49.99,,,49.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TYLENOL Douleurs arthritiques, 650 mg, 50 caplets","TYLENOL Douleurs arthritiques, 650 mg, 50 caplets",Tylenol,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LINDT, Excellence, Chocolat, 100 g","LINDT, Excellence, Chocolat, 100 g",Lindt,,5.49,,,5.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"FÉRIA, L'ORÉAL PARIS ou OLIA, Colorations capillaires sélectionnées","FÉRIA, L'ORÉAL PARIS ou OLIA, Colorations capillaires sélectionnées",,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Soulagement des douleurs arthritiques, 650 mg, 300 caplets","BIOMEDIC Soulagement des douleurs arthritiques, 650 mg, 300 caplets",Biomedic,,23.99,,,23.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,PANTENE Produits sélectionnés,PANTENE Produits sélectionnés,Pantene,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BAND-AID Pansements adhésifs sélectionnés,BAND-AID Pansements adhésifs sélectionnés,Band-Aid,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"OXICLEAN Détachant polyvalent, 1,36 kg","OXICLEAN Détachant polyvalent, 1,36 kg",OxiClean,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Pâte d'Ihle/Ihle's paste, 500 g ou Onguent de zinc, 450 g","ESSENTIEL, Pâte d'Ihle/Ihle's paste, 500 g ou Onguent de zinc, 450 g",Essentiel,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,TAMPAX Produits sélectionnés,TAMPAX Produits sélectionnés,Tampax,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,IRISH SPRING douche sélectionnés,IRISH SPRING douche sélectionnés,Irish Spring,,5.49,,,5.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,L'ORÉAL PARIS Produits de maquillage sélectionnés,L'ORÉAL PARIS Produits de maquillage sélectionnés,L'oreal paris,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,ALWAYS Produits sélectionnés,ALWAYS Produits sélectionnés,Always,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GLUTEGUARD, Aide à la dégradation du gluten/Helps to break down gluten, 10 comprimés","GLUTEGUARD, Aide à la dégradation du gluten/Helps to break down gluten, 10 comprimés",,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Suppositoires à la glycérine, 96 unités","BIOMEDIC, Suppositoires à la glycérine, 96 unités",Biomedic,,18.99,,,18.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"PROSPAN par HELIXIA, Toux, Sirop, 200 ml","PROSPAN par HELIXIA, Toux, Sirop, 200 ml",PROSPAN par HELIXIA,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,COLGATE Produits buccaux sélectionnés,COLGATE Produits buccaux sélectionnés,Colgate,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TYLENOL ou MOTRIN, Produits sélectionnés","TYLENOL ou MOTRIN, Produits sélectionnés",,,22.99,,,22.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Ibuprofène, 200 mg, 72 capsules","BIOMEDIC Ibuprofène, 200 mg, 72 capsules",Biomedic,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ADVIL, Rhume et sinus ou Grippe, 18 ou 20 unités","ADVIL, Rhume et sinus ou Grippe, 18 ou 20 unités",Advil,,10.49,,,10.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SNACK POW Mélange extrême/Extreme mix, 140 g","SNACK POW Mélange extrême/Extreme mix, 140 g",,,3.29,,,3.29,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LA RACINE DE VIE, Produits sélectionnés","LA RACINE DE VIE, Produits sélectionnés",LA RACINE DE VIE,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ADVIL, Ibuprofène, 200 mg, 110 ou 115 capsules","ADVIL, Ibuprofène, 200 mg, 110 ou 115 capsules",Advil,,22.99,,,22.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Desloratadine, Contrôle des allergies, 5 mg, 10 comprimés","BIOMEDIC, Desloratadine, Contrôle des allergies, 5 mg, 10 comprimés",Biomedic,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"AVEENO, Gel nettoyant, 975 ml","AVEENO, Gel nettoyant, 975 ml",Aveeno,,16.79,,,16.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL COSMETIK, Eau micellaire tout-en-un, 400 ml","ESSENTIEL COSMETIK, Eau micellaire tout-en-un, 400 ml",ESSENTIEL COSMETIK,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL Savon liquide pour les mains, recharge, 1 litre","ESSENTIEL Savon liquide pour les mains, recharge, 1 litre",Essentiel,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SYSTANE Complet Gouttes oculaires 10 ml ou Bion Tears, 24 x 0,4 ml","SYSTANE Complet Gouttes oculaires 10 ml ou Bion Tears, 24 x 0,4 ml",Systane,,12.49,,,12.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,PROBACLAC Probiotiques sélectionnés,PROBACLAC Probiotiques sélectionnés,,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Soin du nez hydratant, 200 ml","BIOMEDIC, Soin du nez hydratant, 200 ml",Biomedic,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"EDGE ou SKINTIMATE Gel à raser, 198 g","EDGE ou SKINTIMATE Gel à raser, 198 g",,,3.49,,,3.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DULCOLAX, Soft Chews, Laxatif, 30 bouchées tendres","DULCOLAX, Soft Chews, Laxatif, 30 bouchées tendres",,,10.49,,,10.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"REACTINE Allergies, 10 mg, 120 comprimés","REACTINE Allergies, 10 mg, 120 comprimés",Reactine,,52.99,,,52.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CUTIBase, Ceramyd, Crème hydratante, 100 g ou Crème talons fissurés, 75 g","CUTIBase, Ceramyd, Crème hydratante, 100 g ou Crème talons fissurés, 75 g",,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NIVEA, Nettoyant corporel, 887 ml","NIVEA, Nettoyant corporel, 887 ml",Nivea,,7.49,,,7.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LIGHT BLUE SHADE, Shampooing ou revitalisant, 450 ml","LIGHT BLUE SHADE, Shampooing ou revitalisant, 450 ml",LIGHT BLUE SHADE,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BENYLIN, Sirops sélectionnés, 250 ml","BENYLIN, Sirops sélectionnés, 250 ml",Benylin,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"POLYSPORIN, Produits sélectionnés 30 g","POLYSPORIN, Produits sélectionnés 30 g",Polysporin,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LISTERINE, Produits buccaux sélectionnés","LISTERINE, Produits buccaux sélectionnés",Listerine,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,EXCEL Gomme sans sucre 60 morceaux,EXCEL Gomme sans sucre 60 morceaux,,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Eau de javel, 2,4 litres","ESSENTIEL, Eau de javel, 2,4 litres",Essentiel,,5,,,5,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GRAVOL Ginger, Maux d'estomac et nausées, 20 unités","GRAVOL Ginger, Maux d'estomac et nausées, 20 unités",,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"VENIXXA Aide à soulager les symptômes de la maladie veineuse chronique, 30 comprimés","VENIXXA Aide à soulager les symptômes de la maladie veineuse chronique, 30 comprimés",VENIXXA,,22.99,,,22.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BAUSCH + LOMB, Bio True, Supérieur Advanced, Solution polyvalente","BAUSCH + LOMB, Bio True, Supérieur Advanced, Solution polyvalente",Bausch & Lomb,,23.99,,,23.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BENEFIBER, Fibres alimentaires prébiotiques/Prebiotic dietary fibre, poudre/powder 248 g ou/or À emporter/On the go, 28 bâtonnets x 4 g/28 sticks x 4 g","BENEFIBER, Fibres alimentaires prébiotiques/Prebiotic dietary fibre, poudre/powder 248 g ou/or À emporter/On the go, 28 bâtonnets x 4 g/28 sticks x 4 g",Benefiber,,16.99,,,16.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Culottes protectrices sélectionnées","ESSENTIEL, Culottes protectrices sélectionnées",Essentiel,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GAIN Assouplissant textile, 1,31 litre ou feuilles assouplissantes, 120 unités","GAIN Assouplissant textile, 1,31 litre ou feuilles assouplissantes, 120 unités",Gain,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"MONDOUX Sweet Sixteen, Bonbons, 400 g","MONDOUX Sweet Sixteen, Bonbons, 400 g",MONDOUX,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ENSURE, Substitut de repas, 6 x 235 ml","ENSURE, Substitut de repas, 6 x 235 ml",Ensure,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SIMILAC, 360 Total Care, Préparation pour nourrisson, prête à servir 16 x 235 ml","SIMILAC, 360 Total Care, Préparation pour nourrisson, prête à servir 16 x 235 ml",,,69.99,,,69.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"WERTHER'S ORIGINAL Bonbons durs au caramel, 135 g","WERTHER'S ORIGINAL Bonbons durs au caramel, 135 g",Werther's Original,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TYLENOL, Acétaminophène Acetaminophen, 500 mg, 50 comprimés ou caplets, Nuit, 16 caplets ou Action Rapide, 24 gélules","TYLENOL, Acétaminophène Acetaminophen, 500 mg, 50 comprimés ou caplets, Nuit, 16 caplets ou Action Rapide, 24 gélules",Tylenol,,13.49,,,13.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LAURA SECORD, Barre de chocolat Chocolate bar, 100 g","LAURA SECORD, Barre de chocolat Chocolate bar, 100 g",Laura Secord,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"Ö HYDRATATION Poudre pour eau vitaminée, 100 g","Ö HYDRATATION Poudre pour eau vitaminée, 100 g",Ö HYDRATATION,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Test de grossesse, 1 test","BIOMEDIC, Test de grossesse, 1 test",,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NERDS Gummy Clusters, Friandises, 142 g","NERDS Gummy Clusters, Friandises, 142 g",Nerds,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,KANDJU Friandises,KANDJU Friandises,Kandju,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,ST. IVES Produits pour le soin du visage ou du corps sélectionnés,ST. IVES Produits pour le soin du visage ou du corps sélectionnés,St. Ives,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LAX-A-DAY Laxatif, 1020 g","LAX-A-DAY Laxatif, 1020 g",LAX-A DAY,,34.99,,,34.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Liquide à vaisselle, 591 ml à 800 ml","ESSENTIEL, Liquide à vaisselle, 591 ml à 800 ml",Essentiel,,4,,,4,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TIDE Simply Tout en un, Détergent à lessive, 946 ml","TIDE Simply Tout en un, Détergent à lessive, 946 ml",Tide,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Sacs à ordures noirs, 74 L, 40 unités ou Sacs à ordures bleus, 90 L, 30 unités","ESSENTIEL, Sacs à ordures noirs, 74 L, 40 unités ou Sacs à ordures bleus, 90 L, 30 unités",Essentiel,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Biomedic Thermomètre digital pour enfants,Biomedic Thermomètre digital pour enfants,Biomedic,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CASCADE Platinum Plus, Détergent pour lave-vaisselle 30 pacs, Platinum, 39 pacs ou Complete, 45 pacs","CASCADE Platinum Plus, Détergent pour lave-vaisselle 30 pacs, Platinum, 39 pacs ou Complete, 45 pacs",Cascade,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LISTERINE, Rince-bouches sélectionnés, 1,5 litre","LISTERINE, Rince-bouches sélectionnés, 1,5 litre",Listerine,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Aide-sommeil, 50 mg, 20 unités","BIOMEDIC, Aide-sommeil, 50 mg, 20 unités",Biomedic,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Comprimés USP de loratadine, 10 mg, 30 comprimés","BIOMEDIC, Comprimés USP de loratadine, 10 mg, 30 comprimés",Biomedic,,14.99,,,14.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"THRIVE, Complet, Remplacement de la nicotine, 4 mg, 96 morceaux","THRIVE, Complet, Remplacement de la nicotine, 4 mg, 96 morceaux",Thrive,,32.99,,,32.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BAN Antisudorifiques ou désodorisants sélectionnés,BAN Antisudorifiques ou désodorisants sélectionnés,,,7,,,7,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BIORÉ,BIORÉ,Biore,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TROJAN, Condoms sélectionnés","TROJAN, Condoms sélectionnés",Trojan,,21.49,,,21.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel Produits buccaux selectionnés,Essentiel Produits buccaux selectionnés,,,3.79,,,3.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"FÉRIA, L'ORÉAL PARIS ou OLIA Colorations capillaires sélectionnées","FÉRIA, L'ORÉAL PARIS ou OLIA Colorations capillaires sélectionnées",,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Crème topique de clotrimazole 1 % 30 g","BIOMEDIC, Crème topique de clotrimazole 1 % 30 g",,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Biomedic Tensiomètre automatique,Biomedic Tensiomètre automatique,Biomedic,,69.99,,,69.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets, 325 mg, 120 comprimés","TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets, 325 mg, 120 comprimés",Tylenol,,13.49,,,13.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BIOMEDIC Allergies,BIOMEDIC Allergies,Biomedic,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets comprimés","TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets comprimés",Tylenol,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"DOVE, Produits sélectionnés","DOVE, Produits sélectionnés",Dove,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"HAWAIIAN TROPIC, Produits solaires sélectionnés","HAWAIIAN TROPIC, Produits solaires sélectionnés",Hawaiian Tropic,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Homme 6-10 stylé,Homme 6-10 stylé,,,10,,,10,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"Essentiel Eau de source déminéralisée, distillée ou naturelle","Essentiel Eau de source déminéralisée, distillée ou naturelle",,,0.99,,,0.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Ibuprofène, 200 mg, 72 capsules","BIOMEDIC, Ibuprofène, 200 mg, 72 capsules",Biomedic,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Un duo parfait pour la fête des Pères,Un duo parfait pour la fête des Pères,,,10,,,10,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,TIDE,TIDE,Tide,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel Lingettes pour bébé,Essentiel Lingettes pour bébé,Essentiel,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SIMILAC 360 Total Care, Préparation pour nourrisson, prête à servir, 16 x 235 ml","SIMILAC 360 Total Care, Préparation pour nourrisson, prête à servir, 16 x 235 ml",Similac,,69.99,,,69.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"GAIN, Assouplissant textile, 1,31 litre ou feuilles assouplissantes, 120 unités","GAIN, Assouplissant textile, 1,31 litre ou feuilles assouplissantes, 120 unités",Gain,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Tampax tampons regular abs 40un,Tampax tampons regular abs 40un,Tampax,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Vitamine B12, 250 mcg, 100 comprimés","BIOMEDIC, Vitamine B12, 250 mcg, 100 comprimés",Biomedic,,7.79,,,7.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Soulagement des douleurs arthritiques, 650 mg, 300 caplets","BIOMEDIC, Soulagement des douleurs arthritiques, 650 mg, 300 caplets",Biomedic,,23.99,,,23.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Soulagement des brûlures d'estomac, 60 ou 100 comprimés","BIOMEDIC, Soulagement des brûlures d'estomac, 60 ou 100 comprimés",,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Papiers sélectionnés","ESSENTIEL, Papiers sélectionnés",Essentiel,,15,,,15,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Always Anti-Bunch Xtra Protection liners extra long 68un,Always Anti-Bunch Xtra Protection liners extra long 68un,Always,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"COLGATE, Produits buccaux sélectionnés","COLGATE, Produits buccaux sélectionnés",Colgate,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Collagène, 400 mg, 90 capsules","BIOMEDIC, Collagène, 400 mg, 90 capsules",Biomedic,,12.59,,,12.59,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Allergies, 25 mg, 60 caplets","BIOMEDIC Allergies, 25 mg, 60 caplets",,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Oméga 3, 1000 mg, 200 capsules molles","BIOMEDIC, Oméga 3, 1000 mg, 200 capsules molles",,,14.39,,,14.39,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"NIZORAL, Shampooing antipelliculaire, 325 ml","NIZORAL, Shampooing antipelliculaire, 325 ml",,,28.99,,,28.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ENSURE Substitut de repas, 6 x 235 ml","ENSURE Substitut de repas, 6 x 235 ml",,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,CREST Selected products,CREST Selected products,Crest,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Écran solaire, FPS/SPF 50, 1 litre","BIOMEDIC, Écran solaire, FPS/SPF 50, 1 litre",Biomedic,,24.99,,,24.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Trousse de premiers soins, 56 pièces","BIOMEDIC, Trousse de premiers soins, 56 pièces",Biomedic,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"POUR EXTRA ET REGULIERE PANTENE, Produits sélectionnés","POUR EXTRA ET REGULIERE PANTENE, Produits sélectionnés",Pantene,,4.49,,,4.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Cheveux et ongles, 120 gélules","BIOMEDIC, Cheveux et ongles, 120 gélules",,,20.99,,,20.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Produits buccaux sélectionnés","ESSENTIEL, Produits buccaux sélectionnés",Essentiel,,3.79,,,3.79,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BIOMEDIC Multivitamines et minéraux sélectionnés,BIOMEDIC Multivitamines et minéraux sélectionnés,Biomedic,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BIOMEDIC Crème topique de clotrimazole 1 %,BIOMEDIC Crème topique de clotrimazole 1 %,Biomedic,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"CREST 3D Whitestrips, Blanc brillant","CREST 3D Whitestrips, Blanc brillant",Crest,,31.99,,,31.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"L'ORÉAL KIDS, Shampooing, 265 ml","L'ORÉAL KIDS, Shampooing, 265 ml",L'Oréal,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Gomme à la nicotine, 2 mg, 105 morceaux","BIOMEDIC, Gomme à la nicotine, 2 mg, 105 morceaux",,,31.99,,,31.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Suppositoires à la glycérine","BIOMEDIC, Suppositoires à la glycérine",Biomedic,,18.99,,,18.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Acétaminophène, Nuit, 40 caplets, Soulagement des douleurs musculaires et corporelles, 110 caplets ou Soulagement ultra des maux de tête, 120 comprimés","BIOMEDIC Acétaminophène, Nuit, 40 caplets, Soulagement des douleurs musculaires et corporelles, 110 caplets ou Soulagement ultra des maux de tête, 120 comprimés",Biomedic,,16.49,,,16.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,BIOMEDIC Soin du nez hydratant 200 ml,BIOMEDIC Soin du nez hydratant 200 ml,Biomedic,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"LAX-A-DAY, Laxatif, 1020 g","LAX-A-DAY, Laxatif, 1020 g",Lax-A-Day,,34.99,,,34.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Gomme à la nicotine 2 mg, 105 morceaux","BIOMEDIC, Gomme à la nicotine 2 mg, 105 morceaux",Biomedic,,31.99,,,31.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Allergies 25 mg, 60 caplets","BIOMEDIC, Allergies 25 mg, 60 caplets",Biomedic,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,DEPEND ou POISE Produits et formats sélectionnés,DEPEND ou POISE Produits et formats sélectionnés,,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"SYSTANE Complet Gouttes oculaires, 10 ml ou Bion Tears, 24 x 0,4 ml","SYSTANE Complet Gouttes oculaires, 10 ml ou Bion Tears, 24 x 0,4 ml",,,12.49,,,12.49,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Soulagement des brûlures d'estomac, 60 ou 100 comprimés","BIOMEDIC Soulagement des brûlures d'estomac, 60 ou 100 comprimés",Biomedic,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,Essentiel Culottes protectrices sélectionnées,Essentiel Culottes protectrices sélectionnées,Essentiel,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Multivitamines et minéraux sélectionnés","BIOMEDIC, Multivitamines et minéraux sélectionnés",Biomedic,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Soulagement des douleurs arthritiques","BIOMEDIC, Soulagement des douleurs arthritiques",Biomedic,,23.99,,,23.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Écran solaire, FPS 50, 1 litre","BIOMEDIC, Écran solaire, FPS 50, 1 litre",Biomedic,,24.99,,,24.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,ESSENTIEL Serviettes ou protège-dessous sélectionnés,ESSENTIEL Serviettes ou protège-dessous sélectionnés,Essentiel,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,ESSENTIEL Serviettes ou protège-dessous électionnés,ESSENTIEL Serviettes ou protège-dessous électionnés,Essentiel,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"Détergent à lessive SUNLIGHT, 4 litres","Détergent à lessive SUNLIGHT, 4 litres",Sunlight,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"REVLON, Super Lustrous, Rouges à lèvres sélectionnés","REVLON, Super Lustrous, Rouges à lèvres sélectionnés",Revlon,,6.99,,,6.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"REVLON, Ultra HD Snap|, Vernis à ongles","REVLON, Ultra HD Snap|, Vernis à ongles",Revlon,,6.99,,,6.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"DEPEND POISE, Produits et formats sélectionnés","DEPEND POISE, Produits et formats sélectionnés",Depend,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,DEPEND ou POISE,DEPEND ou POISE,,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,L'ORÉAL Colorations capillaires sélectionnées,L'ORÉAL Colorations capillaires sélectionnées,L'oreal paris,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL Eau de javel, 2,4 litres","ESSENTIEL Eau de javel, 2,4 litres",Essentiel,,5,,,5,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,ESSENTIEL Culottes protectrices sélectionnées,ESSENTIEL Culottes protectrices sélectionnées,Essentiel,,12.99,,,12.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ST. IVES, Produits pour le soin du visage ou du corps sélectionné","ST. IVES, Produits pour le soin du visage ou du corps sélectionné",St. Ives,,4.99,,,4.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL Liquide à vaisselle, 591 ml à 800 ml","ESSENTIEL Liquide à vaisselle, 591 ml à 800 ml",Essentiel,,4,,,4,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"NIVEA ou NIVEA MEN Nettoyant corporel, 887 ml","NIVEA ou NIVEA MEN Nettoyant corporel, 887 ml",Nivea,,7.49,,,7.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Herbal Essences mousse rehausse-boucles 192g,Herbal Essences mousse rehausse-boucles 192g,,,4.49,,,4.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ALBERTO, PANTENE, HERBAL ESSENCES ou PLAYTEX, Produits sélectionnés","ALBERTO, PANTENE, HERBAL ESSENCES ou PLAYTEX, Produits sélectionnés",,,4.49,,,4.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"LISTERINE Rince-bouches sélectionnés, 1,5 litre","LISTERINE Rince-bouches sélectionnés, 1,5 litre",Listerine,,7.99,,,7.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,IRISH SPRING ou SOFTSOAP,IRISH SPRING ou SOFTSOAP,,,5.49,,,5.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"WERTHER'S ORIGINAL Bonbons durs au caramel, 135 g","WERTHER'S ORIGINAL Bonbons durs au caramel, 135 g",Werther's Original,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Gillette Fusion-5 cartouches 8un,Gillette Fusion-5 cartouches 8un,Gillette,,39.99,,,39.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,DEGREE Antisudorifiques ou désodorisants sélectionnés,DEGREE Antisudorifiques ou désodorisants sélectionnés,Degree,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,EXCEL Gomme sans sucre,EXCEL Gomme sans sucre,,,4.49,,,4.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Cure-oreilles, 400 unités","ESSENTIEL, Cure-oreilles, 400 unités",Essentiel,,3.79,,,3.79,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Sacs de cuisine, formats sélectionnés","ESSENTIEL, Sacs de cuisine, formats sélectionnés",Essentiel,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Aide-sommeil, 50 mg, 20 unités","BIOMEDIC Aide-sommeil, 50 mg, 20 unités",Biomedic,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Nettoyant corporel, 354 ml ou Gel douche pour homme","ESSENTIEL, Nettoyant corporel, 354 ml ou Gel douche pour homme",,,3.99,,,3.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Sacs à ordures noirs, 74 L, 40 unités ou Sacs à ordures bleus, 90 L, 30 unités","ESSENTIEL, Sacs à ordures noirs, 74 L, 40 unités ou Sacs à ordures bleus, 90 L, 30 unités",Essentiel,,7.99,,,7.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Crème topique de clotrimazole 1 %, 30 g","BIOMEDIC, Crème topique de clotrimazole 1 %, 30 g",Biomedic,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,ESSENTIEL Pâte d'Ihle 500 g ou Onguent de zinc,ESSENTIEL Pâte d'Ihle 500 g ou Onguent de zinc,Essentiel,,12.99,,,12.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Gomme à la nicotine,2 mg, 105 morceaux","BIOMEDIC Gomme à la nicotine,2 mg, 105 morceaux",Biomedic,,31.99,,,31.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Biomedic Soulagement des brûlures d'estoma 60 ou 100 comprimés,Biomedic Soulagement des brûlures d'estoma 60 ou 100 comprimés,Biomedic,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Desloratadine, Contrôle des allergies","BIOMEDIC Desloratadine, Contrôle des allergies",Biomedic,,9.99,,,9.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Tensiomètre automatique, modèle LD-562","BIOMEDIC, Tensiomètre automatique, modèle LD-562",Biomedic,,69.99,,,69.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BAND-AID, Pansements adhésifs sélectionnés","BAND-AID, Pansements adhésifs sélectionnés",Band-Aid,,4.99,,,4.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,REACTINE Allergies,REACTINE Allergies,,,52.99,,,52.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Tylenol caplets 650mg douleurs arthritiques 50un,Tylenol caplets 650mg douleurs arthritiques 50un,Tylenol,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"Fibres alimentaires prébiotiques Prebiotic dietary fibre, poudre","Fibres alimentaires prébiotiques Prebiotic dietary fibre, poudre",,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"PROSPAN par HELIXIA Toux, Sirop, 200 ml","PROSPAN par HELIXIA Toux, Sirop, 200 ml",PROSPAN,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"POLYSPORIN, Produits sélectionnés, 30 g","POLYSPORIN, Produits sélectionnés, 30 g",Polysporin,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BENEFIBER, Fibres alimentaires prébiotiques, poudre 248 g ou À emporter, 28 bâtonnets x 4 g","BENEFIBER, Fibres alimentaires prébiotiques, poudre 248 g ou À emporter, 28 bâtonnets x 4 g",Benefiber,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,BENADRYL Produits sélectionnés,BENADRYL Produits sélectionnés,Benadryl,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Tylenol caplets d'acétaminophène 500mg extra-fort 100un,Tylenol caplets d'acétaminophène 500mg extra-fort 100un,Tylenol,,13.49,,,13.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets caplets, 325 mg, 120 comprimés","TYLENOL, Acétaminophène, 500 mg, 100 comprimés ou caplets caplets, 325 mg, 120 comprimés",,,13.49,,,13.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,BIOMEDIC Soulagement de la diarrhée,BIOMEDIC Soulagement de la diarrhée,Biomedic,,9.99,,,9.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CLARITIN, Allergies, 10 mg, 20 comprimés","CLARITIN, Allergies, 10 mg, 20 comprimés",Claritin,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"TYLENOL, Acétaminophène, 500 mg, 50 comprimés ou caplets, Nuit, 16 caplets ou Action Rapide, 24 gélules","TYLENOL, Acétaminophène, 500 mg, 50 comprimés ou caplets, Nuit, 16 caplets ou Action Rapide, 24 gélules",Tylenol,,8.99,,,8.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"MOTRIN, Ibuprofène, 200 mg, 72 gélules, 90 comprimés ou Platine, Ibuprofène + Relaxant musculaire, 18 caplets","MOTRIN, Ibuprofène, 200 mg, 72 gélules, 90 comprimés ou Platine, Ibuprofène + Relaxant musculaire, 18 caplets",Motrin,,12.49,,,12.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"GLUTEGUARD, Aide à la dégradation du gluten, 10 comprimés","GLUTEGUARD, Aide à la dégradation du gluten, 10 comprimés",Gluteguard,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"THRIVE Complete, Remplacement de la nicotine, 4 mg, 96 morceaux","THRIVE Complete, Remplacement de la nicotine, 4 mg, 96 morceaux",Thrive,,32.99,,,32.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CANESTEN, Traitements sélectionnés","CANESTEN, Traitements sélectionnés",CANESTEN,,17.49,,,17.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC, Comprimés USP de loratidine, 10 mg, 30 comprimés","BIOMEDIC, Comprimés USP de loratidine, 10 mg, 30 comprimés",Biomedic,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,ASPIRIN Produits sélectionné,ASPIRIN Produits sélectionné,ASPIRIN,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"GRAVOL Ginger, Maux d'estomac et nausées, 20 unités","GRAVOL Ginger, Maux d'estomac et nausées, 20 unités",GRAVOL,,7.99,,,7.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"LYPSYL, Baume pour les lèvres, 4,2 g","LYPSYL, Baume pour les lèvres, 4,2 g",Lypsyl,,3,,,3,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,CUREL Crème thérapeutique pour les mains ou les pieds 100 ml,CUREL Crème thérapeutique pour les mains ou les pieds 100 ml,,,4.49,,,4.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Produits de maquillage sélectionnés,Produits de maquillage sélectionnés,,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"KERI, Soins sélectionnés pour le corps, 900 ml","KERI, Soins sélectionnés pour le corps, 900 ml",Keri,,8.99,,,8.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,MAYBELLINE Produits de maquillage sélectionnés,MAYBELLINE Produits de maquillage sélectionnés,Maybelline,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,WATER Havana,WATER Havana,,,45,,,45,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIORÉ, Soins visage sélectionnés","BIORÉ, Soins visage sélectionnés",Biore,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIORÉ, UV Aqua Rich, Hydratant léger, FPS 30 ou 50","BIORÉ, UV Aqua Rich, Hydratant léger, FPS 30 ou 50",Biore,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BABY MUM-MUM Gaufrettes de dentition douces, 50 g","BABY MUM-MUM Gaufrettes de dentition douces, 50 g",Baby Mum-Mum,,2.79,,,2.79,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BON DÉPART/GOOD START, Plus, Préparation pour nourrisson, prête à servir, 15 x 250 ml","BON DÉPART/GOOD START, Plus, Préparation pour nourrisson, prête à servir, 15 x 250 ml",,,56.99,,,56.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"PEDIASURE, Complete, Supplément nutritionnel pour les enfants, 4 x 235 ml","PEDIASURE, Complete, Supplément nutritionnel pour les enfants, 4 x 235 ml",PediaSure,,9.99,,,9.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"PAMPERS, Lingettes pour bébé sans parfum à base de plantes, 52 unités","PAMPERS, Lingettes pour bébé sans parfum à base de plantes, 52 unités",Pampers,,3.79,,,3.79,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"GERBER, Biologique, Soufflés pour bébé, 42 g","GERBER, Biologique, Soufflés pour bébé, 42 g",Gerber,,3.99,,,3.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Serviette de plage en ratine,Serviette de plage en ratine,,,12.99,,,12.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Glacière isolée rayée","STYLÉ, Glacière isolée rayée",STYLE,,22.99,,,22.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Bas pour femme sélectionnés,Bas pour femme sélectionnés,,,21,,,21,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,DISPONIBLES EN 3 GRANDEURS,DISPONIBLES EN 3 GRANDEURS,,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Bas pour femme sélectionnés","STYLÉ, Bas pour femme sélectionnés",STYLE,,21,,,21,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,STYLÉ Bas pour femme sélectionnés,STYLÉ Bas pour femme sélectionnés,STYLE,,21,,,21,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Couverture de pique-nique avec poignée de transport","STYLÉ, Couverture de pique-nique avec poignée de transport",STYLE,,18.99,,,18.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Jeté peluche","STYLÉ, Jeté peluche",STYLE,,18.99,,,18.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Chapeau Fedora en paille, sac de plage ou serviette de plage en mirofibre","STYLÉ, Chapeau Fedora en paille, sac de plage ou serviette de plage en mirofibre",STYLE,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ Verre isotherme, 410 ml","STYLÉ Verre isotherme, 410 ml",STYLE,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Chandelle à deux mèches, 1 unité","STYLÉ, Chandelle à deux mèches, 1 unité",STYLE,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Bas pour homme sélectionnés","STYLÉ, Bas pour homme sélectionnés",STYLE,,20,,,20,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Bouteille Stanley isotherme1,18 litre","STYLÉ, Bouteille Stanley isotherme1,18 litre",STYLE,,17.99,,,17.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Verre isotherme, 410 ml","STYLÉ, Verre isotherme, 410 ml",STYLE,,17.99,,,17.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Diffuseur à roseaux, 120 ml","STYLÉ, Diffuseur à roseaux, 120 ml",STYLE,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Bas pour homme sélectionnés,Bas pour homme sélectionnés,,,20,,,20,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"STYLÉ, Bouteille Stanley isotherme","STYLÉ, Bouteille Stanley isotherme",STYLE,,17.99,,,17.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BYLY DEPIL, Bandes dépilatoires sélectionnées","BYLY DEPIL, Bandes dépilatoires sélectionnées",BYLY DEPIL,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"HUGGIES, Little Swimmers, Maillots de bain jetables, format 10 à 12s","HUGGIES, Little Swimmers, Maillots de bain jetables, format 10 à 12s",Huggies,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"TOM'S OF MAINE Antisudorifiques ou déodorants, 92 g","TOM'S OF MAINE Antisudorifiques ou déodorants, 92 g",Tom's of Maine,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"LIVE CLEAN, Recharge de savon liquide pour les mains, 1 litre","LIVE CLEAN, Recharge de savon liquide pour les mains, 1 litre",Live Clean,,8.49,,,8.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"OLD SPICE, Désodorisant pour tout le corps sans aluminium, 68 g à 99 g","OLD SPICE, Désodorisant pour tout le corps sans aluminium, 68 g à 99 g",Old Spice,,14.99,,,14.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,LIGHT BLUE SHADE Shampooing ou revitalisant,LIGHT BLUE SHADE Shampooing ou revitalisant,LIGHT BLUE SHADE,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BAN, Antisudorifiques ou désodorisants sélectionnés","BAN, Antisudorifiques ou désodorisants sélectionnés",Ban,,7,,,7,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"L'ORÉAL KIDS, Shampooing/Shampoo, 265 ml	L'Oréal Kids shampooing très doux 2-en-1 Explosion Orange-Mangue 265ml","L'ORÉAL KIDS, Shampooing/Shampoo, 265 ml	L'Oréal Kids shampooing très doux 2-en-1 Explosion Orange-Mangue 265ml",,,6.99,,,6.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"NERDS, Gummy Clusters, Friandises, 142 g","NERDS, Gummy Clusters, Friandises, 142 g",Nerds,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"TRESEMMÉ, Produits capillaires sélectionnés","TRESEMMÉ, Produits capillaires sélectionnés",TRESemmé,,8.99,,,8.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CREST, 3D Whitestrips, Blanc brillant, Ensemble de blanchiment des dents, 10 traitements","CREST, 3D Whitestrips, Blanc brillant, Ensemble de blanchiment des dents, 10 traitements",Crest,,31.99,,,31.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"MONDOUX, Sweet Sixteen, Bonbons, 400 g","MONDOUX, Sweet Sixteen, Bonbons, 400 g",MONDOUX,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"OXICLEAN, Détachant polyvalent, 1,36 kg","OXICLEAN, Détachant polyvalent, 1,36 kg",OxiClean,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BAUSCH + LOMB, Bio True, Supérieur","BAUSCH + LOMB, Bio True, Supérieur",,,23.99,,,23.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"LAURA SECORD Barre de chocolat, 100 g","LAURA SECORD Barre de chocolat, 100 g",Laura Secord,,3.99,,,3.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CUTIBase, Ceramyd, Crème hydratante, 100 g ou/or Crème talons fissurés, 75 g	Cutibase Ceramyd crème hydratante corps et visage 100g","CUTIBase, Ceramyd, Crème hydratante, 100 g ou/or Crème talons fissurés, 75 g	Cutibase Ceramyd crème hydratante corps et visage 100g",,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,SCOTTIES Ultra Doux Mouchoirs,SCOTTIES Ultra Doux Mouchoirs,Scotties,,8.99,,,8.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"GYNATROF Hydratant vaginal, 50 ml ou 60 ml","GYNATROF Hydratant vaginal, 50 ml ou 60 ml",,,31.99,,,31.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"SUMMER'S EVE Nettoyant, 444 ml","SUMMER'S EVE Nettoyant, 444 ml",Summers Eve,,8.49,,,8.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"REFRESH Gouttes oculaires lubrifiantes Lubricant eye drops, formats sélectionnés","REFRESH Gouttes oculaires lubrifiantes Lubricant eye drops, formats sélectionnés",,,18.99,,,18.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ENERGIZER MAX, Piles alcalines sélectionnées","ENERGIZER MAX, Piles alcalines sélectionnées",,,9.99,,,9.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESENVIA Jambes, Soulage les signes et les symptômes de l'insuffisance veineuse chronique, 30 comprimés","ESENVIA Jambes, Soulage les signes et les symptômes de l'insuffisance veineuse chronique, 30 comprimés",ESENVIA,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,GLUCERNA Substitut de repas,GLUCERNA Substitut de repas,,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,BAUSCH + LOMB Suppléments de vitamines et de minéraux pour les yeux sélectionnés,BAUSCH + LOMB Suppléments de vitamines et de minéraux pour les yeux sélectionnés,Bausch & Lomb,,16.99,,,16.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"PROBACLAC, Probiotiques sélectionnés","PROBACLAC, Probiotiques sélectionnés",PROBACLAC,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ONE A DAY Homme ou Femme, Gummies, Suppléments multivitaminiques sélectionnés","ONE A DAY Homme ou Femme, Gummies, Suppléments multivitaminiques sélectionnés",One A Day,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,PROMENSIL Ménopause extra fort 60 comprimés,PROMENSIL Ménopause extra fort 60 comprimés,PROMENSIL,,49.99,,,49.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BOOST, Substitut de repas, 15 x 237 ml","BOOST, Substitut de repas, 15 x 237 ml",Boost,,30.99,,,30.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,LA RACINE DE VIE Produits sélectionnés,LA RACINE DE VIE Produits sélectionnés,,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"POUR EXTRA ET REGULIERE, PANTENE, Produits sélectionnés","POUR EXTRA ET REGULIERE, PANTENE, Produits sélectionnés",Pantene,,4.49,,,4.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,GAIN Assouplissant textile,GAIN Assouplissant textile,,,5.99,,,5.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"BIOMEDIC Acétaminophène Nuit 40 caplets, Soulagement des douleurs musculaires et corporelles","BIOMEDIC Acétaminophène Nuit 40 caplets, Soulagement des douleurs musculaires et corporelles",Biomedic,,16.49,,,16.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"LINDT Excellence, Chocolat","LINDT Excellence, Chocolat",,,5.49,,,5.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CASCADE, Platinum Plus, Détergent pour lave-vaisselle, 30 sachets, Platinum, 39 sachets ou Complete, 45 sachets","CASCADE, Platinum Plus, Détergent pour lave-vaisselle, 30 sachets, Platinum, 39 sachets ou Complete, 45 sachets",Cascade,,15.99,,,15.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"DEGREE, Antisudorifiques sélectionnés","DEGREE, Antisudorifiques sélectionnés",Degree,,2.99,,,2.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,PUREX Détergent à lessive,PUREX Détergent à lessive,,,10.99,,,10.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Savon liquide pour les mains, recharge, 1 litre","ESSENTIEL, Savon liquide pour les mains, recharge, 1 litre",Essentiel,,6.99,,,6.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"CANESTEN Crème antifongique externe ou crème topique pour les pieds, 15 g","CANESTEN Crème antifongique externe ou crème topique pour les pieds, 15 g",CANESTEN,,8.79,,,8.79,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"MCCORMICKS, Cornets à la guimauve, 165 g","MCCORMICKS, Cornets à la guimauve, 165 g",McCORMICKS,,4.99,,,4.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"Ö HYDRATATION Poudre pour eau vitaminée, 100 g","Ö HYDRATATION Poudre pour eau vitaminée, 100 g",Ö HYDRATATION,,12.99,,,12.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,TROJAN Condoms sélectionnés,TROJAN Condoms sélectionnés,Trojan Condoms,,21.49,,,21.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"VENIXXA, Aide à soulager les symptômes de la maladie veineuse chronique, 30 comprimés","VENIXXA, Aide à soulager les symptômes de la maladie veineuse chronique, 30 comprimés",,,22.99,,,22.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"M. NET, Nettoyant, 1,21 litre","M. NET, Nettoyant, 1,21 litre",M. NET,,5.49,,,5.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,CAREFREE Protège-dessous sélectionnés,CAREFREE Protège-dessous sélectionnés,Carefree,,7,,,7,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"REGAL, Chocolat au lait, 50 g",lait,REGAL,,3.99,,,3.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ADVIL Ibuprofène, 200 mg, 110 ou 115 capsules","ADVIL Ibuprofène, 200 mg, 110 ou 115 capsules",Advil,,22.99,,,22.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ARTHRI-PLUS, Produits sélectionnés","ARTHRI-PLUS, Produits sélectionnés",ARTHRI-PLUS,,17.99,,,17.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,DOVE ou DOVE MEN CARE Produits sélectionnés,DOVE ou DOVE MEN CARE Produits sélectionnés,Dove,,4.99,,,4.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"IRISH SPRING Gels douche sélectionnés, 591 ml","IRISH SPRING Gels douche sélectionnés, 591 ml",Irish Spring,,5.49,,,5.49,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL SNACK, Croustilles","ESSENTIEL SNACK, Croustilles",ESSENTIEL SNACK,,0.99,,,0.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"L'ORÉAL PARIS, Colorations capillaires sélectionnées","L'ORÉAL PARIS, Colorations capillaires sélectionnées",L'oreal paris,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,OLIA Colorations capillaires sélectionnées,OLIA Colorations capillaires sélectionnées,,,13.99,,,13.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Huggies Natural Care lingettes pour bébés peau sensible et sans parfum 10x56un,Huggies Natural Care lingettes pour bébés peau sensible et sans parfum 10x56un,Huggies,,19.99,,,19.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,LAX-A-DAY Laxatif,LAX-A-DAY Laxatif,,,34.99,,,34.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,Duo de bas Stylé père-fils Homme 6-10,Duo de bas Stylé père-fils Homme 6-10,,,10,,,10,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"ESSENTIEL, Lingettes pour bébé3 x 64 unités","ESSENTIEL, Lingettes pour bébé3 x 64 unités",Essentiel,,6.99,,,6.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"GUESS, ICONIC BLUE, Eau de parfum pour homme, 100 ml","GUESS, ICONIC BLUE, Eau de parfum pour homme, 100 ml",GUESS,,95,,,95,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"WATIER, Collection Havana","WATIER, Collection Havana",WATIER,,45,,,45,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,BENYLIN Sirops sélectionnés,BENYLIN Sirops sélectionnés,,,11.99,,,11.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"KANDJU, Friandises, 225 g","KANDJU, Friandises, 225 g",Kandju,,4.99,,,4.99,unknown,flipp,circulaire
+2026-05-14,familiprix-joliette,"S.O.S. Tampons d'acier, 10 tampons","S.O.S. Tampons d'acier, 10 tampons",S.O.S.,,2.99,,,2.99,unknown,flipp,circulaire

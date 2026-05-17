@@ -70,5 +70,17 @@
     "priority_order": 6,
     "adapter": "bonichoix",
     "notes": "Pas de circulaire en ligne — entrée manuelle uniquement dans current_week_prices.csv"
+  },
+  {
+    "id": "familiprix-joliette",
+    "name": "Familiprix Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.familiprix.com",
+    "flyer_url": "https://www.familiprix.com/fr/circulaire",
+    "priority_order": 7,
+    "adapter": "flipp-joliette",
+    "notes": "Couvert par Flipp/Wishabi pour les circulaires Familiprix Joliette; utile pour maison, entretien, hygiène et pharmacie."
   }
 ]

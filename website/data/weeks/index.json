@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-05-17T15:48:22.104Z",
+  "generatedAt": "2026-05-17T21:34:25.414Z",
   "weeks": [
+    {
+      "slug": "semaine-du-14-au-20-mai-2026",
+      "folderName": "Semaine du 14 au 20 mai 2026",
+      "title": "Liste d'épicerie — 14 au 20 mai 2026",
+      "weekRange": "14 au 20 mai 2026",
+      "generatedAt": "2026-05-17T21:34:25.414Z",
+      "itemCount": 76,
+      "allItemCount": 1347,
+      "path": "data/weeks/semaine-du-14-au-20-mai-2026/week.json"
+    },
     {
       "slug": "semaine-du-11-au-17-mai-2026",
       "folderName": "Semaine du 11 au 17 mai 2026",

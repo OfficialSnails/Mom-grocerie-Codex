@@ -5,6 +5,8 @@ const state = {
   activeCategoryId: '',
   activeStoreId: '',
   searchQuery: '',
+  mode: 'deals',
+  notes: '',
 };
 
 const els = {
@@ -17,9 +19,11 @@ const els = {
   categoryTabs: document.querySelector('#category-tabs'),
   searchInput: document.querySelector('#item-search'),
   storeFilter: document.querySelector('#store-filter'),
+  modeTabs: document.querySelector('#mode-tabs'),
   items: document.querySelector('#items'),
   selectionSummary: document.querySelector('#selection-summary'),
   selectionList: document.querySelector('#selection-list'),
+  notesInput: document.querySelector('#list-notes'),
   exportStatus: document.querySelector('#export-status'),
   printButton: document.querySelector('#print-button'),
   clearButton: document.querySelector('#clear-button'),
@@ -61,6 +65,27 @@ function selectionKey() {
   return state.week ? `bons-speciaux:selected:${state.week.slug}` : '';
 }
 
+function notesKey() {
+  return state.week ? `bons-speciaux:notes:${state.week.slug}` : '';
+}
+
+function currentCategories() {
+  if (!state.week) return [];
+  if (state.mode === 'all') return state.week.allCategories ?? state.week.categories ?? [];
+  return state.week.dealCategories ?? state.week.categories ?? [];
+}
+
+function allSelectableItems() {
+  if (!state.week) return [];
+  const seen = new Map();
+  for (const category of [...(state.week.dealCategories ?? state.week.categories ?? []), ...(state.week.allCategories ?? [])]) {
+    for (const item of category.items ?? []) {
+      if (!seen.has(item.id)) seen.set(item.id, item);
+    }
+  }
+  return [...seen.values()];
+}
+
 function loadSelection() {
   state.selected.clear();
   const key = selectionKey();
@@ -69,7 +94,7 @@ function loadSelection() {
   if (!raw) return;
   try {
     const ids = JSON.parse(raw);
-    const allItems = allWeekItems();
+    const allItems = allSelectableItems();
     for (const id of ids) {
       const item = allItems.find(candidate => candidate.id === id);
       if (item) state.selected.set(id, item);
@@ -85,8 +110,26 @@ function saveSelection() {
   localStorage.setItem(key, JSON.stringify([...state.selected.keys()]));
 }
 
+function loadNotes() {
+  const key = notesKey();
+  state.notes = key ? localStorage.getItem(key) ?? '' : '';
+  if (els.notesInput) els.notesInput.value = state.notes;
+}
+
+function saveNotes() {
+  const key = notesKey();
+  if (!key) return;
+  localStorage.setItem(key, state.notes);
+}
+
 function allWeekItems() {
-  return state.week?.categories.flatMap(category => category.items) ?? [];
+  return currentCategories().flatMap(category => category.items) ?? [];
+}
+
+function categoryItems(category) {
+  const items = category?.items ?? [];
+  if (!state.activeStoreId) return items;
+  return items.filter(item => item.storeId === state.activeStoreId);
 }
 
 function allWeekStores() {
@@ -105,6 +148,22 @@ function allWeekStores() {
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
+function showAllWeeks() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('debugWeeks') === '1' || localStorage.getItem('bons-speciaux:show-all-weeks') === '1';
+}
+
+function isProductionWeek(week) {
+  const text = normalizeText([week.slug, week.folderName, week.title, week.path].join(' '));
+  return !/(manual-preview|preview|test|debug|sample|mock|demo)/.test(text);
+}
+
+function visibleWeeks(weeks) {
+  const productionWeeks = weeks.filter(isProductionWeek);
+  if (showAllWeeks()) return productionWeeks;
+  return productionWeeks.slice(0, 1);
+}
+
 async function loadJson(path) {
   const response = await fetch(path, { cache: 'no-store' });
   if (!response.ok) throw new Error(`Impossible de charger ${path}`);
@@ -114,7 +173,7 @@ async function loadJson(path) {
 function renderWeeks() {
   els.weekOptions.innerHTML = '';
   els.weekLabel.textContent = state.week ? `${state.week.folderName} · ${state.week.itemCount} bons prix` : 'Choisir une semaine';
-  for (const week of state.weeks) {
+  for (const week of visibleWeeks(state.weeks)) {
     const option = document.createElement('button');
     option.type = 'button';
     option.role = 'option';
@@ -154,6 +213,7 @@ function renderWeekHeader() {
       </div>
       <div class="week-meta" aria-label="Résumé de la semaine">
         <span class="pill"><strong>${state.week.itemCount}</strong> bons prix</span>
+        <span class="pill"><strong>${state.week.allItemCount ?? state.week.itemCount}</strong> produits trouvés</span>
         <span class="pill"><strong>${state.week.stores.length}</strong> épiceries</span>
         <span class="pill">${escapeHtml(state.week.weekRange)}</span>
         <span class="pill basket-pill"><strong>${state.selected.size}</strong> dans le panier</span>
@@ -178,20 +238,19 @@ function renderMethodNote() {
 function renderCategoryTabs() {
   els.categoryTabs.innerHTML = '';
   if (!state.week) return;
-  for (const category of state.week.categories) {
-    const selectedCount = category.items.filter(item => state.selected.has(item.id)).length;
+  for (const category of currentCategories()) {
+    const scopedItems = categoryItems(category);
+    const selectedCount = scopedItems.filter(item => state.selected.has(item.id)).length;
     const button = document.createElement('button');
     button.type = 'button';
-    button.className = !state.activeStoreId && state.activeCategoryId === category.id ? 'active' : '';
+    button.className = state.activeCategoryId === category.id ? 'active' : '';
     button.innerHTML = `
       <span class="category-name"><span aria-hidden="true">${escapeHtml(category.emoji)}</span>${escapeHtml(category.title)}</span>
-      <span class="category-count">${selectedCount > 0 ? `${selectedCount}/` : ''}${category.items.length}</span>
+      <span class="category-count">${selectedCount > 0 ? `${selectedCount}/` : ''}${scopedItems.length}</span>
     `;
     button.addEventListener('click', () => {
       state.activeCategoryId = category.id;
-      state.activeStoreId = '';
       state.searchQuery = '';
-      els.storeFilter.value = '';
       els.searchInput.value = '';
       renderCategoryTabs();
       renderItems();
@@ -206,9 +265,18 @@ function renderStoreFilter() {
   for (const store of allWeekStores()) {
     const option = document.createElement('option');
     option.value = store.id;
-    option.textContent = `${store.name} · ${store.count} item${store.count > 1 ? 's' : ''}`;
+    option.textContent = `${store.name} · ${store.count} produit${store.count > 1 ? 's' : ''}`;
     option.selected = state.activeStoreId === store.id;
     els.storeFilter.append(option);
+  }
+}
+
+function renderModeTabs() {
+  if (!els.modeTabs) return;
+  for (const button of els.modeTabs.querySelectorAll('button[data-mode]')) {
+    const active = button.dataset.mode === state.mode;
+    button.classList.toggle('active', active);
+    button.setAttribute('aria-selected', active ? 'true' : 'false');
   }
 }
 
@@ -224,6 +292,8 @@ function itemDetails(item) {
 
 function renderItemCard(item) {
   const selected = state.selected.has(item.id);
+  const badgeClass = item.itemKind === 'seen' ? 'seen' : 'deal';
+  const badgeLabel = item.itemKind === 'seen' ? 'Produit trouvé' : (item.badgeLabel ?? 'Bon prix');
   const card = document.createElement('article');
   card.className = `item-card ${selected ? 'selected' : ''}`;
   card.innerHTML = `
@@ -236,6 +306,7 @@ function renderItemCard(item) {
         <span class="item-main">
           <span class="item-name">${escapeHtml(item.name)}</span>
           <span class="store-line">📍 ${escapeHtml(item.storeName)}</span>
+          <span class="item-kind ${badgeClass}">${escapeHtml(badgeLabel)}</span>
         </span>
         <span class="price-stack" translate="no">
           <span class="price">${escapeHtml(moneySafe(item.price))}</span>
@@ -268,27 +339,26 @@ function renderItems() {
   if (!state.week) return;
 
   const query = normalizeText(state.searchQuery.trim());
-  const category = state.week.categories.find(candidate => candidate.id === state.activeCategoryId) ?? state.week.categories[0];
+  const categories = currentCategories();
+  const category = categories.find(candidate => candidate.id === state.activeCategoryId) ?? categories[0];
   const activeStore = allWeekStores().find(store => store.id === state.activeStoreId);
   if (!category && !activeStore) return;
-  if (!state.activeStoreId) state.activeCategoryId = category.id;
+  state.activeCategoryId = category.id;
 
   const baseItems = query
     ? allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)
-    : state.activeStoreId
-      ? allWeekItems().filter(item => item.storeId === state.activeStoreId)
-      : category.items;
+    : categoryItems(category);
   const sourceItems = query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems;
   const section = document.createElement('section');
   section.className = 'category';
-  section.id = `category-${query ? 'search' : state.activeStoreId ? `store-${state.activeStoreId}` : category.id}`;
-  const titleLabel = state.activeStoreId ? 'Épicerie' : query ? 'Recherche' : 'Rayon';
-  const titleIcon = state.activeStoreId ? '📍' : query ? '⌕' : escapeHtml(category.emoji);
-  const titleText = state.activeStoreId
-    ? escapeHtml(activeStore?.name ?? 'Épicerie')
-    : query
+  section.id = `category-${query ? 'search' : `${state.activeStoreId ? `${state.activeStoreId}-` : ''}${category.id}`}`;
+  const titleLabel = query ? 'Recherche' : state.activeStoreId ? 'Épicerie + rayon' : 'Rayon';
+  const titleIcon = query ? '⌕' : state.activeStoreId ? '📍' : escapeHtml(category.emoji);
+  const titleText = query
       ? `Résultats pour “${escapeHtml(state.searchQuery.trim())}”`
-      : escapeHtml(category.title);
+      : state.activeStoreId
+        ? `${escapeHtml(activeStore?.name ?? 'Épicerie')} · ${escapeHtml(category.title)}`
+        : escapeHtml(category.title);
   section.innerHTML = `
     <div class="category-title">
       <div>
@@ -337,7 +407,7 @@ function groupSelectedByStore() {
 
 function renderSelection() {
   const count = state.selected.size;
-  els.selectionSummary.textContent = count === 0 ? 'Aucun item sélectionné' : `${count} item${count > 1 ? 's' : ''} sélectionné${count > 1 ? 's' : ''}`;
+  els.selectionSummary.textContent = count === 0 ? 'Aucun produit sélectionné' : `${count} produit${count > 1 ? 's' : ''} sélectionné${count > 1 ? 's' : ''}`;
   els.selectionList.innerHTML = '';
 
   if (count === 0) {
@@ -390,6 +460,7 @@ function slugFileName(value) {
 
 function buildPrintableHtml(selectedItems) {
   const stores = groupSelectedByStore();
+  const notes = state.notes.trim();
   const generated = new Intl.DateTimeFormat('fr-CA', {
     dateStyle: 'long',
     timeStyle: 'short',
@@ -402,7 +473,7 @@ function buildPrintableHtml(selectedItems) {
       <table>
         <thead>
           <tr>
-            <th>Item</th>
+            <th>Produit</th>
             <th>Prix</th>
           </tr>
         </thead>
@@ -506,6 +577,22 @@ function buildPrintableHtml(selectedItems) {
       font-weight: 900;
       white-space: nowrap;
     }
+    .notes {
+      break-inside: avoid;
+      margin: 0 0 18px;
+      border: 1px solid #d8cdbb;
+      border-radius: 8px;
+      padding: 10px 12px;
+      background: #f8f5ed;
+    }
+    .notes h2 {
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+    .notes p {
+      margin: 0;
+      white-space: pre-wrap;
+    }
     @media screen {
       body {
         max-width: 8.5in;
@@ -523,16 +610,17 @@ function buildPrintableHtml(selectedItems) {
       <div>${escapeHtml(state.week?.weekRange || state.week?.folderName || '')}</div>
     </div>
     <div class="meta">
-      ${escapeHtml(selectedItems.length)} item${selectedItems.length > 1 ? 's' : ''}<br />
+      ${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''}<br />
       ${escapeHtml(stores.length)} épicerie${stores.length > 1 ? 's' : ''}<br />
       Généré le ${escapeHtml(generated)}
     </div>
   </header>
   <div class="summary">
-    <div>${escapeHtml(selectedItems.length)} item${selectedItems.length > 1 ? 's' : ''} choisi${selectedItems.length > 1 ? 's' : ''}</div>
+    <div>${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''} choisi${selectedItems.length > 1 ? 's' : ''}</div>
     <div>${escapeHtml(stores.length)} arrêt${stores.length > 1 ? 's' : ''}</div>
     <div>Prix en CAD</div>
   </div>
+  ${notes ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes)}</p></section>` : ''}
   ${storeBlocks}
 </body>
 </html>`;
@@ -592,12 +680,25 @@ async function downloadBrowserPdf() {
 
   text('Liste d’épicerie', margin, y + 10, { font: 'times', style: 'bold', size: 30 });
   text(state.week?.weekRange || state.week?.folderName || '', margin, y + 34, { size: 12, color: [95, 90, 80] });
-  text(`${selectedItems.length} item${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
+  text(`${selectedItems.length} produit${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
   text(`${stores.length} épicerie${stores.length > 1 ? 's' : ''}`, pageWidth - margin, y + 25, { size: 11, color: [95, 90, 80], align: 'right' });
   text('Prix en CAD', pageWidth - margin, y + 42, { size: 11, color: [95, 90, 80], align: 'right' });
   y += 64;
   line(y, [23, 23, 20], 1.8);
   y += 28;
+
+  const notes = state.notes.trim();
+  if (notes) {
+    addPageIfNeeded(70);
+    text('Notes', margin, y, { font: 'times', style: 'bold', size: 16 });
+    y += 18;
+    const noteLines = pdf.splitTextToSize(notes, tableWidth);
+    for (const noteLine of noteLines) {
+      text(noteLine, margin, y, { size: 11, color: [95, 90, 80] });
+      y += 14;
+    }
+    y += 12;
+  }
 
   for (const store of stores) {
     addPageIfNeeded(76);
@@ -654,7 +755,7 @@ async function exportPdfToDesktop() {
   if (!state.week) return;
   const selectedIds = [...state.selected.keys()];
   if (selectedIds.length === 0) {
-    setExportStatus('Ajoute au moins un item avant de créer le PDF.', 'warning');
+    setExportStatus('Ajoute au moins un produit avant de créer le PDF.', 'warning');
     return;
   }
 
@@ -677,6 +778,7 @@ async function exportPdfToDesktop() {
       body: JSON.stringify({
         weekSlug: state.week.slug,
         selectedIds,
+        notes: state.notes,
       }),
     });
     const contentType = response.headers.get('content-type') || '';
@@ -698,7 +800,8 @@ async function exportPdfToDesktop() {
 async function selectWeek(weekMeta) {
   state.week = await loadJson(weekMeta.path);
   loadSelection();
-  state.activeCategoryId = state.week.categories[0]?.id ?? '';
+  loadNotes();
+  state.activeCategoryId = currentCategories()[0]?.id ?? '';
   state.activeStoreId = '';
   state.searchQuery = '';
   els.searchInput.value = '';
@@ -706,6 +809,7 @@ async function selectWeek(weekMeta) {
   renderWeeks();
   renderWeekHeader();
   renderMethodNote();
+  renderModeTabs();
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
@@ -716,8 +820,9 @@ async function init() {
   try {
     const index = await loadJson('data/weeks/index.json');
     state.weeks = index.weeks ?? [];
-    if (state.weeks.length > 0) {
-      await selectWeek(state.weeks[0]);
+    const weeks = visibleWeeks(state.weeks);
+    if (weeks.length > 0) {
+      await selectWeek(weeks[0]);
     } else {
       renderWeeks();
       renderWeekHeader();
@@ -745,13 +850,31 @@ els.searchInput.addEventListener('input', event => {
 });
 els.storeFilter.addEventListener('change', event => {
   state.activeStoreId = event.target.value;
-  if (state.activeStoreId) {
-    state.activeCategoryId = '';
-  } else {
-    state.activeCategoryId = state.week?.categories[0]?.id ?? '';
+  if (!currentCategories().some(category => category.id === state.activeCategoryId)) {
+    state.activeCategoryId = currentCategories()[0]?.id ?? '';
   }
   renderCategoryTabs();
   renderItems();
+});
+els.modeTabs?.addEventListener('click', event => {
+  const button = event.target.closest('button[data-mode]');
+  if (!button || button.dataset.mode === state.mode) return;
+  state.mode = button.dataset.mode;
+  if (state.activeStoreId && !allWeekStores().some(store => store.id === state.activeStoreId)) {
+    state.activeStoreId = '';
+    if (els.storeFilter) els.storeFilter.value = '';
+  }
+  if (!currentCategories().some(category => category.id === state.activeCategoryId)) {
+    state.activeCategoryId = currentCategories()[0]?.id ?? '';
+  }
+  renderModeTabs();
+  renderStoreFilter();
+  renderCategoryTabs();
+  renderItems();
+});
+els.notesInput?.addEventListener('input', event => {
+  state.notes = event.target.value;
+  saveNotes();
 });
 els.clearButton.addEventListener('click', () => {
   state.selected.clear();

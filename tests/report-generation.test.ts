@@ -1,5 +1,6 @@
 import { describe, it, expect } from 'vitest';
-import { generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, scoreAllDeals } from '../src/generate-report.js';
+import { classifyShopperCategory, deduplicateDisplayDeals, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, scoreAllDeals } from '../src/generate-report.js';
+import { frenchWeekFolderName, frenchWeekLabel } from '../src/weekly-files.js';
 import type { RawDealItem } from '../sources/source-adapter.js';
 
 const SAMPLE_ITEMS: RawDealItem[] = [
@@ -289,7 +290,7 @@ describe('generateVerifiedMomReport', () => {
     ]));
 
     expect(shortlist).toHaveLength(0);
-    expect(markdown).toContain("Aucun item n'a passé la vérification stricte");
+    expect(markdown).toContain("Aucun produit n'a passé la vérification stricte");
     expect(markdown).not.toContain('Bière blonde 24 canettes');
     expect(markdown).not.toContain('Sauce tomate 680ml');
   });
@@ -568,6 +569,230 @@ describe('weekly shopper-facing reports', () => {
     expect(produceSection).not.toContain('Pizza aux tomates Rustica');
   });
 
+  it('classifies strong categories before pantry fallback', () => {
+    const baseDeal = {
+      store_id: 'familiprix-joliette',
+      store_name: 'Familiprix Joliette',
+      current_price: 4.99,
+      source_image_url: 'https://example.com/proof.jpg',
+      score: 70,
+      label: 'GOOD_IF_NEEDED',
+      french_label: 'Bon prix si tu en as besoin',
+      french_reason: 'Bon prix si tu en as besoin.',
+      worth_buying: true,
+      verification_status: 'VERIFIED_FLYER_STRUCTURED',
+      verification_confidence: 'HIGH',
+      verification_reason: 'ok',
+    };
+
+    const cases: Array<[string, string, string, string]> = [
+      ['Flocons de goberge à saveur de crabe Selection', 'epicerie', 'goberge saveur crabe', 'meat-fish'],
+      ['Beefsteak de boeuf', 'epicerie', 'beefsteak boeuf', 'meat-fish'],
+      ['TOMATES BEEFSTEAK SAVOURA', 'epicerie', 'tomates beefsteak', 'produce'],
+      ['Creton maison', 'epicerie', 'creton maison', 'meat-fish'],
+      ['Ananas frais', 'epicerie', 'ananas frais', 'produce'],
+      ['Pineapple chunks', 'epicerie', 'pineapple chunks', 'produce'],
+      ['Kiwis verts', 'epicerie', 'kiwis verts', 'produce'],
+      ['Raisins rouges sans pépins', 'epicerie', 'raisins rouges', 'produce'],
+      ['Green grapes', 'epicerie', 'green grapes', 'produce'],
+      ['Avocat', 'epicerie', 'avocat', 'produce'],
+      ['Avocado', 'epicerie', 'avocado', 'produce'],
+      ['Ail frais', 'epicerie', 'ail frais', 'produce'],
+      ['Garlic bulbs', 'epicerie', 'garlic bulbs', 'produce'],
+      ['Beignes glacés', 'epicerie', 'beignes glaces', 'bakery'],
+      ['Donuts assortis', 'epicerie', 'donuts assortis', 'bakery'],
+      ["Mike's frozen pasta dinners", 'epicerie', 'mikes frozen pasta dinners', 'frozen'],
+      ['Dîner de pâtes surgelé Mike’s', 'epicerie', 'diner de pates surgele mikes', 'frozen'],
+      ['Pâtés impériaux surgelés', 'epicerie', 'pates imperiaux surgeles', 'frozen'],
+      ['Egg rolls frozen', 'epicerie', 'egg rolls frozen', 'frozen'],
+      ["Beurre à l'ail Lactantia", 'epicerie', 'beurre ail', 'dairy-eggs'],
+      ['Pilules contre les allergies', 'epicerie', 'pilules allergies', 'health'],
+      ['Tylenol médicament', 'epicerie', 'tylenol medicament', 'health'],
+      ['Café moulu', 'epicerie', 'cafe moulu', 'pantry'],
+      ['Colorant à café', 'epicerie', 'colorant cafe', 'pantry'],
+      ['Sauce tomate', 'epicerie', 'sauce tomate', 'pantry'],
+    ];
+
+    for (const [item_name, category, normalized_name, expected] of cases) {
+      expect(classifyShopperCategory({
+        ...baseDeal,
+        item_name,
+        normalized_name,
+        category,
+      })).toBe(expected);
+    }
+  });
+
+  it('classifies household essentials as Maison et entretien', () => {
+    const baseDeal = {
+      store_id: 'familiprix-joliette',
+      store_name: 'Familiprix Joliette',
+      current_price: 4.99,
+      source_image_url: 'https://example.com/proof.jpg',
+      score: 70,
+      label: 'GOOD_IF_NEEDED',
+      french_label: 'Bon prix si tu en as besoin',
+      french_reason: 'Bon prix si tu en as besoin.',
+      worth_buying: true,
+      verification_status: 'VERIFIED_FLYER_STRUCTURED',
+      verification_confidence: 'HIGH',
+      verification_reason: 'ok',
+    };
+
+    for (const item_name of [
+      'Détergent Tide sélectionné',
+      'Kleenex mouchoirs',
+      'Q-tips coton-tiges',
+      'Papier toilette Cashmere',
+      'Papier de toilette Royale',
+      'Essuie-tout SpongeTowels',
+    ]) {
+      expect(classifyShopperCategory({
+        ...baseDeal,
+        item_name,
+        normalized_name: item_name.toLowerCase(),
+        category: 'maison',
+      })).toBe('household');
+    }
+  });
+
+  it('classifies pharmacy essentials outside pantry', () => {
+    const baseDeal = {
+      store_id: 'familiprix-joliette',
+      store_name: 'Familiprix Joliette',
+      current_price: 4.99,
+      source_image_url: 'https://example.com/proof.jpg',
+      score: 70,
+      label: 'GOOD_IF_NEEDED',
+      french_label: 'Bon prix si tu en as besoin',
+      french_reason: 'Bon prix si tu en as besoin.',
+      worth_buying: true,
+      verification_status: 'VERIFIED_FLYER_STRUCTURED',
+      verification_confidence: 'HIGH',
+      verification_reason: 'ok',
+    };
+
+    for (const item_name of [
+      'Pansements Band-Aid',
+      'Médicament pour allergies',
+      'Polysporin onguent antibiotique',
+      'Vitamines Jamieson',
+    ]) {
+      expect(classifyShopperCategory({
+        ...baseDeal,
+        item_name,
+        normalized_name: item_name.toLowerCase(),
+        category: 'pharmacie',
+      })).toBe('health');
+    }
+  });
+
+  it('deduplicates same-store same-price same-image full-product flyer variants', () => {
+    const baseDeal = {
+      store_id: 'familiprix-joliette',
+      store_name: 'Familiprix Joliette',
+      category: 'maison',
+      current_price: 4.99,
+      source_image_url: 'https://example.com/familiprix-degree.jpg',
+      source_system: 'flipp',
+      source_type: 'flyer',
+      source_url: 'https://example.com/flyer',
+      source_raw_name: 'DEGREE Antisudorifiques ou désodorisants sélectionnés',
+      source_raw_price: '4.99',
+      confidence: 'HIGH',
+      score: 50,
+      label: 'GOOD_IF_NEEDED',
+      french_label: 'Bon prix si tu en as besoin',
+      french_reason: 'Bon prix si tu en as besoin.',
+      worth_buying: false,
+    } as const;
+
+    const deduped = deduplicateDisplayDeals([
+      {
+        ...baseDeal,
+        item_name: 'DEGREE Antisudorifiques ou désodorisants sélectionnés',
+        normalized_name: 'degree antisudorifiques desodorisants selectionnes',
+      },
+      {
+        ...baseDeal,
+        item_name: 'DEGREE, Antisudorifiques ou désodorisants sélectionnés',
+        normalized_name: 'degree antisudorifiques desodorisants selectionnes',
+      },
+      {
+        ...baseDeal,
+        source_image_url: 'https://example.com/familiprix-carefree.jpg',
+        item_name: 'CAREFREE Protège-dessous sélectionnés',
+        normalized_name: 'carefree protege dessous selectionnes',
+      },
+      {
+        ...baseDeal,
+        source_image_url: 'https://example.com/familiprix-carefree.jpg',
+        item_name: 'CAREFREE, Protège-dessous sélectionnés',
+        normalized_name: 'carefree protege dessous selectionnes',
+      },
+      {
+        ...baseDeal,
+        source_image_url: 'https://example.com/familiprix-old-spice.jpg',
+        item_name: 'OLD SPICE, Désodorisant pour tout le corps sans aluminium',
+        normalized_name: 'old spice desodorisant corps sans aluminium',
+      },
+      {
+        ...baseDeal,
+        source_image_url: 'https://example.com/familiprix-old-spice.jpg',
+        item_name: 'OLD SPICE, Désodorisant pour tout le corps sans aluminium, 68 g à 99 g',
+        normalized_name: 'old spice desodorisant corps sans aluminium 68 g 99 g',
+      },
+    ]);
+
+    expect(deduped).toHaveLength(3);
+    expect(deduped.map(deal => deal.item_name)).toContain('OLD SPICE, Désodorisant pour tout le corps sans aluminium, 68 g à 99 g');
+  });
+
+  it('keeps distinct full-product cards when store, image, or title meaning differs', () => {
+    const baseDeal = {
+      store_id: 'familiprix-joliette',
+      store_name: 'Familiprix Joliette',
+      category: 'maison',
+      current_price: 4.99,
+      source_image_url: 'https://example.com/familiprix-degree.jpg',
+      source_system: 'flipp',
+      source_type: 'flyer',
+      source_url: 'https://example.com/flyer',
+      source_raw_name: 'DEGREE Antisudorifiques',
+      source_raw_price: '4.99',
+      confidence: 'HIGH',
+      score: 50,
+      label: 'GOOD_IF_NEEDED',
+      french_label: 'Bon prix si tu en as besoin',
+      french_reason: 'Bon prix si tu en as besoin.',
+      worth_buying: false,
+      item_name: 'DEGREE Antisudorifiques',
+      normalized_name: 'degree antisudorifiques',
+    } as const;
+
+    expect(deduplicateDisplayDeals([
+      baseDeal,
+      { ...baseDeal, store_id: 'metro-joliette', store_name: 'Metro Joliette' },
+    ])).toHaveLength(2);
+    expect(deduplicateDisplayDeals([
+      baseDeal,
+      {
+        ...baseDeal,
+        source_image_url: 'https://example.com/familiprix-carefree.jpg',
+        item_name: 'CAREFREE Protège-dessous sélectionnés',
+        normalized_name: 'carefree protege dessous selectionnes',
+      },
+    ])).toHaveLength(2);
+    expect(deduplicateDisplayDeals([
+      baseDeal,
+      {
+        ...baseDeal,
+        item_name: 'CAREFREE Protège-dessous sélectionnés',
+        normalized_name: 'carefree protege dessous selectionnes',
+      },
+    ])).toHaveLength(2);
+  });
+
   it('deduplicates obvious same-family meat items before filling a category', () => {
     const baseDeal = {
       store_id: 'maxi-joliette',
@@ -662,5 +887,78 @@ describe('weekly shopper-facing reports', () => {
 
     expect(markdown).toContain('Metro 12,99 $');
     expect(markdown).toContain('Maxi 14,99 $');
+  });
+});
+
+describe('flyer week labels', () => {
+  it('uses the Thursday-to-Wednesday flyer cycle', () => {
+    expect(frenchWeekLabel(new Date('2026-05-17T12:00:00-04:00'))).toBe('14 au 20 mai 2026');
+    expect(frenchWeekFolderName(new Date('2026-05-17T12:00:00-04:00'))).toBe('Semaine du 14 au 20 mai 2026');
+    expect(frenchWeekLabel(new Date('2026-05-21T12:00:00-04:00'))).toBe('21 au 27 mai 2026');
+  });
+});
+
+describe('website user-facing wording and week filtering', () => {
+  it('uses natural product wording instead of items vus', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const [html, js] = await Promise.all([
+      readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
+      readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+    ]);
+
+    expect(html).toContain('Tous les produits');
+    expect(html).toContain('Rechercher un produit');
+    expect(js).toContain('produits trouvés');
+    expect(js).toContain('produit${store.count > 1 ?');
+    expect(html).not.toContain('Tous les items');
+    expect(html).not.toContain('Rechercher un item');
+    expect(js).not.toContain('items vus');
+    expect(js).not.toContain('Item vu');
+  });
+
+  it('keeps only the latest production week visible unless debug weeks are enabled', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    expect(js).toContain('function visibleWeeks');
+    expect(js).toContain('debugWeeks');
+    expect(js).toContain('manual-preview');
+    expect(js).toContain('productionWeeks.slice(0, 1)');
+  });
+
+  it('keeps store scope when category, search, and mode change', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    const categoryClick = js.slice(js.indexOf("button.addEventListener('click', () => {"), js.indexOf('els.categoryTabs.append(button);'));
+    expect(categoryClick).toContain('state.activeCategoryId = category.id');
+    expect(categoryClick).not.toContain("state.activeStoreId = ''");
+    expect(js).toContain('function categoryItems(category)');
+    expect(js).toContain('const scopedItems = categoryItems(category)');
+    expect(js).toContain('baseItems = query');
+    expect(js).toContain('allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)');
+    expect(js).toContain('categoryItems(category)');
+    expect(js).toContain('if (state.activeStoreId && !allWeekStores().some(store => store.id === state.activeStoreId))');
+  });
+
+  it('generated active week has no high-confidence pantry category misses', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const { existsSync } = await import('node:fs');
+    const weekUrl = new URL('../website/data/weeks/semaine-du-14-au-20-mai-2026/week.json', import.meta.url);
+    if (!existsSync(weekUrl)) return;
+
+    const week = JSON.parse(await readFile(weekUrl, 'utf8')) as {
+      allCategories?: Array<{ id: string; items: Array<{ name: string }> }>;
+    };
+    const pantry = week.allCategories?.find(category => category.id === 'pantry')?.items ?? [];
+    const suspicious = pantry
+      .map(item => item.name)
+      .filter(name => {
+        const text = name.toLowerCase();
+        if (/sauce tomate|p[aâ]te de tomate|coulis de tomate/.test(text)) return false;
+        return /beefsteak|bifteck|steak|boeuf|bœuf|creton|goberge|ananas|pineapple|kiwi|raisins|grapes|avocat|ail|garlic|surgel[ée]|frozen|congel[ée]|p[aâ]t[ée]s imp[ée]riaux|egg rolls|detergent|d[ée]tergent|kleenex|q-?tips|pansements?|allergies|polysporin|m[ée]dicament|vitamines?/i.test(text);
+      });
+
+    expect(suspicious).toEqual([]);
   });
 });

@@ -89,7 +89,7 @@ function groupByStore(items: any[]) {
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
-function buildPdfHtml(week: any, selectedItems: any[]) {
+function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
   const stores = groupByStore(selectedItems);
   const generated = new Intl.DateTimeFormat('fr-CA', {
     dateStyle: 'long',
@@ -103,7 +103,7 @@ function buildPdfHtml(week: any, selectedItems: any[]) {
       <table>
         <thead>
           <tr>
-            <th>Item</th>
+            <th>Produit</th>
             <th>Prix</th>
           </tr>
         </thead>
@@ -206,6 +206,22 @@ function buildPdfHtml(week: any, selectedItems: any[]) {
       font-weight: 900;
       white-space: nowrap;
     }
+    .notes {
+      break-inside: avoid;
+      margin: 0 0 18px;
+      border: 1px solid #d8cdbb;
+      border-radius: 8px;
+      padding: 10px 12px;
+      background: #f8f5ed;
+    }
+    .notes h2 {
+      margin: 0 0 6px;
+      font-size: 14px;
+    }
+    .notes p {
+      margin: 0;
+      white-space: pre-wrap;
+    }
   </style>
 </head>
 <body>
@@ -215,16 +231,17 @@ function buildPdfHtml(week: any, selectedItems: any[]) {
       <div>${escapeHtml(week.weekRange || week.folderName || '')}</div>
     </div>
     <div class="meta">
-      ${escapeHtml(selectedItems.length)} item${selectedItems.length > 1 ? 's' : ''}<br />
+      ${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''}<br />
       ${escapeHtml(stores.length)} épicerie${stores.length > 1 ? 's' : ''}<br />
       Généré le ${escapeHtml(generated)}
     </div>
   </header>
   <div class="summary">
-    <div>${escapeHtml(selectedItems.length)} items choisis</div>
+    <div>${escapeHtml(selectedItems.length)} produits choisis</div>
     <div>${escapeHtml(stores.length)} arrêts</div>
     <div>Prix en CAD</div>
   </div>
+  ${notes.trim() ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes.trim())}</p></section>` : ''}
   ${storeBlocks}
 </body>
 </html>`;
@@ -259,6 +276,7 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
     const body = await readJsonBody(req);
     const weekSlug = String(body.weekSlug || '');
     const selectedIds = Array.isArray(body.selectedIds) ? body.selectedIds.map(String) : [];
+    const notes = String(body.notes || '');
     if (!weekSlug || selectedIds.length === 0) {
       sendJson(res, 400, { error: 'Sélection vide ou semaine manquante.' });
       return;
@@ -271,13 +289,14 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
     }
 
     const week = JSON.parse(await readFile(weekPath, 'utf8'));
-    const allItems = (week.categories ?? []).flatMap((category: any) => category.items ?? []);
+    const allItems = [...(week.dealCategories ?? week.categories ?? []), ...(week.allCategories ?? [])]
+      .flatMap((category: any) => category.items ?? []);
     const selectedItems = selectedIds
       .map((id: string) => allItems.find((item: any) => item.id === id))
       .filter(Boolean);
 
     if (selectedItems.length === 0) {
-      sendJson(res, 400, { error: 'Aucun item sélectionné trouvé dans la semaine.' });
+      sendJson(res, 400, { error: 'Aucun produit sélectionné trouvé dans la semaine.' });
       return;
     }
 
@@ -288,7 +307,7 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
     const safeBase = slugFileName(baseName) || `liste-epicerie-${stamp}`;
     const outputPdf = join(desktop, `${safeBase}.pdf`);
     const tempHtml = join(tmpdir(), `${safeBase}-${Date.now()}.html`);
-    writeFileSync(tempHtml, buildPdfHtml(week, selectedItems), 'utf8');
+    writeFileSync(tempHtml, buildPdfHtml(week, selectedItems, notes), 'utf8');
 
     try {
       await runChromePdf(tempHtml, outputPdf);

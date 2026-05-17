@@ -14,6 +14,7 @@ const HEADERS = {
 
 // Match merchant names to our store_ids — order matters (most specific first)
 const MERCHANT_PATTERNS: Array<{ pattern: RegExp; store_id: string; store_name: string; main_only?: boolean }> = [
+  { pattern: /familiprix/i,                     store_id: 'familiprix-joliette',   store_name: 'Familiprix Joliette' },
   { pattern: /super[\s-]?c/i,                  store_id: 'superc-joliette',       store_name: 'Super C Joliette' },
   { pattern: /march[eé]\s+bonichoix|bonichoix/i, store_id: 'bonichoix-joliette',  store_name: 'BoniChoix Joliette' },
   { pattern: /inter[\s-]?march[eé]/i,           store_id: 'intermarche-joliette',  store_name: "L'Inter-Marché Joliette" },

@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync, rmSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { format, startOfWeek, endOfWeek } from 'date-fns';
+import { format } from 'date-fns';
 import { fr } from 'date-fns/locale';
 import type { RawDealItem } from '../sources/source-adapter.js';
 import type { Product } from './normalize-product.js';
@@ -20,6 +20,7 @@ import {
   PICKER_FILE,
   STORE_SUMMARY_FILE,
   TECHNICAL_DIR,
+  frenchWeekLabel,
   frenchWeekFolderName,
 } from './weekly-files.js';
 import { enrichDealsWithProofOcr } from './proof-ocr.js';
@@ -70,11 +71,13 @@ export interface VerifiedDeal extends ScoredDeal {
   verification_reason: string;
 }
 
-type ShopperCategoryId =
+export type ShopperCategoryId =
   | 'produce'
   | 'meat-fish'
   | 'dairy-eggs'
   | 'pantry'
+  | 'household'
+  | 'health'
   | 'bakery'
   | 'frozen'
   | 'snacks-drinks';
@@ -104,6 +107,8 @@ const SHOPPER_CATEGORIES: ShopperCategory[] = [
   { id: 'meat-fish', title: 'Viandes et poissons', maxItems: 20 },
   { id: 'dairy-eggs', title: 'Produits laitiers et oeufs', maxItems: 20 },
   { id: 'pantry', title: 'Épicerie / garde-manger', maxItems: 20 },
+  { id: 'household', title: 'Maison et entretien', maxItems: 20 },
+  { id: 'health', title: 'Santé et pharmacie', maxItems: 20 },
   { id: 'bakery', title: 'Boulangerie', maxItems: 20 },
   { id: 'frozen', title: 'Surgelés', maxItems: 20 },
   { id: 'snacks-drinks', title: 'Collations et boissons', maxItems: 20 },
@@ -152,6 +157,101 @@ function deduplicateDeals(deals: ScoredDeal[]): ScoredDeal[] {
   return [...seen.values()];
 }
 
+function normalizeDisplayTitle(value: string): string {
+  return normalizeString(value)
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\b(selectionnes?|selected|choisis?|assortis?|varietes?|variétés?)\b/g, ' ')
+    .replace(/\b(format|formats|paquet|paquets|ml|g|kg|un|ct)\b/g, ' ')
+    .replace(/\b\d+\s*(g|kg|ml|l|un|ct)\b/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function titleTokens(value: string): Set<string> {
+  return new Set(
+    normalizeDisplayTitle(value)
+      .split(' ')
+      .filter(token => token.length > 2),
+  );
+}
+
+function tokenSimilarity(a: string, b: string): number {
+  const aTokens = titleTokens(a);
+  const bTokens = titleTokens(b);
+  if (aTokens.size === 0 || bTokens.size === 0) return 0;
+  let intersection = 0;
+  for (const token of aTokens) {
+    if (bTokens.has(token)) intersection += 1;
+  }
+  return intersection / Math.max(aTokens.size, bTokens.size);
+}
+
+function displayPriceKey(deal: ScoredDeal): string {
+  const price = Number.isFinite(deal.current_price) ? deal.current_price.toFixed(2) : String(deal.current_price);
+  return price;
+}
+
+function displayImageKey(deal: ScoredDeal): string {
+  const raw = deal.source_image_url?.trim();
+  if (!raw) return '';
+  try {
+    const url = new URL(raw);
+    return `${url.origin}${url.pathname}`.toLowerCase();
+  } catch {
+    return raw.split('?')[0].toLowerCase();
+  }
+}
+
+function preferDisplayDeal(a: ScoredDeal, b: ScoredDeal): ScoredDeal {
+  const aText = normalizeString(`${a.item_name} ${a.source_raw_name ?? ''}`);
+  const bText = normalizeString(`${b.item_name} ${b.source_raw_name ?? ''}`);
+  if (bText.length > aText.length + 8) return b;
+  if (aText.length > bText.length + 8) return a;
+  return (b.score ?? 0) > (a.score ?? 0) ? b : a;
+}
+
+export function deduplicateDisplayDeals(deals: ScoredDeal[]): ScoredDeal[] {
+  const groups = new Map<string, ScoredDeal[]>();
+
+  for (const deal of deals) {
+    const key = `${deal.store_id}::${displayPriceKey(deal)}`;
+    const group = groups.get(key) ?? [];
+    group.push(deal);
+    groups.set(key, group);
+  }
+
+  const deduped: ScoredDeal[] = [];
+  for (const group of groups.values()) {
+    const kept: ScoredDeal[] = [];
+    for (const deal of group) {
+      const duplicateIndex = kept.findIndex(existing => {
+        const existingTitle = existing.normalized_name ?? existing.item_name;
+        const dealTitle = deal.normalized_name ?? deal.item_name;
+        const normalizedExisting = normalizeDisplayTitle(existingTitle);
+        const normalizedDeal = normalizeDisplayTitle(dealTitle);
+        const sameImage = displayImageKey(existing) !== '' && displayImageKey(existing) === displayImageKey(deal);
+        const similarity = tokenSimilarity(existingTitle, dealTitle);
+        return (
+          normalizedExisting === normalizedDeal ||
+          normalizedExisting.includes(normalizedDeal) ||
+          normalizedDeal.includes(normalizedExisting) ||
+          (sameImage && similarity >= 0.68) ||
+          similarity >= 0.9
+        );
+      });
+
+      if (duplicateIndex === -1) {
+        kept.push(deal);
+      } else {
+        kept[duplicateIndex] = preferDisplayDeal(kept[duplicateIndex], deal);
+      }
+    }
+    deduped.push(...kept);
+  }
+
+  return deduped;
+}
+
 // Keywords that indicate non-grocery items to exclude from mom's list
 const NON_FOOD_KEYWORDS = [
   // Garden / outdoor
@@ -162,11 +262,6 @@ const NON_FOOD_KEYWORDS = [
   'annuelles', 'balconni', 'yucca', 'mosquito', 'plante', 'window box',
   'panier suspendu', 'panier victorien', 'panier patio', 'panier fleuri',
   'gazon', 'pelouse', 'fertilisant', 'insecticide', 'herbicide',
-  // Household / non-food
-  'papier hygiénique', 'papier toilette', 'essuie-tout', 'couche', 'serviette sanitaire',
-  'détergent', 'savon à vaisselle', 'nettoyant', 'désinfectant', 'soins pour bébés',
-  'sudocrem', 'penaten', 'zincofax', 'assouplisseur', 'fleecy', 'adoucissant',
-  'fabric softener',
   // Pet food
   'alpo', 'purina', 'iams', 'pedigree', 'whiskas', 'fancy feast',
   'nourriture pour chien', 'nourriture pour chat', 'litière',
@@ -175,35 +270,89 @@ const NON_FOOD_KEYWORDS = [
   'vodka', 'whisky', 'whiskey', 'rum', 'rhum', 'gin', 'tequila', 'liqueur',
 ];
 
+const HOUSEHOLD_KEYWORDS = [
+  'papier hygiénique', 'papier hygienique', 'papier toilette', 'papier de toilette', 'toilet paper',
+  'essuie-tout', 'papier essuie-tout', 'paper towel',
+  'kleenex', 'mouchoir', 'mouchoirs', 'facial tissue',
+  'q-tip', 'q tips', 'q-tips', 'coton-tige', 'coton tige', 'cotons-tiges', 'cotton swab',
+  'détergent', 'detergent', 'lessive', 'savon à linge', 'savon a linge',
+  'assouplisseur', 'adoucissant', 'fleecy', 'fabric softener',
+  'savon à vaisselle', 'savon a vaisselle', 'dish soap', 'lave-vaisselle',
+  'nettoyant', 'désinfectant', 'desinfectant', 'lingettes', 'wipes',
+  'eau de javel', 'javellisant', 'bleach',
+  'shampoing', 'shampoo', 'revitalisant', 'conditioner',
+  'savon', 'gel douche', 'body wash', 'antisudorifique', 'désodorisant', 'deodorant',
+  'dentifrice', 'brosse à dents', 'brosse a dents', 'soie dentaire',
+  'serviette sanitaire', 'tampon', 'protege-dessous', 'protège-dessous',
+  'couche', 'couches', 'soins pour bébés', 'soins pour bebes',
+  'sudocrem', 'penaten', 'zincofax',
+];
+
+const HEALTH_KEYWORDS = [
+  'pilule', 'pilules', 'pills', 'médicament', 'medicament', 'médicaments', 'medicaments',
+  'vitamine', 'vitamines', 'tylenol', 'advil', 'gravol', 'benadryl', 'reactine', 'claritin',
+  'allergie', 'allergy', 'ibuprofene', 'ibuprofène', 'acetaminophene', 'acétaminophène',
+  'aspirine', 'sirop pour la toux', 'toux', 'rhume', 'cold and flu', 'pastilles',
+  'antiacide', 'pansement', 'pansements', 'bandage', 'polysporin', 'biomedic', 'band-aid',
+];
+
+function isHouseholdItem(deal: ScoredDeal): boolean {
+  const cat = (deal.category ?? '').toLowerCase();
+  const name = deal.item_name.toLowerCase();
+  return ['maison', 'home', 'entretien', 'hygiène', 'hygiene', 'papier'].some(k => cat.includes(k)) ||
+    HOUSEHOLD_KEYWORDS.some(kw => name.includes(kw));
+}
+
+function isHealthItem(deal: ScoredDeal): boolean {
+  const cat = (deal.category ?? '').toLowerCase();
+  const name = deal.item_name.toLowerCase();
+  return ['pharmacie', 'pharmacy', 'santé', 'sante', 'health'].some(k => cat.includes(k)) ||
+    HEALTH_KEYWORDS.some(kw => name.includes(kw));
+}
+
 function isFoodItem(deal: ScoredDeal): boolean {
+  if (isHealthItem(deal)) return true;
+  if (isHouseholdItem(deal)) return true;
   if (deal.category) {
     const cat = deal.category.toLowerCase();
-    if (['jardin', 'garden', 'maison', 'home', 'quincaillerie'].some(c => cat.includes(c))) return false;
+    if (['jardin', 'garden', 'quincaillerie'].some(c => cat.includes(c))) return false;
   }
   const name = deal.item_name.toLowerCase();
   return !NON_FOOD_KEYWORDS.some(kw => name.includes(kw));
 }
 
-function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | null {
+export function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | null {
   const cat = (deal.category ?? '').toLowerCase();
   const name = deal.item_name.toLowerCase();
 
   if (!isFoodItem(deal)) return null;
+  if (isHealthItem(deal)) return 'health';
 
   if (
     ['surgelé', 'frozen'].some(k => cat.includes(k)) ||
-    ['surgelé', 'surgeles', 'frozen', 'pizza', 'frites', 'corn dog'].some(k => name.includes(k))
+    [
+      'surgelé', 'surgeles', 'frozen', 'congelé', 'congele', 'congelés', 'congeles',
+      'pizza', 'frites', 'corn dog', 'dîner de pâtes', 'diner de pates',
+      "mike's", 'mikes', 'mike’s', 'pâtés impériaux', 'pates imperiaux', 'patés impériaux', 'egg rolls',
+      'repas congelé', 'repas congele', 'plat préparé congelé', 'plat prepare congele',
+      'légumes surgelés', 'legumes surgeles', 'fruits surgelés', 'fruits surgeles',
+    ].some(k => name.includes(k))
   ) return 'frozen';
 
-  if (
-    ['fruit', 'fruits', 'légume', 'legume', 'produce'].some(k => cat.includes(k)) ||
-    ['fraise', 'bleuet', 'banane', 'pomme', 'concombre', 'laitue', 'salade', 'poivron', 'oignon', 'céleri', 'celeri', 'celery', 'melon', 'rutabaga', 'champignon', 'asperge', 'mûre', 'mure', 'mangue', 'tomate', 'cerise'].some(k => name.includes(k))
-  ) return 'produce';
-
+  const tomatoPantryItem = ['sauce tomate', 'sauce aux tomates', 'pâte de tomate', 'pate de tomate', 'coulis de tomate'].some(k => name.includes(k));
+  const tomatoProduceItem = name.includes('tomate') || name.includes('tomato');
   if (
     ['viande', 'meat', 'poisson', 'fish', 'seafood', 'volaille'].some(k => cat.includes(k)) ||
-    ['poulet', 'boeuf', 'bœuf', 'porc', 'poisson', 'saumon', 'crevette', 'thon', 'bacon', 'saucisse', 'roti', 'rôti', 'jambon', 'charcut', 'smoked meat', 'bologne', 'bologna', 'baloney', 'pepperoni', 'chorizo', 'sauciflard', 'rosette', 'salami', 'mortadelle', 'prosciutto', 'viande froide'].some(k => name.includes(k))
-  ) return 'meat-fish';
+    [
+      'poulet', 'dinde', 'boeuf', 'bœuf', 'bifteck', ...(tomatoProduceItem ? [] : ['beefsteak', 'steak']), 'porc', 'poisson',
+      'saumon', 'crevette', 'thon', 'morue', 'bacon', 'saucisse', 'roti', 'rôti',
+      'jambon', 'creton', 'charcut', 'smoked meat', 'bologne', 'bologna', 'baloney',
+      'pepperoni', 'chorizo', 'sauciflard', 'rosette', 'salami', 'mortadelle',
+      'prosciutto', 'viande froide', 'goberge', 'crabe', 'pollock', 'surimi',
+    ].some(k => name.includes(k))
+  ) {
+    return 'meat-fish';
+  }
 
   if (
     ['laitier', 'dairy', 'oeuf', 'egg'].some(k => cat.includes(k)) ||
@@ -211,9 +360,25 @@ function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | null {
   ) return 'dairy-eggs';
 
   if (
+    !tomatoPantryItem &&
+    (
+      ['fruit', 'fruits', 'légume', 'legume', 'produce'].some(k => cat.includes(k)) ||
+      [
+        'fraise', 'bleuet', 'banane', 'pomme', 'concombre', 'laitue', 'salade',
+        'poivron', 'oignon', 'céleri', 'celeri', 'celery', 'melon', 'rutabaga',
+        'champignon', 'asperge', 'mûre', 'mure', 'mangue', 'tomate', 'cerise',
+        'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
+        'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
+      ].some(k => name.includes(k))
+    )
+  ) return 'produce';
+
+  if (
     ['boulangerie', 'bakery'].some(k => cat.includes(k)) ||
-    ['pain', 'bagel', 'baguette', 'croissant', 'hamburger', 'hot dog'].some(k => name.includes(k))
+    ['pain', 'bagel', 'baguette', 'croissant', 'hamburger', 'hot dog', 'muffin', 'beigne', 'beignes', 'donut', 'donuts', 'pâtisserie', 'patisserie'].some(k => name.includes(k))
   ) return 'bakery';
+
+  if (isHouseholdItem(deal)) return 'household';
 
   if (
     ['snack', 'boisson', 'drink', 'chips', 'croustilles'].some(k => cat.includes(k)) ||
@@ -323,9 +488,7 @@ function frenchDate(d: Date): string {
 }
 
 function frenchWeekRange(d: Date): string {
-  const start = startOfWeek(d, { weekStartsOn: 1 });
-  const end = endOfWeek(d, { weekStartsOn: 1 });
-  return `${format(start, 'd', { locale: fr })} au ${format(end, 'd MMMM yyyy', { locale: fr })}`;
+  return frenchWeekLabel(d);
 }
 
 const STORE_ADDRESSES: Record<string, string> = {
@@ -337,6 +500,7 @@ const STORE_ADDRESSES: Record<string, string> = {
   'intermarche-joliette': 'Joliette',
   'tradition-joliette':   'Joliette',
   'bonichoix-stemilie':   "St-Émilie-de-l'Énergie",
+  'familiprix-joliette':  'Joliette',
 };
 
 const STORE_DISPLAY_NAMES: Record<string, string> = {
@@ -348,6 +512,7 @@ const STORE_DISPLAY_NAMES: Record<string, string> = {
   'intermarche-joliette': "L'Inter-Marché Joliette",
   'tradition-joliette': 'Marchés Tradition Joliette',
   'bonichoix-stemilie': "BoniChoix St-Émilie-de-l'Énergie",
+  'familiprix-joliette': 'Familiprix Joliette',
 };
 
 const ALL_STORE_IDS = [
@@ -359,6 +524,7 @@ const ALL_STORE_IDS = [
   'intermarche-joliette',
   'tradition-joliette',
   'bonichoix-stemilie',
+  'familiprix-joliette',
 ];
 const STORE_SHORT: Record<string, string> = {
   'metro-joliette': 'Metro',
@@ -369,6 +535,7 @@ const STORE_SHORT: Record<string, string> = {
   'intermarche-joliette': 'Inter-Marché',
   'tradition-joliette': 'Marchés Tradition',
   'bonichoix-stemilie': 'BoniChoix St-Émilie',
+  'familiprix-joliette': 'Familiprix',
 };
 
 function storeName(storeId: string): string {
@@ -753,7 +920,7 @@ export function generateMomReport(
   if (reportVariant !== 'live') {
     lines.push(`⚠️ Version ${reportVariant} — utile pour vérification, pas pour écraser la liste live.`);
   }
-  lines.push(`Prix en CAD. Chaque item retenu ci-dessous a une source vérifiable liée à la circulaire ou à l'entrée manuelle.`);
+  lines.push(`Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à la circulaire ou à l'entrée manuelle.`);
   lines.push('');
 
   if (allWorthy.length === 0) {
@@ -765,7 +932,7 @@ export function generateMomReport(
 
   for (const storeId of ALL_STORE_IDS) {
     const storeAll = allWorthy.filter(d => d.store_id === storeId);
-    // Cap ❓ premier aperçu items at 5 per store — rest of slots go to confirmed/winner/badged
+      // Cap first-seen products at 5 per store; rest of slots go to confirmed/winner/badged products.
     const confirmed = storeAll.filter(d =>
       d.worth_buying ||
       d.cross_store_winner ||
@@ -860,7 +1027,7 @@ export function generateVerifiedMomReport(
   const lines: string[] = [];
   lines.push(`# 🧾 Liste vérifiée — ${frenchWeekRange(reportDate)}`);
   lines.push(`${frenchDate(reportDate)} · Joliette et région`);
-  lines.push(`Prix en CAD. Cette liste finale ne garde que les items alimentaires avec preuve structurée suffisante pour un achat réel.`);
+  lines.push(`Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preuve structurée suffisante pour un achat réel.`);
   lines.push('');
 
   for (const storeId of ALL_STORE_IDS) {
@@ -920,11 +1087,11 @@ export function generateVerifiedMomReport(
   }
 
   if (shortlist.length === 0) {
-    lines.push(`*Aucun item n'a passé la vérification stricte cette semaine.*`);
+    lines.push(`*Aucun produit n'a passé la vérification stricte cette semaine.*`);
   }
 
   lines.push('---');
-  lines.push(`📊 ${shortlist.length} items retenus pour achat réel`);
+  lines.push(`📊 ${shortlist.length} produit${shortlist.length > 1 ? 's' : ''} retenu${shortlist.length > 1 ? 's' : ''} pour achat réel`);
   lines.push(`*Liste finale vérifiée générée le ${frenchDate(reportDate)}.*`);
 
   return { markdown: lines.join('\n'), shortlist };
@@ -1003,6 +1170,8 @@ function categoryEmoji(id: ShopperCategoryId): string {
     case 'meat-fish': return '🥩';
     case 'dairy-eggs': return '🥛';
     case 'pantry': return '🥫';
+    case 'household': return '🧼';
+    case 'health': return '💊';
     case 'bakery': return '🥖';
     case 'frozen': return '🧊';
     case 'snacks-drinks': return '🍪';
@@ -1170,9 +1339,9 @@ function generateEmptyFinalListReport(reportDate: Date = new Date()): string {
     obsidianFrontmatter(`Liste finale — ${frenchWeekRange(reportDate)}`, 'final').trimEnd(),
     `# 🧾 Liste finale — ${frenchWeekRange(reportDate)}`,
     '',
-    `Aucun item sélectionné pour le moment.`,
+    `Aucun produit sélectionné pour le moment.`,
     '',
-    `Coche des items dans \`${PICKER_FILE}\`.`,
+    `Coche des produits dans \`${PICKER_FILE}\`.`,
     `Ce fichier se met à jour automatiquement et regroupe les choix par magasin.`,
   ].join('\n');
 }
@@ -1187,7 +1356,7 @@ export function generateShoppingListReport(
 
   lines.push(`# 🛒 Liste d'épicerie — ${frenchWeekRange(reportDate)}`);
   lines.push(`${frenchDate(reportDate)} · Joliette et région`);
-  lines.push(`Lis ce fichier en premier. Chaque item indique le magasin, le prix, pourquoi il est bon et une preuve visuelle du prix quand elle existe.`);
+  lines.push(`Lis ce fichier en premier. Chaque produit indique le magasin, le prix, pourquoi il est bon et une preuve visuelle du prix quand elle existe.`);
   lines.push('');
 
   for (const config of SHOPPER_CATEGORIES) {
@@ -1245,7 +1414,7 @@ export function generateStoreSummaryReport(
   lines.push(obsidianFrontmatter(`Résumé par magasin — ${frenchWeekRange(reportDate)}`, 'summary').trimEnd());
   lines.push(`# 🏬 Résumé par magasin — ${frenchWeekRange(reportDate)}`);
   lines.push(`${frenchDate(reportDate)} · Référence par magasin seulement.`);
-  lines.push(`Pour choisir des items, utilise \`${PICKER_FILE}\`. Ce fichier évite de dupliquer les cases.`);
+  lines.push(`Pour choisir des produits, utilise \`${PICKER_FILE}\`. Ce fichier évite de dupliquer les cases.`);
   lines.push('');
 
   for (const storeId of ALL_STORE_IDS) {
@@ -1254,7 +1423,7 @@ export function generateStoreSummaryReport(
     lines.push('---');
     lines.push('');
     lines.push(`## 🏬 ${storeName(storeId)}`);
-    const itemCount = deals.length > 1 ? `${deals.length} items retenus` : `1 item retenu`;
+    const itemCount = deals.length > 1 ? `${deals.length} produits retenus` : `1 produit retenu`;
     lines.push(`> [!info] ${itemCount}`);
     if (STORE_ADDRESSES[storeId]) lines.push(`> 📍 ${STORE_ADDRESSES[storeId]}`);
     lines.push('');
@@ -1286,20 +1455,20 @@ function generateWeeklyPackReadme(weekFolderName: string): string {
     '',
     `Ouvre ces fichiers dans cet ordre:`,
     '',
-    `1. \`../${FINAL_LIST_FILE}\` — liste finale automatique; coche ici pour enlever un item`,
-    `2. \`../${PICKER_FILE}\` — sélection principale pour ajouter ou enlever des items`,
+    `1. \`../${FINAL_LIST_FILE}\` — liste finale automatique; coche ici pour enlever un produit`,
+    `2. \`../${PICKER_FILE}\` — sélection principale pour ajouter ou enlever des produits`,
     `3. \`../${STORE_SUMMARY_FILE}\` — résumé par magasin en lecture seule`,
     `4. \`full-report.md\` — version complète`,
     '',
-    `Prix: tous les montants sont en CAD. Quand l'unité est connue, elle apparaît dans le prix (\`/lb\`, \`/kg\`, \`/L\`). Les items au poids peuvent aussi afficher l'équivalent au kg.`,
+    `Prix: tous les montants sont en CAD. Quand l'unité est connue, elle apparaît dans le prix (\`/lb\`, \`/kg\`, \`/L\`). Les produits au poids peuvent aussi afficher l'équivalent au kg.`,
     '',
-    `Rayons: chaque section peut contenir jusqu'à 20 items, mais seulement si les prix sont réels, vérifiables, alimentaires, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.`,
+    `Rayons: chaque section peut contenir jusqu'à 20 bons prix, mais seulement si les prix sont réels, vérifiables, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.`,
     '',
-    `Classification: céleri est traité comme fruits/légumes. Poisson pané et viandes froides sont traités comme viandes/poissons. Pizza est traitée comme surgelé même si le nom contient tomate. Bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto sont traités comme viandes, même si la source les classe en épicerie/garde-manger.`,
+    `Classification: céleri, kiwis, raisins, ail, ananas et avocats sont traités comme fruits/légumes. Goberge, creton, beefsteak, poisson pané, crabe, pollock, surimi et viandes froides sont traités comme viandes/poissons. Papier hygiénique, Kleenex, Q-tips, détergent, savon, shampoing et produits de nettoyage sont traités comme Maison et entretien. Pilules, médicaments et vitamines sont traités comme Santé et pharmacie. Pizza et repas congelés sont traités comme surgelés. Bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto sont traités comme viandes, même si la source les classe en épicerie/garde-manger.`,
     '',
     `Déduplication: les familles évidentes comme bologne, sauciflard/chorizo et boeuf haché extra maigre gardent seulement le meilleur représentant. Les rosettes de boeuf restent une famille séparée.`,
     '',
-    `Format visuel: dans \`${PICKER_FILE}\`, un sommaire de sections apparaît en haut, puis chaque section utilise du Markdown standard. Chaque item affiche \`- [ ] **Item** — **Prix**\`, puis le magasin, l'échelle, la raison et les comparaisons sous l'item. Les preuves photo restent ouvertes directement dans le fichier.`,
+    `Format visuel: dans \`${PICKER_FILE}\`, un sommaire de sections apparaît en haut, puis chaque section utilise du Markdown standard. Chaque produit affiche \`- [ ] **Produit** — **Prix**\`, puis le magasin, l'échelle, la raison et les comparaisons sous le produit. Les preuves photo restent ouvertes directement dans le fichier.`,
     '',
     `Les fichiers de ce dossier \`${TECHNICAL_DIR}/\` servent à l'audit et au débogage.`,
   ].join('\n');
@@ -1314,73 +1483,115 @@ function websiteSlug(input: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function writeWebsiteExport(shortlist: VerifiedDeal[], reportDate: Date, weekFolderName: string): { slug: string; weekJsonPath: string } {
+function dealToWebsiteItem(deal: VerifiedDeal, config: ShopperCategory, reportDate: Date, isDealMode: boolean) {
+  const strongDeal = Boolean(
+    isDealMode ||
+    deal.worth_buying ||
+    (
+      deal.cross_store_winner &&
+      !isNegativeOutcomeLabel(deal.label) &&
+      (deal.cross_store_savings ?? 0) >= 0.25
+    ) ||
+    (
+      deal.label === 'NOT_ENOUGH_HISTORY' &&
+      (deal.flipp_discount_pct ?? 0) >= 25
+    )
+  );
+
+  return {
+    id: pickerDealId(deal, reportDate),
+    name: deal.item_name,
+    normalizedName: deal.normalized_name ?? null,
+    categoryId: config.id,
+    categoryTitle: config.title,
+    categoryEmoji: categoryEmoji(config.id),
+    storeId: deal.store_id,
+    storeName: storeName(deal.store_id),
+    storeAddress: STORE_ADDRESSES[deal.store_id] ?? '',
+    price: priceWithUnit(deal),
+    currentPrice: deal.current_price,
+    unit: deal.unit ?? null,
+    scale: normalizedPriceLine(deal),
+    reason: strongDeal ? usefulDealReasonLine(deal) : null,
+    comparisons: strongDeal ? comparisonLines(deal) : [],
+    proofImageUrl: deal.source_image_url ?? null,
+    proofUrl: bestProofUrl(deal) ?? null,
+    sourceType: deal.source_type ?? null,
+    sourceSystem: deal.source_system ?? null,
+    saleStart: deal.sale_start ?? null,
+    saleEnd: deal.sale_end ?? null,
+    verificationConfidence: deal.verification_confidence,
+    verificationStatus: deal.verification_status,
+    itemKind: strongDeal ? 'deal' : 'seen',
+    badgeLabel: strongDeal ? 'Bon prix' : 'Produit trouvé',
+  };
+}
+
+function buildWebsiteCategories(deals: VerifiedDeal[], reportDate: Date, isDealMode: boolean) {
+  return SHOPPER_CATEGORIES
+    .map(config => {
+      const categoryDeals = deals
+        .filter(isPracticalShopperItem)
+        .filter(deal => classifyShopperCategory(deal) === config.id)
+        .sort(sortDealsForShopper);
+      return {
+        id: config.id,
+        title: config.title,
+        emoji: categoryEmoji(config.id),
+        items: categoryDeals.map(deal => dealToWebsiteItem(deal, config, reportDate, isDealMode)),
+      };
+    })
+    .filter(category => category.items.length > 0);
+}
+
+function writeWebsiteExport(shortlist: VerifiedDeal[], allDeals: ScoredDeal[], reportDate: Date, weekFolderName: string): { slug: string; weekJsonPath: string } {
   const slug = websiteSlug(weekFolderName);
   const weekDir = join(WEBSITE_WEEKS_DIR, slug);
   mkdirSync(weekDir, { recursive: true });
 
   const categoryWinners = pickCategoryWinners(shortlist);
-  const categories = SHOPPER_CATEGORIES
-    .map(config => {
-      const deals = categoryWinners.get(config.id) ?? [];
-      return {
-        id: config.id,
-        title: config.title,
-        emoji: categoryEmoji(config.id),
-        items: deals.map(deal => ({
-          id: pickerDealId(deal, reportDate),
-          name: deal.item_name,
-          normalizedName: deal.normalized_name ?? null,
-          categoryId: config.id,
-          categoryTitle: config.title,
-          categoryEmoji: categoryEmoji(config.id),
-          storeId: deal.store_id,
-          storeName: storeName(deal.store_id),
-          storeAddress: STORE_ADDRESSES[deal.store_id] ?? '',
-          price: priceWithUnit(deal),
-          currentPrice: deal.current_price,
-          unit: deal.unit ?? null,
-          scale: normalizedPriceLine(deal),
-          reason: usefulDealReasonLine(deal),
-          comparisons: comparisonLines(deal),
-          proofImageUrl: deal.source_image_url ?? null,
-          proofUrl: bestProofUrl(deal) ?? null,
-          sourceType: deal.source_type ?? null,
-          sourceSystem: deal.source_system ?? null,
-          saleStart: deal.sale_start ?? null,
-          saleEnd: deal.sale_end ?? null,
-          verificationConfidence: deal.verification_confidence,
-          verificationStatus: deal.verification_status,
-        })),
-      };
-    })
-    .filter(category => category.items.length > 0);
+  const dealCategories = buildWebsiteCategories(
+    SHOPPER_CATEGORIES.flatMap(config => categoryWinners.get(config.id) ?? []),
+    reportDate,
+    true,
+  );
+
+  const allCategories = buildWebsiteCategories(
+    deduplicateDisplayDeals(deduplicateDeals(allDeals)).map(verifyDeal).filter(d => d.verification_status !== 'UNVERIFIED'),
+    reportDate,
+    false,
+  );
 
   const stores = ALL_STORE_IDS
     .map(storeId => ({
       id: storeId,
       name: storeName(storeId),
       address: STORE_ADDRESSES[storeId] ?? '',
-      itemCount: categories.reduce((sum, category) => sum + category.items.filter(item => item.storeId === storeId).length, 0),
+      itemCount: dealCategories.reduce((sum, category) => sum + category.items.filter(item => item.storeId === storeId).length, 0),
+      allItemCount: allCategories.reduce((sum, category) => sum + category.items.filter(item => item.storeId === storeId).length, 0),
     }))
-    .filter(store => store.itemCount > 0);
+    .filter(store => store.itemCount > 0 || store.allItemCount > 0);
 
-  const itemCount = categories.reduce((sum, category) => sum + category.items.length, 0);
+  const itemCount = dealCategories.reduce((sum, category) => sum + category.items.length, 0);
+  const allItemCount = allCategories.reduce((sum, category) => sum + category.items.length, 0);
   const week = {
-    schemaVersion: 1,
+    schemaVersion: 2,
     slug,
     folderName: weekFolderName,
     title: `Liste d'épicerie — ${frenchWeekRange(reportDate)}`,
     weekRange: frenchWeekRange(reportDate),
     generatedAt: reportDate.toISOString(),
     itemCount,
+    allItemCount,
     method: {
       title: 'D’où viennent les choix',
       sourceSummary: `Prix en CAD tirés des circulaires et données structurées disponibles pour ${stores.map(store => store.name).join(', ')}.`,
-      selectionSummary: `Chaque rayon peut afficher jusqu’à ${Math.max(...SHOPPER_CATEGORIES.map(category => category.maxItems))} bons prix, mais seulement si les items sont alimentaires, vérifiables, utiles pour une vraie course et non redondants.`,
-      noPaddingSummary: `Si un rayon contient peu d’items, c’est qu’il n’y avait pas assez de bons prix solides cette semaine; le système n’ajoute pas de faux deals pour remplir la page.`,
+      selectionSummary: `Bons prix montre seulement les meilleurs choix. Tous les produits permet de retrouver les autres produits trouvés dans les circulaires sans les présenter comme des rabais.`,
+      noPaddingSummary: `Si un rayon contient peu de produits, c’est qu’il n’y avait pas assez de bons prix solides cette semaine; le système n’ajoute pas de faux rabais pour remplir la page.`,
     },
-    categories,
+    categories: dealCategories,
+    dealCategories,
+    allCategories,
     stores,
   };
 
@@ -1399,6 +1610,7 @@ function writeWebsiteExport(shortlist: VerifiedDeal[], reportDate: Date, weekFol
     weekRange: week.weekRange,
     generatedAt: week.generatedAt,
     itemCount,
+    allItemCount,
     path: `data/weeks/${slug}/week.json`,
   };
   const nextWeeks = [nextWeek, ...weeks.filter(week => week.slug !== slug)]
@@ -1433,7 +1645,7 @@ function generateComparisonReport(
   lines.push('');
   lines.push(`## Statut`);
   lines.push('');
-  lines.push(`- La liste vérifiée exclut les non-alimentaires, les libellés groupés ambigus et les items sans preuve structurée suffisante.`);
+  lines.push(`- La liste vérifiée exclut les non-alimentaires, les libellés groupés ambigus et les produits sans preuve structurée suffisante.`);
   lines.push(`- Cette version est la meilleure candidate pour l'usage réel par ta mère.`);
   return lines.join('\n');
 }
@@ -1588,7 +1800,7 @@ export async function generateReport(
   writeFileSync(weeklyPack.verified, JSON.stringify(shortlist, null, 2), 'utf-8');
   writeFileSync(weeklyPack.scored, JSON.stringify(scoredPayload, null, 2), 'utf-8');
   writeFileSync(weeklyPack.pickerItems, JSON.stringify(picker.items, null, 2), 'utf-8');
-  writeWebsiteExport(shortlist, now, weekFolderName);
+  writeWebsiteExport(shortlist, scored, now, weekFolderName);
 
   return {
     filepath,

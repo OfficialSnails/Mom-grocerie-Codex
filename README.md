@@ -2,15 +2,15 @@
 
 Outil hebdomadaire pour produire une liste d'épicerie claire, pratique et vérifiable pour Joliette.
 
-Le point d'entrée humain officiel est maintenant:
+Le point d'entrée humain officiel côté Markdown est maintenant:
 
-- `reports/weeks/Semaine du 11 au 17 mai 2026/00 Liste d'épicerie.md`
-- `reports/weeks/Semaine du 11 au 17 mai 2026/01 Choix d'items.md`
-- `reports/weeks/Semaine du 11 au 17 mai 2026/02 Sélection par épicerie.md`
+- `reports/weeks/Semaine du 14 au 20 mai 2026/00 Liste d'épicerie.md`
+- `reports/weeks/Semaine du 14 au 20 mai 2026/01 Choix d'items.md`
+- `reports/weeks/Semaine du 14 au 20 mai 2026/02 Sélection par épicerie.md`
 
 Le dossier hebdomadaire est aussi exporté automatiquement vers Obsidian Dropbox:
 
-- `/Users/slugz/Library/CloudStorage/Dropbox/OTHERS/OBSIDIAN MD/Bons speciaux/Semaine du 11 au 17 mai 2026/`
+- `/Users/slugz/Library/CloudStorage/Dropbox/OTHERS/OBSIDIAN MD/Bons speciaux/Semaine du 14 au 20 mai 2026/`
 
 Le reste du dossier `reports/` existe surtout pour l'archive, l'audit et le débogage.
 
@@ -23,6 +23,11 @@ Le reste du dossier `reports/` existe surtout pour l'archive, l'audit et le déb
    - une liste d'épicerie lisible
    - un résumé par magasin en lecture seule
    - les preuves et fichiers techniques associés
+5. Mettre à jour le site statique avec deux modes:
+   - `Bons prix` pour les vrais rabais utiles, mode par défaut
+   - `Tous les produits` pour chercher les produits trouvés dans les circulaires sans les présenter comme des rabais
+
+Les semaines suivent le cycle réel des circulaires du jeudi au mercredi, par exemple `14 au 20 mai 2026`, puis `21 au 27 mai 2026`.
 
 ## Commandes
 
@@ -61,27 +66,27 @@ http://localhost:4187
 
 ## Où regarder après un run
 
-Exemple pour la semaine du 11 au 17 mai 2026:
+Exemple pour la semaine du 14 au 20 mai 2026:
 
-- dossier principal: `reports/weeks/Semaine du 11 au 17 mai 2026/`
-- fichier final: `reports/weeks/Semaine du 11 au 17 mai 2026/00 Liste d'épicerie.md`
-- fichier à cocher: `reports/weeks/Semaine du 11 au 17 mai 2026/01 Choix d'items.md`
-- résumé par magasin en lecture seule: `reports/weeks/Semaine du 11 au 17 mai 2026/02 Sélection par épicerie.md`
-- guide local: `reports/weeks/Semaine du 11 au 17 mai 2026/Autres/README.md`
+- dossier principal: `reports/weeks/Semaine du 14 au 20 mai 2026/`
+- fichier final: `reports/weeks/Semaine du 14 au 20 mai 2026/00 Liste d'épicerie.md`
+- fichier à cocher: `reports/weeks/Semaine du 14 au 20 mai 2026/01 Choix d'items.md`
+- résumé par magasin en lecture seule: `reports/weeks/Semaine du 14 au 20 mai 2026/02 Sélection par épicerie.md`
+- guide local: `reports/weeks/Semaine du 14 au 20 mai 2026/Autres/README.md`
 - site local: `website/index.html`
-- données web: `website/data/weeks/semaine-du-11-au-17-mai-2026/week.json`
+- données web: `website/data/weeks/semaine-du-14-au-20-mai-2026/week.json`
 
 ## Ce que contient le dossier hebdomadaire
 
 Chaque dossier hebdomadaire `reports/weeks/Semaine du .../` contient:
 
-- `00 Liste d'épicerie.md` — la liste finale automatique, regroupée par magasin; coche une case ici pour enlever un item déjà choisi
-- `01 Choix d'items.md` — version principale pour ajouter ou enlever des items
+- `00 Liste d'épicerie.md` — la liste finale automatique, regroupée par magasin; coche une case ici pour enlever un produit déjà choisi
+- `01 Choix d'items.md` — version principale pour ajouter ou enlever des produits
 - `02 Sélection par épicerie.md` — résumé par magasin en lecture seule
 - `Autres/README.md` — guide local
 - `Autres/full-report.md` — version complète de la semaine
 - `Autres/audit.json` — piste d'audit machine-readable
-- `Autres/raw-items.json` — snapshot brut des items collectés
+- `Autres/raw-items.json` — snapshot brut des produits collectés
 - `Autres/verified-shortlist.json` — shortlist vérifiée
 - `Autres/scored.json` — snapshot scoré complet
 
@@ -91,7 +96,7 @@ Le run hebdomadaire installe aussi le snippet Obsidian:
 
 - `.obsidian/snippets/bons-speciaux.css`
 
-Les fichiers `00 Liste d'épicerie.md`, `01 Choix d'items.md` et `02 Sélection par épicerie.md` reçoivent automatiquement `cssclasses: bons-speciaux`. Si les snippets CSS sont actifs dans Obsidian, les items apparaissent comme des cartes plus propres, avec sections, preuves et détails mieux séparés. Si le snippet n'est pas actif sur un appareil, les fichiers restent du Markdown lisible.
+Les fichiers `00 Liste d'épicerie.md`, `01 Choix d'items.md` et `02 Sélection par épicerie.md` reçoivent automatiquement `cssclasses: bons-speciaux`. Si les snippets CSS sont actifs dans Obsidian, les produits apparaissent comme des cartes plus propres, avec sections, preuves et détails mieux séparés. Si le snippet n'est pas actif sur un appareil, les fichiers restent du Markdown lisible.
 
 Le format visuel attendu de `01 Choix d'items.md` est:
 
@@ -102,7 +107,7 @@ Le format visuel attendu de `01 Choix d'items.md` est:
 
 ## 🥬 Fruits et légumes
 
-- [ ] **Nom de l'item** — **Prix**
+- [ ] **Nom du produit** — **Prix**
   - 📍 **Magasin:** Nom du magasin
   - ⚖️ **Échelle:** équivalent ou unité non confirmée, si utile
   - ✅ **Pourquoi:** raison courte
@@ -113,11 +118,11 @@ Le format visuel attendu de `01 Choix d'items.md` est:
 
 Règles UI importantes:
 
-- Le prix reste sur la même ligne que le nom de l'item.
-- Le magasin reste juste sous l'item avec `📍 **Magasin:**`.
-- Les détails secondaires restent sous l'item en sous-puces pour éviter les marqueurs Markdown brisés dans Obsidian.
+- Le prix reste sur la même ligne que le nom du produit.
+- Le magasin reste juste sous le produit avec `📍 **Magasin:**`.
+- Les détails secondaires restent sous le produit en sous-puces pour éviter les marqueurs Markdown brisés dans Obsidian.
 - Le sommaire en haut sert de navigation rapide entre les sections.
-- `00 Liste d'épicerie.md` utilise des cases vides comme action de retrait: cocher une case enlève l'item et décoche le picker.
+- `00 Liste d'épicerie.md` utilise des cases vides comme action de retrait: cocher une case enlève le produit et décoche le picker.
 
 ## Site local
 
@@ -134,17 +139,21 @@ Le site ne scrape rien. Il lit seulement les fichiers JSON générés par `npm r
 Fonctionnement:
 
 - la page d'accueil montre les semaines disponibles
-- chaque semaine ouvre une interface en 3 zones: contrôles en haut, items du rayon actif au centre, panier final à droite
+- chaque semaine ouvre une interface en 3 zones: contrôles en haut, produits du rayon actif au centre, panier final à droite
+- le mode `Bons prix` est le mode par défaut et ne montre que les rabais retenus
+- le mode `Tous les produits` permet de chercher ou parcourir les produits trouvés dans les circulaires générées, avec le badge `Produit trouvé` quand ce n'est pas un vrai bon prix
 - la semaine se choisit avec un menu déroulant intégré en haut, sans menu natif qui recouvre les autres champs
 - cliquer un rayon en haut change le contenu central sans faire sauter la page de haut en bas
 - les rayons restent visibles en lignes de boutons; ne pas revenir à un rail horizontal à scroller
-- la recherche en haut permet de trouver directement un item sans connaître son rayon
-- les items sont présentés en cartes produit: preuve visuelle en haut, nom/prix/magasin en dessous, bouton `Ajouter`
+- choisir une épicerie garde ce magasin actif quand on clique un rayon; les compteurs des rayons doivent alors être calculés pour ce magasin et le mode courant
+- la recherche en haut ignore le rayon actif pour trouver directement un produit dans toutes les catégories; elle respecte quand même le filtre épicerie si une épicerie est choisie
+- les produits sont présentés en cartes produit: preuve visuelle en haut, nom/prix/magasin en dessous, bouton `Ajouter`
 - si aucune image n'existe, la carte garde un emplacement propre `Image non disponible` au lieu de casser la grille
 - le haut de page explique les sources et la méthode: magasins utilisés, prix CAD, limite maximale par rayon et raison pour laquelle un rayon peut être court
-- cocher un item l'ajoute au panier final à droite et met à jour le compteur de panier
+- ajouter un produit l'envoie au panier final à droite et met à jour le compteur de panier
 - la liste finale est regroupée par épicerie avec adresse et prix
-- `Exporter PDF` crée une liste propre avec magasin, adresse, item et prix seulement. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
+- la zone `Notes` du panier est sauvegardée localement et apparaît dans le PDF sous `Notes`
+- `Exporter PDF` crée une liste propre avec magasin, adresse, produit, prix et notes seulement. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
 - la sélection est sauvegardée dans le navigateur avec `localStorage`
 
 Important: un site hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur. Le site public génère donc un PDF téléchargeable dans le navigateur; l'utilisateur choisit ensuite où le sauvegarder, l'imprime ou l'envoie à son téléphone.
@@ -183,7 +192,7 @@ Déploiement vérifié:
 
 Important pour la version hébergée:
 
-- la sélection d'items fonctionne dans le navigateur avec `localStorage`
+- la sélection de produits fonctionne dans le navigateur avec `localStorage`
 - les prix et images viennent des JSON générés par le run hebdomadaire
 - l'export PDF direct vers `~/Desktop` reste local seulement, via `npm run web`
 - sur Cloudflare Pages statique, le bouton génère un PDF téléchargeable côté navigateur, compatible Windows/Mac sans serveur local
@@ -235,15 +244,18 @@ Checklist minimum:
 
 - la page charge sans erreur
 - une carte de semaine apparaît
-- ouvrir la semaine affiche les contrôles en haut, les items au centre et le panier à droite
+- ouvrir la semaine affiche les contrôles en haut, les produits au centre et le panier à droite
 - cliquer un rayon change le rayon actif sans scroll violent
 - tous les rayons restent visibles sans scroll horizontal
-- la recherche trouve un item à travers tous les rayons
-- choisir une épicerie dans `Voir par épicerie` affiche tous les bons prix de ce magasin, tous rayons confondus
-- cliquer ensuite un rayon remet la vue par rayon et vide le filtre épicerie
+- la recherche trouve un produit à travers tous les rayons
+- choisir une épicerie dans `Voir par épicerie` affiche les produits de ce magasin dans le mode actif
+- cliquer ensuite un rayon garde l'épicerie sélectionnée et filtre seulement ce rayon pour cette épicerie
+- chercher un mot comme `baguette` trouve le produit même si le rayon actif est `Fruits et légumes`
+- changer entre `Bons prix` et `Tous les produits` conserve la sélection finale
 - les cartes produit gardent une image ou un placeholder propre
-- cocher un item l'ajoute au panier final à droite et au compteur de panier
-- décocher ou vider la sélection retire l'item
+- cocher un produit l'ajoute au panier final à droite et au compteur de panier
+- décocher ou vider la sélection retire le produit
+- écrire une note dans le panier, recharger la page, et vérifier que la note reste là
 - `Exporter PDF` crée un PDF sur `~/Desktop` en local, ou télécharge un PDF depuis le site hébergé
 - les photos de preuve, prix, unités et magasins restent lisibles
 
@@ -252,15 +264,19 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 ## Règles de confiance
 
 - Tous les prix sont en dollars canadiens
-- Les items Flipp affichent maintenant une preuve visuelle intégrée quand disponible
-- Les preuves photo des items retenus restent visibles directement dans le Markdown
+- Les produits Flipp affichent maintenant une preuve visuelle intégrée quand disponible
+- Les preuves photo des produits retenus restent visibles directement dans le Markdown
 - Les prix affichent l'unité quand elle est connue (`/lb`, `/kg`, `/L`, etc.)
-- Les items au poids avec prix en livre affichent aussi l'équivalent au kg quand disponible
+- Les produits au poids avec prix en livre affichent aussi l'équivalent au kg quand disponible
 - Les preuves photo sont aussi passées dans un OCR local conservateur quand `tesseract` est disponible. Le système peut alors récupérer des formats évidents comme `/100g`, `/lb` ou `/kg` même si l'API Flipp ne les donne pas.
 - Si l'unité n'est pas confirmée, la liste affiche seulement `Format à vérifier sur la photo.` quand une preuve existe, ou `Format non confirmé.` sans preuve photo.
 - Les raisons génériques comme `Premier aperçu retenu` et `Bon prix si tu en as besoin` sont masquées dans les sorties visibles. Garder seulement les raisons utiles: économies historiques, pourcentages, comparaison gagnante ou autre explication concrète.
-- Chaque rayon peut afficher jusqu'à 20 items, mais seulement si les prix sont réels, vérifiables, alimentaires, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.
-- La classification doit privilégier l'usage réel de l'épicerie: céleri va dans `Fruits et légumes`; poisson pané et viandes froides vont dans `Viandes et poissons`; pizza va dans `Surgelés`, même si le nom contient tomate; bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto vont dans `Viandes et poissons`, même si la source les classe vaguement en épicerie.
+- Chaque rayon peut afficher jusqu'à 20 bons prix, mais seulement si les prix sont réels, vérifiables, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.
+- Le mode `Tous les produits` peut afficher plus large, mais ces produits doivent rester marqués `Produit trouvé` et ne doivent pas être présentés comme des rabais.
+- Le mode `Tous les produits` doit dédupliquer les variantes évidentes d'une même tuile de circulaire: même magasin, même prix et titre quasi identique. L'image identique aide, mais certaines tuiles Flipp/Wishabi ont des URLs différentes; la similarité du titre doit rester forte. Garder la version la plus descriptive, sans fusionner deux magasins, deux prix ou deux produits différents.
+- La classification doit privilégier l'usage réel de l'épicerie: céleri, kiwi, raisins, ail, ananas et avocat vont dans `Fruits et légumes`; goberge/crabe/pollock/surimi, creton, beefsteak, poisson pané et viandes froides vont dans `Viandes et poissons`; pizza et repas congelés vont dans `Surgelés`; pilules, médicaments et vitamines vont dans `Santé et pharmacie`; bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto vont dans `Viandes et poissons`, même si la source les classe vaguement en épicerie.
+- `Maison et entretien` regroupe les essentiels non alimentaires utiles: détergent, lessive, savon à vaisselle, produits nettoyants, papier hygiénique, papier essuie-tout, Kleenex/mouchoirs, Q-tips/coton-tiges, shampoing, savon, antisudorifique, couches et hygiène de base.
+- `Épicerie / garde-manger` est le fallback seulement après les règles fortes: viandes/poissons, fruits/légumes, surgelés, boulangerie, maison/entretien et santé/pharmacie.
 - La déduplication doit garder le meilleur représentant d'une même famille évidente, par exemple bologne, sauciflard/chorizo ou boeuf haché extra maigre. Les rosettes de boeuf ne doivent pas être confondues avec le sauciflard/chorizo.
 - Les entrées manuelles sans image affichent explicitement:
   - `⚠️ Preuve photo manquante (entrée manuelle)`
@@ -271,7 +287,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 
 ### Source principale
 
-- Flipp / Wishabi pour Metro, Maxi, IGA, Super C, BoniChoix Joliette, Inter-Marché et Marchés Tradition
+- Flipp / Wishabi pour Metro, Maxi, IGA, Super C, BoniChoix Joliette, Inter-Marché, Marchés Tradition et Familiprix
 
 ### Source secondaire
 
@@ -279,7 +295,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 
 ### Source de secours
 
-- Adaptateurs Firecrawl présents, mais désactivés par défaut
+- Adaptateurs Firecrawl présents pour investigation ponctuelle. Familiprix a été vérifié avec Firecrawl, mais les produits détaillés viennent de Flipp/Wishabi parce que la page publique Familiprix ne donne pas un flux de produits suffisamment fiable.
 
 ## État actuel
 
@@ -293,7 +309,7 @@ Le pipeline est prêt pour un nouveau run dans une nouvelle fenêtre:
 - `npm run weekly` doit aussi mettre à jour `website/data/weeks/index.json` et `website/data/weeks/<semaine>/week.json`
 - après un changement UI web, `npm run web` doit être validé dans un vrai navigateur avec Agent Browser ou Playwright quand disponible
 - la synchronisation auto doit démarrer pour que cocher une case dans `01 Choix d'items.md` ajoute à `00 Liste d'épicerie.md`
-- cocher une case dans `00 Liste d'épicerie.md` doit enlever l'item de `01 Choix d'items.md`
+- cocher une case dans `00 Liste d'épicerie.md` doit enlever le produit de `01 Choix d'items.md`
 - le fichier à lire en premier dans Obsidian est `00 Liste d'épicerie.md`
 
 ## Structure utile
@@ -309,7 +325,7 @@ data/
 
 reports/
   weeks/
-    Semaine du 11 au 17 mai 2026/
+    Semaine du 14 au 20 mai 2026/
       00 Liste d'épicerie.md
       01 Choix d'items.md
       02 Sélection par épicerie.md

@@ -1,6 +1,6 @@
-# 🧾 Liste vérifiée — 11 au 17 mai 2026
+# 🧾 Liste vérifiée — 14 au 20 mai 2026
 17 mai 2026 · Joliette et région
-Prix en CAD. Cette liste finale ne garde que les items alimentaires avec preuve structurée suffisante pour un achat réel.
+Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preuve structurée suffisante pour un achat réel.
 
 ## Metro Joliette
 📍 180 rue Beaudry N, Joliette
@@ -30,51 +30,58 @@ Prix en CAD. Cette liste finale ne garde que les items alimentaires avec preuve 
 > Vérification: VERIFIED_MANUAL · Entrée manuelle retenue; confirmation visuelle recommandée.
 ⚠️ Preuve photo manquante (entrée manuelle)
 
-**5.** ❓ **MINI CONCOMBRES** — 1,44 $
+**5.** ❓ **ASSOUPLISSEUR DE TISSUS FLEECY** — 5,99 $
+> 🏆 Choix gagnant: moins cher que Super C 9,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419653446/1778227707/extra_large.jpg" alt="Preuve prix ASSOUPLISSEUR DE TISSUS FLEECY" width="220" />
+> Texte source: ASSOUPLISSEUR DE TISSUS FLEECY | FLEECY FABRIC SOFTENER
+
+**6.** ❓ **MINI CONCOMBRES** — 1,44 $
 > 🏆 Choix gagnant: moins cher que Super C 1,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420082660/1778532275/extra_large.jpg" alt="Preuve prix MINI CONCOMBRES" width="220" />
 > Texte source: MINI CONCOMBRES | MINI CUCUMBERS
 
-**6.** ❓ **BOLOGNE OLYMEL** — 1,39 $
+**7.** ❓ **BOLOGNE OLYMEL** — 1,39 $
 > 🏆 Choix gagnant: moins cher que BoniChoix Joliette 6,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653428/1778227715/extra_large.jpg" alt="Preuve prix BOLOGNE OLYMEL" width="220" />
 
-**7.** ❓ **PORTIONS DE POISSON PANÉES BLUE WATER** — 7,99 $
+**8.** ❓ **PORTIONS DE POISSON PANÉES BLUE WATER** — 7,99 $
 > 🏆 Choix gagnant: moins cher que Super C 9,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653370/1778227702/extra_large.jpg" alt="Preuve prix PORTIONS DE POISSON PANÉES BLUE WATER" width="220" />
 > Texte source: PORTIONS DE POISSON PANÉES BLUE WATER | BLUE WATER BREADED FISH PORTIONS
 
-**8.** ❓ **BLEUETS BIOLOGIQUES** — 2,99 $
+**9.** ❓ **BLEUETS BIOLOGIQUES** — 2,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653280/1778227708/extra_large.jpg" alt="Preuve prix BLEUETS BIOLOGIQUES" width="220" />
 > Texte source: BLEUETS BIOLOGIQUES | ORGANIC BLUEBERRIES
 
-**9.** ❓ **ESKA NATURAL SPRING WATER** — 5,49 $
+**10.** ❓ **ESKA NATURAL SPRING WATER** — 5,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653293/1778227704/extra_large.jpg" alt="Preuve prix ESKA NATURAL SPRING WATER" width="220" />
 > Texte source: ESKA NATURAL SPRING WATER | ESKA NATURAL SPRING WATER
 
-**10.** ❓ **LÉGUMINEUSES CEDAR** — 2,00 $
+**11.** ❓ **LÉGUMINEUSES CEDAR** — 2,00 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653488/1778227707/extra_large.jpg" alt="Preuve prix LÉGUMINEUSES CEDAR" width="220" />
 > Texte source: LÉGUMINEUSES CEDAR | CEDAR LEGUMES
 
-**11.** ❓ **BARRES À L'AVOINE OATBOX** — 3,99 $
+**12.** ❓ **BARRES À L'AVOINE OATBOX** — 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653502/1778227719/extra_large.jpg" alt="Preuve prix BARRES À L'AVOINE OATBOX" width="220" />
 > Texte source: BARRES À L'AVOINE OATBOX | OATBOX OATMEAL BARS
 
-**12.** ❓ **BAGUETTE FRANÇAISE** — 1,99 $
+**13.** ❓ **BAGUETTE FRANÇAISE** — 1,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653273/1778227702/extra_large.jpg" alt="Preuve prix BAGUETTE FRANÇAISE" width="220" />
@@ -122,21 +129,21 @@ Prix en CAD. Cette liste finale ne garde que les items alimentaires avec preuve 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420354071/1778698748/extra_large.jpg" alt="Preuve prix MAYONNAISE MAG" width="220" />
 
-**8.** ❓ **Croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g** — 2,00 $
+**8.** ❓ **PAPIER HYGIÉNIQUE CASHMERE 20=60 ROULEAUX OU MOUCHOIRS SCOTTIES 12X126 FEUILLES** — 11,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/420354064/1778698745/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE CASHMERE 20=60 ROULEAUX OU MOUCHOIRS SCOTTIES 12X126 FEUILLES" width="220" />
+
+**9.** ❓ **Croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g** — 2,00 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420354068/1778698746/extra_large.jpg" alt="Preuve prix Croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g" width="220" />
 > Texte source: croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g
 
-**9.** ❓ **BARRE DE FROMAGE OU RÂPÉ MOZZARELLISSIMA SAPUTO, 1 KG** — 10,99 $
+**10.** ❓ **BARRE DE FROMAGE OU RÂPÉ MOZZARELLISSIMA SAPUTO, 1 KG** — 10,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420354096/1778698757/extra_large.jpg" alt="Preuve prix BARRE DE FROMAGE OU RÂPÉ MOZZARELLISSIMA SAPUTO, 1 KG" width="220" />
-
-**10.** ❓ **CHAMPIGNONS BLANCS ENTIERS PC, 227 g** — 0,99 $
-> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/420354086/1778698753/extra_large.jpg" alt="Preuve prix CHAMPIGNONS BLANCS ENTIERS PC, 227 g" width="220" />
 
 ## IGA Joliette
 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
@@ -431,57 +438,85 @@ Prix en CAD. Cette liste finale ne garde que les items alimentaires avec preuve 
 > 🏆 Choix gagnant: moins cher que IGA 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/420019575/1778506193/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
+<img src="https://f.wishabi.net/page_items/419401252/1778519718/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
 
-**3.** ❓ **TARTINADE NUTELLA** — 5,49 $
+**3.** ❓ **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
+> 🏆 Choix gagnant: moins cher que BoniChoix Joliette 5,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419401308/1778506057/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
+
+**4.** ❓ **TARTINADE NUTELLA** — 5,49 $
 > 🏆 Choix gagnant: moins cher que IGA 6,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419395026/1778506208/extra_large.jpg" alt="Preuve prix TARTINADE NUTELLA" width="220" />
 
-**4.** ❓ **BURGERS DE BŒUF WAGYU SURGELÉS RICARDO** — 13,99 $
+**5.** ❓ **BURGERS DE BŒUF WAGYU SURGELÉS RICARDO** — 13,99 $
 > 🏆 Choix gagnant: moins cher que IGA 15,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419395052/1778506197/extra_large.jpg" alt="Preuve prix BURGERS DE BŒUF WAGYU SURGELÉS RICARDO" width="220" />
 
-**5.** ❓ **PEPPERONI TRANCHÉ ROMA** — 3,99 $
+**6.** ❓ **PEPPERONI TRANCHÉ ROMA** — 3,99 $
 > 🏆 Choix gagnant: moins cher que IGA 4,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419394950/1778506197/extra_large.jpg" alt="Preuve prix PEPPERONI TRANCHÉ ROMA" width="220" />
 
-**6.** ❓ **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
-> 🏆 Choix gagnant: moins cher que BoniChoix Joliette 5,99 $
+**7.** ❓ **PIZZA SURGELÉE DR.OETKER, RISTORANTE, CASA DI MAMA** — 3,47 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/419394987/1778506195/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
+<img src="https://f.wishabi.net/page_items/419401247/1778519711/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER, RISTORANTE, CASA DI MAMA" width="220" />
 
-**7.** ❓ **PIZZA SURGELÉE DR. OETKER** — 3,47 $
+**8.** ❓ **FARINE FIVE ROSES OU ROBIN HOOD** — 8,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/419394970/1778506190/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR. OETKER" width="220" />
+<img src="https://f.wishabi.net/page_items/419401306/1778506055/extra_large.jpg" alt="Preuve prix FARINE FIVE ROSES OU ROBIN HOOD" width="220" />
 
-**8.** ❓ **FROMAGE OU FROMAGE RÂPÉ CRACKER BARREL** — 5,97 $
+**9.** ❓ **STRUB'S MARINADES** — 2,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/420019578/1778506196/extra_large.jpg" alt="Preuve prix FROMAGE OU FROMAGE RÂPÉ CRACKER BARREL" width="220" />
+<img src="https://f.wishabi.net/page_items/419401312/1778506060/extra_large.jpg" alt="Preuve prix STRUB'S MARINADES" width="220" />
 
-**9.** ❓ **FARINE FIVE ROSES OR ROBIN HOOD** — 8,99 $
+**10.** ❓ **HOSTESS GÂTEAUX** — 2,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/419394988/1778506195/extra_large.jpg" alt="Preuve prix FARINE FIVE ROSES OR ROBIN HOOD" width="220" />
+<img src="https://f.wishabi.net/page_items/419401264/1778506060/extra_large.jpg" alt="Preuve prix HOSTESS GÂTEAUX" width="220" />
 
-**10.** ❓ **MARINADES STRUB'S** — 2,99 $
+**11.** ❓ **CÔTES LEVÉES DE DOS DE PORC FRAIS** — 7,99 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/419394984/1778506193/extra_large.jpg" alt="Preuve prix MARINADES STRUB'S" width="220" />
+<img src="https://f.wishabi.net/page_items/419401299/1778506066/extra_large.jpg" alt="Preuve prix CÔTES LEVÉES DE DOS DE PORC FRAIS" width="220" />
 
-**11.** ❓ **BOLOGNE SUNRISE** — 8,95 $
+## Familiprix Joliette
+📍 Joliette
+
+**1.** ❓ **ENSURE, Substitut de repas/, 6 x 235 ml** — 11,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/419394983/1778506192/extra_large.jpg" alt="Preuve prix BOLOGNE SUNRISE" width="220" />
+<img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
+
+**2.** ❓ **DEPEND, Produits et formats sélectionnés** — 15,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419714457/1778225012/extra_large.jpg" alt="Preuve prix DEPEND, Produits et formats sélectionnés" width="220" />
+
+**3.** ❓ **BABY MUM-MUM, Gaufrettes de dentition douces, 50 g** — 2,79 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419713934/1778225029/extra_large.jpg" alt="Preuve prix BABY MUM-MUM, Gaufrettes de dentition douces, 50 g" width="220" />
+
+**4.** ❓ **DOVE Savon en barres, 12 x 106 g** — 15,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419713686/1778225007/extra_large.jpg" alt="Preuve prix DOVE Savon en barres, 12 x 106 g" width="220" />
+
+**5.** ❓ **GLUCERNA, Substitut de repas, 6 x 237 ml** — 11,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
 
 ---
-📊 78 items retenus pour achat réel
+📊 84 produits retenus pour achat réel
 *Liste finale vérifiée générée le 17 mai 2026.*

@@ -79,8 +79,9 @@ export function shouldRunSource(sourceId: string): { allowed: boolean; reason: s
     return { allowed: false, reason: "Conditions d'utilisation interdisent la collecte" };
   }
 
-  // Rate limit: don't run more than once per MIN_DAYS_BETWEEN_RUNS days
-  if (status.last_success_at) {
+  // Rate limit only applies to Firecrawl-backed sources; direct public APIs are
+  // cheap enough to refresh on the weekly flyer cycle.
+  if (status.collection_method === 'firecrawl' && status.last_success_at) {
     const lastRun = new Date(status.last_success_at);
     const daysSince = differenceInDays(new Date(), lastRun);
     if (!ignoreRateLimit && daysSince < MIN_DAYS_BETWEEN_RUNS) {
