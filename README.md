@@ -144,10 +144,10 @@ Fonctionnement:
 - le haut de page explique les sources et la méthode: magasins utilisés, prix CAD, limite maximale par rayon et raison pour laquelle un rayon peut être court
 - cocher un item l'ajoute au panier final à droite et met à jour le compteur de panier
 - la liste finale est regroupée par épicerie avec adresse et prix
-- `Exporter PDF` demande au serveur local de créer un PDF propre directement sur le bureau de l'utilisateur; le PDF reste volontairement simple avec magasin, adresse, item et prix seulement
+- `Exporter PDF` crée une liste propre avec magasin, adresse, item et prix seulement. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
 - la sélection est sauvegardée dans le navigateur avec `localStorage`
 
-Important: l'export PDF direct vers le bureau fonctionne seulement avec `npm run web`, car c'est le serveur local Node qui écrit le fichier. Un site statique hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur; pour une version hébergée, il faudra revenir à un téléchargement navigateur ou à un service serveur.
+Important: un site hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur. Le site public génère donc un PDF téléchargeable dans le navigateur; l'utilisateur choisit ensuite où le sauvegarder, l'imprime ou l'envoie à son téléphone.
 
 ### Mise en ligne Cloudflare Pages
 
@@ -186,7 +186,7 @@ Important pour la version hébergée:
 - la sélection d'items fonctionne dans le navigateur avec `localStorage`
 - les prix et images viennent des JSON générés par le run hebdomadaire
 - l'export PDF direct vers `~/Desktop` reste local seulement, via `npm run web`
-- sur Cloudflare Pages statique, il faudra utiliser un téléchargement navigateur ou une fonction serveur séparée pour remplacer l'export local
+- sur Cloudflare Pages statique, le bouton génère un PDF téléchargeable côté navigateur, compatible Windows/Mac sans serveur local
 - ne jamais publier `.env`, `.cache/`, `node_modules/`, `output/` ou les logs; ils sont ignorés par `.gitignore`
 
 ### Mise à jour automatique avec GitHub
@@ -245,7 +245,7 @@ Checklist minimum:
 - les cartes produit gardent une image ou un placeholder propre
 - cocher un item l'ajoute au panier final à droite et au compteur de panier
 - décocher ou vider la sélection retire l'item
-- `Exporter PDF` crée un PDF sur `~/Desktop`
+- `Exporter PDF` crée un PDF sur `~/Desktop` en local, ou télécharge un PDF depuis le site hébergé
 - les photos de preuve, prix, unités et magasins restent lisibles
 
 Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Pour Playwright, prendre un snapshot avant les clics, utiliser les références d'éléments du snapshot, puis capturer une image dans `output/playwright/` si un artefact visuel aide à vérifier le rendu.

@@ -536,19 +536,107 @@ function buildPrintableHtml(selectedItems) {
 </html>`;
 }
 
+function fileNameForCurrentWeek(extension) {
+  return `${slugFileName(state.week?.title || 'liste-epicerie')}.${extension}`;
+}
+
+async function loadJsPdf() {
+  if (window.jspdf?.jsPDF) return window.jspdf.jsPDF;
+
+  await new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js';
+    script.crossOrigin = 'anonymous';
+    script.onload = resolve;
+    script.onerror = () => reject(new Error('PDF library unavailable'));
+    document.head.append(script);
+  });
+
+  if (!window.jspdf?.jsPDF) throw new Error('PDF library unavailable');
+  return window.jspdf.jsPDF;
+}
+
+async function downloadBrowserPdf() {
+  const selectedItems = [...state.selected.values()];
+  const stores = groupSelectedByStore();
+  const jsPDF = await loadJsPdf();
+  const pdf = new jsPDF({ unit: 'pt', format: 'letter', orientation: 'portrait' });
+  const pageWidth = pdf.internal.pageSize.getWidth();
+  const pageHeight = pdf.internal.pageSize.getHeight();
+  const margin = 44;
+  const tableWidth = pageWidth - margin * 2;
+  const priceWidth = 92;
+  const itemWidth = tableWidth - priceWidth;
+  let y = margin;
+
+  function addPageIfNeeded(requiredHeight = 28) {
+    if (y + requiredHeight <= pageHeight - margin) return;
+    pdf.addPage();
+    y = margin;
+  }
+
+  function text(value, x, yPos, options = {}) {
+    pdf.setFont(options.font || 'helvetica', options.style || 'normal');
+    pdf.setFontSize(options.size || 11);
+    pdf.setTextColor(...(options.color || [23, 23, 20]));
+    pdf.text(String(value), x, yPos, options.align ? { align: options.align } : undefined);
+  }
+
+  function line(yPos, color = [34, 88, 69], width = 1) {
+    pdf.setDrawColor(...color);
+    pdf.setLineWidth(width);
+    pdf.line(margin, yPos, pageWidth - margin, yPos);
+  }
+
+  text('Liste d’épicerie', margin, y + 10, { font: 'times', style: 'bold', size: 30 });
+  text(state.week?.weekRange || state.week?.folderName || '', margin, y + 34, { size: 12, color: [95, 90, 80] });
+  text(`${selectedItems.length} item${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
+  text(`${stores.length} épicerie${stores.length > 1 ? 's' : ''}`, pageWidth - margin, y + 25, { size: 11, color: [95, 90, 80], align: 'right' });
+  text('Prix en CAD', pageWidth - margin, y + 42, { size: 11, color: [95, 90, 80], align: 'right' });
+  y += 64;
+  line(y, [23, 23, 20], 1.8);
+  y += 28;
+
+  for (const store of stores) {
+    addPageIfNeeded(76);
+    text(store.name, margin, y, { font: 'times', style: 'bold', size: 20 });
+    y += 16;
+    if (store.address) {
+      text(store.address, margin, y, { size: 11, color: [95, 90, 80] });
+      y += 14;
+    }
+    y += 8;
+
+    pdf.setFillColor(35, 88, 69);
+    pdf.rect(margin, y, tableWidth, 24, 'F');
+    text('ITEM', margin + 10, y + 16, { style: 'bold', size: 9, color: [255, 255, 255] });
+    text('PRIX', margin + itemWidth + 10, y + 16, { style: 'bold', size: 9, color: [255, 255, 255] });
+    y += 24;
+
+    for (const item of store.items) {
+      const itemLines = pdf.splitTextToSize(item.name, itemWidth - 18);
+      const rowHeight = Math.max(28, itemLines.length * 12 + 16);
+      addPageIfNeeded(rowHeight + 8);
+      pdf.setDrawColor(231, 223, 209);
+      pdf.setLineWidth(0.8);
+      pdf.rect(margin, y, tableWidth, rowHeight);
+      text(itemLines, margin + 10, y + 17, { size: 11 });
+      text(item.price, margin + itemWidth + 10, y + 17, { style: 'bold', size: 12, color: [35, 88, 69] });
+      y += rowHeight;
+    }
+    y += 22;
+  }
+
+  pdf.save(fileNameForCurrentWeek('pdf'));
+  setExportStatus(`PDF téléchargé: ${fileNameForCurrentWeek('pdf')}`, 'success');
+}
+
 function openBrowserPrintExport() {
   const selectedItems = [...state.selected.values()];
   const html = buildPrintableHtml(selectedItems);
-  const printWindow = window.open('', '_blank', 'noopener,noreferrer');
+  const printWindow = window.open('', '_blank');
   if (!printWindow) {
-    const blob = new Blob([html], { type: 'text/html;charset=utf-8' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${slugFileName(state.week?.title || 'liste-epicerie')}.html`;
-    link.click();
-    URL.revokeObjectURL(url);
-    setExportStatus('Fichier imprimable téléchargé. Ouvre-le puis choisis Imprimer > Enregistrer en PDF.', 'success');
+    setExportStatus('Le navigateur a bloqué l’impression. Autorise les fenêtres contextuelles ou réessaie.', 'warning');
     return;
   }
 
@@ -557,7 +645,7 @@ function openBrowserPrintExport() {
   printWindow.document.close();
   printWindow.focus();
   setTimeout(() => printWindow.print(), 250);
-  setExportStatus('Fenêtre d’impression ouverte. Choisis “Enregistrer en PDF” comme destination.', 'success');
+  setExportStatus('Fenêtre d’impression ouverte. Choisis ton imprimante ou “Enregistrer en PDF”.', 'success');
 }
 
 async function exportPdfToDesktop() {
@@ -577,7 +665,7 @@ async function exportPdfToDesktop() {
 
   try {
     if (!canUseLocalPdfEndpoint) {
-      openBrowserPrintExport();
+      await downloadBrowserPdf();
       return;
     }
 
