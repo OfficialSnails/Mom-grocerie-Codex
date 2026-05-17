@@ -273,9 +273,11 @@ function renderItems() {
   if (!category && !activeStore) return;
   if (!state.activeStoreId) state.activeCategoryId = category.id;
 
-  const baseItems = state.activeStoreId
-    ? allWeekItems().filter(item => item.storeId === state.activeStoreId)
-    : category.items;
+  const baseItems = query
+    ? allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)
+    : state.activeStoreId
+      ? allWeekItems().filter(item => item.storeId === state.activeStoreId)
+      : category.items;
   const sourceItems = query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems;
   const section = document.createElement('section');
   section.className = 'category';
