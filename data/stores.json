@@ -1,0 +1,74 @@
+[
+  {
+    "id": "metro-joliette",
+    "name": "Metro Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.metro.ca",
+    "flyer_url": "https://www.metro.ca/epicerie-en-ligne/circulaire",
+    "priority_order": 1,
+    "adapter": "metro",
+    "notes": "Magasin principal vérifié chaque semaine"
+  },
+  {
+    "id": "maxi-joliette",
+    "name": "Maxi Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.maxi.ca",
+    "flyer_url": "https://www.maxi.ca/fr/deals/flyer",
+    "priority_order": 2,
+    "adapter": "maxi",
+    "notes": "Magasin principal vérifié chaque semaine"
+  },
+  {
+    "id": "iga-joliette",
+    "name": "IGA Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.iga.net",
+    "flyer_url": "https://www.iga.ca/fr/circulaire",
+    "priority_order": 3,
+    "adapter": "iga",
+    "notes": "Note: la circulaire IGA défaut vers Montréal — entrée manuelle recommandée pour Joliette"
+  },
+  {
+    "id": "superc-joliette",
+    "name": "Super C Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.superc.ca",
+    "flyer_url": "https://www.superc.ca/epicerie-en-ligne/circulaire",
+    "priority_order": 4,
+    "adapter": "superc",
+    "notes": "Magasin principal vérifié chaque semaine"
+  },
+  {
+    "id": "bonichoix-joliette",
+    "name": "BoniChoix Joliette",
+    "city": "Joliette",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.bonichoix.com",
+    "flyer_url": "https://www.bonichoix.com/fr/circulaire/?store_id=78559",
+    "priority_order": 5,
+    "adapter": "bonichoix-joliette",
+    "notes": "Épicerie Forest inc., 773 rue de Lanaudière, Joliette — circulaire en ligne confirmée"
+  },
+  {
+    "id": "bonichoix-stemilie",
+    "name": "BoniChoix St-Émilie-de-l'Énergie",
+    "city": "Saint-Émilie-de-l'Énergie",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.bonichoix.com",
+    "flyer_url": null,
+    "priority_order": 6,
+    "adapter": "bonichoix",
+    "notes": "Pas de circulaire en ligne — entrée manuelle uniquement dans current_week_prices.csv"
+  }
+]

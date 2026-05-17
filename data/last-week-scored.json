@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-17T00:00:00.000Z",
+  "report_variant": "live",
+  "deals": [
+    {
+      "store_id": "metro-joliette",
+      "store_name": "Metro Joliette",
+      "item_name": "ASSOUPLISSEUR DE TISSUS FLEECY",
+      "normalized_name": "assouplisseur de tissus fleecy",
+      "category": "epicerie",
+      "current_price": 5.99,
+      "source_system": "flipp",
+      "source_type": "flyer",
+      "source_url": "https://example.com/fleecy",
+      "confidence": "HIGH",
+      "score": 80,
+      "label": "GREAT_DEAL",
+      "french_label": "Très bon prix",
+      "french_reason": "Bon prix",
+      "worth_buying": true
+    }
+  ]
+}

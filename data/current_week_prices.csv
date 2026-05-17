@@ -1,0 +1,19 @@
+week_start_date,week_end_date,store,item_name,normalized_name,brand,category,current_price,size,unit,normalized_price_per_unit,normalized_unit,source_url,confidence_score,notes
+2026-05-12,2026-05-18,superc-joliette,Poitrine de poulet sans os,poitrine de poulet,,viande,4.99,1,kg,4.99,kg,,HIGH,Spécial de la semaine
+2026-05-12,2026-05-18,maxi-joliette,Beurre Lactantia 454g,beurre,Lactantia,produits-laitiers,4.88,454,g,10.75,kg,,HIGH,
+2026-05-12,2026-05-18,metro-joliette,Fromage cheddar fort 400g,fromage cheddar,Cracker Barrel,produits-laitiers,3.99,400,g,9.98,kg,,HIGH,Spécial
+2026-05-12,2026-05-18,iga-joliette,Raisins rouges sans pépins,raisins,,fruits,3.49,1,kg,3.49,kg,,HIGH,
+2026-05-12,2026-05-18,superc-joliette,Boeuf haché extra maigre,boeuf hache,,viande,5.49,1,kg,5.49,kg,,HIGH,
+2026-05-12,2026-05-18,bonichoix-stemilie,Côtelettes de porc,cotes de porc,,viande,3.99,1,kg,3.99,kg,,MEDIUM,
+2026-05-12,2026-05-18,maxi-joliette,Fraises fraîches 1lb,fraises,,fruits,2.49,454,g,5.49,kg,,HIGH,Saison des fraises
+2026-05-12,2026-05-18,metro-joliette,Saumon atlantique filet,saumon,,poisson,9.99,1,kg,9.99,kg,,HIGH,
+2026-05-12,2026-05-18,iga-joliette,Café Van Houtte 930g,cafe,Van Houtte,epicerie,12.99,930,g,13.97,kg,,HIGH,Prix régulier
+2026-05-12,2026-05-18,superc-joliette,Légumes surgelés mélangés 1kg,legumes surgeles,,congeles,2.49,1000,g,2.49,kg,,HIGH,
+2026-05-12,2026-05-18,maxi-joliette,Pommes de terre jaunes 10lb,pommes de terre,,legumes,4.99,4536,g,1.10,kg,,HIGH,
+2026-05-12,2026-05-18,metro-joliette,Pâtes spaghetti Barilla 900g,pates,Barilla,epicerie,2.49,900,g,2.77,kg,,HIGH,2 pour 5$
+2026-05-12,2026-05-18,iga-joliette,Oeufs blancs extra larges 12,oeufs,,produits-laitiers,5.49,12,each,0.46,each,,HIGH,Prix habituel
+2026-05-12,2026-05-18,bonichoix-stemilie,Pommes Gala 3lb,pommes,,fruits,3.49,1362,g,2.56,kg,,MEDIUM,
+2026-05-12,2026-05-18,superc-joliette,Yogourt grec Olympe 750g,yogourt,Olympe,produits-laitiers,5.99,750,g,7.99,kg,,HIGH,
+2026-05-12,2026-05-18,maxi-joliette,Bananes,bananes,,fruits,0.59,1,kg,0.59,kg,,HIGH,Toujours disponible
+2026-05-12,2026-05-18,metro-joliette,Jus d'orange Tropicana 1.89L,jus d orange,Tropicana,boissons,5.49,1890,ml,2.91,L,,HIGH,
+2026-05-12,2026-05-18,iga-joliette,Sauce tomate Classico 650ml,sauce tomate,Classico,epicerie,3.49,650,ml,5.37,L,,HIGH,

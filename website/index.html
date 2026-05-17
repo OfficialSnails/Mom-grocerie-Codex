@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bons spéciaux | Liste d'épicerie</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50' font-size='48'%3E%E2%9C%85%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#items">Aller aux items</a>
+    <header class="topbar">
+      <div class="topbar-title">
+        <p class="eyebrow">Joliette</p>
+        <h1>Liste d'épicerie</h1>
+        <details id="method-note" class="method-note">
+          <summary>Comment lire la liste</summary>
+          <div id="method-note-body" class="method-note-body" aria-live="polite"></div>
+        </details>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="control-panel" aria-label="Filtres d'épicerie">
+        <div class="control-field week-field">
+          <span class="control-label">Semaine</span>
+          <button id="week-toggle" class="week-toggle" type="button" aria-expanded="false" aria-haspopup="listbox">
+            <span id="week-label">Choisir une semaine</span>
+            <span aria-hidden="true">⌄</span>
+          </button>
+          <div id="week-options" class="week-options" role="listbox" hidden></div>
+        </div>
+        <div class="control-field search-panel">
+          <label for="item-search">Rechercher un item</label>
+          <input id="item-search" name="item-search" type="search" autocomplete="off" placeholder="Ex. poulet, beurre, fraises…" />
+        </div>
+        <div class="control-field store-panel">
+          <label for="store-filter">Voir par épicerie</label>
+          <select id="store-filter" name="store-filter">
+            <option value="">Toutes les épiceries</option>
+          </select>
+        </div>
+        <div class="control-field rayon-field">
+          <span class="control-label">Rayons</span>
+          <nav id="category-tabs" class="category-tabs" aria-label="Rayons"></nav>
+        </div>
+      </section>
+
+      <section class="shopper">
+        <div id="week-header" class="week-header"></div>
+        <div id="items" class="items"></div>
+      </section>
+
+      <aside class="selection-panel" aria-label="Liste finale">
+        <div class="panel-heading">
+          <p class="eyebrow">Liste finale</p>
+          <h2>À acheter</h2>
+        </div>
+        <div id="selection-summary" class="selection-summary"></div>
+        <div id="export-status" class="export-status" role="status" aria-live="polite"></div>
+        <div id="selection-list" class="selection-list"></div>
+        <div class="basket-actions">
+          <button id="print-button" class="button secondary" type="button">Exporter PDF</button>
+          <button id="clear-button" class="button ghost" type="button">Vider</button>
+        </div>
+      </aside>
+    </main>
+
+    <template id="empty-template">
+      <div class="empty-state">
+        <p>Aucun item sélectionné.</p>
+        <span>Coche des spéciaux pour bâtir la liste par épicerie.</span>
+      </div>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

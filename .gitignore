@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.dev.vars
+.cache/
+.wrangler/
+.playwright-cli/
+.shopping-picker-watcher.pid
+node_modules/
+output/
+*.log

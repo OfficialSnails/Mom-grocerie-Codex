@@ -1,0 +1,32 @@
+{
+  "name": "bons-speciaux",
+  "version": "1.0.0",
+  "description": "Spéciaux d'épicerie hebdomadaires pour Joliette, QC",
+  "type": "module",
+  "scripts": {
+    "scan": "tsx src/collect-current-deals.ts",
+    "report": "tsx src/generate-report.ts",
+    "weekly": "tsx src/run-weekly.ts",
+    "update-history": "tsx src/update-history.ts",
+    "query": "tsx src/query-deals.ts",
+    "finalize": "tsx src/build-final-list.ts",
+    "watch-picker": "tsx src/watch-shopping-picker.ts",
+    "web": "tsx src/serve-website.ts",
+    "cloudflare:login": "npx wrangler login",
+    "deploy:cloudflare": "npm test && npx wrangler pages deploy website --project-name bons-speciaux-joliette",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.4.0",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/papaparse": "^5.3.14",
+    "tsx": "^4.15.0",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}

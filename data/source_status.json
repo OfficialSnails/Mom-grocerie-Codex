@@ -1,0 +1,112 @@
+{
+  "sources": [
+    {
+      "source_id": "mock",
+      "store_id": "all",
+      "enabled": true,
+      "collection_method": "mock",
+      "robots_status": "allowed",
+      "terms_status": "allowed",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "Données de démonstration — toujours activé pour les tests"
+    },
+    {
+      "source_id": "csv",
+      "store_id": "all",
+      "enabled": true,
+      "collection_method": "csv",
+      "robots_status": "allowed",
+      "terms_status": "allowed",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "Lecture du fichier data/current_week_prices.csv — toujours activé"
+    },
+    {
+      "source_id": "flipp-joliette",
+      "store_id": "multi",
+      "enabled": true,
+      "collection_method": "api",
+      "robots_status": "allowed",
+      "terms_status": "unknown",
+      "last_checked_at": "2026-05-17T15:48:20.871Z",
+      "last_success_at": "2026-05-17T15:48:20.871Z",
+      "last_error": null,
+      "notes": "SOURCE PRINCIPALE — API wishabi directe (backflipp.wishabi.com), aucun crédit Firecrawl utilisé. Découverte auto des circulaires Joliette (J6E3N2): Metro, Maxi, IGA, Super C, BoniChoix, L'Inter-Marché, Marchés Tradition."
+    },
+    {
+      "source_id": "metro-firecrawl",
+      "store_id": "metro-joliette",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "unknown",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "DÉSACTIVÉ — remplacé par flipp-joliette. Réactiver en urgence si Flipp échoue: metro.ca/epicerie-en-ligne/circulaire"
+    },
+    {
+      "source_id": "maxi-firecrawl",
+      "store_id": "maxi-joliette",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "unknown",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "DÉSACTIVÉ — remplacé par flipp-joliette. Réactiver en urgence si Flipp échoue: maxi.ca/fr/deals/flyer"
+    },
+    {
+      "source_id": "iga-firecrawl",
+      "store_id": "iga-joliette",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "unknown",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "DÉSACTIVÉ — iga.ca/fr/circulaire défaut vers Montréal. IGA Joliette est maintenant couvert via flipp-joliette."
+    },
+    {
+      "source_id": "superc-firecrawl",
+      "store_id": "superc-joliette",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "unknown",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "DÉSACTIVÉ — remplacé par flipp-joliette. Réactiver en urgence si Flipp échoue: superc.ca/epicerie-en-ligne/circulaire"
+    },
+    {
+      "source_id": "bonichoix-joliette-firecrawl",
+      "store_id": "bonichoix-joliette",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "unknown",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "DÉSACTIVÉ — remplacé par flipp-joliette. Réactiver si Flipp ne trouve pas BoniChoix: bonichoix.com/fr/circulaire/?store_id=78559"
+    },
+    {
+      "source_id": "bonichoix-firecrawl",
+      "store_id": "bonichoix-stemilie",
+      "enabled": false,
+      "collection_method": "firecrawl",
+      "robots_status": "disallowed",
+      "terms_status": "unknown",
+      "last_checked_at": null,
+      "last_success_at": null,
+      "last_error": null,
+      "notes": "BoniChoix St-Émilie n'a pas de site web actif — entrée manuelle uniquement dans current_week_prices.csv"
+    }
+  ]
+}
