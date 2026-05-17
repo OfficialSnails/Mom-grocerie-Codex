@@ -1,6 +1,9 @@
 name: Weekly grocery update
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     # Thursdays around 08:00 in Toronto during daylight saving time.
@@ -28,6 +31,7 @@ jobs:
         run: npm ci
 
       - name: Generate weekly grocery data
+        if: github.event_name != 'push'
         run: npm run weekly
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
@@ -37,6 +41,7 @@ jobs:
         run: npm test
 
       - name: Commit weekly output
+        if: github.event_name != 'push'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update weekly grocery specials"

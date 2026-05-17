@@ -191,16 +191,14 @@ Important pour la version hébergée:
 
 ### Mise à jour automatique avec GitHub
 
-Le workflow GitHub Actions `.github/workflows/weekly-cloudflare.yml` peut faire le run complet chaque semaine:
+Le workflow GitHub Actions `.github/workflows/weekly-cloudflare.yml` garde Cloudflare à jour à partir de GitHub:
 
-1. installer les dépendances
-2. lancer `npm run weekly`
-3. lancer `npm test`
-4. committer les changements dans `data/`, `reports/` et `website/data/`
-5. déployer `website/` sur Cloudflare Pages
+- à chaque push sur `main`, il installe les dépendances, lance `npm test`, puis déploie `website/` sur Cloudflare Pages
+- chaque jeudi, il peut aussi lancer `npm run weekly`, committer les nouveaux fichiers de semaine, tester, puis déployer
 
 Déclencheurs:
 
+- automatique sur chaque push vers `main`
 - automatique le jeudi à `12:00 UTC` environ, soit le matin à Joliette pendant l'heure avancée
 - manuel avec `Actions > Weekly grocery update > Run workflow`
 
@@ -214,7 +212,8 @@ Secrets GitHub requis:
 
 - Cloudflare est connecté localement avec `officialsnails@gmail.com`
 - Le site live est `https://bons-speciaux-joliette.pages.dev/`
-- Ce dossier local n'est pas encore relié à un repo GitHub remote; il faut le publier avec GitHub Desktop ou un remote Git avant que l'automatisation GitHub Actions fonctionne.
+- Le projet Cloudflare Pages actuel est un projet Direct Upload. Il ne se connecte pas directement comme projet Git Cloudflare, mais GitHub Actions déploie vers le même projet Cloudflare avec Wrangler. C'est le chemin à garder pour conserver l'URL actuelle.
+- Ce dossier local pointe vers `https://github.com/OfficialSnails/Mom-grocerie-Codex.git`; il faut pousser avec GitHub Desktop et ajouter les secrets GitHub avant que l'automatisation fonctionne côté GitHub.
 
 ### Validation du site
 
