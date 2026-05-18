@@ -80,6 +80,14 @@
     "category": "Fruits et légumes"
   },
   {
+    "id": "2026-05-17::iga-joliette::tranches de fromage compliments",
+    "item_name": "TRANCHES DE FROMAGE COMPLIMENTS",
+    "store_id": "iga-joliette",
+    "store_name": "IGA Joliette",
+    "price": "5,49 $",
+    "category": "Fruits et légumes"
+  },
+  {
     "id": "2026-05-17::metro-joliette::bleuets biologiques",
     "item_name": "BLEUETS BIOLOGIQUES",
     "store_id": "metro-joliette",
@@ -93,6 +101,14 @@
     "store_id": "superc-joliette",
     "store_name": "Super C Joliette",
     "price": "5,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-05-17::metro-joliette::legumineuses cedar",
+    "item_name": "LÉGUMINEUSES CEDAR",
+    "store_id": "metro-joliette",
+    "store_name": "Metro Joliette",
+    "price": "2,00 $",
     "category": "Fruits et légumes"
   },
   {
@@ -280,14 +296,6 @@
     "category": "Produits laitiers et oeufs"
   },
   {
-    "id": "2026-05-17::iga-joliette::tranches de fromage compliments",
-    "item_name": "TRANCHES DE FROMAGE COMPLIMENTS",
-    "store_id": "iga-joliette",
-    "store_name": "IGA Joliette",
-    "price": "5,49 $",
-    "category": "Produits laitiers et oeufs"
-  },
-  {
     "id": "2026-05-17::maxi-joliette::barre de fromage ou rape mozzarellissima saputo,",
     "item_name": "BARRE DE FROMAGE OU RÂPÉ MOZZARELLISSIMA SAPUTO, 1 KG",
     "store_id": "maxi-joliette",
@@ -309,7 +317,7 @@
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix Joliette",
     "price": "1,66 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::tradition-joliette::cereales ou substitut de repas kellogg's",
@@ -317,7 +325,7 @@
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition Joliette",
     "price": "3,87 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::iga-joliette::hummus ou baba gannouj fontaine sante",
@@ -325,7 +333,7 @@
     "store_id": "iga-joliette",
     "store_name": "IGA Joliette",
     "price": "2,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::tradition-joliette::tartinade nutella",
@@ -333,7 +341,7 @@
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition Joliette",
     "price": "5,49 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::familiprix-joliette::baby mum-mum, gaufrettes de dentition douces,",
@@ -341,7 +349,7 @@
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix Joliette",
     "price": "2,79 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::iga-joliette::boite a lunch c'est pret!",
@@ -349,7 +357,7 @@
     "store_id": "iga-joliette",
     "store_name": "IGA Joliette",
     "price": "4,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::familiprix-joliette::depend, produits et formats selectionnes",
@@ -357,7 +365,7 @@
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix Joliette",
     "price": "15,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::familiprix-joliette::ensure, substitut de repas/, x",
@@ -365,7 +373,7 @@
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix Joliette",
     "price": "11,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::tradition-joliette::farine five roses ou robin hood",
@@ -373,7 +381,7 @@
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition Joliette",
     "price": "8,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::familiprix-joliette::glucerna, substitut de repas, x",
@@ -381,15 +389,7 @@
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix Joliette",
     "price": "11,99 $",
-    "category": "Épicerie / garde-manger"
-  },
-  {
-    "id": "2026-05-17::metro-joliette::legumineuses cedar",
-    "item_name": "LÉGUMINEUSES CEDAR",
-    "store_id": "metro-joliette",
-    "store_name": "Metro Joliette",
-    "price": "2,00 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::maxi-joliette::mayonnaise mag",
@@ -397,7 +397,7 @@
     "store_id": "maxi-joliette",
     "store_name": "Maxi Joliette",
     "price": "4,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::bonichoix-joliette::poudre pour gelee jell-o",
@@ -405,7 +405,7 @@
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix Joliette",
     "price": "1,29 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::tradition-joliette::strub's marinades",
@@ -413,7 +413,7 @@
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition Joliette",
     "price": "2,99 $",
-    "category": "Épicerie / garde-manger"
+    "category": "Garde-manger et autres"
   },
   {
     "id": "2026-05-17::metro-joliette::assouplisseur de tissus fleecy",

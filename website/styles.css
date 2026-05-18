@@ -398,15 +398,15 @@ h2 {
 }
 
 .category-tabs {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 8px;
-  flex-wrap: wrap;
   overflow: visible;
 }
 
 .category-tabs button {
-  flex: 1 1 210px;
-  min-width: min(100%, 190px);
+  min-width: 0;
+  min-height: 58px;
   text-align: left;
   border: 1px solid var(--faint);
   border-radius: 8px;
@@ -428,6 +428,10 @@ h2 {
   align-items: center;
   padding: 12px;
   font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+}
+
+.category-name {
+  overflow-wrap: anywhere;
 }
 
 .category-name {

@@ -95,7 +95,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419653293/1778227704/extra_large.jpg" alt="Preuve prix ESKA NATURAL SPRING WATER" width="220" />
 
 - **LÉGUMINEUSES CEDAR**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥬 Section: Fruits et légumes
   - Prix: 2,00 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -149,7 +149,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/420354068/1778698746/extra_large.jpg" alt="Preuve prix Croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g" width="220" />
 
 - **MAYONNAISE MAG**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 4,99 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/420354071/1778698748/extra_large.jpg" alt="Preuve prix MAYONNAISE MAG" width="220" />
@@ -226,7 +226,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419756161/1778507745/extra_large.jpg" alt="Preuve prix BISCUITS LECLERC CÉLÉBRATION" width="220" />
 
 - **HUMMUS OU BABA GANNOUJ FONTAINE SANTÉ**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 2,99 $
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre Marchés Tradition 4,49 $
@@ -244,7 +244,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419755629/1778507776/extra_large.jpg" alt="Preuve prix JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS" width="220" />
 
 - **TRANCHES DE FROMAGE COMPLIMENTS**
-  - 🥛 Section: Produits laitiers et oeufs
+  - 🥬 Section: Fruits et légumes
   - Prix: 5,49 $
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre Marchés Tradition 5,99 $
@@ -260,7 +260,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419756500/1778229871/extra_large.jpg" alt="Preuve prix BARRES KASHI" width="220" />
 
 - **BOÎTE À LUNCH C'EST PRÊT!**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 4,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -417,7 +417,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 > 📍 773 rue de Lanaudière, Joliette
 
 - **BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 1,66 $
   - Échelle: Format à vérifier sur la photo.
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
@@ -480,7 +480,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419399670/1778051465/extra_large.jpg" alt="Preuve prix P'TIT QUÉBEC FROMAGE OU FROMAGE RÂPÉ" width="220" />
 
 - **POUDRE POUR GELÉE JELL-O**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 1,29 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -534,7 +534,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419401252/1778519718/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
 
 - **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 3,87 $
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre BoniChoix Joliette 5,99 $
@@ -561,7 +561,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419394950/1778506197/extra_large.jpg" alt="Preuve prix PEPPERONI TRANCHÉ ROMA" width="220" />
 
 - **TARTINADE NUTELLA**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 5,49 $
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre IGA 6,49 $
@@ -577,7 +577,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419401299/1778506066/extra_large.jpg" alt="Preuve prix CÔTES LEVÉES DE DOS DE PORC FRAIS" width="220" />
 
 - **FARINE FIVE ROSES OU ROBIN HOOD**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 8,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -598,7 +598,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419401247/1778519711/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER, RISTORANTE, CASA DI MAMA" width="220" />
 
 - **STRUB'S MARINADES**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 2,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -611,14 +611,14 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 > 📍 Joliette
 
 - **BABY MUM-MUM, Gaufrettes de dentition douces, 50 g**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 2,79 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419713934/1778225029/extra_large.jpg" alt="Preuve prix BABY MUM-MUM, Gaufrettes de dentition douces, 50 g" width="220" />
 
 - **DEPEND, Produits et formats sélectionnés**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 15,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -632,14 +632,14 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419713686/1778225007/extra_large.jpg" alt="Preuve prix DOVE Savon en barres, 12 x 106 g" width="220" />
 
 - **ENSURE, Substitut de repas/, 6 x 235 ml**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
 
 - **GLUCERNA, Substitut de repas, 6 x 237 ml**
-  - 🥫 Section: Épicerie / garde-manger
+  - 🥫 Section: Garde-manger et autres
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix

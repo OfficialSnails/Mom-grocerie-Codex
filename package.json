@@ -9,6 +9,8 @@
     "weekly": "tsx src/run-weekly.ts",
     "update-history": "tsx src/update-history.ts",
     "query": "tsx src/query-deals.ts",
+    "qa:pantry": "tsx src/pantry-qa.ts",
+    "qa:categories": "tsx src/category-qa.ts",
     "finalize": "tsx src/build-final-list.ts",
     "watch-picker": "tsx src/watch-shopping-picker.ts",
     "web": "tsx src/serve-website.ts",

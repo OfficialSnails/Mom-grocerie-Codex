@@ -2,11 +2,19 @@ const state = {
   weeks: [],
   week: null,
   selected: new Map(),
-  activeCategoryId: '',
+  activeCategoryId: 'all',
   activeStoreId: '',
   searchQuery: '',
   mode: 'deals',
   notes: '',
+};
+
+const ALL_CATEGORY = {
+  id: 'all',
+  title: 'Tous',
+  emoji: '🛒',
+  items: [],
+  virtual: true,
 };
 
 const els = {
@@ -75,6 +83,16 @@ function currentCategories() {
   return state.week.dealCategories ?? state.week.categories ?? [];
 }
 
+function categoryLabel(category) {
+  if (category.id === 'pantry') return 'Garde-manger et autres';
+  return category.title;
+}
+
+function displayCategories() {
+  if (!state.week) return [];
+  return [ALL_CATEGORY, ...currentCategories()];
+}
+
 function allSelectableItems() {
   if (!state.week) return [];
   const seen = new Map();
@@ -127,6 +145,11 @@ function allWeekItems() {
 }
 
 function categoryItems(category) {
+  if (category?.id === 'all') {
+    const items = allWeekItems();
+    if (!state.activeStoreId) return items;
+    return items.filter(item => item.storeId === state.activeStoreId);
+  }
   const items = category?.items ?? [];
   if (!state.activeStoreId) return items;
   return items.filter(item => item.storeId === state.activeStoreId);
@@ -232,21 +255,21 @@ function renderMethodNote() {
     <span>Les prix viennent des circulaires de Joliette et sont en dollars canadiens.</span>
     <span>Chaque rayon garde les meilleurs choix trouvés cette semaine; s'il y en a peu, c'est qu'on n'a pas ajouté de faux rabais pour remplir.</span>
     <span>Quand le format n'est pas certain, la photo reste là pour vérifier rapidement.</span>
+    <span>Les rayons sont classés automatiquement; certains produits peuvent parfois être approximatifs.</span>
   `;
 }
 
 function renderCategoryTabs() {
   els.categoryTabs.innerHTML = '';
   if (!state.week) return;
-  for (const category of currentCategories()) {
+  for (const category of displayCategories()) {
     const scopedItems = categoryItems(category);
-    const selectedCount = scopedItems.filter(item => state.selected.has(item.id)).length;
     const button = document.createElement('button');
     button.type = 'button';
     button.className = state.activeCategoryId === category.id ? 'active' : '';
     button.innerHTML = `
-      <span class="category-name"><span aria-hidden="true">${escapeHtml(category.emoji)}</span>${escapeHtml(category.title)}</span>
-      <span class="category-count">${selectedCount > 0 ? `${selectedCount}/` : ''}${scopedItems.length}</span>
+      <span class="category-name"><span aria-hidden="true">${escapeHtml(category.emoji)}</span>${escapeHtml(categoryLabel(category))}</span>
+      <span class="category-count">${scopedItems.length}</span>
     `;
     button.addEventListener('click', () => {
       state.activeCategoryId = category.id;
@@ -339,8 +362,8 @@ function renderItems() {
   if (!state.week) return;
 
   const query = normalizeText(state.searchQuery.trim());
-  const categories = currentCategories();
-  const category = categories.find(candidate => candidate.id === state.activeCategoryId) ?? categories[0];
+  const categories = displayCategories();
+  const category = categories.find(candidate => candidate.id === state.activeCategoryId) ?? ALL_CATEGORY;
   const activeStore = allWeekStores().find(store => store.id === state.activeStoreId);
   if (!category && !activeStore) return;
   state.activeCategoryId = category.id;
@@ -357,8 +380,8 @@ function renderItems() {
   const titleText = query
       ? `Résultats pour “${escapeHtml(state.searchQuery.trim())}”`
       : state.activeStoreId
-        ? `${escapeHtml(activeStore?.name ?? 'Épicerie')} · ${escapeHtml(category.title)}`
-        : escapeHtml(category.title);
+        ? `${escapeHtml(activeStore?.name ?? 'Épicerie')} · ${escapeHtml(categoryLabel(category))}`
+        : escapeHtml(categoryLabel(category));
   section.innerHTML = `
     <div class="category-title">
       <div>
@@ -801,7 +824,7 @@ async function selectWeek(weekMeta) {
   state.week = await loadJson(weekMeta.path);
   loadSelection();
   loadNotes();
-  state.activeCategoryId = currentCategories()[0]?.id ?? '';
+  state.activeCategoryId = 'all';
   state.activeStoreId = '';
   state.searchQuery = '';
   els.searchInput.value = '';
@@ -850,8 +873,8 @@ els.searchInput.addEventListener('input', event => {
 });
 els.storeFilter.addEventListener('change', event => {
   state.activeStoreId = event.target.value;
-  if (!currentCategories().some(category => category.id === state.activeCategoryId)) {
-    state.activeCategoryId = currentCategories()[0]?.id ?? '';
+  if (!displayCategories().some(category => category.id === state.activeCategoryId)) {
+    state.activeCategoryId = 'all';
   }
   renderCategoryTabs();
   renderItems();
@@ -864,8 +887,8 @@ els.modeTabs?.addEventListener('click', event => {
     state.activeStoreId = '';
     if (els.storeFilter) els.storeFilter.value = '';
   }
-  if (!currentCategories().some(category => category.id === state.activeCategoryId)) {
-    state.activeCategoryId = currentCategories()[0]?.id ?? '';
+  if (!displayCategories().some(category => category.id === state.activeCategoryId)) {
+    state.activeCategoryId = 'all';
   }
   renderModeTabs();
   renderStoreFilter();

@@ -14,7 +14,7 @@ cssclasses:
 - [[#🥬 Fruits et légumes|🥬 Fruits et légumes]]
 - [[#🥩 Viandes et poissons|🥩 Viandes et poissons]]
 - [[#🥛 Produits laitiers et oeufs|🥛 Produits laitiers et oeufs]]
-- [[#🥫 Épicerie / garde-manger|🥫 Épicerie / garde-manger]]
+- [[#🥫 Garde-manger et autres|🥫 Garde-manger et autres]]
 - [[#🧼 Maison et entretien|🧼 Maison et entretien]]
 - [[#🥖 Boulangerie|🥖 Boulangerie]]
 - [[#🧊 Surgelés|🧊 Surgelés]]
@@ -96,6 +96,14 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420082660/1778532275/extra_large.jpg" alt="Preuve prix MINI CONCOMBRES" width="220" />
 
+- [ ] **TRANCHES DE FROMAGE COMPLIMENTS** — **5,49 $**
+  - 📍 **Magasin:** IGA Joliette
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 5,99 $
+  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419755658/1778507798/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
+
 - [ ] **BLEUETS BIOLOGIQUES** — **2,99 $**
   - 📍 **Magasin:** Metro Joliette
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -107,6 +115,12 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420072966/1778529645/extra_large.jpg" alt="Preuve prix Gros melon d'eau entier sans pépins" width="220" />
+
+- [ ] **LÉGUMINEUSES CEDAR** — **2,00 $**
+  - 📍 **Magasin:** Metro Joliette
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419653488/1778227707/extra_large.jpg" alt="Preuve prix LÉGUMINEUSES CEDAR" width="220" />
 
 - [ ] **Mangue miel (Ataulfo)** — **0,98 $**
   - 📍 **Magasin:** Super C Joliette
@@ -273,14 +287,6 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420072967/1778529645/extra_large.jpg" alt="Preuve prix Fromage feta Selection" width="220" />
 
-- [ ] **TRANCHES DE FROMAGE COMPLIMENTS** — **5,49 $**
-  - 📍 **Magasin:** IGA Joliette
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📊 Gagne contre Marchés Tradition 5,99 $
-  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419755658/1778507798/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
-
 - [ ] **BARRE DE FROMAGE OU RÂPÉ MOZZARELLISSIMA SAPUTO, 1 KG** — **10,99 $**
   - 📍 **Magasin:** Maxi Joliette
   - 📸 **Preuve du prix**
@@ -293,7 +299,7 @@ cssclasses:
     <img src="https://f.wishabi.net/page_items/419399670/1778051465/extra_large.jpg" alt="Preuve prix P'TIT QUÉBEC FROMAGE OU FROMAGE RÂPÉ" width="220" />
 
 
-## 🥫 Épicerie / garde-manger
+## 🥫 Garde-manger et autres
 
 - [ ] **BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES** — **1,66 $**
   - 📍 **Magasin:** BoniChoix Joliette
@@ -361,12 +367,6 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
-
-- [ ] **LÉGUMINEUSES CEDAR** — **2,00 $**
-  - 📍 **Magasin:** Metro Joliette
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419653488/1778227707/extra_large.jpg" alt="Preuve prix LÉGUMINEUSES CEDAR" width="220" />
 
 - [ ] **MAYONNAISE MAG** — **4,99 $**
   - 📍 **Magasin:** Maxi Joliette

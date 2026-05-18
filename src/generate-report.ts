@@ -102,11 +102,11 @@ interface WeeklyPack {
   pickerItems: string;
 }
 
-const SHOPPER_CATEGORIES: ShopperCategory[] = [
+export const SHOPPER_CATEGORIES: ShopperCategory[] = [
   { id: 'produce', title: 'Fruits et légumes', maxItems: 20 },
   { id: 'meat-fish', title: 'Viandes et poissons', maxItems: 20 },
   { id: 'dairy-eggs', title: 'Produits laitiers et oeufs', maxItems: 20 },
-  { id: 'pantry', title: 'Épicerie / garde-manger', maxItems: 20 },
+  { id: 'pantry', title: 'Garde-manger et autres', maxItems: 20 },
   { id: 'household', title: 'Maison et entretien', maxItems: 20 },
   { id: 'health', title: 'Santé et pharmacie', maxItems: 20 },
   { id: 'bakery', title: 'Boulangerie', maxItems: 20 },
@@ -294,20 +294,114 @@ const HEALTH_KEYWORDS = [
   'allergie', 'allergy', 'ibuprofene', 'ibuprofène', 'acetaminophene', 'acétaminophène',
   'aspirine', 'sirop pour la toux', 'toux', 'rhume', 'cold and flu', 'pastilles',
   'antiacide', 'pansement', 'pansements', 'bandage', 'polysporin', 'biomedic', 'band-aid',
+  'comprimé', 'comprimés', 'comprime', 'comprimes', 'caplet', 'caplets',
+  'gluteguard', 'promensil', 'venixxa',
 ];
 
+const PRODUCE_NAME_KEYWORDS = [
+  'fraise', 'bleuet', 'banane', 'pomme', 'concombre', 'laitue', 'salade',
+  'poivron', 'oignon', 'céleri', 'celeri', 'celery', 'melon', 'rutabaga',
+  'champignon', 'asperge', 'mûre', 'mure', 'mangue', 'tomate', 'cerise',
+  'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
+  'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
+  'poireau', 'poireaux',
+  'légume', 'legume', 'légumes', 'legumes', 'crudité', 'crudites',
+  'barquette de légumes', 'barquette de legumes',
+  'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
+  'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
+  'maïs en épi', 'mais en epi', 'maïs en épis', 'mais en epis', 'maïs sucré', 'mais sucre',
+  'chou-fleur', 'chou fleur', 'brocoli',
+];
+
+const STRONG_PRODUCE_QA_KEYWORDS = [
+  'maïs en épi', 'mais en epi', 'maïs en épis', 'mais en epis', 'maïs sucré', 'mais sucre',
+  'laitue', 'salade', 'concombre', 'oignon', 'céleri', 'celeri', 'celery',
+  'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
+  'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
+  'poireau', 'poireaux', 'champignon', 'asperge', 'mûre', 'mure', 'mangue',
+  'tomate', 'cerise', 'crudité', 'crudites',
+  'barquette de légumes', 'barquette de legumes',
+  'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
+  'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
+  'chou-fleur', 'chou fleur', 'brocoli',
+];
+
+const PRODUCE_FALSE_POSITIVE_KEYWORDS = [
+  'sauce tomate', 'sauce aux tomates', 'pâte de tomate', 'pate de tomate', 'coulis de tomate',
+  'ketchup', 'salsa', 'beurre à l\'ail', 'beurre a l\'ail', 'beurre ail',
+  'maïs à éclater', 'mais a eclater', 'maïs soufflé', 'mais souffle', 'popcorn',
+  'collations aux fruits', 'collation aux fruits', 'fruit snacks',
+  'tartinade de fruits', 'tartelettes aux fruits', 'craquelins aux légumes', 'craquelins aux legumes',
+];
+
+const MEAT_FISH_NAME_KEYWORDS = [
+  'poulet', 'dinde', 'boeuf', 'bœuf', 'bifteck', 'porc', 'poisson',
+  'saumon', 'crevette', 'thon', 'morue', 'bacon', 'saucisse', 'roti', 'rôti',
+  'jambon', 'creton', 'charcut', 'smoked meat', 'bologne', 'bologna', 'baloney',
+  'pepperoni', 'chorizo', 'sauciflard', 'rosette', 'salami', 'mortadelle',
+  'prosciutto', 'viande froide', 'goberge', 'crabe', 'pollock', 'surimi',
+  'homard', 'lobster', 'fruits de mer', 'seafood',
+];
+
+const FROZEN_NAME_KEYWORDS = [
+  'surgelé', 'surgeles', 'frozen', 'congelé', 'congele', 'congelés', 'congeles',
+  'pizza', 'frites', 'corn dog', 'dîner de pâtes', 'diner de pates',
+  "mike's", 'mikes', 'mike’s', 'pâtés impériaux', 'pates imperiaux', 'patés impériaux', 'egg rolls',
+  'repas congelé', 'repas congele', 'plat préparé congelé', 'plat prepare congele',
+  'légumes surgelés', 'legumes surgeles', 'fruits surgelés', 'fruits surgeles',
+  'crème glacée', 'creme glacee', 'ice cream',
+];
+
+const BAKERY_NAME_KEYWORDS = [
+  'pain', 'bagel', 'baguette', 'croissant', 'hamburger', 'hot dog', 'muffin',
+  'beigne', 'beignes', 'donut', 'donuts', 'pâtisserie', 'patisserie', 'brioche',
+];
+
+const DAIRY_EGGS_NAME_KEYWORDS = [
+  'beurre', 'fromage', 'yogourt', 'yogurt', 'lait', 'oeuf', 'oeufs',
+  'crème', 'cream', 'mozzarella', 'cheddar', 'feta', 'parmesan',
+];
+
+const SNACKS_DRINKS_NAME_KEYWORDS = [
+  'chips', 'croustilles', 'jus', 'boisson', 'boissons', 'celsius',
+  'eau pétillante', 'eau petillante', 'eau minérale', 'eau minerale', 'eau embouteillée', 'eau embouteillee', 'eau de source',
+  'water', 'barres', 'biscuits', 'pretzel', 'gâteau', 'vachon', 'thé glacé',
+  'chocolat', 'bonbons', 'popcorn', 'maïs soufflé', 'mais souffle',
+  'collation', 'collations',
+];
+
+function normalizedItemText(deal: Pick<RawDealItem, 'item_name' | 'normalized_name' | 'source_raw_name'>): string {
+  return normalizeString([
+    deal.item_name,
+    deal.normalized_name ?? '',
+    deal.source_raw_name ?? '',
+  ].join(' '));
+}
+
+function includesAny(value: string, keywords: string[]): boolean {
+  return keywords.some(keyword => value.includes(normalizeString(keyword)));
+}
+
+function isProduceFalsePositive(value: string): boolean {
+  return includesAny(value, PRODUCE_FALSE_POSITIVE_KEYWORDS);
+}
+
+function isProduceName(value: string): boolean {
+  return !isProduceFalsePositive(value) && includesAny(value, PRODUCE_NAME_KEYWORDS);
+}
+
 function isHouseholdItem(deal: ScoredDeal): boolean {
-  const cat = (deal.category ?? '').toLowerCase();
-  const name = deal.item_name.toLowerCase();
+  const cat = normalizeString(deal.category ?? '');
+  const name = normalizedItemText(deal);
   return ['maison', 'home', 'entretien', 'hygiène', 'hygiene', 'papier'].some(k => cat.includes(k)) ||
-    HOUSEHOLD_KEYWORDS.some(kw => name.includes(kw));
+    includesAny(name, HOUSEHOLD_KEYWORDS);
 }
 
 function isHealthItem(deal: ScoredDeal): boolean {
-  const cat = (deal.category ?? '').toLowerCase();
-  const name = deal.item_name.toLowerCase();
+  const cat = normalizeString(deal.category ?? '');
+  const name = normalizedItemText(deal);
   return ['pharmacie', 'pharmacy', 'santé', 'sante', 'health'].some(k => cat.includes(k)) ||
-    HEALTH_KEYWORDS.some(kw => name.includes(kw));
+    includesAny(name, HEALTH_KEYWORDS);
 }
 
 function isFoodItem(deal: ScoredDeal): boolean {
@@ -322,70 +416,193 @@ function isFoodItem(deal: ScoredDeal): boolean {
 }
 
 export function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | null {
-  const cat = (deal.category ?? '').toLowerCase();
-  const name = deal.item_name.toLowerCase();
+  const cat = normalizeString(deal.category ?? '');
+  const name = normalizedItemText(deal);
 
   if (!isFoodItem(deal)) return null;
   if (isHealthItem(deal)) return 'health';
+  if (isHouseholdItem(deal)) return 'household';
 
   if (
-    ['surgelé', 'frozen'].some(k => cat.includes(k)) ||
-    [
-      'surgelé', 'surgeles', 'frozen', 'congelé', 'congele', 'congelés', 'congeles',
-      'pizza', 'frites', 'corn dog', 'dîner de pâtes', 'diner de pates',
-      "mike's", 'mikes', 'mike’s', 'pâtés impériaux', 'pates imperiaux', 'patés impériaux', 'egg rolls',
-      'repas congelé', 'repas congele', 'plat préparé congelé', 'plat prepare congele',
-      'légumes surgelés', 'legumes surgeles', 'fruits surgelés', 'fruits surgeles',
-    ].some(k => name.includes(k))
+    ['surgele', 'frozen'].some(k => cat.includes(k)) ||
+    includesAny(name, FROZEN_NAME_KEYWORDS)
   ) return 'frozen';
 
-  const tomatoPantryItem = ['sauce tomate', 'sauce aux tomates', 'pâte de tomate', 'pate de tomate', 'coulis de tomate'].some(k => name.includes(k));
+  const tomatoPantryItem = ['sauce tomate', 'sauce aux tomates', 'pâte de tomate', 'pate de tomate', 'coulis de tomate'].some(k => name.includes(normalizeString(k)));
   const tomatoProduceItem = name.includes('tomate') || name.includes('tomato');
   if (
     ['viande', 'meat', 'poisson', 'fish', 'seafood', 'volaille'].some(k => cat.includes(k)) ||
-    [
-      'poulet', 'dinde', 'boeuf', 'bœuf', 'bifteck', ...(tomatoProduceItem ? [] : ['beefsteak', 'steak']), 'porc', 'poisson',
-      'saumon', 'crevette', 'thon', 'morue', 'bacon', 'saucisse', 'roti', 'rôti',
-      'jambon', 'creton', 'charcut', 'smoked meat', 'bologne', 'bologna', 'baloney',
-      'pepperoni', 'chorizo', 'sauciflard', 'rosette', 'salami', 'mortadelle',
-      'prosciutto', 'viande froide', 'goberge', 'crabe', 'pollock', 'surimi',
-    ].some(k => name.includes(k))
+    includesAny(name, [
+      ...MEAT_FISH_NAME_KEYWORDS,
+      ...(tomatoProduceItem ? [] : ['beefsteak', 'steak']),
+    ])
   ) {
     return 'meat-fish';
   }
 
   if (
+    !tomatoPantryItem &&
+    !isProduceFalsePositive(name) &&
+    includesAny(name, STRONG_PRODUCE_QA_KEYWORDS)
+  ) return 'produce';
+
+  if (
     ['laitier', 'dairy', 'oeuf', 'egg'].some(k => cat.includes(k)) ||
-    ['beurre', 'fromage', 'yogourt', 'yogurt', 'lait', 'oeuf', 'oeufs', 'crème', 'cream', 'mozzarella'].some(k => name.includes(k))
+    includesAny(name, DAIRY_EGGS_NAME_KEYWORDS)
   ) return 'dairy-eggs';
 
   if (
     !tomatoPantryItem &&
     (
       ['fruit', 'fruits', 'légume', 'legume', 'produce'].some(k => cat.includes(k)) ||
-      [
-        'fraise', 'bleuet', 'banane', 'pomme', 'concombre', 'laitue', 'salade',
-        'poivron', 'oignon', 'céleri', 'celeri', 'celery', 'melon', 'rutabaga',
-        'champignon', 'asperge', 'mûre', 'mure', 'mangue', 'tomate', 'cerise',
-        'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
-        'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
-      ].some(k => name.includes(k))
+      isProduceName(name)
     )
   ) return 'produce';
 
   if (
     ['boulangerie', 'bakery'].some(k => cat.includes(k)) ||
-    ['pain', 'bagel', 'baguette', 'croissant', 'hamburger', 'hot dog', 'muffin', 'beigne', 'beignes', 'donut', 'donuts', 'pâtisserie', 'patisserie'].some(k => name.includes(k))
+    includesAny(name, BAKERY_NAME_KEYWORDS)
   ) return 'bakery';
-
-  if (isHouseholdItem(deal)) return 'household';
 
   if (
     ['snack', 'boisson', 'drink', 'chips', 'croustilles'].some(k => cat.includes(k)) ||
-    ['chips', 'croustilles', 'jus', 'boisson', 'celsius', 'eau ', 'water', 'barres', 'biscuits', 'pretzel', 'gâteau', 'vachon', 'thé glacé'].some(k => name.includes(k))
+    includesAny(name, SNACKS_DRINKS_NAME_KEYWORDS)
   ) return 'snacks-drinks';
 
   return 'pantry';
+}
+
+export interface PantryQaInput {
+  item_name?: string;
+  name?: string;
+  normalized_name?: string;
+  normalizedName?: string;
+  source_raw_name?: string;
+  category?: string;
+  categoryId?: string;
+  categoryTitle?: string;
+  store_id?: string;
+  storeId?: string;
+  store_name?: string;
+  storeName?: string;
+  current_price?: number;
+  price?: string | number;
+  source_image_url?: string;
+  imageUrl?: string;
+}
+
+export interface PantryQaFinding {
+  itemName: string;
+  storeName: string;
+  price: string;
+  currentCategory: string;
+  suggestedCategory: ShopperCategoryId;
+  suggestedCategoryTitle: string;
+  reason: string;
+}
+
+export interface CategoryQaFinding extends PantryQaFinding {
+  severity: 'high' | 'ambiguous';
+}
+
+function categoryTitle(id: ShopperCategoryId): string {
+  return SHOPPER_CATEGORIES.find(category => category.id === id)?.title ?? id;
+}
+
+function suggestNonPantryCategoryFromText(text: string): { category: ShopperCategoryId; reason: string } | null {
+  if (includesAny(text, HEALTH_KEYWORDS)) return { category: 'health', reason: 'mot de pharmacie/santé' };
+  if (includesAny(text, HOUSEHOLD_KEYWORDS)) return { category: 'household', reason: 'mot de maison/entretien' };
+  if (includesAny(text, FROZEN_NAME_KEYWORDS)) return { category: 'frozen', reason: 'mot de produit surgelé' };
+  if (includesAny(text, MEAT_FISH_NAME_KEYWORDS) || (!isProduceName(text) && includesAny(text, ['beefsteak', 'steak']))) {
+    return { category: 'meat-fish', reason: 'mot de viande/poisson' };
+  }
+  if (!isProduceFalsePositive(text) && includesAny(text, STRONG_PRODUCE_QA_KEYWORDS)) {
+    return { category: 'produce', reason: 'mot clair de fruit/légume' };
+  }
+  if (includesAny(text, DAIRY_EGGS_NAME_KEYWORDS)) return { category: 'dairy-eggs', reason: 'mot de produit laitier/oeufs' };
+  if (isProduceName(text)) return { category: 'produce', reason: 'mot de fruit/légume' };
+  if (includesAny(text, BAKERY_NAME_KEYWORDS)) return { category: 'bakery', reason: 'mot de boulangerie' };
+  if (includesAny(text, SNACKS_DRINKS_NAME_KEYWORDS)) return { category: 'snacks-drinks', reason: 'mot de collation/boisson' };
+  return null;
+}
+
+export function findSuspiciousPantryItems(items: PantryQaInput[]): PantryQaFinding[] {
+  const findings: PantryQaFinding[] = [];
+  const pantryLabels = new Set(['pantry', 'epicerie garde manger']);
+
+  for (const item of items) {
+    const currentCategory = item.categoryId ?? item.category ?? item.categoryTitle ?? '';
+    if (!pantryLabels.has(normalizeString(currentCategory))) {
+      continue;
+    }
+
+    const text = normalizeString([
+      item.name ?? item.item_name ?? '',
+      item.normalizedName ?? item.normalized_name ?? '',
+      item.source_raw_name ?? '',
+    ].join(' '));
+    const suggestion = suggestNonPantryCategoryFromText(text);
+    if (!suggestion || suggestion.category === 'pantry') continue;
+
+    findings.push({
+      itemName: item.name ?? item.item_name ?? 'Produit sans nom',
+      storeName: item.storeName ?? item.store_name ?? item.storeId ?? item.store_id ?? 'Magasin inconnu',
+      price: typeof item.price === 'number' ? formatPriceFR(item.price) : (item.price ?? (typeof item.current_price === 'number' ? formatPriceFR(item.current_price) : '')),
+      currentCategory,
+      suggestedCategory: suggestion.category,
+      suggestedCategoryTitle: categoryTitle(suggestion.category),
+      reason: suggestion.reason,
+    });
+  }
+
+  return findings;
+}
+
+function severityForCategoryMismatch(currentCategory: string, suggestion: ShopperCategoryId): 'high' | 'ambiguous' {
+  const current = normalizeString(currentCategory);
+  if (current === 'pantry' || current === 'epicerie garde manger' || current === 'garde manger et autres') {
+    return suggestion === 'snacks-drinks' ? 'ambiguous' : 'high';
+  }
+  if (current === 'produce') return 'high';
+  if (current === 'dairy-eggs' && suggestion === 'produce') return 'high';
+  if (current === 'household' && ['produce', 'meat-fish', 'dairy-eggs', 'bakery', 'frozen', 'snacks-drinks'].includes(suggestion)) return 'high';
+  if (current === 'health' && suggestion !== 'health') return 'high';
+  if (current === 'meat-fish' && ['bakery', 'household', 'health'].includes(suggestion)) return 'high';
+  if (current === 'bakery' && ['meat-fish', 'produce', 'household', 'health'].includes(suggestion)) return 'high';
+  if (current === 'frozen' && ['household', 'health'].includes(suggestion)) return 'high';
+  if (current === 'snacks-drinks' && ['meat-fish', 'produce', 'household', 'health'].includes(suggestion)) return 'high';
+  return 'ambiguous';
+}
+
+export function findSuspiciousCategoryItems(categories: Array<{ id: string; title?: string; items: PantryQaInput[] }>): CategoryQaFinding[] {
+  const findings: CategoryQaFinding[] = [];
+
+  for (const category of categories) {
+    for (const item of category.items ?? []) {
+      const currentCategory = item.categoryId ?? category.id;
+      const text = normalizeString([
+        item.name ?? item.item_name ?? '',
+        item.normalizedName ?? item.normalized_name ?? '',
+        item.source_raw_name ?? '',
+      ].join(' '));
+      const suggestion = suggestNonPantryCategoryFromText(text);
+      if (!suggestion || suggestion.category === currentCategory) continue;
+
+      const currentTitle = item.categoryTitle ?? category.title ?? categoryTitle(currentCategory as ShopperCategoryId);
+      findings.push({
+        itemName: item.name ?? item.item_name ?? 'Produit sans nom',
+        storeName: item.storeName ?? item.store_name ?? item.storeId ?? item.store_id ?? 'Magasin inconnu',
+        price: typeof item.price === 'number' ? formatPriceFR(item.price) : (item.price ?? (typeof item.current_price === 'number' ? formatPriceFR(item.current_price) : '')),
+        currentCategory: currentTitle,
+        suggestedCategory: suggestion.category,
+        suggestedCategoryTitle: categoryTitle(suggestion.category),
+        reason: suggestion.reason,
+        severity: severityForCategoryMismatch(currentCategory, suggestion.category),
+      });
+    }
+  }
+
+  return findings;
 }
 
 function isPracticalShopperItem(deal: VerifiedDeal): boolean {

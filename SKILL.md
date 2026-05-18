@@ -49,10 +49,12 @@ When running this skill:
 20. Prefer Agent Browser or Playwright for that browser validation when available; verify week loading, product selection, sidebar final list, clearing/removal, print/export, proof photos, prices, units and store labels
 21. Keep the website as a 3-zone shopping workspace: week/search/rayon controls on top, one active rayon in the center, and the final basket on the right
 21a. Keep the store filter in the top controls. Selecting a store must persist while clicking rayons; category counts and product cards stay scoped to the selected store and current mode. Do not silently reset the store filter.
+21aa. The website must include `Tous` as the first rayon. `Tous` is a virtual frontend filter option, not a generated product category; it shows every product for the current mode and current store filter.
 21b. Cloudflare Pages deployment serves the static `website/` folder. Use `npm run cloudflare:login` once and `npm run deploy:cloudflare` to publish; never publish `.env`, `.cache/`, `node_modules/`, `output/`, or logs.
 21c. GitHub weekly automation lives in `.github/workflows/weekly-cloudflare.yml`. It requires GitHub secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and optionally `FIRECRAWL_API_KEY`; it regenerates weekly data, commits generated outputs, and deploys Cloudflare Pages.
 22. Do not use category navigation that scrolls the user up and down through the full page; rayon clicks should switch the active category in place
 22a. Rayons should wrap into visible button rows. Do not use a horizontal scroller for category pills.
+22b. Rayon counts must always be scoped by the selected mode and selected store. The `Tous` count is the total for that same scope.
 23. In local mode, `Exporter PDF` should call the Node server endpoint and save a clean PDF directly to `~/Desktop`; do not make it browser print-only. The exported PDF should stay simple: store, address, product, and price only, without the website explanation note or reason columns.
 24. Remember that direct Desktop export is a local-server capability. A hosted static site cannot silently write files to a user's Desktop.
 25. Keep search available in the top controls so the shopper can find a product across all rayons without browsing every section
@@ -76,7 +78,11 @@ When running this skill:
 39. The website final basket includes a simple free-text `Notes` field saved with `localStorage`; include those notes in PDF export under `Notes`.
 40. In the normal website dropdown, show only the latest valid production week. Keep old/test/manual-preview weeks hidden unless `?debugWeeks=1` or localStorage `bons-speciaux:show-all-weeks=1` is set.
 41. Use user-facing French with `produit`, not `item`: `Tous les produits`, `produits trouvés`, `Produit trouvé`, `Rechercher un produit`, and store counts like `137 produits`.
-42. Treat `Épicerie / garde-manger` as a final fallback only after stronger category rules. Add QA checks for high-confidence pantry misses such as beefsteak/bifteck, goberge, ananas, kiwi, raisins/grapes, avocat, ail/garlic, frozen terms, detergent/Kleenex/Q-tips, pansements/allergies/Polysporin, medications and vitamins.
+42. Treat the pantry fallback as `Garde-manger et autres` in user-facing UI. The internal key may remain `pantry` for compatibility, but the shopper should not see `Épicerie / garde-manger`.
+42a. Treat `Garde-manger et autres` as a final fallback only after stronger category rules. Add QA checks for high-confidence pantry misses such as beefsteak/bifteck, goberge, homard, prepared fruit/vegetable trays, maïs en épi, ananas, kiwi, raisins/grapes, avocat, ail/garlic, frozen terms, detergent/Kleenex/Q-tips, pansements/allergies/Polysporin, medications and vitamins.
+42b. Prepared produce still belongs in `Fruits et légumes` when the core product is produce: barquette de légumes, plateau de crudités, plateau de fruits, carrousel de fruits/légumes, maïs en épi and maïs sucré. Do not classify sauce tomate, pâte de tomate, ketchup, salsa, beurre à l'ail, maïs à éclater, maïs soufflé, fruit snacks, fruit spread, fruit tartlets, or vegetable crackers as produce.
+42c. For category QA, do not scrape. Patch `classifyShopperCategory`, add representative tests, run `npm test -- tests/report-generation.test.ts`, then run `npm run qa:pantry` and `npm run qa:categories`. If website JSON is stale, regenerate only from existing raw JSON and rerun both QA commands.
+42d. `npm run qa:categories` is the broad all-category scan. It reports high-confidence errors separately from ambiguous review items, writes `reports/qa/category-review-<week>.md`, and should pass before publishing a weekly generation. Fix classifier source code, not generated JSON.
 43. Do not run Firecrawl for Familiprix during ordinary cleanup or weekly generation. Use Flipp/Wishabi data first; investigate with Firecrawl only if that feed fails and a human asks for it.
 
 ## Official weekly outputs

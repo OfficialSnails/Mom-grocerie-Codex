@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { classifyShopperCategory, deduplicateDisplayDeals, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, scoreAllDeals } from '../src/generate-report.js';
+import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, scoreAllDeals } from '../src/generate-report.js';
 import { frenchWeekFolderName, frenchWeekLabel } from '../src/weekly-files.js';
 import type { RawDealItem } from '../sources/source-adapter.js';
 
@@ -606,11 +606,22 @@ describe('weekly shopper-facing reports', () => {
       ['Pâtés impériaux surgelés', 'epicerie', 'pates imperiaux surgeles', 'frozen'],
       ['Egg rolls frozen', 'epicerie', 'egg rolls frozen', 'frozen'],
       ["Beurre à l'ail Lactantia", 'epicerie', 'beurre ail', 'dairy-eggs'],
+      ['CRÈME GLACÉE TOURBILLON-ARC-EN CIEL BAR', 'fruit', 'creme glacee tourbillon arc en ciel bar', 'frozen'],
+      ['TARTE-GÂTEAU AU FROMAGE LE TRIPLE DÉLICE, FRANCHEMENT FRAISE', 'fruit', 'tarte gateau au fromage franchement fraise', 'dairy-eggs'],
       ['Pilules contre les allergies', 'epicerie', 'pilules allergies', 'health'],
       ['Tylenol médicament', 'epicerie', 'tylenol medicament', 'health'],
       ['Café moulu', 'epicerie', 'cafe moulu', 'pantry'],
       ['Colorant à café', 'epicerie', 'colorant cafe', 'pantry'],
       ['Sauce tomate', 'epicerie', 'sauce tomate', 'pantry'],
+      ["BARQUETTE DE LÉGUMES C'EST PRÊT! À CUIRE", 'epicerie', 'barquette de legumes cest pret a cuire', 'produce'],
+      ["CARROUSEL DE FRUITS C'EST PRÊT!", 'epicerie', 'carrousel de fruits cest pret', 'produce'],
+      ["CARROUSEL DE FRUITS OU DE LÉGUMES C'EST PRÊT!", 'epicerie', 'carrousel de fruits ou de legumes cest pret', 'produce'],
+      ['MAÏS EN ÉPI DEUX COULEURS', 'epicerie', 'mais en epi deux couleurs', 'produce'],
+      ['PLATEAU DE CRUDITÉS', 'epicerie', 'plateau de crudites', 'produce'],
+      ['BARQUETTE DE LÉGUMES', 'epicerie', 'barquette de legumes', 'produce'],
+      ['PLATEAU DE FRUITS', 'epicerie', 'plateau de fruits', 'produce'],
+      ["Boîte à lunch C'est prêt", 'epicerie', 'boite a lunch cest pret', 'pantry'],
+      ["Repas préparé C'est prêt", 'epicerie', 'repas prepare cest pret', 'pantry'],
     ];
 
     for (const [item_name, category, normalized_name, expected] of cases) {
@@ -621,6 +632,106 @@ describe('weekly shopper-facing reports', () => {
         category,
       })).toBe(expected);
     }
+
+    expect(classifyShopperCategory({
+      ...baseDeal,
+      item_name: 'MAÏS EN ÉPIS DEUX COULEURS',
+      normalized_name: 'mais en epis deux couleurs',
+      source_raw_name: 'MAÏS EN ÉPIS DEUX COULEURS | PEACHES AND CREAM CORN ON THE COB',
+      category: 'epicerie',
+    })).toBe('produce');
+  });
+
+  it('finds high-confidence suspicious pantry items for QA review', () => {
+    const findings = findSuspiciousPantryItems([
+      {
+        name: "BARQUETTE DE LÉGUMES C'EST PRÊT! À CUIRE",
+        storeName: 'IGA Joliette',
+        price: '5,99 $',
+        categoryId: 'pantry',
+      },
+      {
+        name: 'Sauce tomate',
+        storeName: 'Metro Joliette',
+        price: '1,99 $',
+        categoryId: 'pantry',
+      },
+      {
+        name: "Beurre à l'ail Lactantia",
+        storeName: 'IGA Joliette',
+        price: '3,99 $',
+        categoryId: 'pantry',
+      },
+      {
+        name: "Boîte à lunch C'est prêt",
+        storeName: 'IGA Joliette',
+        price: '7,99 $',
+        categoryId: 'pantry',
+      },
+    ]);
+
+    expect(findings).toEqual([
+      expect.objectContaining({
+        itemName: "BARQUETTE DE LÉGUMES C'EST PRÊT! À CUIRE",
+        suggestedCategory: 'produce',
+      }),
+      expect.objectContaining({
+        itemName: "Beurre à l'ail Lactantia",
+        suggestedCategory: 'dairy-eggs',
+      }),
+    ]);
+  });
+
+  it('scans suspicious placements across all generated categories', () => {
+    const findings = findSuspiciousCategoryItems([
+      {
+        id: 'dairy-eggs',
+        title: 'Produits laitiers et oeufs',
+        items: [{
+          name: 'MAÏS EN ÉPIS DEUX COULEURS',
+          source_raw_name: 'MAÏS EN ÉPIS DEUX COULEURS | PEACHES AND CREAM CORN ON THE COB',
+          storeName: 'Metro Joliette',
+          price: '3,99 $',
+          categoryId: 'dairy-eggs',
+          categoryTitle: 'Produits laitiers et oeufs',
+        }],
+      },
+      {
+        id: 'produce',
+        title: 'Fruits et légumes',
+        items: [{
+          name: 'Sauce tomate',
+          storeName: 'Metro Joliette',
+          price: '1,99 $',
+          categoryId: 'produce',
+          categoryTitle: 'Fruits et légumes',
+        }],
+      },
+      {
+        id: 'pantry',
+        title: 'Garde-manger et autres',
+        items: [{
+          name: 'Collations aux fruits',
+          storeName: 'Super C Joliette',
+          price: '2,99 $',
+          categoryId: 'pantry',
+          categoryTitle: 'Garde-manger et autres',
+        }],
+      },
+    ]);
+
+    expect(findings).toEqual([
+      expect.objectContaining({
+        itemName: 'MAÏS EN ÉPIS DEUX COULEURS',
+        suggestedCategory: 'produce',
+        severity: 'high',
+      }),
+      expect.objectContaining({
+        itemName: 'Collations aux fruits',
+        suggestedCategory: 'snacks-drinks',
+        severity: 'ambiguous',
+      }),
+    ]);
   });
 
   it('classifies household essentials as Maison et entretien', () => {
@@ -926,6 +1037,46 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain('productionWeeks.slice(0, 1)');
   });
 
+  it('uses Tous as a virtual category scoped to mode and store', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    expect(js).toContain("activeCategoryId: 'all'");
+    expect(js).toContain('const ALL_CATEGORY = {');
+    expect(js).toContain("id: 'all'");
+    expect(js).toContain("title: 'Tous'");
+    expect(js).toContain('function displayCategories()');
+    expect(js).toContain('return [ALL_CATEGORY, ...currentCategories()]');
+    expect(js).toContain("if (category?.id === 'all')");
+    expect(js).toContain('allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)');
+  });
+
+  it('shows only available totals on category cards', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    const renderCategoryTabs = js.slice(js.indexOf('function renderCategoryTabs()'), js.indexOf('function renderStoreFilter()'));
+    expect(renderCategoryTabs).toContain('<span class="category-count">${scopedItems.length}</span>');
+    expect(renderCategoryTabs).not.toContain('selectedCount');
+    expect(renderCategoryTabs).not.toContain('${selectedCount > 0');
+  });
+
+  it('uses the clearer pantry fallback label for the website', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    expect(js).toContain('Garde-manger et autres');
+    expect(js).not.toContain('Épicerie / garde-manger');
+  });
+
+  it('explains that categories are automatic in Comment lire la liste', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+
+    expect(js).toContain('Les rayons sont classés automatiquement');
+    expect(js).toContain('certains produits peuvent parfois être approximatifs');
+  });
+
   it('keeps store scope when category, search, and mode change', async () => {
     const { readFile } = await import('node:fs/promises');
     const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
@@ -948,16 +1099,10 @@ describe('website user-facing wording and week filtering', () => {
     if (!existsSync(weekUrl)) return;
 
     const week = JSON.parse(await readFile(weekUrl, 'utf8')) as {
-      allCategories?: Array<{ id: string; items: Array<{ name: string }> }>;
+      allCategories?: Array<{ id: string; items: Array<{ name: string; categoryId?: string; categoryTitle?: string; storeName?: string; price?: string }> }>;
     };
     const pantry = week.allCategories?.find(category => category.id === 'pantry')?.items ?? [];
-    const suspicious = pantry
-      .map(item => item.name)
-      .filter(name => {
-        const text = name.toLowerCase();
-        if (/sauce tomate|p[aâ]te de tomate|coulis de tomate/.test(text)) return false;
-        return /beefsteak|bifteck|steak|boeuf|bœuf|creton|goberge|ananas|pineapple|kiwi|raisins|grapes|avocat|ail|garlic|surgel[ée]|frozen|congel[ée]|p[aâ]t[ée]s imp[ée]riaux|egg rolls|detergent|d[ée]tergent|kleenex|q-?tips|pansements?|allergies|polysporin|m[ée]dicament|vitamines?/i.test(text);
-      });
+    const suspicious = findSuspiciousPantryItems(pantry);
 
     expect(suspicious).toEqual([]);
   });

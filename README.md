@@ -38,6 +38,8 @@ npm run weekly
 npm run finalize
 npm run watch-picker
 npm run web
+npm run qa:pantry
+npm run qa:categories
 ```
 
 Validation manuelle forcée malgré le cooldown Flipp:
@@ -142,6 +144,7 @@ Fonctionnement:
 - chaque semaine ouvre une interface en 3 zones: contrôles en haut, produits du rayon actif au centre, panier final à droite
 - le mode `Bons prix` est le mode par défaut et ne montre que les rabais retenus
 - le mode `Tous les produits` permet de chercher ou parcourir les produits trouvés dans les circulaires générées, avec le badge `Produit trouvé` quand ce n'est pas un vrai bon prix
+- le rayon `Tous` est une option virtuelle du site, pas une vraie catégorie dans les données; il affiche tous les produits du mode courant et de l'épicerie sélectionnée
 - la semaine se choisit avec un menu déroulant intégré en haut, sans menu natif qui recouvre les autres champs
 - cliquer un rayon en haut change le contenu central sans faire sauter la page de haut en bas
 - les rayons restent visibles en lignes de boutons; ne pas revenir à un rail horizontal à scroller
@@ -253,6 +256,7 @@ Checklist minimum:
 - chercher un mot comme `baguette` trouve le produit même si le rayon actif est `Fruits et légumes`
 - changer entre `Bons prix` et `Tous les produits` conserve la sélection finale
 - les cartes produit gardent une image ou un placeholder propre
+- le rayon `Tous` apparaît en premier et montre le total du mode/magasin courant
 - cocher un produit l'ajoute au panier final à droite et au compteur de panier
 - décocher ou vider la sélection retire le produit
 - écrire une note dans le panier, recharger la page, et vérifier que la note reste là
@@ -276,7 +280,15 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 - Le mode `Tous les produits` doit dédupliquer les variantes évidentes d'une même tuile de circulaire: même magasin, même prix et titre quasi identique. L'image identique aide, mais certaines tuiles Flipp/Wishabi ont des URLs différentes; la similarité du titre doit rester forte. Garder la version la plus descriptive, sans fusionner deux magasins, deux prix ou deux produits différents.
 - La classification doit privilégier l'usage réel de l'épicerie: céleri, kiwi, raisins, ail, ananas et avocat vont dans `Fruits et légumes`; goberge/crabe/pollock/surimi, creton, beefsteak, poisson pané et viandes froides vont dans `Viandes et poissons`; pizza et repas congelés vont dans `Surgelés`; pilules, médicaments et vitamines vont dans `Santé et pharmacie`; bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto vont dans `Viandes et poissons`, même si la source les classe vaguement en épicerie.
 - `Maison et entretien` regroupe les essentiels non alimentaires utiles: détergent, lessive, savon à vaisselle, produits nettoyants, papier hygiénique, papier essuie-tout, Kleenex/mouchoirs, Q-tips/coton-tiges, shampoing, savon, antisudorifique, couches et hygiène de base.
-- `Épicerie / garde-manger` est le fallback seulement après les règles fortes: viandes/poissons, fruits/légumes, surgelés, boulangerie, maison/entretien et santé/pharmacie.
+- `Garde-manger et autres` est le libellé visible du fallback pantry; l'identifiant interne peut rester `pantry` pour compatibilité.
+- `Garde-manger et autres` est le fallback seulement après les règles fortes: viandes/poissons, fruits/légumes, surgelés, boulangerie, produits laitiers/oeufs, maison/entretien, santé/pharmacie et collations/boissons.
+- Les produits préparés dont le coeur est clairement fruit/légume restent dans `Fruits et légumes`, même si la source les place en épicerie: barquette de légumes, plateau de crudités, plateau de fruits, carrousel de fruits/légumes, maïs en épi et maïs sucré.
+- Les faux positifs restent exclus de `Fruits et légumes`: sauce tomate, pâte de tomate, ketchup, salsa, beurre à l'ail, maïs à éclater, maïs soufflé, collations aux fruits, tartinades de fruits, tartelettes aux fruits et craquelins aux légumes.
+- Pour une passe QA de classification, ne pas relancer un scrape. Corriger le classifieur réutilisable, lancer `npm test -- tests/report-generation.test.ts`, puis `npm run qa:pantry` et `npm run qa:categories`. Si les fichiers du site sont stale, régénérer seulement depuis le JSON brut existant.
+- `npm run qa:pantry` est le contrôle ciblé du fallback `Garde-manger et autres`.
+- `npm run qa:categories` scanne toutes les catégories, échoue seulement sur les erreurs évidentes à haute confiance, et écrit un rapport dans `reports/qa/category-review-<semaine>.md`; les cas ambigus servent de revue humaine et ne bloquent pas.
+- Après une génération hebdomadaire depuis les données brutes, lancer `npm run qa:categories` avant de publier. Les corrections doivent aller dans `src/generate-report.ts`, jamais dans le JSON généré à la main.
+- Agent Browser ou Playwright peut être utilisé après les scans de données pour vérifier visuellement quelques rayons, mais la source principale de QA reste le scan JSON.
 - La déduplication doit garder le meilleur représentant d'une même famille évidente, par exemple bologne, sauciflard/chorizo ou boeuf haché extra maigre. Les rosettes de boeuf ne doivent pas être confondues avec le sauciflard/chorizo.
 - Les entrées manuelles sans image affichent explicitement:
   - `⚠️ Preuve photo manquante (entrée manuelle)`
