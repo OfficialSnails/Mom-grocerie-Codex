@@ -147,8 +147,9 @@ Fonctionnement:
 - le rayon `Tous` est une option virtuelle du site, pas une vraie catégorie dans les données; il affiche tous les produits du mode courant et de l'épicerie sélectionnée
 - la semaine se choisit avec un menu déroulant intégré en haut, sans menu natif qui recouvre les autres champs
 - cliquer un rayon en haut change le contenu central sans faire sauter la page de haut en bas
-- les rayons restent visibles en lignes de boutons; ne pas revenir à un rail horizontal à scroller
+- les rayons restent visibles en lignes de boutons; ne pas revenir à un rail horizontal à scroller, et ne pas couper les mots en plein milieu dans les cartes
 - choisir une épicerie garde ce magasin actif quand on clique un rayon; les compteurs des rayons doivent alors être calculés pour ce magasin et le mode courant
+- les compteurs sur les cartes de rayons montrent seulement les produits disponibles, par exemple `Tous 1347`; ne pas afficher de ratio `sélectionnés/total` comme `13/1347`
 - la recherche en haut ignore le rayon actif pour trouver directement un produit dans toutes les catégories; elle respecte quand même le filtre épicerie si une épicerie est choisie
 - les produits sont présentés en cartes produit: preuve visuelle en haut, nom/prix/magasin en dessous, bouton `Ajouter`
 - si aucune image n'existe, la carte garde un emplacement propre `Image non disponible` au lieu de casser la grille
@@ -250,6 +251,7 @@ Checklist minimum:
 - ouvrir la semaine affiche les contrôles en haut, les produits au centre et le panier à droite
 - cliquer un rayon change le rayon actif sans scroll violent
 - tous les rayons restent visibles sans scroll horizontal
+- les cartes de rayons gardent des libellés lisibles: pas de coupure comme `Boulangeri/e`, pas de collision entre le libellé et le compteur
 - la recherche trouve un produit à travers tous les rayons
 - choisir une épicerie dans `Voir par épicerie` affiche les produits de ce magasin dans le mode actif
 - cliquer ensuite un rayon garde l'épicerie sélectionnée et filtre seulement ce rayon pour cette épicerie
@@ -257,6 +259,7 @@ Checklist minimum:
 - changer entre `Bons prix` et `Tous les produits` conserve la sélection finale
 - les cartes produit gardent une image ou un placeholder propre
 - le rayon `Tous` apparaît en premier et montre le total du mode/magasin courant
+- les autres rayons montrent aussi uniquement le total disponible pour le mode/magasin courant, pas un ratio avec les produits sélectionnés
 - cocher un produit l'ajoute au panier final à droite et au compteur de panier
 - décocher ou vider la sélection retire le produit
 - écrire une note dans le panier, recharger la page, et vérifier que la note reste là

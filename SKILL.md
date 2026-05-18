@@ -53,8 +53,8 @@ When running this skill:
 21b. Cloudflare Pages deployment serves the static `website/` folder. Use `npm run cloudflare:login` once and `npm run deploy:cloudflare` to publish; never publish `.env`, `.cache/`, `node_modules/`, `output/`, or logs.
 21c. GitHub weekly automation lives in `.github/workflows/weekly-cloudflare.yml`. It requires GitHub secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and optionally `FIRECRAWL_API_KEY`; it regenerates weekly data, commits generated outputs, and deploys Cloudflare Pages.
 22. Do not use category navigation that scrolls the user up and down through the full page; rayon clicks should switch the active category in place
-22a. Rayons should wrap into visible button rows. Do not use a horizontal scroller for category pills.
-22b. Rayon counts must always be scoped by the selected mode and selected store. The `Tous` count is the total for that same scope.
+22a. Rayons should wrap into visible button rows. Do not use a horizontal scroller for category pills. Use enough card width and normal word wrapping so labels never split inside a word such as `Boulangerie`.
+22b. Rayon counts must always be scoped by the selected mode and selected store. The `Tous` count is the total for that same scope. Rayon cards show available product totals only, never selected/total ratios; selected counts belong only in the panier/header/final list.
 23. In local mode, `Exporter PDF` should call the Node server endpoint and save a clean PDF directly to `~/Desktop`; do not make it browser print-only. The exported PDF should stay simple: store, address, product, and price only, without the website explanation note or reason columns.
 24. Remember that direct Desktop export is a local-server capability. A hosted static site cannot silently write files to a user's Desktop.
 25. Keep search available in the top controls so the shopper can find a product across all rayons without browsing every section
