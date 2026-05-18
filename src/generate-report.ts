@@ -370,6 +370,38 @@ const SNACKS_DRINKS_NAME_KEYWORDS = [
   'collation', 'collations',
 ];
 
+const COSTCO_NON_GROCERY_KEYWORDS = [
+  'adidas', 'puma', 'reebok', 'calvin klein', 'bench', 'eddie bauer',
+  'chandail', 't-shirt', 'tee-shirt', 'chemise', 'pantalon', 'jeans', 'legging', 'short',
+  'robe', 'jupe', 'manteau', 'veste', 'hoodie', 'pull', 'pyjama', 'chaussette', 'bas',
+  'soulier', 'souliers', 'chaussure', 'chaussures', 'sandale', 'bottes', 'maillot',
+  'sac a dos', 'sac à dos', 'valise', 'bijou', 'bijoux', 'montre', 'lunettes',
+  'matelas', 'oreiller', 'couette', 'drap', 'literie', 'serviette de plage',
+  'divan', 'fauteuil', 'meuble', 'table pliante', 'chaise', 'bibliotheque',
+  'ventilateur', 'fan', 'climatiseur', 'chauffage', 'lampe', 'lumiere', 'lumière',
+  'televiseur', 'téléviseur', 'moniteur', 'ecran', 'écran', 'ordinateur', 'laptop',
+  'haut-parleur', 'speaker', 'ecouteur', 'écouteur', 'camera', 'caméra',
+  'chargeur', 'batterie', 'imprimante', 'projecteur', 'aspirateur',
+  'appareil photo', 'barbecue', 'bbq', 'outil', 'outils', 'perceuse', 'scie',
+  'tondeuse', 'kayak', 'velo', 'vélo', 'pneu', 'pneus', 'piscine', 'jouet', 'jouets',
+  'decoration', 'décoration', 'decor', 'décor', 'jardiniere', 'jardinière',
+];
+
+const COSTCO_GROCERY_INCLUDE_KEYWORDS = [
+  ...PRODUCE_NAME_KEYWORDS,
+  ...MEAT_FISH_NAME_KEYWORDS,
+  ...FROZEN_NAME_KEYWORDS,
+  ...BAKERY_NAME_KEYWORDS,
+  ...DAIRY_EGGS_NAME_KEYWORDS,
+  ...SNACKS_DRINKS_NAME_KEYWORDS,
+  ...HOUSEHOLD_KEYWORDS,
+  ...HEALTH_KEYWORDS,
+  'café', 'cafe', 'coffee', 'thé', 'tea', 'pâtes', 'pates', 'pasta', 'riz', 'rice',
+  'céréale', 'cereale', 'cereal', 'sauce', 'conserve', 'huile', 'vinaigre', 'épice', 'epice',
+  'farine', 'sucre', 'animal', 'chien', 'chat', 'nourriture pour chien', 'nourriture pour chat',
+  'sacs refermables', 'papier parchemin', 'papier aluminium', 'pellicule plastique',
+];
+
 function normalizedItemText(deal: Pick<RawDealItem, 'item_name' | 'normalized_name' | 'source_raw_name'>): string {
   return normalizeString([
     deal.item_name,
@@ -402,6 +434,16 @@ function isHealthItem(deal: ScoredDeal): boolean {
   const name = normalizedItemText(deal);
   return ['pharmacie', 'pharmacy', 'santé', 'sante', 'health'].some(k => cat.includes(k)) ||
     includesAny(name, HEALTH_KEYWORDS);
+}
+
+export function isCostcoGroceryRelevant(deal: Pick<ScoredDeal, 'store_id' | 'item_name' | 'normalized_name' | 'source_raw_name' | 'category'>): boolean {
+  if (shopperStoreId(deal.store_id) !== 'costco-quebec') return true;
+  const text = normalizedItemText(deal);
+  const category = normalizeString(deal.category ?? '');
+
+  if (includesAny([text, category].join(' '), COSTCO_NON_GROCERY_KEYWORDS)) return false;
+  return includesAny([text, category].join(' '), COSTCO_GROCERY_INCLUDE_KEYWORDS) ||
+    ['aliments', 'aliment', 'grocery', 'food', 'pantry', 'epicerie', 'épicerie', 'pharmacie', 'sante', 'santé', 'maison', 'hygiene', 'hygiène'].some(k => category.includes(normalizeString(k)));
 }
 
 function isFoodItem(deal: ScoredDeal): boolean {
@@ -718,18 +760,20 @@ const STORE_ADDRESSES: Record<string, string> = {
   'tradition-joliette':   'Joliette',
   'bonichoix-stemilie':   "St-Émilie-de-l'Énergie",
   'familiprix-joliette':  'Joliette',
+  'costco-quebec':        '',
 };
 
 const STORE_DISPLAY_NAMES: Record<string, string> = {
-  'metro-joliette': 'Metro Joliette',
-  'maxi-joliette': 'Maxi Joliette',
-  'iga-joliette': 'IGA Joliette',
-  'superc-joliette': 'Super C Joliette',
-  'bonichoix-joliette': 'BoniChoix Joliette',
-  'intermarche-joliette': "L'Inter-Marché Joliette",
-  'tradition-joliette': 'Marchés Tradition Joliette',
-  'bonichoix-stemilie': "BoniChoix St-Émilie-de-l'Énergie",
-  'familiprix-joliette': 'Familiprix Joliette',
+  'metro-joliette': 'Metro',
+  'maxi-joliette': 'Maxi',
+  'iga-joliette': 'IGA',
+  'superc-joliette': 'Super C',
+  'bonichoix-joliette': 'BoniChoix',
+  'intermarche-joliette': "L'Inter-Marché",
+  'tradition-joliette': 'Marchés Tradition',
+  'bonichoix-stemilie': 'BoniChoix',
+  'familiprix-joliette': 'Familiprix',
+  'costco-quebec': 'Costco',
 };
 
 const ALL_STORE_IDS = [
@@ -742,21 +786,31 @@ const ALL_STORE_IDS = [
   'tradition-joliette',
   'bonichoix-stemilie',
   'familiprix-joliette',
+  'costco-quebec',
 ];
 const STORE_SHORT: Record<string, string> = {
   'metro-joliette': 'Metro',
   'maxi-joliette': 'Maxi',
   'iga-joliette': 'IGA',
   'superc-joliette': 'Super C',
-  'bonichoix-joliette': 'BoniChoix Joliette',
+  'bonichoix-joliette': 'BoniChoix',
   'intermarche-joliette': 'Inter-Marché',
   'tradition-joliette': 'Marchés Tradition',
-  'bonichoix-stemilie': 'BoniChoix St-Émilie',
+  'bonichoix-stemilie': 'BoniChoix',
   'familiprix-joliette': 'Familiprix',
+  'costco-quebec': 'Costco',
 };
 
+export function shopperStoreId(storeId: string): string {
+  if (storeId === 'bonichoix-stemilie') return 'bonichoix-joliette';
+  return storeId;
+}
+
+const SHOPPER_STORE_IDS = Array.from(new Set(ALL_STORE_IDS.map(shopperStoreId)));
+
 function storeName(storeId: string): string {
-  return STORE_DISPLAY_NAMES[storeId] ?? storeId;
+  const shopperId = shopperStoreId(storeId);
+  return STORE_DISPLAY_NAMES[shopperId] ?? STORE_DISPLAY_NAMES[storeId] ?? storeId;
 }
 
 function dealEmoji(label: string): string {
@@ -1701,6 +1755,7 @@ function websiteSlug(input: string): string {
 }
 
 function dealToWebsiteItem(deal: VerifiedDeal, config: ShopperCategory, reportDate: Date, isDealMode: boolean) {
+  const groupedStoreId = shopperStoreId(deal.store_id);
   const strongDeal = Boolean(
     isDealMode ||
     deal.worth_buying ||
@@ -1722,9 +1777,10 @@ function dealToWebsiteItem(deal: VerifiedDeal, config: ShopperCategory, reportDa
     categoryId: config.id,
     categoryTitle: config.title,
     categoryEmoji: categoryEmoji(config.id),
-    storeId: deal.store_id,
-    storeName: storeName(deal.store_id),
-    storeAddress: STORE_ADDRESSES[deal.store_id] ?? '',
+    storeId: groupedStoreId,
+    sourceStoreId: deal.store_id,
+    storeName: storeName(groupedStoreId),
+    storeAddress: STORE_ADDRESSES[groupedStoreId] ?? STORE_ADDRESSES[deal.store_id] ?? '',
     price: priceWithUnit(deal),
     currentPrice: deal.current_price,
     unit: deal.unit ?? null,
@@ -1749,6 +1805,7 @@ function buildWebsiteCategories(deals: VerifiedDeal[], reportDate: Date, isDealM
     .map(config => {
       const categoryDeals = deals
         .filter(isPracticalShopperItem)
+        .filter(isCostcoGroceryRelevant)
         .filter(deal => classifyShopperCategory(deal) === config.id)
         .sort(sortDealsForShopper);
       return {
@@ -1768,18 +1825,21 @@ function writeWebsiteExport(shortlist: VerifiedDeal[], allDeals: ScoredDeal[], r
 
   const categoryWinners = pickCategoryWinners(shortlist);
   const dealCategories = buildWebsiteCategories(
-    SHOPPER_CATEGORIES.flatMap(config => categoryWinners.get(config.id) ?? []),
+    SHOPPER_CATEGORIES.flatMap(config => categoryWinners.get(config.id) ?? []).filter(isCostcoGroceryRelevant),
     reportDate,
     true,
   );
 
   const allCategories = buildWebsiteCategories(
-    deduplicateDisplayDeals(deduplicateDeals(allDeals)).map(verifyDeal).filter(d => d.verification_status !== 'UNVERIFIED'),
+    deduplicateDisplayDeals(deduplicateDeals(allDeals))
+      .filter(isCostcoGroceryRelevant)
+      .map(verifyDeal)
+      .filter(d => d.verification_status !== 'UNVERIFIED'),
     reportDate,
     false,
   );
 
-  const stores = ALL_STORE_IDS
+  const stores = SHOPPER_STORE_IDS
     .map(storeId => ({
       id: storeId,
       name: storeName(storeId),
@@ -1802,7 +1862,7 @@ function writeWebsiteExport(shortlist: VerifiedDeal[], allDeals: ScoredDeal[], r
     allItemCount,
     method: {
       title: 'D’où viennent les choix',
-      sourceSummary: `Prix en CAD tirés des circulaires et données structurées disponibles pour ${stores.map(store => store.name).join(', ')}.`,
+      sourceSummary: `Prix en CAD tirés des circulaires et données structurées disponibles pour ${stores.map(store => store.name).join(', ')}. Costco peut avoir des prix membre, des formats en vrac et des périodes de circulaire plus longues.`,
       selectionSummary: `Bons prix montre seulement les meilleurs choix. Tous les produits permet de retrouver les autres produits trouvés dans les circulaires sans les présenter comme des rabais.`,
       noPaddingSummary: `Si un rayon contient peu de produits, c’est qu’il n’y avait pas assez de bons prix solides cette semaine; le système n’ajoute pas de faux rabais pour remplir la page.`,
     },

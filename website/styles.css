@@ -75,13 +75,9 @@ a:focus-visible {
 }
 
 .topbar {
-  position: sticky;
-  top: 0;
-  z-index: 20;
   padding: 18px 28px;
   border-bottom: 1px solid rgba(23, 23, 20, 0.1);
   background: rgba(255, 254, 250, 0.92);
-  backdrop-filter: blur(18px);
 }
 
 .topbar-title {
@@ -181,11 +177,11 @@ h2 {
 
 .selection-panel {
   position: sticky;
-  top: 92px;
-  display: grid;
-  grid-template-rows: auto auto auto minmax(0, 1fr) auto;
-  max-height: calc(100vh - 116px);
-  overflow: auto;
+  top: 18px;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 36px);
+  overflow: hidden;
   padding: 14px;
 }
 
@@ -193,12 +189,13 @@ h2 {
   min-width: 0;
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: minmax(220px, 300px) minmax(260px, 1fr) minmax(220px, 300px) minmax(220px, 300px);
+  grid-template-columns: minmax(220px, 300px) minmax(260px, 1fr) minmax(220px, 300px);
   gap: 12px;
   align-items: end;
   padding: 14px;
 }
 
+.store-panel,
 .rayon-field {
   grid-column: 1 / -1;
 }
@@ -284,7 +281,6 @@ h2 {
 }
 
 .week-toggle,
-.store-panel select,
 .control-field input {
   width: 100%;
   border: 1px solid var(--rule);
@@ -296,10 +292,100 @@ h2 {
   font-size: 0.94rem;
 }
 
-.store-panel select {
-  min-height: 44px;
-  appearance: auto;
+.store-panel-head {
+  display: grid;
+  grid-template-columns: minmax(140px, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.store-panel-head .control-label {
+  margin-bottom: 0;
+}
+
+.store-actions {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: 8px;
+  min-width: min(100%, 460px);
+}
+
+.store-actions button {
+  min-height: 40px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  color: var(--text);
+  background: #fff;
   cursor: pointer;
+  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 900;
+}
+
+.store-actions button.active {
+  color: var(--forest);
+  border-color: rgba(35, 88, 69, 0.4);
+  background: var(--forest-soft);
+}
+
+.store-filter {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 8px;
+}
+
+.store-choice {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 8px;
+  align-items: center;
+  min-height: 42px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 8px 9px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.store-choice:has(input:checked) {
+  border-color: rgba(35, 88, 69, 0.45);
+  background: var(--forest-soft);
+}
+
+.store-choice input {
+  width: 16px;
+  height: 16px;
+  margin: 0;
+  accent-color: var(--forest);
+}
+
+.store-choice span {
+  min-width: 0;
+  color: var(--ink);
+  font-size: 0.86rem;
+  font-weight: 900;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.store-choice small {
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.store-empty {
+  grid-column: 1 / -1;
+  border: 1px dashed var(--rule);
+  border-radius: 8px;
+  padding: 12px;
+  color: var(--muted);
+  background: rgba(255, 254, 250, 0.78);
+  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-size: 0.86rem;
+  font-weight: 800;
 }
 
 .mode-tabs {
@@ -393,6 +479,12 @@ h2 {
 .selection-list {
   display: grid;
   gap: 10px;
+}
+
+.selection-list {
+  min-height: 0;
+  overflow: auto;
+  padding-right: 2px;
 }
 
 .selection-list:empty {
@@ -821,21 +913,72 @@ h2 {
   font-weight: 900;
 }
 
+.selection-estimate {
+  display: none;
+  margin: -4px 0 12px;
+  border: 1px solid rgba(35, 88, 69, 0.18);
+  border-radius: 10px;
+  padding: 11px 12px;
+  color: var(--text);
+  background: rgba(255, 254, 250, 0.82);
+  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+}
+
+.selection-estimate:not(:empty) {
+  display: grid;
+  gap: 5px;
+}
+
+.estimate-total {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.estimate-total span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.estimate-total strong {
+  color: var(--forest);
+  font-size: 1.15rem;
+  font-weight: 900;
+}
+
+.selection-estimate p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.3;
+}
+
 .export-status {
   min-height: 0;
-  margin: -4px 0 12px;
+  margin: 0 0 12px;
+  border-radius: 8px;
+  padding: 0;
   color: var(--muted);
   font-family: Avenir Next, Avenir, Helvetica, sans-serif;
   font-size: 0.84rem;
   line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .export-status.success {
+  padding: 10px 12px;
+  background: var(--forest-soft);
   color: var(--forest);
   font-weight: 800;
 }
 
 .export-status.warning {
+  padding: 10px 12px;
+  background: #f8eded;
   color: var(--danger);
   font-weight: 800;
 }
@@ -928,6 +1071,36 @@ h2 {
   font-weight: 900;
 }
 
+.store-subtotal {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 4px 10px;
+  align-items: baseline;
+  margin-top: 8px;
+  border-top: 1px solid rgba(116, 111, 101, 0.16);
+  padding-top: 10px;
+  color: var(--forest);
+  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+}
+
+.store-subtotal span {
+  color: var(--ink);
+  font-size: 0.84rem;
+  font-weight: 900;
+}
+
+.store-subtotal strong {
+  font-size: 0.95rem;
+  font-weight: 900;
+}
+
+.store-subtotal small {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  font-size: 0.75rem;
+  line-height: 1.3;
+}
+
 .empty-state {
   min-height: 96px;
   padding: 16px;
@@ -996,6 +1169,11 @@ h2 {
     grid-template-columns: 1fr;
   }
 
+  .store-panel-head,
+  .store-actions {
+    grid-template-columns: 1fr;
+  }
+
   .category-tabs {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1013,6 +1191,12 @@ h2 {
   .selection-panel {
     position: static;
     max-height: none;
+    overflow: visible;
+  }
+
+  .selection-list {
+    overflow: visible;
+    padding-right: 0;
   }
 
   .week-header {
@@ -1072,6 +1256,11 @@ h2 {
     overflow: visible;
     box-shadow: none;
     border: 0;
+  }
+
+  .selection-list {
+    overflow: visible;
+    padding-right: 0;
   }
 
   .selection-panel .panel-heading {

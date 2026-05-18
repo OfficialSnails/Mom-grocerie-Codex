@@ -7,12 +7,12 @@ cssclasses:
   - bons-summary
 ---
 # 🏬 Résumé par magasin — 14 au 20 mai 2026
-17 mai 2026 · Référence par magasin seulement.
+18 mai 2026 · Référence par magasin seulement.
 Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de dupliquer les cases.
 
 ---
 
-## 🏬 Metro Joliette
+## 🏬 Metro
 > [!info] 11 produits retenus
 > 📍 180 rue Beaudry N, Joliette
 
@@ -22,7 +22,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/420082661/1778532275/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOP YOPLAIT" width="220" />
+  <img src="https://f.wishabi.net/page_items/420082749/1778532751/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOP YOPLAIT" width="220" />
 
 - **Jus d'orange Tropicana 1.89L**
   - 🍪 Section: Collations et boissons
@@ -34,7 +34,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🥩 Section: Viandes et poissons
   - Prix: 1,39 $
   - Échelle: Format à vérifier sur la photo.
-  - 📊 Gagne contre BoniChoix Joliette 6,49 $
+  - 📊 Gagne contre BoniChoix 6,49 $
   - 🏅 Pourquoi ça gagne: 5,10 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419653428/1778227715/extra_large.jpg" alt="Preuve prix BOLOGNE OLYMEL" width="220" />
@@ -64,21 +64,14 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 📊 Gagne contre Super C 1,99 $
   - 🏅 Pourquoi ça gagne: 0,55 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/420082660/1778532275/extra_large.jpg" alt="Preuve prix MINI CONCOMBRES" width="220" />
+  <img src="https://f.wishabi.net/page_items/420082748/1778532750/extra_large.jpg" alt="Preuve prix MINI CONCOMBRES" width="220" />
 
-- **BAGUETTE FRANÇAISE**
-  - 🥖 Section: Boulangerie
-  - Prix: 1,99 $
+- **BIFTECK DE FILET MIGNON**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 16,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419653273/1778227702/extra_large.jpg" alt="Preuve prix BAGUETTE FRANÇAISE" width="220" />
-
-- **BARRES À L'AVOINE OATBOX**
-  - 🍪 Section: Collations et boissons
-  - Prix: 3,99 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419653502/1778227719/extra_large.jpg" alt="Preuve prix BARRES À L'AVOINE OATBOX" width="220" />
+  <img src="https://f.wishabi.net/page_items/420082759/1778532763/extra_large.jpg" alt="Preuve prix BIFTECK DE FILET MIGNON" width="220" />
 
 - **BLEUETS BIOLOGIQUES**
   - 🥬 Section: Fruits et légumes
@@ -87,23 +80,30 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419653280/1778227708/extra_large.jpg" alt="Preuve prix BLEUETS BIOLOGIQUES" width="220" />
 
-- **ESKA NATURAL SPRING WATER**
-  - 🍪 Section: Collations et boissons
-  - Prix: 5,49 $
+- **CLÉMENTINES**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 4,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419653293/1778227704/extra_large.jpg" alt="Preuve prix ESKA NATURAL SPRING WATER" width="220" />
+  <img src="https://f.wishabi.net/page_items/419653276/1778227704/extra_large.jpg" alt="Preuve prix CLÉMENTINES" width="220" />
 
-- **LÉGUMINEUSES CEDAR**
-  - 🥬 Section: Fruits et légumes
-  - Prix: 2,00 $
+- **MOTT'S FRUITSATIONS**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 2,79 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419653488/1778227707/extra_large.jpg" alt="Preuve prix LÉGUMINEUSES CEDAR" width="220" />
+  <img src="https://f.wishabi.net/page_items/419653544/1778227707/extra_large.jpg" alt="Preuve prix MOTT'S FRUITSATIONS" width="220" />
+
+- **POIREAUX**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419653272/1778227701/extra_large.jpg" alt="Preuve prix POIREAUX" width="220" />
 
 ---
 
-## 🏬 Maxi Joliette
+## 🏬 Maxi
 > [!info] 9 produits retenus
 > 📍 909 boul. Firestone, Joliette
 
@@ -169,7 +169,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 IGA Joliette
+## 🏬 IGA
 > [!info] 14 produits retenus
 > 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
@@ -212,7 +212,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre Marchés Tradition 10,00 $
   - 🏅 Pourquoi ça gagne: 6,51 $ moins cher que le prochain meilleur prix
-  - 🧾 Autres prix vus: Marchés Tradition 10,00 $ · BoniChoix Joliette 13,00 $
+  - 🧾 Autres prix vus: Marchés Tradition 10,00 $ · BoniChoix 13,00 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419755640/1778507783/extra_large.jpg" alt="Preuve prix PEPSI OU BOISSON À BASE D'EAU PÉTILLANTE" width="220" />
 
@@ -238,7 +238,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🥬 Section: Fruits et légumes
   - Prix: 1,33 $
   - Échelle: Format à vérifier sur la photo.
-  - 📊 Gagne contre BoniChoix Joliette 2,29 $
+  - 📊 Gagne contre BoniChoix 2,29 $
   - 🏅 Pourquoi ça gagne: 0,96 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419755629/1778507776/extra_large.jpg" alt="Preuve prix JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS" width="220" />
@@ -289,7 +289,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 Super C Joliette
+## 🏬 Super C
 > [!info] 15 produits retenus
 > 📍 1445 boul. Firestone, Joliette
 
@@ -412,7 +412,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 BoniChoix Joliette
+## 🏬 BoniChoix
 > [!info] 10 produits retenus
 > 📍 773 rue de Lanaudière, Joliette
 
@@ -495,7 +495,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 L'Inter-Marché Joliette
+## 🏬 L'Inter-Marché
 > [!info] 1 produit retenu
 > 📍 Joliette
 
@@ -510,7 +510,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 Marchés Tradition Joliette
+## 🏬 Marchés Tradition
 > [!info] 11 produits retenus
 > 📍 Joliette
 
@@ -520,7 +520,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Équivaut à 7,65 $/kg.
   - 📊 Gagne contre IGA 5,99 $
   - 🏅 Pourquoi ça gagne: 2,52 $/kg moins cher que le prochain meilleur prix
-  - 🧾 Autres prix vus: IGA 5,99 $ · BoniChoix Joliette 5,99 $
+  - 🧾 Autres prix vus: IGA 5,99 $ · BoniChoix 5,99 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419401254/1778519720/extra_large.jpg" alt="Preuve prix ASPERGES VERTES" width="220" />
 
@@ -537,7 +537,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🥫 Section: Garde-manger et autres
   - Prix: 3,87 $
   - Échelle: Format à vérifier sur la photo.
-  - 📊 Gagne contre BoniChoix Joliette 5,99 $
+  - 📊 Gagne contre BoniChoix 5,99 $
   - 🏅 Pourquoi ça gagne: 2,12 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419401308/1778506057/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
@@ -606,7 +606,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 ---
 
-## 🏬 Familiprix Joliette
+## 🏬 Familiprix
 > [!info] 5 produits retenus
 > 📍 Joliette
 
@@ -644,3 +644,43 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
+
+---
+
+## 🏬 Costco
+> [!info] 5 produits retenus
+
+- **Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 29,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503495/1778072364/extra_large.jpg" alt="Preuve prix Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche" width="220" />
+
+- **Nettoyant pour le corps Éclat Frais avec pompe de Olay**
+  - 🧼 Section: Maison et entretien
+  - Prix: 12,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503304/1778072362/extra_large.jpg" alt="Preuve prix Nettoyant pour le corps Éclat Frais avec pompe de Olay" width="220" />
+
+- **Produit de soin de la peau Bio-Oil**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 20,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503573/1778072366/extra_large.jpg" alt="Preuve prix Produit de soin de la peau Bio-Oil" width="220" />
+
+- **Short de nuit Room Service**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 14,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503535/1778072366/extra_large.jpg" alt="Preuve prix Short de nuit Room Service" width="220" />
+
+- **Ventilateur sur piédestal Woozoo**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 59,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503548/1778072362/extra_large.jpg" alt="Preuve prix Ventilateur sur piédestal Woozoo" width="220" />

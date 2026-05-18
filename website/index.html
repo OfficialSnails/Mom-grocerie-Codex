@@ -11,7 +11,7 @@
     <a class="skip-link" href="#items">Aller aux produits</a>
     <header class="topbar">
       <div class="topbar-title">
-        <p class="eyebrow">Joliette</p>
+        <p class="eyebrow">Québec</p>
         <h1>Liste d'épicerie</h1>
         <details id="method-note" class="method-note">
           <summary>Comment lire la liste</summary>
@@ -34,18 +34,23 @@
           <label for="item-search">Rechercher un produit</label>
           <input id="item-search" name="item-search" type="search" autocomplete="off" placeholder="Ex. poulet, beurre, fraises…" />
         </div>
-        <div class="control-field store-panel">
-          <label for="store-filter">Voir par épicerie</label>
-          <select id="store-filter" name="store-filter">
-            <option value="">Toutes les épiceries</option>
-          </select>
-        </div>
         <div class="control-field mode-field">
           <span class="control-label">Afficher</span>
           <div id="mode-tabs" class="mode-tabs" role="tablist" aria-label="Mode d'affichage">
             <button type="button" class="active" data-mode="deals" role="tab" aria-selected="true">Bons prix</button>
             <button type="button" data-mode="all" role="tab" aria-selected="false">Tous les produits</button>
           </div>
+        </div>
+        <div class="control-field store-panel">
+          <div class="store-panel-head">
+            <span class="control-label">Épiceries</span>
+            <div class="store-actions" aria-label="Raccourcis d'épiceries">
+              <button id="regular-stores-button" type="button">Épiceries régulières</button>
+              <button id="all-stores-button" type="button">Tout inclure</button>
+              <button id="clear-stores-button" type="button">Tout décocher</button>
+            </div>
+          </div>
+          <div id="store-filter" class="store-filter" role="group" aria-label="Choisir les épiceries"></div>
         </div>
         <div class="control-field rayon-field">
           <span class="control-label">Rayons</span>
@@ -64,6 +69,7 @@
           <h2>À acheter</h2>
         </div>
         <div id="selection-summary" class="selection-summary"></div>
+        <div id="selection-estimate" class="selection-estimate"></div>
         <div id="export-status" class="export-status" role="status" aria-live="polite"></div>
         <div id="selection-list" class="selection-list"></div>
         <div class="notes-field">

@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
-import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, scoreAllDeals } from '../src/generate-report.js';
+import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, isCostcoGroceryRelevant, scoreAllDeals, shopperStoreId } from '../src/generate-report.js';
 import { frenchWeekFolderName, frenchWeekLabel } from '../src/weekly-files.js';
+import { matchMerchant, wishabiItemOverlapsDate } from '../sources/flipp-adapter.js';
 import type { RawDealItem } from '../sources/source-adapter.js';
 
 const SAMPLE_ITEMS: RawDealItem[] = [
@@ -63,7 +64,7 @@ describe('generateMarkdownReport', () => {
     const report = generateMarkdownReport(scored, []);
 
     // IGA item should appear somewhere in the report
-    expect(report).toContain('IGA Joliette');
+    expect(report).toContain('IGA');
     expect(report).toContain('Poitrine de poulet');
   });
 
@@ -107,10 +108,10 @@ describe('generateMarkdownReport', () => {
   it('contains a section for each store', () => {
     const scored = scoreAllDeals(SAMPLE_ITEMS);
     const report = generateMarkdownReport(scored, []);
-    expect(report).toContain('IGA Joliette');
-    expect(report).toContain('Maxi Joliette');
-    expect(report).toContain('Metro Joliette');
-    expect(report).toContain('Super C Joliette');
+    expect(report).toContain('IGA');
+    expect(report).toContain('Maxi');
+    expect(report).toContain('Metro');
+    expect(report).toContain('Super C');
   });
 
   it('puts weak deals in À éviter section, not Meilleurs spéciaux', () => {
@@ -344,7 +345,7 @@ describe('weekly shopper-facing reports', () => {
     const shopping = generateShoppingListReport(shortlist);
     expect(shopping).toContain('## 🥩 Viandes et poissons');
     expect(shopping).toContain('## 🥬 Fruits et légumes');
-    expect(shopping).toContain('Metro Joliette');
+    expect(shopping).toContain('Metro');
     expect(shopping).toContain('Gagne contre Marchés Tradition 6,49 $/lb');
     expect(shopping).toContain('📸 Preuve du prix');
     expect(shopping).toContain('<img src="https://example.com/chicken-metro.jpg"');
@@ -434,7 +435,7 @@ describe('weekly shopper-facing reports', () => {
     ];
 
     const summary = generateStoreSummaryReport(shortlist);
-    expect(summary).toContain('## 🏬 IGA Joliette');
+    expect(summary).toContain('## 🏬 IGA');
     expect(summary).toContain('Produits laitiers et oeufs');
     expect(summary).toContain('📸 Preuve du prix');
     expect(summary).toContain('<img src="https://example.com/butter.jpg"');
@@ -1010,11 +1011,109 @@ describe('flyer week labels', () => {
 });
 
 describe('website user-facing wording and week filtering', () => {
+  it('maps Costco through Flipp and filters item validity by date', () => {
+    expect(matchMerchant('Costco')).toEqual({ store_id: 'costco-quebec', store_name: 'Costco' });
+    expect(matchMerchant('IGA')).toEqual({ store_id: 'iga-joliette', store_name: 'IGA' });
+
+    const currentItem = {
+      valid_from: '2026-05-11T00:00:00-04:00',
+      valid_to: '2026-06-14T23:59:59-04:00',
+    };
+    const futureItem = {
+      valid_from: '2026-05-25T00:00:00-04:00',
+      valid_to: '2026-06-14T23:59:59-04:00',
+    };
+
+    expect(wishabiItemOverlapsDate(currentItem, new Date('2026-05-18T12:00:00-04:00'))).toBe(true);
+    expect(wishabiItemOverlapsDate(futureItem, new Date('2026-05-18T12:00:00-04:00'))).toBe(false);
+    expect(wishabiItemOverlapsDate(futureItem, new Date('2026-05-26T12:00:00-04:00'))).toBe(true);
+  });
+
+  it('uses generic Quebec-facing store names and includes Costco in website export metadata', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const source = await readFile(new URL('../src/generate-report.ts', import.meta.url), 'utf8');
+    const adapter = await readFile(new URL('../sources/flipp-adapter.ts', import.meta.url), 'utf8');
+
+    expect(source).toContain("'costco-quebec': 'Costco'");
+    expect(shopperStoreId('bonichoix-stemilie')).toBe('bonichoix-joliette');
+    expect(source).toContain("'iga-joliette': 'IGA'");
+    expect(source).toContain("'maxi-joliette': 'Maxi'");
+    expect(source).toContain("'bonichoix-stemilie': 'BoniChoix'");
+    expect(source).not.toContain("'iga-joliette': 'IGA Joliette'");
+    expect(source).not.toContain("'maxi-joliette': 'Maxi Joliette'");
+    expect(source).toContain('Costco peut avoir des prix membre');
+    expect(adapter).toContain("store_id: 'costco-quebec'");
+    expect(adapter).toContain("store_name: 'Costco'");
+  });
+
+  it('keeps Costco grocery-relevant products and excludes obvious non-grocery offers', () => {
+    const scored = scoreAllDeals([
+      {
+        store_id: 'costco-quebec',
+        store_name: 'Costco',
+        item_name: 'Chandails Puma pour femmes',
+        normalized_name: 'chandails puma',
+        category: 'Vêtements',
+        current_price: 19.99,
+        unit: 'ea',
+        source_system: 'flipp',
+        source_type: 'flyer',
+        source_url: 'https://example.com/costco',
+        confidence: 'HIGH',
+      },
+      {
+        store_id: 'costco-quebec',
+        store_name: 'Costco',
+        item_name: 'Céréales Cheerios format familial',
+        normalized_name: 'cereales cheerios',
+        category: 'Épicerie',
+        current_price: 8.99,
+        unit: 'ea',
+        source_system: 'flipp',
+        source_type: 'flyer',
+        source_url: 'https://example.com/costco',
+        confidence: 'HIGH',
+      },
+      {
+        store_id: 'costco-quebec',
+        store_name: 'Costco',
+        item_name: 'Papier hygiénique Kirkland',
+        normalized_name: 'papier hygienique kirkland',
+        category: 'Maison',
+        current_price: 21.99,
+        unit: 'ea',
+        source_system: 'flipp',
+        source_type: 'flyer',
+        source_url: 'https://example.com/costco',
+        confidence: 'HIGH',
+      },
+      {
+        store_id: 'costco-quebec',
+        store_name: 'Costco',
+        item_name: 'Ventilateur de plancher',
+        normalized_name: 'ventilateur de plancher',
+        category: 'Maison',
+        current_price: 49.99,
+        unit: 'ea',
+        source_system: 'flipp',
+        source_type: 'flyer',
+        source_url: 'https://example.com/costco',
+        confidence: 'HIGH',
+      },
+    ]);
+
+    expect(isCostcoGroceryRelevant(scored[0])).toBe(false);
+    expect(isCostcoGroceryRelevant(scored[1])).toBe(true);
+    expect(isCostcoGroceryRelevant(scored[2])).toBe(true);
+    expect(isCostcoGroceryRelevant(scored[3])).toBe(false);
+  });
+
   it('uses natural product wording instead of items vus', async () => {
     const { readFile } = await import('node:fs/promises');
-    const [html, js] = await Promise.all([
+    const [html, js, css] = await Promise.all([
       readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
       readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+      readFile(new URL('../website/styles.css', import.meta.url), 'utf8'),
     ]);
 
     expect(html).toContain('Tous les produits');
@@ -1048,7 +1147,8 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain('function displayCategories()');
     expect(js).toContain('return [ALL_CATEGORY, ...currentCategories()]');
     expect(js).toContain("if (category?.id === 'all')");
-    expect(js).toContain('allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)');
+    expect(js).toContain('function itemMatchesSelectedStores(item)');
+    expect(js).toContain('return items.filter(itemMatchesSelectedStores)');
   });
 
   it('shows only available totals on category cards', async () => {
@@ -1059,6 +1159,45 @@ describe('website user-facing wording and week filtering', () => {
     expect(renderCategoryTabs).toContain('<span class="category-count">${scopedItems.length}</span>');
     expect(renderCategoryTabs).not.toContain('selectedCount');
     expect(renderCategoryTabs).not.toContain('${selectedCount > 0');
+  });
+
+  it('shows safe estimated totals in the final list and PDF exports', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const [html, js, css, server, skill, agents] = await Promise.all([
+      readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
+      readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+      readFile(new URL('../website/styles.css', import.meta.url), 'utf8'),
+      readFile(new URL('../src/serve-website.ts', import.meta.url), 'utf8'),
+      readFile(new URL('../SKILL.md', import.meta.url), 'utf8'),
+      readFile(new URL('../AGENTS.md', import.meta.url), 'utf8'),
+    ]);
+
+    expect(html).toContain('selection-estimate');
+    expect(js).toContain('function estimateBasketTotal');
+    expect(js).toContain('Total estimé');
+    expect(js).toContain('Avant taxes, dépôts, quantités réelles et prix au poids');
+    expect(js).toContain('Sous-total estimé');
+    expect(js).toContain('Total estimé de la liste');
+    expect(js).toContain('let exportStatusTimer = null');
+    expect(js).toContain("tone === 'success'");
+    expect(js).toContain('}, 5000)');
+    expect(css).not.toContain('.topbar {\n  position: sticky');
+    const selectionPanelCss = css.match(/\.selection-panel\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    expect(selectionPanelCss).toContain('display: flex');
+    expect(selectionPanelCss).toContain('flex-direction: column');
+    expect(selectionPanelCss).toContain('overflow: hidden');
+    expect(css).toContain('.selection-list {\n  min-height: 0;\n  overflow: auto;');
+    const exportStatusCss = css.match(/\.export-status\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    expect(exportStatusCss).toContain('margin: 0 0 12px');
+    expect(exportStatusCss).not.toContain('margin: -');
+    expect(server).toContain('estimateBasketTotal');
+    expect(server).toContain('Total estimé');
+    expect(server).toContain('Sous-total estimé');
+    expect(server).toContain('Total estimé de la liste');
+    expect(skill).toContain('Total estimé');
+    expect(skill).toContain('Total estimé de la liste');
+    expect(agents).toContain('Total estimé');
+    expect(agents).toContain('Total estimé de la liste');
   });
 
   it('uses the clearer pantry fallback label for the website', async () => {
@@ -1079,17 +1218,41 @@ describe('website user-facing wording and week filtering', () => {
 
   it('keeps store scope when category, search, and mode change', async () => {
     const { readFile } = await import('node:fs/promises');
-    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+    const [html, js, css] = await Promise.all([
+      readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
+      readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+      readFile(new URL('../website/styles.css', import.meta.url), 'utf8'),
+    ]);
 
     const categoryClick = js.slice(js.indexOf("button.addEventListener('click', () => {"), js.indexOf('els.categoryTabs.append(button);'));
     expect(categoryClick).toContain('state.activeCategoryId = category.id');
-    expect(categoryClick).not.toContain("state.activeStoreId = ''");
+    expect(categoryClick).not.toContain('selectedStoreIds =');
+    expect(html).toContain('Épiceries régulières');
+    expect(html).toContain('Tout inclure');
+    expect(html).toContain('Tout décocher');
+    expect(html).not.toContain('<select id="store-filter"');
+    expect(js).toContain("selectedStoreIds: new Set()");
+    expect(js).toContain("const OPTIONAL_STORE_IDS = new Set(['costco-quebec'])");
+    expect(js).toContain("function canonicalStoreId");
+    expect(js).toContain("if (storeId === 'bonichoix-stemilie') return 'bonichoix-joliette'");
+    expect(js).toContain('Choisis au moins une épicerie pour voir les produits.');
+    expect(js).toContain('function displayStoreName');
+    expect(js).toContain("'costco-quebec': 'Costco'");
+    expect(js).toContain('function defaultStoreSelection');
+    expect(js).toContain('function allStoreSelection');
+    expect(js).toContain('function ensureSelectedStores');
+    expect(js).not.toContain('state.selectedStoreIds = defaultStoreSelection(stores);');
     expect(js).toContain('function categoryItems(category)');
     expect(js).toContain('const scopedItems = categoryItems(category)');
     expect(js).toContain('baseItems = query');
-    expect(js).toContain('allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)');
+    expect(js).toContain('allWeekItems().filter(itemMatchesSelectedStores)');
     expect(js).toContain('categoryItems(category)');
-    expect(js).toContain('if (state.activeStoreId && !allWeekStores().some(store => store.id === state.activeStoreId))');
+    expect(js).toContain("els.regularStoresButton?.addEventListener('click'");
+    expect(js).toContain("els.allStoresButton?.addEventListener('click'");
+    expect(js).toContain("els.clearStoresButton?.addEventListener('click'");
+    expect(css).toContain('.store-panel,\n.rayon-field');
+    expect(css).toContain('grid-template-columns: repeat(3, minmax(120px, 1fr))');
+    expect(css).toContain('grid-template-columns: repeat(auto-fit, minmax(190px, 1fr))');
   });
 
   it('generated active week has no high-confidence pantry category misses', async () => {

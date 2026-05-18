@@ -157,7 +157,8 @@ Fonctionnement:
 - ajouter un produit l'envoie au panier final à droite et met à jour le compteur de panier
 - la liste finale est regroupée par épicerie avec adresse et prix
 - la zone `Notes` du panier est sauvegardée localement et apparaît dans le PDF sous `Notes`
-- `Exporter PDF` crée une liste propre avec magasin, adresse, produit, prix et notes seulement. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
+- la liste finale affiche aussi un `Total estimé` conservateur: les prix fixes comptent dans le sous-total, mais les prix au poids ou formats variables restent indiqués à vérifier
+- `Exporter PDF` crée une liste propre avec magasin, adresse, produit, prix, notes, `Total estimé` en haut, sous-totaux par magasin et `Total estimé de la liste` à la fin. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
 - la sélection est sauvegardée dans le navigateur avec `localStorage`
 
 Important: un site hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur. Le site public génère donc un PDF téléchargeable dans le navigateur; l'utilisateur choisit ensuite où le sauvegarder, l'imprime ou l'envoie à son téléphone.
@@ -253,17 +254,20 @@ Checklist minimum:
 - tous les rayons restent visibles sans scroll horizontal
 - les cartes de rayons gardent des libellés lisibles: pas de coupure comme `Boulangeri/e`, pas de collision entre le libellé et le compteur
 - la recherche trouve un produit à travers tous les rayons
-- choisir une épicerie dans `Voir par épicerie` affiche les produits de ce magasin dans le mode actif
-- cliquer ensuite un rayon garde l'épicerie sélectionnée et filtre seulement ce rayon pour cette épicerie
+- `Épiceries` est un filtre à cases compact: `Épiceries régulières` sélectionne les magasins courants, `Tout inclure` ajoute aussi Costco, et `Tout décocher` vide volontairement la sélection
+- si aucune épicerie n'est cochée, afficher `Choisis au moins une épicerie pour voir les produits.` au lieu de réactiver automatiquement des magasins
+- Costco est disponible mais non coché par défaut, parce que ses formats/membres/en vrac ne conviennent pas à toutes les courses
+- cliquer ensuite un rayon garde les épiceries sélectionnées et filtre seulement ce rayon pour ces épiceries
 - chercher un mot comme `baguette` trouve le produit même si le rayon actif est `Fruits et légumes`
 - changer entre `Bons prix` et `Tous les produits` conserve la sélection finale
 - les cartes produit gardent une image ou un placeholder propre
 - le rayon `Tous` apparaît en premier et montre le total du mode/magasin courant
 - les autres rayons montrent aussi uniquement le total disponible pour le mode/magasin courant, pas un ratio avec les produits sélectionnés
 - cocher un produit l'ajoute au panier final à droite et au compteur de panier
+- le panier affiche `Total estimé`; les produits au poids ou au format variable sont comptés dans une note séparée plutôt qu'ajoutés au sous-total
 - décocher ou vider la sélection retire le produit
 - écrire une note dans le panier, recharger la page, et vérifier que la note reste là
-- `Exporter PDF` crée un PDF sur `~/Desktop` en local, ou télécharge un PDF depuis le site hébergé
+- `Exporter PDF` crée un PDF sur `~/Desktop` en local, ou télécharge un PDF depuis le site hébergé; vérifier que le PDF contient le `Total estimé` en haut, les sous-totaux par magasin et le `Total estimé de la liste` à la fin
 - les photos de preuve, prix, unités et magasins restent lisibles
 
 Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Pour Playwright, prendre un snapshot avant les clics, utiliser les références d'éléments du snapshot, puis capturer une image dans `output/playwright/` si un artefact visuel aide à vérifier le rendu.
@@ -271,6 +275,8 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 ## Règles de confiance
 
 - Tous les prix sont en dollars canadiens
+- Le `Total estimé` du site et du PDF est volontairement conservateur: il additionne seulement les prix fixes/emballages. Les prix `/kg`, `/lb`, `/100g`, `/L` ou formats incertains ne sont pas additionnés sans quantité réelle; ils restent affichés dans la liste avec une note de vérification. Le PDF doit répéter ce total en haut et comme `Total estimé de la liste` à la fin, après les sous-totaux par magasin.
+- Les fichiers hebdomadaires du site doivent conserver `currentPrice`, `price` et `unit` pour chaque produit. Le total est calculé dans le panier et au moment de l'export PDF, pas pendant le scrape.
 - Les produits Flipp affichent maintenant une preuve visuelle intégrée quand disponible
 - Les preuves photo des produits retenus restent visibles directement dans le Markdown
 - Les prix affichent l'unité quand elle est connue (`/lb`, `/kg`, `/L`, etc.)
@@ -281,6 +287,9 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 - Chaque rayon peut afficher jusqu'à 20 bons prix, mais seulement si les prix sont réels, vérifiables, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.
 - Le mode `Tous les produits` peut afficher plus large, mais ces produits doivent rester marqués `Produit trouvé` et ne doivent pas être présentés comme des rabais.
 - Le mode `Tous les produits` doit dédupliquer les variantes évidentes d'une même tuile de circulaire: même magasin, même prix et titre quasi identique. L'image identique aide, mais certaines tuiles Flipp/Wishabi ont des URLs différentes; la similarité du titre doit rester forte. Garder la version la plus descriptive, sans fusionner deux magasins, deux prix ou deux produits différents.
+- Costco est inclus via Flipp/Wishabi quand la circulaire chevauche la semaine générée. Les produits Costco sont exclus du filtre par défaut, mais apparaissent avec `Tout inclure` ou la case Costco. Les offres peuvent rester valides plusieurs semaines; elles peuvent donc réapparaître dans des snapshots hebdomadaires différents, mais doivent être dédupliquées à l'intérieur d'une même semaine. Comme Costco mélange beaucoup d'offres non alimentaires, le site filtre Costco aux produits utiles pour l'épicerie: nourriture, boissons, surgelés, maison consommable, hygiène, pharmacie, animaux et consommables de cuisine; vêtements, meubles, électronique, ventilateurs, outils, déco et autres produits non consommables sont exclus de l'expérience shopper.
+- Les noms visibles des magasins doivent rester génériques Québec (`IGA`, `Maxi`, `Metro`, `Super C`, `Familiprix`, `Costco`) même si le code postal de Joliette sert d'ancrage pour obtenir les circulaires du Québec.
+- `BoniChoix St-Émilie` doit être regroupé sous `BoniChoix` dans l'app shopper, les comptes, le panier final et le PDF. Conserver l'identifiant source brut seulement pour l'audit/historique si nécessaire.
 - La classification doit privilégier l'usage réel de l'épicerie: céleri, kiwi, raisins, ail, ananas et avocat vont dans `Fruits et légumes`; goberge/crabe/pollock/surimi, creton, beefsteak, poisson pané et viandes froides vont dans `Viandes et poissons`; pizza et repas congelés vont dans `Surgelés`; pilules, médicaments et vitamines vont dans `Santé et pharmacie`; bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle et prosciutto vont dans `Viandes et poissons`, même si la source les classe vaguement en épicerie.
 - `Maison et entretien` regroupe les essentiels non alimentaires utiles: détergent, lessive, savon à vaisselle, produits nettoyants, papier hygiénique, papier essuie-tout, Kleenex/mouchoirs, Q-tips/coton-tiges, shampoing, savon, antisudorifique, couches et hygiène de base.
 - `Garde-manger et autres` est le libellé visible du fallback pantry; l'identifiant interne peut rester `pantry` pour compatibilité.
@@ -291,6 +300,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 - `npm run qa:pantry` est le contrôle ciblé du fallback `Garde-manger et autres`.
 - `npm run qa:categories` scanne toutes les catégories, échoue seulement sur les erreurs évidentes à haute confiance, et écrit un rapport dans `reports/qa/category-review-<semaine>.md`; les cas ambigus servent de revue humaine et ne bloquent pas.
 - Après une génération hebdomadaire depuis les données brutes, lancer `npm run qa:categories` avant de publier. Les corrections doivent aller dans `src/generate-report.ts`, jamais dans le JSON généré à la main.
+- Pour une modification UI seulement, utiliser la boucle rapide: tests ciblés, `node --check website/app.js`, puis un smoke visuel court. Ne pas lancer `qa:pantry`, `qa:categories`, Firecrawl ou une génération longue sauf si le changement touche les sources, le classifieur, les exports hebdomadaires ou les données.
 - Agent Browser ou Playwright peut être utilisé après les scans de données pour vérifier visuellement quelques rayons, mais la source principale de QA reste le scan JSON.
 - La déduplication doit garder le meilleur représentant d'une même famille évidente, par exemple bologne, sauciflard/chorizo ou boeuf haché extra maigre. Les rosettes de boeuf ne doivent pas être confondues avec le sauciflard/chorizo.
 - Les entrées manuelles sans image affichent explicitement:
@@ -302,7 +312,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 
 ### Source principale
 
-- Flipp / Wishabi pour Metro, Maxi, IGA, Super C, BoniChoix Joliette, Inter-Marché, Marchés Tradition et Familiprix
+- Flipp / Wishabi pour Metro, Maxi, IGA, Super C, BoniChoix, Inter-Marché, Marchés Tradition, Familiprix et Costco. Le code postal Joliette reste l'ancrage Québec; Costco peut avoir des prix membre, des formats en vrac et des périodes de circulaire plus longues.
 
 ### Source secondaire
 

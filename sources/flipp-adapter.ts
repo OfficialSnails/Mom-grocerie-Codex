@@ -12,16 +12,19 @@ const HEADERS = {
   'Origin': 'https://flipp.com',
 };
 
-// Match merchant names to our store_ids — order matters (most specific first)
+// Match merchant names to our store_ids — order matters (most specific first).
+// Joliette's postal code remains the Quebec flyer anchor, but store names are
+// shopper-facing Quebec labels instead of local branch names.
 const MERCHANT_PATTERNS: Array<{ pattern: RegExp; store_id: string; store_name: string; main_only?: boolean }> = [
-  { pattern: /familiprix/i,                     store_id: 'familiprix-joliette',   store_name: 'Familiprix Joliette' },
-  { pattern: /super[\s-]?c/i,                  store_id: 'superc-joliette',       store_name: 'Super C Joliette' },
-  { pattern: /march[eé]\s+bonichoix|bonichoix/i, store_id: 'bonichoix-joliette',  store_name: 'BoniChoix Joliette' },
-  { pattern: /inter[\s-]?march[eé]/i,           store_id: 'intermarche-joliette',  store_name: "L'Inter-Marché Joliette" },
-  { pattern: /march[eé]s?\s+tradition/i,         store_id: 'tradition-joliette',   store_name: 'Marchés Tradition Joliette' },
-  { pattern: /^iga$/i,                           store_id: 'iga-joliette',          store_name: 'IGA Joliette', main_only: false },
-  { pattern: /^maxi$/i,                          store_id: 'maxi-joliette',         store_name: 'Maxi Joliette' },
-  { pattern: /^metro$/i,                         store_id: 'metro-joliette',        store_name: 'Metro Joliette' },
+  { pattern: /^costco$/i,                         store_id: 'costco-quebec',        store_name: 'Costco' },
+  { pattern: /familiprix/i,                       store_id: 'familiprix-joliette',  store_name: 'Familiprix' },
+  { pattern: /super[\s-]?c/i,                     store_id: 'superc-joliette',      store_name: 'Super C' },
+  { pattern: /march[eé]\s+bonichoix|bonichoix/i,  store_id: 'bonichoix-joliette',   store_name: 'BoniChoix' },
+  { pattern: /inter[\s-]?march[eé]/i,             store_id: 'intermarche-joliette', store_name: "L'Inter-Marché" },
+  { pattern: /march[eé]s?\s+tradition/i,          store_id: 'tradition-joliette',   store_name: 'Marchés Tradition' },
+  { pattern: /^iga$/i,                            store_id: 'iga-joliette',         store_name: 'IGA', main_only: false },
+  { pattern: /^maxi$/i,                           store_id: 'maxi-joliette',        store_name: 'Maxi' },
+  { pattern: /^metro$/i,                          store_id: 'metro-joliette',       store_name: 'Metro' },
 ];
 
 interface WishabiFlyer {
@@ -91,11 +94,22 @@ function inferUnitFromPrintId(printId?: string | null): string | undefined {
   return undefined;
 }
 
-function matchMerchant(merchant: string): { store_id: string; store_name: string } | null {
+export function matchMerchant(merchant: string): { store_id: string; store_name: string } | null {
   for (const { pattern, store_id, store_name } of MERCHANT_PATTERNS) {
     if (pattern.test(merchant.trim())) return { store_id, store_name };
   }
   return null;
+}
+
+export function wishabiItemOverlapsDate(
+  item: Pick<WishabiItem, 'valid_from' | 'valid_to'>,
+  date = new Date(),
+): boolean {
+  const startsAt = Date.parse(item.valid_from);
+  const endsAt = Date.parse(item.valid_to);
+  if (!Number.isFinite(startsAt) || !Number.isFinite(endsAt)) return true;
+  const timestamp = date.getTime();
+  return startsAt <= timestamp && timestamp <= endsAt;
 }
 
 export class FlippAdapter implements SourceAdapter {
@@ -162,6 +176,8 @@ export class FlippAdapter implements SourceAdapter {
             let count = 0;
 
             for (const item of rawItems) {
+              if (!wishabiItemOverlapsDate(item)) continue;
+
               const name = parseFrenchName(item.name);
               if (!name) continue;
 

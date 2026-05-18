@@ -1,7 +1,7 @@
 [
   {
     "id": "metro-joliette",
-    "name": "Metro Joliette",
+    "name": "Metro",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -13,7 +13,7 @@
   },
   {
     "id": "maxi-joliette",
-    "name": "Maxi Joliette",
+    "name": "Maxi",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -25,7 +25,7 @@
   },
   {
     "id": "iga-joliette",
-    "name": "IGA Joliette",
+    "name": "IGA",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -37,7 +37,7 @@
   },
   {
     "id": "superc-joliette",
-    "name": "Super C Joliette",
+    "name": "Super C",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": "bonichoix-joliette",
-    "name": "BoniChoix Joliette",
+    "name": "BoniChoix",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -73,7 +73,7 @@
   },
   {
     "id": "familiprix-joliette",
-    "name": "Familiprix Joliette",
+    "name": "Familiprix",
     "city": "Joliette",
     "province": "Québec",
     "enabled": true,
@@ -82,5 +82,17 @@
     "priority_order": 7,
     "adapter": "flipp-joliette",
     "notes": "Couvert par Flipp/Wishabi pour les circulaires Familiprix Joliette; utile pour maison, entretien, hygiène et pharmacie."
+  },
+  {
+    "id": "costco-quebec",
+    "name": "Costco",
+    "city": "Québec",
+    "province": "Québec",
+    "enabled": true,
+    "website": "https://www.costco.ca",
+    "flyer_url": "https://www.costco.ca/coupons.html",
+    "priority_order": 8,
+    "adapter": "flipp-joliette",
+    "notes": "Couvert par Flipp/Wishabi avec le code postal Joliette comme ancrage Québec. Les offres Costco peuvent être mensuelles, en vrac ou membre; l'app les affiche séparément et les exclut par défaut dans le filtre."
   }
 ]

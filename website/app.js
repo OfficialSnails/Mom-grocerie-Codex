@@ -3,7 +3,7 @@ const state = {
   week: null,
   selected: new Map(),
   activeCategoryId: 'all',
-  activeStoreId: '',
+  selectedStoreIds: new Set(),
   searchQuery: '',
   mode: 'deals',
   notes: '',
@@ -17,6 +17,8 @@ const ALL_CATEGORY = {
   virtual: true,
 };
 
+const OPTIONAL_STORE_IDS = new Set(['costco-quebec']);
+
 const els = {
   weekToggle: document.querySelector('#week-toggle'),
   weekLabel: document.querySelector('#week-label'),
@@ -27,9 +29,13 @@ const els = {
   categoryTabs: document.querySelector('#category-tabs'),
   searchInput: document.querySelector('#item-search'),
   storeFilter: document.querySelector('#store-filter'),
+  regularStoresButton: document.querySelector('#regular-stores-button'),
+  allStoresButton: document.querySelector('#all-stores-button'),
+  clearStoresButton: document.querySelector('#clear-stores-button'),
   modeTabs: document.querySelector('#mode-tabs'),
   items: document.querySelector('#items'),
   selectionSummary: document.querySelector('#selection-summary'),
+  selectionEstimate: document.querySelector('#selection-estimate'),
   selectionList: document.querySelector('#selection-list'),
   notesInput: document.querySelector('#list-notes'),
   exportStatus: document.querySelector('#export-status'),
@@ -38,8 +44,92 @@ const els = {
   emptyTemplate: document.querySelector('#empty-template'),
 };
 
+let exportStatusTimer = null;
+
 function moneySafe(text) {
   return text || '';
+}
+
+const VARIABLE_PRICE_UNITS = new Set(['kg', 'lb', 'lbs', '100g', 'l', 'litre', 'litres']);
+const VARIABLE_PRICE_PATTERN = /\/\s*(?:kg|lb|lbs|100\s*g|g|l|litre|litres)\b/i;
+
+function isVariablePrice(item) {
+  const unit = String(item.unit ?? '').trim().toLowerCase();
+  return VARIABLE_PRICE_UNITS.has(unit) || VARIABLE_PRICE_PATTERN.test(String(item.price ?? ''));
+}
+
+function parseDisplayPrice(price) {
+  const text = String(price ?? '');
+  const multi = text.match(/\b\d+\s*(?:pour|for|\/)\s*\$?\s*(\d+(?:[,.]\d{1,2})?)/i);
+  const match = multi ?? text.match(/(\d+(?:[,.]\d{1,2})?)/);
+  if (!match) return null;
+  const value = Number.parseFloat(match[1].replace(',', '.'));
+  if (!Number.isFinite(value) || value <= 0 || value > 1000) return null;
+  return value;
+}
+
+function estimateItemPrice(item) {
+  if (isVariablePrice(item)) return null;
+  if (typeof item.currentPrice === 'number' && Number.isFinite(item.currentPrice) && item.currentPrice > 0) {
+    return item.currentPrice;
+  }
+  return parseDisplayPrice(item.price);
+}
+
+function estimateBasketTotal(items) {
+  const estimate = {
+    subtotal: 0,
+    fixedCount: 0,
+    variableCount: 0,
+    unknownCount: 0,
+    totalCount: 0,
+  };
+
+  for (const item of items) {
+    estimate.totalCount += 1;
+    if (isVariablePrice(item)) {
+      estimate.variableCount += 1;
+      continue;
+    }
+
+    const price = estimateItemPrice(item);
+    if (price == null) {
+      estimate.unknownCount += 1;
+      continue;
+    }
+
+    estimate.fixedCount += 1;
+    estimate.subtotal += price;
+  }
+
+  return estimate;
+}
+
+function formatEstimateCad(value) {
+  return `${(Math.round(value * 100) / 100).toFixed(2).replace('.', ',')} $`;
+}
+
+function estimateCaveat(estimate) {
+  const parts = [];
+  if (estimate.variableCount > 0) {
+    parts.push(`${estimate.variableCount} produit${estimate.variableCount > 1 ? 's' : ''} au poids ou au format variable`);
+  }
+  if (estimate.unknownCount > 0) {
+    parts.push(`${estimate.unknownCount} prix à vérifier`);
+  }
+  return parts.length > 0 ? `+ ${parts.join(' + ')} non inclus.` : '';
+}
+
+function renderEstimateSummary(items) {
+  const estimate = estimateBasketTotal(items);
+  const caveat = estimateCaveat(estimate);
+  return `
+    <div class="estimate-total">
+      <span>Total estimé</span>
+      <strong translate="no">${escapeHtml(formatEstimateCad(estimate.subtotal))}</strong>
+    </div>
+    <p>Avant taxes, dépôts, quantités réelles et prix au poids.${caveat ? ` ${escapeHtml(caveat)}` : ''}</p>
+  `;
 }
 
 function escapeHtml(value) {
@@ -88,6 +178,60 @@ function categoryLabel(category) {
   return category.title;
 }
 
+function displayStoreName(storeId, fallbackName) {
+  const canonicalId = canonicalStoreId(storeId);
+  const names = {
+    'metro-joliette': 'Metro',
+    'maxi-joliette': 'Maxi',
+    'iga-joliette': 'IGA',
+    'superc-joliette': 'Super C',
+    'bonichoix-joliette': 'BoniChoix',
+    'intermarche-joliette': "L'Inter-Marché",
+    'tradition-joliette': 'Marchés Tradition',
+    'familiprix-joliette': 'Familiprix',
+    'costco-quebec': 'Costco',
+  };
+  return names[canonicalId] ?? String(fallbackName ?? '').replace(/\s+Joliette\b/i, '').trim();
+}
+
+function canonicalStoreId(storeId) {
+  if (storeId === 'bonichoix-stemilie') return 'bonichoix-joliette';
+  return storeId;
+}
+
+const COSTCO_NON_GROCERY_KEYWORDS = [
+  'adidas', 'puma', 'reebok', 'calvin klein', 'bench', 'eddie bauer',
+  'chandail', 't-shirt', 'tee-shirt', 'chemise', 'pantalon', 'jeans', 'legging', 'short',
+  'robe', 'jupe', 'manteau', 'veste', 'hoodie', 'pull', 'pyjama', 'chaussette', 'bas',
+  'soulier', 'souliers', 'chaussure', 'chaussures', 'sandale', 'bottes', 'maillot',
+  'sac a dos', 'sac à dos', 'valise', 'bijou', 'bijoux', 'montre', 'lunettes',
+  'matelas', 'oreiller', 'couette', 'drap', 'literie', 'serviette de plage',
+  'divan', 'fauteuil', 'meuble', 'table pliante', 'chaise', 'bibliotheque',
+  'ventilateur', 'fan', 'climatiseur', 'chauffage', 'lampe', 'lumiere', 'lumière',
+  'televiseur', 'téléviseur', 'moniteur', 'ecran', 'écran', 'ordinateur', 'laptop',
+  'haut-parleur', 'speaker', 'ecouteur', 'écouteur', 'camera', 'caméra',
+  'chargeur', 'batterie', 'imprimante', 'projecteur', 'aspirateur',
+  'appareil photo', 'barbecue', 'bbq', 'outil', 'outils', 'perceuse', 'scie',
+  'tondeuse', 'kayak', 'velo', 'vélo', 'pneu', 'pneus', 'piscine', 'jouet', 'jouets',
+  'decoration', 'décoration', 'decor', 'décor', 'jardiniere', 'jardinière',
+];
+
+function isCostcoGroceryRelevantItem(item) {
+  if (canonicalStoreId(item?.storeId) !== 'costco-quebec') return true;
+  const text = normalizeText([
+    item.name,
+    item.normalizedName,
+    item.categoryTitle,
+    item.price,
+    item.scale,
+  ].join(' '));
+  return !COSTCO_NON_GROCERY_KEYWORDS.some(keyword => text.includes(normalizeText(keyword)));
+}
+
+function isShopperVisibleItem(item) {
+  return isCostcoGroceryRelevantItem(item);
+}
+
 function displayCategories() {
   if (!state.week) return [];
   return [ALL_CATEGORY, ...currentCategories()];
@@ -98,6 +242,7 @@ function allSelectableItems() {
   const seen = new Map();
   for (const category of [...(state.week.dealCategories ?? state.week.categories ?? []), ...(state.week.allCategories ?? [])]) {
     for (const item of category.items ?? []) {
+      if (!isShopperVisibleItem(item)) continue;
       if (!seen.has(item.id)) seen.set(item.id, item);
     }
   }
@@ -141,32 +286,56 @@ function saveNotes() {
 }
 
 function allWeekItems() {
-  return currentCategories().flatMap(category => category.items) ?? [];
+  return (currentCategories().flatMap(category => category.items) ?? []).filter(isShopperVisibleItem);
+}
+
+function regularStoreIds(stores = allWeekStores()) {
+  return stores.filter(store => !OPTIONAL_STORE_IDS.has(store.id)).map(store => store.id);
+}
+
+function defaultStoreSelection(stores = allWeekStores()) {
+  const regularIds = regularStoreIds(stores);
+  return new Set(regularIds.length > 0 ? regularIds : stores.map(store => store.id));
+}
+
+function allStoreSelection(stores = allWeekStores()) {
+  return new Set(stores.map(store => store.id));
+}
+
+function ensureSelectedStores() {
+  const stores = allWeekStores();
+  const validIds = new Set(stores.map(store => store.id));
+  for (const storeId of [...state.selectedStoreIds]) {
+    if (!validIds.has(storeId)) state.selectedStoreIds.delete(storeId);
+  }
+}
+
+function itemMatchesSelectedStores(item) {
+  return state.selectedStoreIds.has(canonicalStoreId(item.storeId));
 }
 
 function categoryItems(category) {
   if (category?.id === 'all') {
     const items = allWeekItems();
-    if (!state.activeStoreId) return items;
-    return items.filter(item => item.storeId === state.activeStoreId);
+    return items.filter(itemMatchesSelectedStores);
   }
-  const items = category?.items ?? [];
-  if (!state.activeStoreId) return items;
-  return items.filter(item => item.storeId === state.activeStoreId);
+  const items = (category?.items ?? []).filter(isShopperVisibleItem);
+  return items.filter(itemMatchesSelectedStores);
 }
 
 function allWeekStores() {
   if (!state.week) return [];
   const stores = new Map();
   for (const item of allWeekItems()) {
-    if (!stores.has(item.storeId)) {
-      stores.set(item.storeId, {
-        id: item.storeId,
-        name: item.storeName,
+    const storeId = canonicalStoreId(item.storeId);
+    if (!stores.has(storeId)) {
+      stores.set(storeId, {
+        id: storeId,
+        name: displayStoreName(storeId, item.storeName),
         count: 0,
       });
     }
-    stores.get(item.storeId).count += 1;
+    stores.get(storeId).count += 1;
   }
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
@@ -252,9 +421,10 @@ function renderMethodNote() {
   }
 
   els.methodNoteBody.innerHTML = `
-    <span>Les prix viennent des circulaires de Joliette et sont en dollars canadiens.</span>
+    <span>Les prix viennent des circulaires du Québec et sont en dollars canadiens.</span>
     <span>Chaque rayon garde les meilleurs choix trouvés cette semaine; s'il y en a peu, c'est qu'on n'a pas ajouté de faux rabais pour remplir.</span>
     <span>Quand le format n'est pas certain, la photo reste là pour vérifier rapidement.</span>
+    <span>Costco peut afficher des prix membre, des formats en vrac et des périodes de circulaire plus longues.</span>
     <span>Les rayons sont classés automatiquement; certains produits peuvent parfois être approximatifs.</span>
   `;
 }
@@ -284,13 +454,33 @@ function renderCategoryTabs() {
 
 function renderStoreFilter() {
   if (!els.storeFilter) return;
-  els.storeFilter.innerHTML = '<option value="">Toutes les épiceries</option>';
-  for (const store of allWeekStores()) {
-    const option = document.createElement('option');
-    option.value = store.id;
-    option.textContent = `${store.name} · ${store.count} produit${store.count > 1 ? 's' : ''}`;
-    option.selected = state.activeStoreId === store.id;
-    els.storeFilter.append(option);
+  ensureSelectedStores();
+  els.storeFilter.innerHTML = '';
+  const stores = allWeekStores();
+  const regularIds = regularStoreIds(stores);
+  const regularSelectionActive = regularIds.length > 0
+    && regularIds.every(id => state.selectedStoreIds.has(id))
+    && stores.filter(store => OPTIONAL_STORE_IDS.has(store.id)).every(store => !state.selectedStoreIds.has(store.id));
+  const selectedAll = stores.length > 0 && stores.every(store => state.selectedStoreIds.has(store.id));
+  const selectedNone = stores.length > 0 && state.selectedStoreIds.size === 0;
+  els.regularStoresButton?.classList.toggle('active', regularSelectionActive);
+  els.allStoresButton?.classList.toggle('active', selectedAll);
+  els.clearStoresButton?.classList.toggle('active', selectedNone);
+
+  if (stores.length === 0) {
+    els.storeFilter.innerHTML = '<div class="store-empty">Aucune épicerie disponible pour cette semaine.</div>';
+    return;
+  }
+
+  for (const store of stores) {
+    const label = document.createElement('label');
+    label.className = `store-choice ${OPTIONAL_STORE_IDS.has(store.id) ? 'optional' : ''}`;
+    label.innerHTML = `
+      <input type="checkbox" value="${escapeHtml(store.id)}" ${state.selectedStoreIds.has(store.id) ? 'checked' : ''} />
+      <span>${escapeHtml(store.name)}</span>
+      <small>${store.count} produit${store.count > 1 ? 's' : ''}</small>
+    `;
+    els.storeFilter.append(label);
   }
 }
 
@@ -322,13 +512,13 @@ function renderItemCard(item) {
   card.innerHTML = `
     <div class="product-media">
       ${item.proofImageUrl ? `<img class="proof" src="${escapeHtml(item.proofImageUrl)}" alt="Preuve prix ${escapeHtml(item.name)}" width="520" height="360" loading="lazy" />` : '<div class="proof-missing"><span>Image non disponible</span><small>Le prix reste vérifié par les données de la semaine.</small></div>'}
-      <span class="media-store">${escapeHtml(item.storeName)}</span>
+      <span class="media-store">${escapeHtml(displayStoreName(item.storeId, item.storeName))}</span>
     </div>
     <div class="product-body">
       <div class="product-main">
         <span class="item-main">
           <span class="item-name">${escapeHtml(item.name)}</span>
-          <span class="store-line">📍 ${escapeHtml(item.storeName)}</span>
+          <span class="store-line">📍 ${escapeHtml(displayStoreName(item.storeId, item.storeName))}</span>
           <span class="item-kind ${badgeClass}">${escapeHtml(badgeLabel)}</span>
         </span>
         <span class="price-stack" translate="no">
@@ -364,24 +554,41 @@ function renderItems() {
   const query = normalizeText(state.searchQuery.trim());
   const categories = displayCategories();
   const category = categories.find(candidate => candidate.id === state.activeCategoryId) ?? ALL_CATEGORY;
-  const activeStore = allWeekStores().find(store => store.id === state.activeStoreId);
-  if (!category && !activeStore) return;
+  ensureSelectedStores();
+  if (!category) return;
   state.activeCategoryId = category.id;
 
+  if (allWeekStores().length > 0 && state.selectedStoreIds.size === 0) {
+    const section = document.createElement('section');
+    section.className = 'category';
+    section.innerHTML = `
+      <div class="category-title">
+        <div>
+          <p class="eyebrow">Épiceries</p>
+          <h2><span>🛒</span>Choisis tes épiceries</h2>
+        </div>
+      </div>
+      <div class="empty-state search-empty">
+        <p>Choisis au moins une épicerie pour voir les produits.</p>
+        <span>Tu peux utiliser Épiceries régulières, Tout inclure, ou cocher les magasins un par un.</span>
+      </div>
+    `;
+    els.items.append(section);
+    return;
+  }
+
   const baseItems = query
-    ? allWeekItems().filter(item => !state.activeStoreId || item.storeId === state.activeStoreId)
+    ? allWeekItems().filter(itemMatchesSelectedStores)
     : categoryItems(category);
   const sourceItems = query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems;
   const section = document.createElement('section');
   section.className = 'category';
-  section.id = `category-${query ? 'search' : `${state.activeStoreId ? `${state.activeStoreId}-` : ''}${category.id}`}`;
-  const titleLabel = query ? 'Recherche' : state.activeStoreId ? 'Épicerie + rayon' : 'Rayon';
-  const titleIcon = query ? '⌕' : state.activeStoreId ? '📍' : escapeHtml(category.emoji);
+  section.id = `category-${query ? 'search' : category.id}`;
+  const titleLabel = query ? 'Recherche' : 'Rayon';
+  const titleIcon = query ? '⌕' : escapeHtml(category.emoji);
   const titleText = query
       ? `Résultats pour “${escapeHtml(state.searchQuery.trim())}”`
-      : state.activeStoreId
-        ? `${escapeHtml(activeStore?.name ?? 'Épicerie')} · ${escapeHtml(categoryLabel(category))}`
-        : escapeHtml(categoryLabel(category));
+      : escapeHtml(categoryLabel(category));
   section.innerHTML = `
     <div class="category-title">
       <div>
@@ -415,22 +622,31 @@ function renderItems() {
 function groupSelectedByStore() {
   const stores = new Map();
   for (const item of state.selected.values()) {
-    if (!stores.has(item.storeId)) {
-      stores.set(item.storeId, {
-        id: item.storeId,
-        name: item.storeName,
+    const storeId = canonicalStoreId(item.storeId);
+    if (!stores.has(storeId)) {
+      stores.set(storeId, {
+        id: storeId,
+        name: displayStoreName(storeId, item.storeName),
         address: item.storeAddress,
         items: [],
+        estimate: estimateBasketTotal([]),
       });
     }
-    stores.get(item.storeId).items.push(item);
+    stores.get(storeId).items.push(item);
+  }
+  for (const store of stores.values()) {
+    store.estimate = estimateBasketTotal(store.items);
   }
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
 function renderSelection() {
   const count = state.selected.size;
+  const selectedItems = [...state.selected.values()];
   els.selectionSummary.textContent = count === 0 ? 'Aucun produit sélectionné' : `${count} produit${count > 1 ? 's' : ''} sélectionné${count > 1 ? 's' : ''}`;
+  if (els.selectionEstimate) {
+    els.selectionEstimate.innerHTML = count === 0 ? '' : renderEstimateSummary(selectedItems);
+  }
   els.selectionList.innerHTML = '';
 
   if (count === 0) {
@@ -466,13 +682,36 @@ function renderSelection() {
       block.append(row);
     }
 
+    const caveat = estimateCaveat(store.estimate);
+    const subtotal = document.createElement('div');
+    subtotal.className = 'store-subtotal';
+    subtotal.innerHTML = `
+      <span>Sous-total estimé</span>
+      <strong translate="no">${escapeHtml(formatEstimateCad(store.estimate.subtotal))}</strong>
+      ${caveat ? `<small>${escapeHtml(caveat)}</small>` : ''}
+    `;
+    block.append(subtotal);
+
     els.selectionList.append(block);
   }
 }
 
 function setExportStatus(message, tone = '') {
+  if (exportStatusTimer) {
+    clearTimeout(exportStatusTimer);
+    exportStatusTimer = null;
+  }
+
   els.exportStatus.textContent = message;
   els.exportStatus.className = `export-status ${tone}`.trim();
+
+  if (message && tone === 'success') {
+    exportStatusTimer = setTimeout(() => {
+      els.exportStatus.textContent = '';
+      els.exportStatus.className = 'export-status';
+      exportStatusTimer = null;
+    }, 5000);
+  }
 }
 
 function slugFileName(value) {
@@ -483,6 +722,8 @@ function slugFileName(value) {
 
 function buildPrintableHtml(selectedItems) {
   const stores = groupSelectedByStore();
+  const estimate = estimateBasketTotal(selectedItems);
+  const caveat = estimateCaveat(estimate);
   const notes = state.notes.trim();
   const generated = new Intl.DateTimeFormat('fr-CA', {
     dateStyle: 'long',
@@ -507,10 +748,24 @@ function buildPrintableHtml(selectedItems) {
               <td class="price">${escapeHtml(item.price)}</td>
             </tr>
           `).join('')}
+          <tr class="subtotal-row">
+            <td>Sous-total estimé</td>
+            <td class="price">${escapeHtml(formatEstimateCad(store.estimate.subtotal))}</td>
+          </tr>
         </tbody>
       </table>
+      ${estimateCaveat(store.estimate) ? `<p class="estimate-note">${escapeHtml(estimateCaveat(store.estimate))}</p>` : ''}
     </section>
   `).join('');
+  const finalTotalBlock = `
+    <section class="final-total">
+      <div>
+        <span>Total estimé de la liste</span>
+        <strong>${escapeHtml(formatEstimateCad(estimate.subtotal))}</strong>
+      </div>
+      <p>Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
+    </section>
+  `;
 
   return `<!doctype html>
 <html lang="fr">
@@ -550,7 +805,7 @@ function buildPrintableHtml(selectedItems) {
     }
     .summary {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 10px;
       margin-bottom: 16px;
     }
@@ -594,11 +849,25 @@ function buildPrintableHtml(selectedItems) {
       vertical-align: top;
     }
     tr:last-child td { border-bottom: 0; }
+    .subtotal-row td {
+      color: #235845;
+      background: #e5f0e9;
+      font-weight: 900;
+    }
     td.price {
       width: 115px;
       color: #171714;
       font-weight: 900;
       white-space: nowrap;
+    }
+    .estimate-note,
+    .estimate-caveat {
+      margin: 6px 0 0;
+      color: #5f5a50;
+      font-size: 10.5px;
+    }
+    .estimate-caveat {
+      margin: -8px 0 16px;
     }
     .notes {
       break-inside: avoid;
@@ -615,6 +884,37 @@ function buildPrintableHtml(selectedItems) {
     .notes p {
       margin: 0;
       white-space: pre-wrap;
+    }
+    .final-total {
+      break-inside: avoid;
+      margin-top: 22px;
+      border: 2px solid #235845;
+      border-radius: 10px;
+      padding: 12px 14px;
+      background: #e5f0e9;
+    }
+    .final-total div {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: baseline;
+    }
+    .final-total span {
+      color: #235845;
+      font-weight: 900;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .final-total strong {
+      color: #235845;
+      font-size: 18px;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+    .final-total p {
+      margin: 6px 0 0;
+      color: #5f5a50;
+      font-size: 10.5px;
     }
     @media screen {
       body {
@@ -641,10 +941,13 @@ function buildPrintableHtml(selectedItems) {
   <div class="summary">
     <div>${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''} choisi${selectedItems.length > 1 ? 's' : ''}</div>
     <div>${escapeHtml(stores.length)} arrêt${stores.length > 1 ? 's' : ''}</div>
+    <div>Total estimé: ${escapeHtml(formatEstimateCad(estimate.subtotal))}</div>
     <div>Prix en CAD</div>
   </div>
+  <p class="estimate-caveat">Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
   ${notes ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes)}</p></section>` : ''}
   ${storeBlocks}
+  ${finalTotalBlock}
 </body>
 </html>`;
 }
@@ -672,6 +975,8 @@ async function loadJsPdf() {
 async function downloadBrowserPdf() {
   const selectedItems = [...state.selected.values()];
   const stores = groupSelectedByStore();
+  const estimate = estimateBasketTotal(selectedItems);
+  const caveat = estimateCaveat(estimate);
   const jsPDF = await loadJsPdf();
   const pdf = new jsPDF({ unit: 'pt', format: 'letter', orientation: 'portrait' });
   const pageWidth = pdf.internal.pageSize.getWidth();
@@ -705,10 +1010,17 @@ async function downloadBrowserPdf() {
   text(state.week?.weekRange || state.week?.folderName || '', margin, y + 34, { size: 12, color: [95, 90, 80] });
   text(`${selectedItems.length} produit${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
   text(`${stores.length} épicerie${stores.length > 1 ? 's' : ''}`, pageWidth - margin, y + 25, { size: 11, color: [95, 90, 80], align: 'right' });
-  text('Prix en CAD', pageWidth - margin, y + 42, { size: 11, color: [95, 90, 80], align: 'right' });
+  text(`Total estimé: ${formatEstimateCad(estimate.subtotal)}`, pageWidth - margin, y + 42, { style: 'bold', size: 11, color: [35, 88, 69], align: 'right' });
+  text('Prix en CAD', pageWidth - margin, y + 59, { size: 10, color: [95, 90, 80], align: 'right' });
   y += 64;
   line(y, [23, 23, 20], 1.8);
-  y += 28;
+  y += 20;
+  const estimateNoteLines = pdf.splitTextToSize(`Avant taxes, dépôts, quantités réelles et prix au poids. ${caveat}`, tableWidth);
+  for (const estimateNoteLine of estimateNoteLines) {
+    text(estimateNoteLine, margin, y, { size: 9, color: [95, 90, 80] });
+    y += 11;
+  }
+  y += 13;
 
   const notes = state.notes.trim();
   if (notes) {
@@ -750,11 +1062,40 @@ async function downloadBrowserPdf() {
       text(item.price, margin + itemWidth + 10, y + 17, { style: 'bold', size: 12, color: [35, 88, 69] });
       y += rowHeight;
     }
+    addPageIfNeeded(34);
+    pdf.setFillColor(229, 240, 233);
+    pdf.rect(margin, y, tableWidth, 28, 'F');
+    text('Sous-total estimé', margin + 10, y + 18, { style: 'bold', size: 11, color: [35, 88, 69] });
+    text(formatEstimateCad(store.estimate.subtotal), margin + itemWidth + 10, y + 18, { style: 'bold', size: 12, color: [35, 88, 69] });
+    y += 32;
+    const storeCaveat = estimateCaveat(store.estimate);
+    if (storeCaveat) {
+      const caveatLines = pdf.splitTextToSize(storeCaveat, tableWidth);
+      for (const caveatLine of caveatLines) {
+        addPageIfNeeded(14);
+        text(caveatLine, margin, y, { size: 9, color: [95, 90, 80] });
+        y += 12;
+      }
+    }
     y += 22;
   }
 
+  addPageIfNeeded(76);
+  pdf.setDrawColor(35, 88, 69);
+  pdf.setLineWidth(1.3);
+  pdf.setFillColor(229, 240, 233);
+  pdf.roundedRect(margin, y, tableWidth, 54, 7, 7, 'FD');
+  text('Total estimé de la liste', margin + 12, y + 22, { style: 'bold', size: 12, color: [35, 88, 69] });
+  text(formatEstimateCad(estimate.subtotal), pageWidth - margin - 12, y + 22, { style: 'bold', size: 16, color: [35, 88, 69], align: 'right' });
+  const finalCaveatLines = pdf.splitTextToSize(`Avant taxes, dépôts, quantités réelles et prix au poids. ${caveat}`, tableWidth - 24);
+  y += 38;
+  for (const finalCaveatLine of finalCaveatLines) {
+    text(finalCaveatLine, margin + 12, y, { size: 9, color: [95, 90, 80] });
+    y += 11;
+  }
+
   pdf.save(fileNameForCurrentWeek('pdf'));
-  setExportStatus(`PDF téléchargé: ${fileNameForCurrentWeek('pdf')}`, 'success');
+  setExportStatus('PDF téléchargé.', 'success');
 }
 
 function openBrowserPrintExport() {
@@ -811,7 +1152,7 @@ async function exportPdfToDesktop() {
     const text = await response.text();
     const result = text ? JSON.parse(text) : {};
     if (!response.ok) throw new Error(result.error || 'Export impossible');
-    setExportStatus(`PDF sauvegardé: ${result.fileName}`, 'success');
+    setExportStatus('PDF sauvegardé.', 'success');
   } catch (err) {
     openBrowserPrintExport();
   } finally {
@@ -825,10 +1166,9 @@ async function selectWeek(weekMeta) {
   loadSelection();
   loadNotes();
   state.activeCategoryId = 'all';
-  state.activeStoreId = '';
   state.searchQuery = '';
   els.searchInput.value = '';
-  if (els.storeFilter) els.storeFilter.value = '';
+  state.selectedStoreIds = defaultStoreSelection(allWeekStores());
   renderWeeks();
   renderWeekHeader();
   renderMethodNote();
@@ -872,10 +1212,36 @@ els.searchInput.addEventListener('input', event => {
   renderItems();
 });
 els.storeFilter.addEventListener('change', event => {
-  state.activeStoreId = event.target.value;
+  const input = event.target.closest('input[type="checkbox"]');
+  if (!input) return;
+  const storeId = canonicalStoreId(input.value);
+  if (input.checked) {
+    state.selectedStoreIds.add(storeId);
+  } else {
+    state.selectedStoreIds.delete(storeId);
+  }
   if (!displayCategories().some(category => category.id === state.activeCategoryId)) {
     state.activeCategoryId = 'all';
   }
+  renderStoreFilter();
+  renderCategoryTabs();
+  renderItems();
+});
+els.regularStoresButton?.addEventListener('click', () => {
+  state.selectedStoreIds = defaultStoreSelection(allWeekStores());
+  renderStoreFilter();
+  renderCategoryTabs();
+  renderItems();
+});
+els.allStoresButton?.addEventListener('click', () => {
+  state.selectedStoreIds = allStoreSelection(allWeekStores());
+  renderStoreFilter();
+  renderCategoryTabs();
+  renderItems();
+});
+els.clearStoresButton?.addEventListener('click', () => {
+  state.selectedStoreIds = new Set();
+  renderStoreFilter();
   renderCategoryTabs();
   renderItems();
 });
@@ -883,10 +1249,7 @@ els.modeTabs?.addEventListener('click', event => {
   const button = event.target.closest('button[data-mode]');
   if (!button || button.dataset.mode === state.mode) return;
   state.mode = button.dataset.mode;
-  if (state.activeStoreId && !allWeekStores().some(store => store.id === state.activeStoreId)) {
-    state.activeStoreId = '';
-    if (els.storeFilter) els.storeFilter.value = '';
-  }
+  ensureSelectedStores();
   if (!displayCategories().some(category => category.id === state.activeCategoryId)) {
     state.activeCategoryId = 'all';
   }

@@ -6,6 +6,7 @@ import { readFile, rm } from 'fs/promises';
 import { homedir, tmpdir } from 'os';
 import { basename, dirname, extname, join, normalize } from 'path';
 import { fileURLToPath } from 'url';
+import { estimateBasketTotal, estimateCaveat, formatEstimateCad } from './price-estimate.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..', 'website');
@@ -74,7 +75,7 @@ function findChrome(): string | null {
 }
 
 function groupByStore(items: any[]) {
-  const stores = new Map<string, { name: string; address: string; items: any[] }>();
+  const stores = new Map<string, { name: string; address: string; items: any[]; estimate: ReturnType<typeof estimateBasketTotal> }>();
   for (const item of items) {
     const key = item.storeId || item.storeName || 'store';
     if (!stores.has(key)) {
@@ -82,15 +83,21 @@ function groupByStore(items: any[]) {
         name: item.storeName || 'Épicerie',
         address: item.storeAddress || '',
         items: [],
+        estimate: estimateBasketTotal([]),
       });
     }
     stores.get(key)?.items.push(item);
+  }
+  for (const store of stores.values()) {
+    store.estimate = estimateBasketTotal(store.items);
   }
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
 function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
   const stores = groupByStore(selectedItems);
+  const estimate = estimateBasketTotal(selectedItems);
+  const caveat = estimateCaveat(estimate);
   const generated = new Intl.DateTimeFormat('fr-CA', {
     dateStyle: 'long',
     timeStyle: 'short',
@@ -114,10 +121,24 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
               <td class="price">${escapeHtml(item.price)}</td>
             </tr>
           `).join('')}
+          <tr class="subtotal-row">
+            <td>Sous-total estimé</td>
+            <td class="price">${escapeHtml(formatEstimateCad(store.estimate.subtotal))}</td>
+          </tr>
         </tbody>
       </table>
+      ${estimateCaveat(store.estimate) ? `<p class="estimate-note">${escapeHtml(estimateCaveat(store.estimate))}</p>` : ''}
     </section>
   `).join('');
+  const finalTotalBlock = `
+    <section class="final-total">
+      <div>
+        <span>Total estimé de la liste</span>
+        <strong>${escapeHtml(formatEstimateCad(estimate.subtotal))}</strong>
+      </div>
+      <p>Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
+    </section>
+  `;
 
   return `<!doctype html>
 <html lang="fr">
@@ -156,7 +177,7 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
     }
     .summary {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 10px;
       margin-bottom: 16px;
     }
@@ -200,11 +221,25 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
       vertical-align: top;
     }
     tr:last-child td { border-bottom: 0; }
+    .subtotal-row td {
+      color: #235845;
+      background: #e5f0e9;
+      font-weight: 900;
+    }
     td.price {
       width: 115px;
       color: #171714;
       font-weight: 900;
       white-space: nowrap;
+    }
+    .estimate-note,
+    .estimate-caveat {
+      margin: 6px 0 0;
+      color: #5f5a50;
+      font-size: 10.5px;
+    }
+    .estimate-caveat {
+      margin: -8px 0 16px;
     }
     .notes {
       break-inside: avoid;
@@ -221,6 +256,37 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
     .notes p {
       margin: 0;
       white-space: pre-wrap;
+    }
+    .final-total {
+      break-inside: avoid;
+      margin-top: 22px;
+      border: 2px solid #235845;
+      border-radius: 10px;
+      padding: 12px 14px;
+      background: #e5f0e9;
+    }
+    .final-total div {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: baseline;
+    }
+    .final-total span {
+      color: #235845;
+      font-weight: 900;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .final-total strong {
+      color: #235845;
+      font-size: 18px;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+    .final-total p {
+      margin: 6px 0 0;
+      color: #5f5a50;
+      font-size: 10.5px;
     }
   </style>
 </head>
@@ -239,10 +305,13 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
   <div class="summary">
     <div>${escapeHtml(selectedItems.length)} produits choisis</div>
     <div>${escapeHtml(stores.length)} arrêts</div>
+    <div>Total estimé: ${escapeHtml(formatEstimateCad(estimate.subtotal))}</div>
     <div>Prix en CAD</div>
   </div>
+  <p class="estimate-caveat">Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
   ${notes.trim() ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes.trim())}</p></section>` : ''}
   ${storeBlocks}
+  ${finalTotalBlock}
 </body>
 </html>`;
 }
