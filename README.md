@@ -1,6 +1,6 @@
-# Bons spéciaux de la semaine — Joliette (Codex)
+# Bons spéciaux de la semaine — Québec (Codex)
 
-Outil hebdomadaire pour produire une liste d'épicerie claire, pratique et vérifiable pour Joliette.
+Outil hebdomadaire pour produire une liste d'épicerie claire, pratique et vérifiable pour le Québec. Le code postal de Joliette sert d'ancrage pour récupérer les circulaires québécoises, mais l'expérience shopper doit rester générique: `IGA`, `Maxi`, `Metro`, `Super C`, `BoniChoix`, `Familiprix`, `Costco`, etc.
 
 Le point d'entrée humain officiel côté Markdown est maintenant:
 
@@ -16,7 +16,7 @@ Le reste du dossier `reports/` existe surtout pour l'archive, l'audit et le déb
 
 ## Workflow officiel
 
-1. Collecter les circulaires de Joliette via Flipp/Wishabi
+1. Collecter les circulaires québécoises via Flipp/Wishabi avec Joliette comme ancrage postal
 2. Ajouter les entrées manuelles de `data/current_week_prices.csv` si nécessaire
 3. Comparer les prix à l'historique
 4. Produire un dossier hebdomadaire propre avec:

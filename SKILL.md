@@ -5,7 +5,7 @@
 
 ## Purpose
 
-Generate a weekly grocery report for Joliette that a real shopper can actually use.
+Generate a weekly Quebec-facing grocery report that a real shopper can actually use. Joliette is the postal-code anchor for fetching Quebec flyers, but the shopper-facing app and store names should stay generic rather than Joliette-branded.
 
 The official human output is:
 

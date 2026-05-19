@@ -1,7 +1,7 @@
 {
   "name": "bons-speciaux",
   "version": "1.0.0",
-  "description": "Spéciaux d'épicerie hebdomadaires pour Joliette, QC",
+  "description": "Spéciaux d'épicerie hebdomadaires pour le Québec",
   "type": "module",
   "scripts": {
     "scan": "tsx src/collect-current-deals.ts",
