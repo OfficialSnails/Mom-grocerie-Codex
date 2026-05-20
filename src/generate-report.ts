@@ -39,6 +39,7 @@ const WEEKS_DIR = join(REPORTS_DIR, 'weeks');
 const WEBSITE_DIR = join(__dirname, '..', 'website');
 const WEBSITE_WEEKS_DIR = join(WEBSITE_DIR, 'data', 'weeks');
 const LAST_WEEK_SCORED_PATH = join(__dirname, '..', 'data', 'last-week-scored.json');
+const PUBLIC_WEBSITE_WEEK_LIMIT = 2;
 
 function loadProducts(): Product[] {
   if (!existsSync(PRODUCTS_PATH)) return [];
@@ -1938,7 +1939,8 @@ function writeWebsiteExport(shortlist: VerifiedDeal[], allDeals: ScoredDeal[], r
     path: `data/weeks/${slug}/week.json`,
   };
   const nextWeeks = [nextWeek, ...weeks.filter(week => week.slug !== slug)]
-    .sort((a, b) => String(b.generatedAt).localeCompare(String(a.generatedAt)));
+    .sort((a, b) => String(b.generatedAt).localeCompare(String(a.generatedAt)))
+    .slice(0, PUBLIC_WEBSITE_WEEK_LIMIT);
   writeFileSync(indexPath, JSON.stringify({ generatedAt: reportDate.toISOString(), weeks: nextWeeks }, null, 2), 'utf-8');
 
   return { slug, weekJsonPath };

@@ -344,12 +344,6 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419395026/1778506208/extra_large.jpg" alt="Preuve prix TARTINADE NUTELLA" width="220" />
 
-- [ ] **BABY MUM-MUM, Gaufrettes de dentition douces, 50 g** — **2,79 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419713934/1778225029/extra_large.jpg" alt="Preuve prix BABY MUM-MUM, Gaufrettes de dentition douces, 50 g" width="220" />
-
 - [ ] **BOÎTE À LUNCH C'EST PRÊT!** — **4,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -402,12 +396,6 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419653446/1778227707/extra_large.jpg" alt="Preuve prix ASSOUPLISSEUR DE TISSUS FLEECY" width="220" />
 
-- [ ] **DOVE Savon en barres, 12 x 106 g** — **15,99 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419713686/1778225007/extra_large.jpg" alt="Preuve prix DOVE Savon en barres, 12 x 106 g" width="220" />
-
 - [ ] **Nettoyant pour le corps Éclat Frais avec pompe de Olay** — **12,99 $**
   - 📍 **Magasin:** Costco
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -430,29 +418,29 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419401308/1778506057/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
 
-- [ ] **DEPEND, Produits et formats sélectionnés** — **15,99 $**
+- [ ] **ENSURE Substitut de repas, 6 x 235 ml** — **11,99 $**
   - 📍 **Magasin:** Familiprix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714457/1778225012/extra_large.jpg" alt="Preuve prix DEPEND, Produits et formats sélectionnés" width="220" />
+    <img src="https://f.wishabi.net/page_items/419710906/1778510892/extra_large.jpg" alt="Preuve prix ENSURE Substitut de repas, 6 x 235 ml" width="220" />
 
-- [ ] **ENSURE, Substitut de repas/, 6 x 235 ml** — **11,99 $**
+- [ ] **ENSURE, Substitut de repas, 6 x 235 ml** — **11,99 $**
   - 📍 **Magasin:** Familiprix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
-
-- [ ] **GLUCERNA, Substitut de repas, 6 x 237 ml** — **11,99 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
+    <img src="https://f.wishabi.net/page_items/419715115/1778222791/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas, 6 x 235 ml" width="220" />
 
 - [ ] **Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche** — **29,99 $**
   - 📍 **Magasin:** Costco
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419503495/1778072364/extra_large.jpg" alt="Preuve prix Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche" width="220" />
+
+- [ ] **POISE, Produits et formats sélectionnés** — **15,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419753281/1778510905/extra_large.jpg" alt="Preuve prix POISE, Produits et formats sélectionnés" width="220" />
 
 - [ ] **Produit de soin de la peau Bio-Oil** — **20,99 $**
   - 📍 **Magasin:** Costco
@@ -571,6 +559,18 @@ cssclasses:
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420354068/1778698746/extra_large.jpg" alt="Preuve prix Croustilles cuites à la marmite, Pleines de ou Saveurs du monde PC, 200 g" width="220" />
+
+- [ ] **Essentiel demineralized spring water 4L** — **0,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419715119/1778222794/extra_large.jpg" alt="Preuve prix Essentiel demineralized spring water 4L" width="220" />
+
+- [ ] **Essentiel Eau de source déminéralisée, distillée ou naturelle** — **0,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419710898/1778510886/extra_large.jpg" alt="Preuve prix Essentiel Eau de source déminéralisée, distillée ou naturelle" width="220" />
 
 - [ ] **HOSTESS GÂTEAUX** — **2,99 $**
   - 📍 **Magasin:** Marchés Tradition

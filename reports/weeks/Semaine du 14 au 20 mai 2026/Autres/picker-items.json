@@ -360,14 +360,6 @@
     "category": "Garde-manger et autres"
   },
   {
-    "id": "2026-05-20::familiprix-joliette::baby mum-mum, gaufrettes de dentition douces,",
-    "item_name": "BABY MUM-MUM, Gaufrettes de dentition douces, 50 g",
-    "store_id": "familiprix-joliette",
-    "store_name": "Familiprix",
-    "price": "2,79 $",
-    "category": "Garde-manger et autres"
-  },
-  {
     "id": "2026-05-20::iga-joliette::boite a lunch c'est pret!",
     "item_name": "BOÎTE À LUNCH C'EST PRÊT!",
     "store_id": "iga-joliette",
@@ -432,14 +424,6 @@
     "category": "Maison et entretien"
   },
   {
-    "id": "2026-05-20::familiprix-joliette::dove savon en barres, x",
-    "item_name": "DOVE Savon en barres, 12 x 106 g",
-    "store_id": "familiprix-joliette",
-    "store_name": "Familiprix",
-    "price": "15,99 $",
-    "category": "Maison et entretien"
-  },
-  {
     "id": "2026-05-20::costco-quebec::nettoyant pour le corps eclat frais avec pompe de olay",
     "item_name": "Nettoyant pour le corps Éclat Frais avec pompe de Olay",
     "store_id": "costco-quebec",
@@ -464,24 +448,16 @@
     "category": "Santé et pharmacie"
   },
   {
-    "id": "2026-05-20::familiprix-joliette::depend, produits et formats selectionnes",
-    "item_name": "DEPEND, Produits et formats sélectionnés",
-    "store_id": "familiprix-joliette",
-    "store_name": "Familiprix",
-    "price": "15,99 $",
-    "category": "Santé et pharmacie"
-  },
-  {
-    "id": "2026-05-20::familiprix-joliette::ensure, substitut de repas/, x",
-    "item_name": "ENSURE, Substitut de repas/, 6 x 235 ml",
+    "id": "2026-05-20::familiprix-joliette::ensure substitut de repas, x",
+    "item_name": "ENSURE Substitut de repas, 6 x 235 ml",
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix",
     "price": "11,99 $",
     "category": "Santé et pharmacie"
   },
   {
-    "id": "2026-05-20::familiprix-joliette::glucerna, substitut de repas, x",
-    "item_name": "GLUCERNA, Substitut de repas, 6 x 237 ml",
+    "id": "2026-05-20::familiprix-joliette::ensure, substitut de repas, x",
+    "item_name": "ENSURE, Substitut de repas, 6 x 235 ml",
     "store_id": "familiprix-joliette",
     "store_name": "Familiprix",
     "price": "11,99 $",
@@ -493,6 +469,14 @@
     "store_id": "costco-quebec",
     "store_name": "Costco",
     "price": "29,99 $",
+    "category": "Santé et pharmacie"
+  },
+  {
+    "id": "2026-05-20::familiprix-joliette::poise, produits et formats selectionnes",
+    "item_name": "POISE, Produits et formats sélectionnés",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "15,99 $",
     "category": "Santé et pharmacie"
   },
   {
@@ -621,6 +605,22 @@
     "store_id": "maxi-joliette",
     "store_name": "Maxi",
     "price": "2,00 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-05-20::familiprix-joliette::essentiel demineralized spring water",
+    "item_name": "Essentiel demineralized spring water 4L",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "0,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-05-20::familiprix-joliette::essentiel eau de source demineralisee, distillee ou naturelle",
+    "item_name": "Essentiel Eau de source déminéralisée, distillée ou naturelle",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "0,99 $",
     "category": "Collations et boissons"
   },
   {

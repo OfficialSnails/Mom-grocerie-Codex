@@ -612,40 +612,40 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 > [!info] 5 produits retenus
 > 📍 Joliette
 
-- **BABY MUM-MUM, Gaufrettes de dentition douces, 50 g**
-  - 🥫 Section: Garde-manger et autres
-  - Prix: 2,79 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419713934/1778225029/extra_large.jpg" alt="Preuve prix BABY MUM-MUM, Gaufrettes de dentition douces, 50 g" width="220" />
-
-- **DEPEND, Produits et formats sélectionnés**
-  - 💊 Section: Santé et pharmacie
-  - Prix: 15,99 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419714457/1778225012/extra_large.jpg" alt="Preuve prix DEPEND, Produits et formats sélectionnés" width="220" />
-
-- **DOVE Savon en barres, 12 x 106 g**
-  - 🧼 Section: Maison et entretien
-  - Prix: 15,99 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419713686/1778225007/extra_large.jpg" alt="Preuve prix DOVE Savon en barres, 12 x 106 g" width="220" />
-
-- **ENSURE, Substitut de repas/, 6 x 235 ml**
+- **ENSURE Substitut de repas, 6 x 235 ml**
   - 💊 Section: Santé et pharmacie
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
+  <img src="https://f.wishabi.net/page_items/419710906/1778510892/extra_large.jpg" alt="Preuve prix ENSURE Substitut de repas, 6 x 235 ml" width="220" />
 
-- **GLUCERNA, Substitut de repas, 6 x 237 ml**
+- **ENSURE, Substitut de repas, 6 x 235 ml**
   - 💊 Section: Santé et pharmacie
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
+  <img src="https://f.wishabi.net/page_items/419715115/1778222791/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas, 6 x 235 ml" width="220" />
+
+- **Essentiel demineralized spring water 4L**
+  - 🍪 Section: Collations et boissons
+  - Prix: 0,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419715119/1778222794/extra_large.jpg" alt="Preuve prix Essentiel demineralized spring water 4L" width="220" />
+
+- **Essentiel Eau de source déminéralisée, distillée ou naturelle**
+  - 🍪 Section: Collations et boissons
+  - Prix: 0,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419710898/1778510886/extra_large.jpg" alt="Preuve prix Essentiel Eau de source déminéralisée, distillée ou naturelle" width="220" />
+
+- **POISE, Produits et formats sélectionnés**
+  - 💊 Section: Santé et pharmacie
+  - Prix: 15,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419753281/1778510905/extra_large.jpg" alt="Preuve prix POISE, Produits et formats sélectionnés" width="220" />
 
 ---
 

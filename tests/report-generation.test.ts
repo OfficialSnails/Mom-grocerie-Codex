@@ -1,8 +1,62 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
 import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, isCostcoGroceryRelevant, scoreAllDeals, shopperStoreId } from '../src/generate-report.js';
 import { frenchWeekFolderName, frenchWeekLabel } from '../src/weekly-files.js';
 import { matchMerchant, wishabiItemOverlapsDate } from '../sources/flipp-adapter.js';
 import type { RawDealItem } from '../sources/source-adapter.js';
+
+vi.mock('../src/price-history.js', () => {
+  const stableStats = (
+    avg: number,
+    low: number,
+    median = avg,
+    low30 = low,
+    low60 = low,
+  ) => ({
+    count: 6,
+    avg_6mo: avg,
+    median_6mo: median,
+    low_6mo: low,
+    high_6mo: Math.max(avg, low),
+    avg_4wk: avg,
+    low_30d: low30,
+    low_60d: low60,
+    has_enough_history: true,
+  });
+
+  const noHistory = {
+    count: 0,
+    avg_6mo: null,
+    median_6mo: null,
+    low_6mo: null,
+    high_6mo: null,
+    avg_4wk: null,
+    low_30d: null,
+    low_60d: null,
+    has_enough_history: false,
+  };
+
+  const pctBelow = (current: number, reference: number) => {
+    if (reference <= 0) return 0;
+    return Math.round(((reference - current) / reference) * 100 * 10) / 10;
+  };
+
+  return {
+    pctBelow,
+    getProductStats: (name: string) => {
+      const normalized = name
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '');
+
+      if (normalized.includes('poitrine de poulet')) return stableStats(8, 4.99);
+      if (normalized.includes('beurre')) return stableStats(1.7, 1.07);
+      if (normalized.includes('cafe')) return stableStats(1.4, 1.35);
+      if (normalized.includes('roti de bas de palette')) return stableStats(16, 8.99);
+
+      return noHistory;
+    },
+  };
+});
 
 const SAMPLE_ITEMS: RawDealItem[] = [
   // Only item from IGA — must still appear in report
@@ -1193,14 +1247,21 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).not.toContain('Item vu');
   });
 
-  it('keeps only the latest production week visible unless debug weeks are enabled', async () => {
+  it('keeps a rolling public week window and hides test weeks unless debug weeks are enabled', async () => {
     const { readFile } = await import('node:fs/promises');
-    const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
+    const [js, generator] = await Promise.all([
+      readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+      readFile(new URL('../src/generate-report.ts', import.meta.url), 'utf8'),
+    ]);
 
     expect(js).toContain('function visibleWeeks');
     expect(js).toContain('debugWeeks');
     expect(js).toContain('manual-preview');
-    expect(js).toContain('productionWeeks.slice(0, 1)');
+    expect(js).toContain('if (showAllWeeks()) return weeks');
+    expect(js).toContain('return productionWeeks');
+    expect(js).not.toContain('productionWeeks.slice(0, 1)');
+    expect(generator).toContain('const PUBLIC_WEBSITE_WEEK_LIMIT = 2');
+    expect(generator).toContain('.slice(0, PUBLIC_WEBSITE_WEEK_LIMIT)');
   });
 
   it('uses Tous as a virtual category scoped to mode and store', async () => {

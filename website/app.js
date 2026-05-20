@@ -352,8 +352,8 @@ function isProductionWeek(week) {
 
 function visibleWeeks(weeks) {
   const productionWeeks = weeks.filter(isProductionWeek);
-  if (showAllWeeks()) return productionWeeks;
-  return productionWeeks.slice(0, 1);
+  if (showAllWeeks()) return weeks;
+  return productionWeeks;
 }
 
 async function loadJson(path) {

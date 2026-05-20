@@ -86,7 +86,61 @@ function ensurePickerWatcher(): void {
   child.unref();
 }
 
+function applyForcedRunDateFromEnv(): void {
+  const raw = process.env.BONS_SPECIAUX_RUN_DATE;
+  if (!raw) return;
+
+  const fixedDate = new Date(raw);
+  if (Number.isNaN(fixedDate.getTime())) {
+    console.error(`❌ BONS_SPECIAUX_RUN_DATE invalide: ${raw}`);
+    console.error('   Exemple: BONS_SPECIAUX_RUN_DATE=2026-05-21T12:00:00-04:00 npm run weekly');
+    process.exit(1);
+  }
+
+  const RealDate = Date;
+  const fixedTime = fixedDate.getTime();
+
+  const MockDate = class extends RealDate {
+    constructor(...args: any[]) {
+      if (args.length === 0) {
+        super(fixedTime);
+      } else if (args.length === 1) {
+        super(args[0]);
+      } else if (args.length === 2) {
+        super(args[0], args[1]);
+      } else if (args.length === 3) {
+        super(args[0], args[1], args[2]);
+      } else if (args.length === 4) {
+        super(args[0], args[1], args[2], args[3]);
+      } else if (args.length === 5) {
+        super(args[0], args[1], args[2], args[3], args[4]);
+      } else if (args.length === 6) {
+        super(args[0], args[1], args[2], args[3], args[4], args[5]);
+      } else {
+        super(args[0], args[1], args[2], args[3], args[4], args[5], args[6]);
+      }
+    }
+
+    static now(): number {
+      return fixedTime;
+    }
+
+    static parse(value: string): number {
+      return RealDate.parse(value);
+    }
+
+    static UTC(...args: any[]): number {
+      return Reflect.apply(RealDate.UTC, RealDate, args) as number;
+    }
+  };
+
+  globalThis.Date = MockDate as DateConstructor;
+  console.log(`🗓️ Date d'exécution forcée: ${fixedDate.toISOString()} (BONS_SPECIAUX_RUN_DATE)`);
+}
+
 async function main() {
+  applyForcedRunDateFromEnv();
+
   console.log('');
   console.log('🥦 Bons spéciaux — démarrage du rapport hebdomadaire');
   console.log('');

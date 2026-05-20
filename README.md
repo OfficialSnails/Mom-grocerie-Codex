@@ -29,6 +29,8 @@ Le reste du dossier `reports/` existe surtout pour l'archive, l'audit et le déb
 
 Les semaines suivent le cycle réel des circulaires du jeudi au mercredi, par exemple `14 au 20 mai 2026`, puis `21 au 27 mai 2026`.
 
+Si on lance une génération le mercredi pour préparer les circulaires qui commencent le jeudi, il faut cibler la semaine qui commence le jeudi suivant. La règle n'est pas de reprendre les mêmes produits et de changer la date: le nouveau dossier doit venir de données Flipp/Wishabi live dont les dates chevauchent cette nouvelle semaine. Si la commande normale produit encore la semaine qui finit le mercredi, utiliser la même pipeline avec une date d'exécution forcée au jeudi à venir, puis le mentionner dans le rapport de run.
+
 ## Commandes
 
 ```bash
@@ -47,6 +49,16 @@ Validation manuelle forcée malgré le cooldown Flipp:
 ```bash
 BONS_SPECIAUX_IGNORE_RATE_LIMIT=1 npm run weekly
 ```
+
+Prévisualisation du prochain cycle du jeudi quand on est encore mercredi:
+
+```bash
+# Utiliser seulement quand les nouvelles circulaires du jeudi sont déjà visibles
+# mais que la date locale ferait encore générer la semaine précédente.
+BONS_SPECIAUX_RUN_DATE=2026-05-21T12:00:00-04:00 npm run weekly
+```
+
+Remplacer la date par le jeudi qui commence le cycle à générer. Cette option ne change pas la source: elle lance la même pipeline Flipp/Wishabi normale, mais avec une date de run forcée pour que le dossier et les libellés correspondent au bon cycle de circulaire.
 
 Recherche rapide dans la semaine déjà scorée:
 
@@ -143,7 +155,7 @@ Le site ne scrape rien. Il lit seulement les fichiers JSON générés par `npm r
 
 Fonctionnement:
 
-- la page d'accueil montre les semaines disponibles
+- la page d'accueil montre une petite fenêtre de comparaison des semaines de production, actuellement les deux semaines web les plus récentes, avec la plus récente sélectionnée par défaut; les archives plus anciennes restent dans `reports/weeks/`, et les semaines test/manual-preview/mock restent cachées sauf en mode debug
 - chaque semaine ouvre une interface en 3 zones: contrôles en haut, produits du rayon actif au centre, panier final à droite
 - le mode `Bons prix` est le mode par défaut et ne montre que les rabais retenus
 - le mode `Tous les produits` permet de chercher ou parcourir les produits trouvés dans les circulaires générées, avec le badge `Produit trouvé` quand ce n'est pas un vrai bon prix
