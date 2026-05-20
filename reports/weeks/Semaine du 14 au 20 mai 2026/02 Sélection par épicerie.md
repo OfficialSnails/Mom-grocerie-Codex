@@ -7,13 +7,13 @@ cssclasses:
   - bons-summary
 ---
 # 🏬 Résumé par magasin — 14 au 20 mai 2026
-18 mai 2026 · Référence par magasin seulement.
+20 mai 2026 · Référence par magasin seulement.
 Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de dupliquer les cases.
 
 ---
 
 ## 🏬 Metro
-> [!info] 11 produits retenus
+> [!info] 12 produits retenus
 > 📍 180 rue Beaudry N, Joliette
 
 - **YOGOURT À BOIRE YOP YOPLAIT**
@@ -24,8 +24,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/420082749/1778532751/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOP YOPLAIT" width="220" />
 
+- **FRAISES DE SERRE**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 4,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 48 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419653315/1778227703/extra_large.jpg" alt="Preuve prix FRAISES DE SERRE" width="220" />
+
 - **Jus d'orange Tropicana 1.89L**
-  - 🍪 Section: Collations et boissons
+  - 🥩 Section: Viandes et poissons
   - Prix: 5,49 $
   - Échelle: Équivaut à 2,90 $/L.
   ⚠️ Preuve photo manquante (entrée manuelle)
@@ -81,7 +89,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419653280/1778227708/extra_large.jpg" alt="Preuve prix BLEUETS BIOLOGIQUES" width="220" />
 
 - **CLÉMENTINES**
-  - 🥫 Section: Garde-manger et autres
+  - 🥬 Section: Fruits et légumes
   - Prix: 4,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -104,8 +112,14 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Maxi
-> [!info] 9 produits retenus
+> [!info] 8 produits retenus
 > 📍 909 boul. Firestone, Joliette
+
+- **Bananes**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 0,59 $/kg
+  - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  ⚠️ Preuve photo manquante (entrée manuelle)
 
 - **PAINS À HOT DOG OU HAMBURGER SANS NOM®, 12 un.**
   - 🥖 Section: Boulangerie
@@ -113,20 +127,6 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/420354076/1778698749/extra_large.jpg" alt="Preuve prix PAINS À HOT DOG OU HAMBURGER SANS NOM®, 12 un." width="220" />
-
-- **Bananes**
-  - 🥬 Section: Fruits et légumes
-  - Prix: 0,59 $/kg
-  - Pourquoi: Environ 56 % moins cher que le prix habituel.
-  ⚠️ Preuve photo manquante (entrée manuelle)
-
-- **FRAISES**
-  - 🥬 Section: Fruits et légumes
-  - Prix: 4,49 $
-  - Échelle: Format: paquet de 1 lb. Équivaut à 9,89 $/kg.
-  - Pourquoi: Environ 51 % moins cher que le prix habituel.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
 
 - **CELERI**
   - 🥬 Section: Fruits et légumes
@@ -290,7 +290,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Super C
-> [!info] 15 produits retenus
+> [!info] 16 produits retenus
 > 📍 1445 boul. Firestone, Joliette
 
 - **Fromage en bloc Cracker Barrel**
@@ -337,6 +337,15 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🏅 Pourquoi ça gagne: 4,33 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/420073008/1778529649/extra_large.jpg" alt="Preuve prix Petits gâteaux Vachon" width="220" />
+
+- **Yogourt grec Oîkos Danone**
+  - 🥛 Section: Produits laitiers et oeufs
+  - Prix: 3,47 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 10,99 $
+  - 🏅 Pourquoi ça gagne: 7,52 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419655008/1778216118/extra_large.jpg" alt="Preuve prix Yogourt grec Oîkos Danone" width="220" />
 
 - **Fromage feta Selection**
   - 🥛 Section: Produits laitiers et oeufs
@@ -413,7 +422,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 BoniChoix
-> [!info] 10 produits retenus
+> [!info] 9 produits retenus
 > 📍 773 rue de Lanaudière, Joliette
 
 - **BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES**
@@ -423,13 +432,6 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419399705/1778051473/extra_large.jpg" alt="Preuve prix BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES" width="220" />
-
-- **IÖGO DUO YOGURT**
-  - 🥛 Section: Produits laitiers et oeufs
-  - Prix: 3,27 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419399699/1778051468/extra_large.jpg" alt="Preuve prix IÖGO DUO YOGURT" width="220" />
 
 - **LAY'S CHIPS**
   - 🍪 Section: Collations et boissons
@@ -534,7 +536,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419401252/1778519718/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
 
 - **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 3,87 $
   - Échelle: Format à vérifier sur la photo.
   - 📊 Gagne contre BoniChoix 5,99 $
@@ -618,7 +620,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419713934/1778225029/extra_large.jpg" alt="Preuve prix BABY MUM-MUM, Gaufrettes de dentition douces, 50 g" width="220" />
 
 - **DEPEND, Produits et formats sélectionnés**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 15,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -632,14 +634,14 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419713686/1778225007/extra_large.jpg" alt="Preuve prix DOVE Savon en barres, 12 x 106 g" width="220" />
 
 - **ENSURE, Substitut de repas/, 6 x 235 ml**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
 
 - **GLUCERNA, Substitut de repas, 6 x 237 ml**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 11,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -648,10 +650,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Costco
-> [!info] 5 produits retenus
+> [!info] 4 produits retenus
+
+- **Capsules de céramide pour les yeux d'Elizabeth Arden**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 32,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/419503303/1778072361/extra_large.jpg" alt="Preuve prix Capsules de céramide pour les yeux d'Elizabeth Arden" width="220" />
 
 - **Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 29,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
@@ -665,22 +674,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/419503304/1778072362/extra_large.jpg" alt="Preuve prix Nettoyant pour le corps Éclat Frais avec pompe de Olay" width="220" />
 
 - **Produit de soin de la peau Bio-Oil**
-  - 🥫 Section: Garde-manger et autres
+  - 💊 Section: Santé et pharmacie
   - Prix: 20,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/419503573/1778072366/extra_large.jpg" alt="Preuve prix Produit de soin de la peau Bio-Oil" width="220" />
-
-- **Short de nuit Room Service**
-  - 🥫 Section: Garde-manger et autres
-  - Prix: 14,99 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419503535/1778072366/extra_large.jpg" alt="Preuve prix Short de nuit Room Service" width="220" />
-
-- **Ventilateur sur piédestal Woozoo**
-  - 🥫 Section: Garde-manger et autres
-  - Prix: 59,99 $
-  - Échelle: Format à vérifier sur la photo.
-  📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/419503548/1778072362/extra_large.jpg" alt="Preuve prix Ventilateur sur piédestal Woozoo" width="220" />

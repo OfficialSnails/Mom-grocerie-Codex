@@ -600,20 +600,42 @@ describe('weekly shopper-facing reports', () => {
       ['Avocado', 'epicerie', 'avocado', 'produce'],
       ['Ail frais', 'epicerie', 'ail frais', 'produce'],
       ['Garlic bulbs', 'epicerie', 'garlic bulbs', 'produce'],
+      ['CLÉMENTINES', 'epicerie', 'clementines', 'produce'],
+      ['DATTES MEDJOOL', 'epicerie', 'dattes medjool', 'produce'],
+      ['Pitaya frais', 'epicerie', 'pitaya frais', 'produce'],
+      ['Poires Bartlett', 'epicerie', 'poires bartlett', 'produce'],
+      ['CHOU FRISÉ ET ÉPINARDS', 'epicerie', 'chou frise epinards', 'produce'],
+      ['COURGETTES VERTES', 'epicerie', 'courgettes vertes', 'produce'],
+      ['CŒURS DE ROMAINE', 'epicerie', 'coeurs de romaine', 'produce'],
       ['Beignes glacés', 'epicerie', 'beignes glaces', 'bakery'],
       ['Donuts assortis', 'epicerie', 'donuts assortis', 'bakery'],
       ["Mike's frozen pasta dinners", 'epicerie', 'mikes frozen pasta dinners', 'frozen'],
       ['Dîner de pâtes surgelé Mike’s', 'epicerie', 'diner de pates surgele mikes', 'frozen'],
       ['Pâtés impériaux surgelés', 'epicerie', 'pates imperiaux surgeles', 'frozen'],
       ['Egg rolls frozen', 'epicerie', 'egg rolls frozen', 'frozen'],
+      ["DÎNER MICHELINA", 'epicerie', 'diner michelina', 'frozen'],
+      ["Gaufres Eggo Kellogg's", 'epicerie', 'gaufres eggo kelloggs', 'frozen'],
       ["Beurre à l'ail Lactantia", 'epicerie', 'beurre ail', 'dairy-eggs'],
+      ['Bocconcini mini Tre Stelle', 'epicerie', 'bocconcini mini tre stelle', 'dairy-eggs'],
+      ['Natrel fine-filtered milk', 'epicerie', 'natrel fine filtered milk', 'dairy-eggs'],
+      ["BROCHETTES D'ÉTÉ ASSAISONNÉES", 'epicerie', 'brochettes dete assaisonnees', 'meat-fish'],
+      ['CÔTELETTES DE LONGE DE PORC', 'epicerie', 'cotelettes de longe de porc', 'meat-fish'],
+      ['CULOTTE DE SURLONGE', 'epicerie', 'culotte de surlonge', 'meat-fish'],
+      ['ESCALOPES DE VEAU', 'epicerie', 'escalopes de veau', 'meat-fish'],
       ['CRÈME GLACÉE TOURBILLON-ARC-EN CIEL BAR', 'fruit', 'creme glacee tourbillon arc en ciel bar', 'frozen'],
       ['TARTE-GÂTEAU AU FROMAGE LE TRIPLE DÉLICE, FRANCHEMENT FRAISE', 'fruit', 'tarte gateau au fromage franchement fraise', 'dairy-eggs'],
       ['Pilules contre les allergies', 'epicerie', 'pilules allergies', 'health'],
       ['Tylenol médicament', 'epicerie', 'tylenol medicament', 'health'],
+      ['Écran solaire Banana Boat FPS 50', 'epicerie', 'ecran solaire banana boat fps 50', 'health'],
+      ['AIDE DIGESTIVE ENZYMEDICA', 'epicerie', 'aide digestive enzymedica', 'health'],
+      ['DEPEND Produits sélectionnés', 'epicerie', 'depend produits selectionnes', 'health'],
+      ['ENSURE Substitut de repas', 'epicerie', 'ensure substitut de repas', 'health'],
+      ['Assouplissant Downy', 'epicerie', 'assouplissant downy', 'household'],
+      ['Liquide à vaisselle Dawn', 'epicerie', 'liquide a vaisselle dawn', 'household'],
       ['Café moulu', 'epicerie', 'cafe moulu', 'pantry'],
       ['Colorant à café', 'epicerie', 'colorant cafe', 'pantry'],
       ['Sauce tomate', 'epicerie', 'sauce tomate', 'pantry'],
+      ['Fruit O-Long collations', 'epicerie', 'fruit o-long collations', 'snacks-drinks'],
       ["BARQUETTE DE LÉGUMES C'EST PRÊT! À CUIRE", 'epicerie', 'barquette de legumes cest pret a cuire', 'produce'],
       ["CARROUSEL DE FRUITS C'EST PRÊT!", 'epicerie', 'carrousel de fruits cest pret', 'produce'],
       ["CARROUSEL DE FRUITS OU DE LÉGUMES C'EST PRÊT!", 'epicerie', 'carrousel de fruits ou de legumes cest pret', 'produce'],
@@ -641,6 +663,19 @@ describe('weekly shopper-facing reports', () => {
       source_raw_name: 'MAÏS EN ÉPIS DEUX COULEURS | PEACHES AND CREAM CORN ON THE COB',
       category: 'epicerie',
     })).toBe('produce');
+
+    for (const item_name of [
+      'Short de nuit Room Service',
+      'Ventilateur sur piédestal Woozoo',
+      'Chaussures sport Puma',
+    ]) {
+      expect(classifyShopperCategory({
+        ...baseDeal,
+        item_name,
+        normalized_name: item_name.toLowerCase(),
+        category: 'epicerie',
+      })).toBeNull();
+    }
   });
 
   it('finds high-confidence suspicious pantry items for QA review', () => {
@@ -719,6 +754,28 @@ describe('weekly shopper-facing reports', () => {
           categoryTitle: 'Garde-manger et autres',
         }],
       },
+      {
+        id: 'pantry',
+        title: 'Garde-manger et autres',
+        items: [{
+          name: 'CLÉMENTINES',
+          storeName: 'Costco',
+          price: '5,99 $',
+          categoryId: 'pantry',
+          categoryTitle: 'Garde-manger et autres',
+        }],
+      },
+      {
+        id: 'pantry',
+        title: 'Garde-manger et autres',
+        items: [{
+          name: 'Écran solaire Banana Boat FPS 50',
+          storeName: 'Familiprix',
+          price: '9,99 $',
+          categoryId: 'pantry',
+          categoryTitle: 'Garde-manger et autres',
+        }],
+      },
     ]);
 
     expect(findings).toEqual([
@@ -731,6 +788,16 @@ describe('weekly shopper-facing reports', () => {
         itemName: 'Collations aux fruits',
         suggestedCategory: 'snacks-drinks',
         severity: 'ambiguous',
+      }),
+      expect.objectContaining({
+        itemName: 'CLÉMENTINES',
+        suggestedCategory: 'produce',
+        severity: 'high',
+      }),
+      expect.objectContaining({
+        itemName: 'Écran solaire Banana Boat FPS 50',
+        suggestedCategory: 'health',
+        severity: 'high',
       }),
     ]);
   });

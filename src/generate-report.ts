@@ -262,6 +262,13 @@ const NON_FOOD_KEYWORDS = [
   'annuelles', 'balconni', 'yucca', 'mosquito', 'plante', 'window box',
   'panier suspendu', 'panier victorien', 'panier patio', 'panier fleuri',
   'gazon', 'pelouse', 'fertilisant', 'insecticide', 'herbicide',
+  'calamondin', 'canna', 'dahlia', 'fougère', 'fougere', 'clématite', 'clematite',
+  // Clothing / home hardware / appliances
+  'short de nuit', 'chaussette', 'chaussettes', 'bas pour', 'chaussure', 'chaussures',
+  'pantoufle', 'pantalon', 'chandail', 'pyjama', 'pekkle', 'climatiseur',
+  'ventilateur', 'défroisseur', 'defroisseur', 'écouteur', 'ecouteur', 'fauteuil',
+  'draps', 'couette', 'oreiller', 'matelas', 'puma', 'shokz', 'woozoo',
+  'danby', 'midea', 'slumberchill', 'thomasville',
   // Pet food
   'alpo', 'purina', 'iams', 'pedigree', 'whiskas', 'fancy feast',
   'nourriture pour chien', 'nourriture pour chat', 'litière',
@@ -276,15 +283,20 @@ const HOUSEHOLD_KEYWORDS = [
   'kleenex', 'mouchoir', 'mouchoirs', 'facial tissue',
   'q-tip', 'q tips', 'q-tips', 'coton-tige', 'coton tige', 'cotons-tiges', 'cotton swab',
   'détergent', 'detergent', 'lessive', 'savon à linge', 'savon a linge',
-  'assouplisseur', 'adoucissant', 'fleecy', 'fabric softener',
-  'savon à vaisselle', 'savon a vaisselle', 'dish soap', 'lave-vaisselle',
+  'assouplisseur', 'assouplissant', 'adoucissant', 'fleecy', 'downy', 'fabric softener',
+  'savon à vaisselle', 'savon a vaisselle', 'liquide à vaisselle', 'liquide a vaisselle',
+  'dish soap', 'lave-vaisselle',
   'nettoyant', 'désinfectant', 'desinfectant', 'lingettes', 'wipes',
   'eau de javel', 'javellisant', 'bleach',
+  'air wick', 'airwick', 'febreze', 'sacs de cuisine', 'sac de cuisine', 'sacs à ordures',
+  'sacs a ordures', 'papiers sélectionnés', 'papiers selectionnes',
+  'papier aluminium', 'pellicule plastique', 'papier parchemin',
   'shampoing', 'shampoo', 'revitalisant', 'conditioner',
   'savon', 'gel douche', 'body wash', 'antisudorifique', 'désodorisant', 'deodorant',
-  'dentifrice', 'brosse à dents', 'brosse a dents', 'soie dentaire',
-  'serviette sanitaire', 'tampon', 'protege-dessous', 'protège-dessous',
-  'couche', 'couches', 'soins pour bébés', 'soins pour bebes',
+  'dentifrice', 'brosse à dents', 'brosse a dents', 'brosses à dents', 'brosses a dents',
+  'soie dentaire', 'rince-bouche',
+  'serviette sanitaire', 'tampon', 'protege-dessous', 'protège-dessous', 'carefree',
+  'couche', 'couches', 'pampers', 'easy-ups', 'ninjamas', 'soins pour bébés', 'soins pour bebes',
   'sudocrem', 'penaten', 'zincofax',
 ];
 
@@ -296,34 +308,55 @@ const HEALTH_KEYWORDS = [
   'antiacide', 'pansement', 'pansements', 'bandage', 'polysporin', 'biomedic', 'band-aid',
   'comprimé', 'comprimés', 'comprime', 'comprimes', 'caplet', 'caplets',
   'gluteguard', 'promensil', 'venixxa',
+  'aide digestive', 'digestive', 'enzymedica', 'arthri', 'aspirin', 'aspirine',
+  'benylin', 'canesten', 'bio-oil', 'bio oil', 'aloe vera', 'aloex',
+  'écran solaire', 'ecran solaire', 'sunscreen', 'fps ', 'banana boat', 'hawaiian tropic',
+  'maquillage', 'cosmétique', 'cosmetique', 'covergirl', 'annabelle', 'marcelle',
+  'eau micellaire', 'soin de la peau', 'soins de la peau', 'soins visage', 'bioré', 'biore',
+  'byly', 'dépilatoire', 'depilatoire', 'skintimate', 'gillette', 'rasoir', 'cartouches',
+  'colgate', 'crest', 'buccaux', 'dentaire', 'chardon-marie', 'collagène', 'collagene',
+  'ensure', 'glucerna', 'boost', 'substitut de repas', 'liquid i.v.', 'liquid iv',
+  'poise', 'depend',
 ];
 
 const PRODUCE_NAME_KEYWORDS = [
-  'fraise', 'bleuet', 'banane', 'pomme', 'concombre', 'laitue', 'salade',
+  'fraise', 'fraises', 'framboise', 'framboises', 'bleuet', 'bleuets',
+  'banane', 'pomme', 'pommes', 'concombre', 'laitue', 'salade',
   'poivron', 'oignon', 'céleri', 'celeri', 'celery', 'melon', 'rutabaga',
-  'champignon', 'asperge', 'mûre', 'mure', 'mangue', 'tomate', 'cerise',
-  'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
+  'champignon', 'asperge', 'asperges', 'mûre', 'mûres', 'mure', 'mures',
+  'mangue', 'tomate', 'tomates', 'cerise', 'cerises',
+  'kiwi', 'kiwis', 'raisin', 'raisins', 'grape', 'grapes',
+  'clémentine', 'clementine', 'clémentines', 'clementines',
+  'datte', 'dattes', 'pitaya', 'poire', 'poires',
+  'ail', 'garlic', 'ananas', 'pineapple',
   'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
-  'poireau', 'poireaux',
+  'poireau', 'poireaux', 'chou', 'choux', 'épinard', 'epinard', 'épinards', 'epinards',
+  'courgette', 'courgettes', 'coeurs de romaine', 'cœurs de romaine', 'romaine',
   'légume', 'legume', 'légumes', 'legumes', 'crudité', 'crudites',
   'barquette de légumes', 'barquette de legumes',
   'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
   'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
   'maïs en épi', 'mais en epi', 'maïs en épis', 'mais en epis', 'maïs sucré', 'mais sucre',
-  'chou-fleur', 'chou fleur', 'brocoli',
+  'chou-fleur', 'chou fleur', 'brocoli', 'broccoli',
 ];
 
 const STRONG_PRODUCE_QA_KEYWORDS = [
   'maïs en épi', 'mais en epi', 'maïs en épis', 'mais en epis', 'maïs sucré', 'mais sucre',
   'laitue', 'salade', 'concombre', 'oignon', 'céleri', 'celeri', 'celery',
-  'kiwi', 'raisin', 'grape', 'grapes', 'ail', 'garlic', 'ananas', 'pineapple',
+  'kiwi', 'kiwis', 'raisin', 'raisins', 'grape', 'grapes',
+  'clémentine', 'clementine', 'clémentines', 'clementines',
+  'datte', 'dattes', 'pitaya', 'poire', 'poires',
+  'ail', 'garlic', 'ananas', 'pineapple',
   'avocat', 'avocado', 'pommes de terre', 'patate', 'carotte', 'citron', 'lime',
-  'poireau', 'poireaux', 'champignon', 'asperge', 'mûre', 'mure', 'mangue',
-  'tomate', 'cerise', 'crudité', 'crudites',
+  'poireau', 'poireaux', 'champignon', 'asperge', 'asperges',
+  'mûre', 'mûres', 'mure', 'mures', 'mangue',
+  'tomate', 'tomates', 'cerise', 'cerises', 'crudité', 'crudites',
+  'chou', 'choux', 'épinard', 'epinard', 'épinards', 'epinards',
+  'courgette', 'courgettes', 'coeurs de romaine', 'cœurs de romaine', 'romaine',
   'barquette de légumes', 'barquette de legumes',
   'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
   'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
-  'chou-fleur', 'chou fleur', 'brocoli',
+  'chou-fleur', 'chou fleur', 'brocoli', 'broccoli',
 ];
 
 const PRODUCE_FALSE_POSITIVE_KEYWORDS = [
@@ -341,6 +374,9 @@ const MEAT_FISH_NAME_KEYWORDS = [
   'pepperoni', 'chorizo', 'sauciflard', 'rosette', 'salami', 'mortadelle',
   'prosciutto', 'viande froide', 'goberge', 'crabe', 'pollock', 'surimi',
   'homard', 'lobster', 'fruits de mer', 'seafood',
+  'brochette', 'brochettes', 'côtelette', 'cotelette', 'côtelettes', 'cotelettes',
+  'côte de', 'cote de', 'agneau', 'veau', 'escalope', 'escalopes',
+  'surlonge', 'culotte de surlonge', 'picana', 'picanha', 'souvlaki',
 ];
 
 const FROZEN_NAME_KEYWORDS = [
@@ -350,6 +386,10 @@ const FROZEN_NAME_KEYWORDS = [
   'repas congelé', 'repas congele', 'plat préparé congelé', 'plat prepare congele',
   'légumes surgelés', 'legumes surgeles', 'fruits surgelés', 'fruits surgeles',
   'crème glacée', 'creme glacee', 'ice cream',
+  'gaufres eggo', 'eggo', 'dîner michelina', 'diner michelina', 'michelina',
+  'dessert glacé', 'dessert glace', 'desserts glacés', 'desserts glaces',
+  'friandise glacée', 'friandise glacee', 'friandises glacées', 'friandises glacees',
+  'yukimi', 'mochi glacé', 'mochi glace',
 ];
 
 const BAKERY_NAME_KEYWORDS = [
@@ -360,6 +400,8 @@ const BAKERY_NAME_KEYWORDS = [
 const DAIRY_EGGS_NAME_KEYWORDS = [
   'beurre', 'fromage', 'yogourt', 'yogurt', 'lait', 'oeuf', 'oeufs',
   'crème', 'cream', 'mozzarella', 'cheddar', 'feta', 'parmesan',
+  'bocconcini', 'brie', 'gouda', 'bleu danois', 'castello', 'tre stelle',
+  'monsieur gustav', 'natrel',
 ];
 
 const SNACKS_DRINKS_NAME_KEYWORDS = [
@@ -367,7 +409,12 @@ const SNACKS_DRINKS_NAME_KEYWORDS = [
   'eau pétillante', 'eau petillante', 'eau minérale', 'eau minerale', 'eau embouteillée', 'eau embouteillee', 'eau de source',
   'water', 'barres', 'biscuits', 'pretzel', 'gâteau', 'vachon', 'thé glacé',
   'chocolat', 'bonbons', 'popcorn', 'maïs soufflé', 'mais souffle',
-  'collation', 'collations',
+  'collation', 'collations', 'brownie', 'brownies', 'friandise', 'friandises',
+  'confiserie', 'biscuit', 'biscuits', 'craquelin', 'craquelins', 'crispers',
+  'goldfish', 'cheez-it', 'barre énergétique', 'barre energetique',
+  'barres énergétiques', 'barres energetiques', 'gomme', 'caramel', 'caramels',
+  'brookside', 'hershey', 'twizzlers', 'jolly rancher', 'fruit o-long',
+  'galettes de riz', 'clamato', 'coca-cola', 'canada dry',
 ];
 
 const COSTCO_NON_GROCERY_KEYWORDS = [

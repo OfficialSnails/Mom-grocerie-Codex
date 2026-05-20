@@ -7,7 +7,7 @@ cssclasses:
   - bons-picker
 ---
 # ✅ Sélection de course — 14 au 20 mai 2026
-18 mai 2026 · Coche ce que tu veux acheter. La liste finale se met à jour automatiquement.
+20 mai 2026 · Coche ce que tu veux acheter. La liste finale se met à jour automatiquement.
 
 ## Sections
 
@@ -16,11 +16,17 @@ cssclasses:
 - [[#🥛 Produits laitiers et oeufs|🥛 Produits laitiers et oeufs]]
 - [[#🥫 Garde-manger et autres|🥫 Garde-manger et autres]]
 - [[#🧼 Maison et entretien|🧼 Maison et entretien]]
+- [[#💊 Santé et pharmacie|💊 Santé et pharmacie]]
 - [[#🥖 Boulangerie|🥖 Boulangerie]]
 - [[#🧊 Surgelés|🧊 Surgelés]]
 - [[#🍪 Collations et boissons|🍪 Collations et boissons]]
 
 ## 🥬 Fruits et légumes
+
+- [ ] **Bananes** — **0,59 $/kg**
+  - 📍 **Magasin:** Maxi
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
 
 - [ ] **Pâtes alimentaires Selection** — **1,57 $**
   - 📍 **Magasin:** Super C
@@ -36,17 +42,12 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419755631/1778507777/extra_large.jpg" alt="Preuve prix PAINS À HAMBURGER COMPLIMENTS" width="220" />
 
-- [ ] **Bananes** — **0,59 $/kg**
-  - 📍 **Magasin:** Maxi
-  - ✅ **Pourquoi:** Environ 56 % moins cher que le prix habituel.
-  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
-
-- [ ] **FRAISES** — **4,49 $**
-  - 📍 **Magasin:** Maxi
-  - ⚖️ **Échelle:** Format: paquet de 1 lb. Équivaut à 9,89 $/kg.
-  - ✅ **Pourquoi:** Environ 51 % moins cher que le prix habituel.
+- [ ] **FRAISES DE SERRE** — **4,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 48 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
+    <img src="https://f.wishabi.net/page_items/419653315/1778227703/extra_large.jpg" alt="Preuve prix FRAISES DE SERRE" width="220" />
 
 - [ ] **ASPERGES VERTES** — **3,47 $/lb**
   - 📍 **Magasin:** Marchés Tradition
@@ -110,6 +111,12 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419653280/1778227708/extra_large.jpg" alt="Preuve prix BLEUETS BIOLOGIQUES" width="220" />
 
+- [ ] **CLÉMENTINES** — **4,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419653276/1778227704/extra_large.jpg" alt="Preuve prix CLÉMENTINES" width="220" />
+
 - [ ] **Gros melon d'eau entier sans pépins** — **5,99 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -164,6 +171,11 @@ cssclasses:
 - [ ] **Boeuf haché extra maigre** — **5,49 $/kg**
   - 📍 **Magasin:** Super C
   - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
+
+- [ ] **Jus d'orange Tropicana 1.89L** — **5,49 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Équivaut à 2,90 $/L.
   - ⚠️ **Preuve:** photo manquante (entrée manuelle)
 
 - [ ] **BAVETTE DE BŒUF MARINÉE TOP GOURMET** — **14,99 $/lb**
@@ -279,11 +291,13 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420073013/1778529650/extra_large.jpg" alt="Preuve prix Fromage en bloc Cracker Barrel" width="220" />
 
-- [ ] **IÖGO DUO YOGURT** — **3,27 $**
-  - 📍 **Magasin:** BoniChoix
+- [ ] **Yogourt grec Oîkos Danone** — **3,47 $**
+  - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 10,99 $
+  - 🏅 Pourquoi ça gagne: 7,52 $ moins cher que le prochain meilleur prix
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419399699/1778051468/extra_large.jpg" alt="Preuve prix IÖGO DUO YOGURT" width="220" />
+    <img src="https://f.wishabi.net/page_items/419655008/1778216118/extra_large.jpg" alt="Preuve prix Yogourt grec Oîkos Danone" width="220" />
 
 - [ ] **Fromage feta Selection** — **4,99 $**
   - 📍 **Magasin:** Super C
@@ -314,14 +328,6 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419399705/1778051473/extra_large.jpg" alt="Preuve prix BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES" width="220" />
 
-- [ ] **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — **3,87 $**
-  - 📍 **Magasin:** Marchés Tradition
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📊 Gagne contre BoniChoix 5,99 $
-  - 🏅 Pourquoi ça gagne: 2,12 $ moins cher que le prochain meilleur prix
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419401308/1778506057/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
-
 - [ ] **HUMMUS OU BABA GANNOUJ FONTAINE SANTÉ** — **2,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -350,41 +356,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419756383/1778507889/extra_large.jpg" alt="Preuve prix BOÎTE À LUNCH C'EST PRÊT!" width="220" />
 
-- [ ] **CLÉMENTINES** — **4,99 $**
-  - 📍 **Magasin:** Metro
+- [ ] **Capsules de céramide pour les yeux d'Elizabeth Arden** — **32,99 $**
+  - 📍 **Magasin:** Costco
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419653276/1778227704/extra_large.jpg" alt="Preuve prix CLÉMENTINES" width="220" />
-
-- [ ] **DEPEND, Produits et formats sélectionnés** — **15,99 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714457/1778225012/extra_large.jpg" alt="Preuve prix DEPEND, Produits et formats sélectionnés" width="220" />
-
-- [ ] **ENSURE, Substitut de repas/, 6 x 235 ml** — **11,99 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
+    <img src="https://f.wishabi.net/page_items/419503303/1778072361/extra_large.jpg" alt="Preuve prix Capsules de céramide pour les yeux d'Elizabeth Arden" width="220" />
 
 - [ ] **FARINE FIVE ROSES OU ROBIN HOOD** — **8,99 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419401306/1778506055/extra_large.jpg" alt="Preuve prix FARINE FIVE ROSES OU ROBIN HOOD" width="220" />
-
-- [ ] **GLUCERNA, Substitut de repas, 6 x 237 ml** — **11,99 $**
-  - 📍 **Magasin:** Familiprix
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
-
-- [ ] **Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche** — **29,99 $**
-  - 📍 **Magasin:** Costco
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419503495/1778072364/extra_large.jpg" alt="Preuve prix Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche" width="220" />
 
 - [ ] **MAYONNAISE MAG** — **4,99 $**
   - 📍 **Magasin:** Maxi
@@ -403,29 +385,11 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419399672/1778051461/extra_large.jpg" alt="Preuve prix POUDRE POUR GELÉE JELL-O" width="220" />
 
-- [ ] **Produit de soin de la peau Bio-Oil** — **20,99 $**
-  - 📍 **Magasin:** Costco
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419503573/1778072366/extra_large.jpg" alt="Preuve prix Produit de soin de la peau Bio-Oil" width="220" />
-
-- [ ] **Short de nuit Room Service** — **14,99 $**
-  - 📍 **Magasin:** Costco
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419503535/1778072366/extra_large.jpg" alt="Preuve prix Short de nuit Room Service" width="220" />
-
 - [ ] **STRUB'S MARINADES** — **2,99 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/419401312/1778506060/extra_large.jpg" alt="Preuve prix STRUB'S MARINADES" width="220" />
-
-- [ ] **Ventilateur sur piédestal Woozoo** — **59,99 $**
-  - 📍 **Magasin:** Costco
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/419503548/1778072362/extra_large.jpg" alt="Preuve prix Ventilateur sur piédestal Woozoo" width="220" />
 
 
 ## 🧼 Maison et entretien
@@ -454,6 +418,47 @@ cssclasses:
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420354064/1778698745/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE CASHMERE 20=60 ROULEAUX OU MOUCHOIRS SCOTTIES 12X126 FEUILLES" width="220" />
+
+
+## 💊 Santé et pharmacie
+
+- [ ] **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — **3,87 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 5,99 $
+  - 🏅 Pourquoi ça gagne: 2,12 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419401308/1778506057/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
+
+- [ ] **DEPEND, Produits et formats sélectionnés** — **15,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419714457/1778225012/extra_large.jpg" alt="Preuve prix DEPEND, Produits et formats sélectionnés" width="220" />
+
+- [ ] **ENSURE, Substitut de repas/, 6 x 235 ml** — **11,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419714466/1778225016/extra_large.jpg" alt="Preuve prix ENSURE, Substitut de repas/, 6 x 235 ml" width="220" />
+
+- [ ] **GLUCERNA, Substitut de repas, 6 x 237 ml** — **11,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419714600/1778225021/extra_large.jpg" alt="Preuve prix GLUCERNA, Substitut de repas, 6 x 237 ml" width="220" />
+
+- [ ] **Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche** — **29,99 $**
+  - 📍 **Magasin:** Costco
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419503495/1778072364/extra_large.jpg" alt="Preuve prix Liquid I.V. Bombe Pop JR ou sans sucre - pêche blanche" width="220" />
+
+- [ ] **Produit de soin de la peau Bio-Oil** — **20,99 $**
+  - 📍 **Magasin:** Costco
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/419503573/1778072366/extra_large.jpg" alt="Preuve prix Produit de soin de la peau Bio-Oil" width="220" />
 
 
 ## 🥖 Boulangerie
@@ -516,11 +521,6 @@ cssclasses:
   - 🏅 Pourquoi ça gagne: 4,33 $ moins cher que le prochain meilleur prix
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/420073008/1778529649/extra_large.jpg" alt="Preuve prix Petits gâteaux Vachon" width="220" />
-
-- [ ] **Jus d'orange Tropicana 1.89L** — **5,49 $**
-  - 📍 **Magasin:** Metro
-  - ⚖️ **Échelle:** Équivaut à 2,90 $/L.
-  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
 
 - [ ] **Boisson gazeuse Coke** — **1,77 $**
   - 📍 **Magasin:** Super C

@@ -1,15 +1,15 @@
 # Bons spéciaux de la semaine — Joliette
 
-📅 18 mai 2026  ·  Semaine du 14 au 20 mai 2026
+📅 20 mai 2026  ·  Semaine du 14 au 20 mai 2026
 💲 Tous les prix sont en dollars canadiens (CAD).
 🔎 Les liens pointent vers la circulaire ou la source utilisée; ces prix ne sont pas toujours trouvables via la recherche normale du site marchand.
 
 ---
 
-## 🛒 Metro — 249 spéciaux (4 bons + 245 à surveiller)
+## 🛒 Metro — 250 spéciaux (5 bons + 245 à surveiller)
 
 **BOISSON AU CAFÉ TREMA** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~11,74 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~11,52 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: BOISSON AU CAFÉ TREMA | TREMA COFFEE DRINK · [circulaire: Quebec](https://f.wishabi.net/page_items/419653495/1778227714/extra_large.jpg)
 📸 Preuve du prix
@@ -23,8 +23,8 @@ Prix habituel : ~3,68 $  ·  meilleur vu : 0,97 $
 <img src="https://f.wishabi.net/page_items/420082749/1778532751/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOP YOPLAIT" width="220" />
 
 **FRAISES DE SERRE** — 4,99 $  ·  🟢 Très bon prix
-Prix habituel : ~9,24 $  ·  meilleur vu : 5,48 $
-*Environ 46 % moins cher que le prix habituel.*
+Prix habituel : ~9,50 $  ·  meilleur vu : 5,48 $
+*Environ 48 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: FRAISES DE SERRE | HOTHOUSE STRAWBERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/419653315/1778227703/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419653315/1778227703/extra_large.jpg" alt="Preuve prix FRAISES DE SERRE" width="220" />
@@ -33,6 +33,12 @@ Prix habituel : ~9,24 $  ·  meilleur vu : 5,48 $
 Prix habituel : ~4,36 $/L  ·  meilleur vu : 2,90 $/L
 > Source: entrée manuelle · prix en CAD
 ⚠️ Preuve photo manquante (entrée manuelle)
+
+**YOGOURT MÉDITERRANÉE LIBERTÉ** — 3,49 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: YOGOURT MÉDITERRANÉE LIBERTÉ | LIBERTÉ MÉDITERRANÉE YOGOURT · [circulaire: Quebec](https://f.wishabi.net/page_items/419653303/1778227712/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419653303/1778227712/extra_large.jpg" alt="Preuve prix YOGOURT MÉDITERRANÉE LIBERTÉ" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
 **POT PATIO** — 23,99 $  ·  ❓ Historique insuffisant
@@ -1508,18 +1514,18 @@ Prix habituel : ~4,36 $/L  ·  meilleur vu : 2,90 $/L
 
 ---
 
-## 🛒 Maxi — 191 spéciaux (5 bons + 186 à surveiller)
+## 🛒 Maxi — 192 spéciaux (6 bons + 186 à surveiller)
 
 **CREVETTES CRUES, 71/90 PAR LB OU CUITES, 61/90 PAR LB GO OU SAUMON FUMÉ DOM PRÉTRANCHÉ, 50 G OU GRATIN PÊCHE DU JOUR, 150 G OU SURIMI SEAQUEST, 227 G** — 3,88 $  ·  ✅ À acheter en extra
-Prix habituel : ~12,05 $  ·  meilleur vu : 3,88 $
+Prix habituel : ~11,98 $  ·  meilleur vu : 3,88 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · libellé circulaire groupé · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/419903543/1778311659/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419903543/1778311659/extra_large.jpg" alt="Preuve prix CREVETTES CRUES, 71/90 PAR LB OU CUITES, 61/90 PAR LB GO OU SAUMON FUMÉ DOM PRÉTRANCHÉ, 50 G OU GRATIN PÊCHE DU JOUR, 150 G OU SURIMI SEAQUEST, 227 G" width="220" />
 
-**Bananes** — 0,59 $/kg  ·  🟢 Très bon prix
-Prix habituel : ~1,34 $/kg  ·  meilleur vu : 0,59 $/kg
-*Environ 56 % moins cher que le prix habituel.*
+**Bananes** — 0,59 $/kg  ·  ✅ Excellent spécial
+Prix habituel : ~4,67 $/kg  ·  meilleur vu : 0,59 $/kg
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: entrée manuelle · prix en CAD
 ⚠️ Preuve photo manquante (entrée manuelle)
 
@@ -1530,18 +1536,25 @@ Prix habituel : ~3,21 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420354076/1778698749/extra_large.jpg" alt="Preuve prix PAINS À HOT DOG OU HAMBURGER SANS NOM®, 12 un." width="220" />
 
+**Fraises fraîches 1lb** — 2,49 $  ·  🟢 Très bon prix
+Prix habituel : ~9,50 $/kg  ·  meilleur vu : 5,48 $/kg
+*Environ 42 % moins cher que le prix habituel.*
+> Source: entrée manuelle · prix en CAD · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg" alt="Preuve prix Fraises fraîches 1lb" width="220" />
+
 **FRAISES** — 4,49 $  ·  🟢 Très bon prix
-Prix habituel : ~9,24 $  ·  meilleur vu : 5,48 $
-*Environ 51 % moins cher que le prix habituel.*
+Prix habituel : ~9,50 $  ·  meilleur vu : 5,48 $
+*Environ 53 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: FRAISES | STRAWBERRIES · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
 
-**Fraises fraîches 1lb** — 2,49 $
-Prix habituel : ~9,24 $/kg  ·  meilleur vu : 5,48 $/kg
-> Source: entrée manuelle · prix en CAD · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg)
+**YOGOURT GREC OÎKOS** — 3,50 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: YOGOURT GREC OÎKOS | GREEK YOGURT, 4X100 G · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/419903860/1778311687/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/420581475/1778853771/extra_large.jpg" alt="Preuve prix Fraises fraîches 1lb" width="220" />
+<img src="https://f.wishabi.net/page_items/419903860/1778311687/extra_large.jpg" alt="Preuve prix YOGOURT GREC OÎKOS" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
 **BOULE DE MOZZARELLA TRE STELLE** — 7,00 $  ·  ❓ Historique insuffisant
@@ -2666,14 +2679,14 @@ Prix habituel : ~9,24 $/kg  ·  meilleur vu : 5,48 $/kg
 ## 🛒 IGA — 337 spéciaux (4 bons + 333 à surveiller)
 
 **BEURRE OU BEURRE À L'AIL LACTANTIA** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~10,99 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~10,70 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Homard - QC](https://f.wishabi.net/page_items/420158692/1778610662/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420158692/1778610662/extra_large.jpg" alt="Preuve prix BEURRE OU BEURRE À L'AIL LACTANTIA" width="220" />
 
 **RÔTI DE LONGE DE PORC À L'ANCIENNE COMPLIMENTS** — 3,59 $  ·  ✅ À acheter en extra
-Prix habituel : ~6,42 $  ·  meilleur vu : 3,59 $
+Prix habituel : ~6,53 $  ·  meilleur vu : 3,59 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Québec - Circulaire Hebdomadaire](https://f.wishabi.net/page_items/419755886/1778507964/extra_large.jpg)
 📸 Preuve du prix
@@ -2687,8 +2700,8 @@ Prix habituel : ~3,21 $  ·  meilleur vu : 1,99 $
 <img src="https://f.wishabi.net/page_items/419755631/1778507777/extra_large.jpg" alt="Preuve prix PAINS À HAMBURGER COMPLIMENTS" width="220" />
 
 **POITRINE DE POULET ROTIE AU FOUR PANACHE** — 3,99 $  ·  🟢 Très bon prix
-Prix habituel : ~9,05 $  ·  meilleur vu : 4,99 $
-*Environ 56 % moins cher que le prix habituel.*
+Prix habituel : ~9,23 $  ·  meilleur vu : 4,99 $
+*Environ 57 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Québec - Circulaire Hebdomadaire](https://f.wishabi.net/page_items/419755887/1778507965/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419755887/1778507965/extra_large.jpg" alt="Preuve prix POITRINE DE POULET ROTIE AU FOUR PANACHE" width="220" />
@@ -4694,24 +4707,24 @@ Prix habituel : ~9,05 $  ·  meilleur vu : 4,99 $
 
 ---
 
-## 🛒 Super C — 190 spéciaux (8 bons + 182 à surveiller)
+## 🛒 Super C — 191 spéciaux (9 bons + 182 à surveiller)
 
 **Fromage en bloc Cracker Barrel** — 5,97 $  ·  ✅ À acheter en extra
-Prix habituel : ~12,03 $  ·  meilleur vu : 5,97 $
+Prix habituel : ~11,98 $  ·  meilleur vu : 5,97 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: fromage en bloc Cracker Barrel | Cracker Barrel cheese block · [circulaire: Circulaire](https://f.wishabi.net/page_items/420073013/1778529650/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/420073013/1778529650/extra_large.jpg" alt="Preuve prix Fromage en bloc Cracker Barrel" width="220" />
 
 **Pâtes alimentaires Selection** — 1,57 $  ·  ✅ À acheter en extra
-Prix habituel : ~3,75 $  ·  meilleur vu : 1,66 $
+Prix habituel : ~3,79 $  ·  meilleur vu : 1,66 $
 *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: pâtes alimentaires Selection | Selection pasta · [circulaire: Circulaire](https://f.wishabi.net/page_items/419654979/1778216132/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419654979/1778216132/extra_large.jpg" alt="Preuve prix Pâtes alimentaires Selection" width="220" />
 
 **Poitrine de poulet sans os** — 4,99 $/kg  ·  ✅ À acheter en extra
-Prix habituel : ~9,05 $/kg  ·  meilleur vu : 4,99 $/kg
+Prix habituel : ~9,23 $/kg  ·  meilleur vu : 4,99 $/kg
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: entrée manuelle · prix en CAD
 ⚠️ Preuve photo manquante (entrée manuelle)
@@ -4736,6 +4749,12 @@ Prix habituel : ~3,45 $/kg  ·  meilleur vu : 2,49 $/kg
 > Source: entrée manuelle · prix en CAD
 ⚠️ Preuve photo manquante (entrée manuelle)
 
+**Yogourt grec Oîkos Danone** — 3,47 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: yogourt grec Oîkos Danone | Danone Oîkos greek yogurt · [circulaire: Circulaire](https://f.wishabi.net/page_items/419655008/1778216118/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419655008/1778216118/extra_large.jpg" alt="Preuve prix Yogourt grec Oîkos Danone" width="220" />
+
 **Mûres** — 1,99 $
 Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · texte brut: mûres | blackberries · [circulaire: Circulaire](https://f.wishabi.net/page_items/420073036/1778529658/extra_large.jpg)
@@ -4743,7 +4762,7 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 <img src="https://f.wishabi.net/page_items/420073036/1778529658/extra_large.jpg" alt="Preuve prix Mûres" width="220" />
 
 **Boeuf haché extra maigre** — 5,49 $/kg  ·  ✅ À acheter en extra
-Prix habituel : ~6,58 $/kg  ·  meilleur vu : 4,99 $/kg
+Prix habituel : ~6,49 $/kg  ·  meilleur vu : 4,99 $/kg
 *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Source: entrée manuelle · prix en CAD
 ⚠️ Preuve photo manquante (entrée manuelle)
@@ -5844,17 +5863,17 @@ Prix habituel : ~6,58 $/kg  ·  meilleur vu : 4,99 $/kg
 
 ---
 
-## 🛒 BoniChoix — 89 spéciaux (4 bons + 85 à surveiller)
+## 🛒 BoniChoix — 90 spéciaux (5 bons + 85 à surveiller)
 
 **LACTANTIA BEURRE OU BEURRE À L'AIL (125 g) TARTINADE (427 g) OU TARTINADE À L'AIL (227 g)** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~10,99 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~10,70 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/419399709/1778051477/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419399709/1778051477/extra_large.jpg" alt="Preuve prix LACTANTIA BEURRE OU BEURRE À L'AIL (125 g) TARTINADE (427 g) OU TARTINADE À L'AIL (227 g)" width="220" />
 
 **BOUILLON POUR FONDUE, MÉLANGE À SAUCE OU À SAUCE POUR PÂTES** — 1,66 $  ·  ✅ À acheter en extra
-Prix habituel : ~3,75 $  ·  meilleur vu : 1,66 $
+Prix habituel : ~3,79 $  ·  meilleur vu : 1,66 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/419399705/1778051473/extra_large.jpg)
 📸 Preuve du prix
@@ -5868,10 +5887,16 @@ Prix habituel : ~3,21 $  ·  meilleur vu : 1,99 $
 <img src="https://f.wishabi.net/page_items/419399664/1778051460/extra_large.jpg" alt="Preuve prix PAINS À HAMBURGER OU À HOT-DOG COMPLIMENTS (8 ou 12) BAGELS OU MUFFINS ANGLAIS COMPLIMENTS (6) OU PAINS À SALADE COMPLIMENTS (12)" width="220" />
 
 **IÖGO DUO YOGURT** — 3,27 $
-Prix habituel : ~4,93 $  ·  meilleur vu : 3,27 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/419399699/1778051468/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419399699/1778051468/extra_large.jpg" alt="Preuve prix IÖGO DUO YOGURT" width="220" />
+
+**YOGOURT LIBERTÉ MÉDITERRANÉE (500 g), GREC (4 x 100 g)** — 3,49 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/419399706/1778051474/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419399706/1778051474/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ MÉDITERRANÉE (500 g), GREC (4 x 100 g)" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
 **Green Ocean MÉLANGE DE CREVETTES ET PÉTONCLES SURGELES EN OCEAN** — 9,99 $  ·  ❓ Historique insuffisant
@@ -6389,8 +6414,9 @@ Prix habituel : ~4,93 $  ·  meilleur vu : 3,27 $
 
 ## 🛒 L'Inter-Marché — 102 spéciaux (1 bon + 101 à surveiller)
 
-**YOGOURT SOURCE, 630 G, MINIGO, 6 X 60 G OU EN TUBES, 8 X 56 G** — 2,99 $
-Prix habituel : ~4,93 $  ·  meilleur vu : 3,27 $
+**YOGOURT SOURCE, 630 G, MINIGO, 6 X 60 G OU EN TUBES, 8 X 56 G** — 2,99 $  ·  🟢 Très bon prix
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+*Environ 45 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · libellé circulaire groupé · texte brut: YOGOURT SOURCE, 630 G, MINIGO, 6 X 60 G OU EN TUBES, 8 X 56 G | YOGURT · [circulaire: Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20](https://f.wishabi.net/page_items/419685557/1778211342/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419685557/1778211342/extra_large.jpg" alt="Preuve prix YOGOURT SOURCE, 630 G, MINIGO, 6 X 60 G OU EN TUBES, 8 X 56 G" width="220" />
@@ -7005,7 +7031,7 @@ Prix habituel : ~4,93 $  ·  meilleur vu : 3,27 $
 
 ---
 
-## 🛒 Marchés Tradition — 151 spéciaux (3 bons + 148 à surveiller)
+## 🛒 Marchés Tradition — 153 spéciaux (5 bons + 148 à surveiller)
 
 **COMPLIMENTS PAINS À HAMBURGER OU À HOT-DOG (8 ou 12), BAGELS OU MUFFINS ANGLAIS (6) OU PAINS À SALADE (12)** — 1,99 $  ·  ✅ À acheter en extra
 Prix habituel : ~3,21 $  ·  meilleur vu : 1,99 $
@@ -7019,6 +7045,18 @@ Prix habituel : ~5,15 $  ·  meilleur vu : 3,47 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Québec](https://f.wishabi.net/page_items/419401254/1778519720/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/419401254/1778519720/extra_large.jpg" alt="Preuve prix ASPERGES VERTES" width="220" />
+
+**YOGOURT LIBERTÉ CLASSIQUE (650 650 g) GREC (4 x 100 g) GREC (x 100 g MÉDITERRANÉE (500 g) MÉDITERRANÉE (500 g)** — 3,49 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/419401328/1778506064/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419401328/1778506064/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ CLASSIQUE (650 650 g) GREC (4 x 100 g) GREC (x 100 g MÉDITERRANÉE (500 g) MÉDITERRANÉE (500 g)" width="220" />
+
+**YOGOURT LIBERTÉ** — 3,49 $
+Prix habituel : ~5,40 $  ·  meilleur vu : 3,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-05-14 au 2026-05-20 · [circulaire: Nouveau-Brunswick](https://f.wishabi.net/page_items/419395025/1778506207/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/419395025/1778506207/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ" width="220" />
 
 **MÛRES** — 1,97 $
 Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
@@ -7918,7 +7956,7 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 
 ---
 
-## 🛒 BoniChoix St-Émilie-de-l'Énergie — entrée manuelle
+## 🛒 BoniChoix — entrée manuelle
 
 *Ajoute les spéciaux BoniChoix dans `data/current_week_prices.csv` (pas de site web).*
 
@@ -10618,13 +10656,13 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **Beurre Lactantia 454g** (Maxi) · 4,88 $ · était à 2,99 $ récemment → Attendre
 - **Fromage cheddar fort 400g** (Metro) · 3,99 $ · était à 5,97 $ récemment → Attendre
 - **Raisins rouges sans pépins** (IGA) · 3,49 $/kg · était à 2,99 $ récemment → Attendre
-- **Côtelettes de porc** (BoniChoix St-Émilie-de-l'Énergie) · 3,99 $/kg · était à 3,59 $ récemment → Attendre
+- **Côtelettes de porc** (BoniChoix) · 3,99 $/kg · était à 3,59 $ récemment → Attendre
 - **Saumon atlantique filet** (Metro) · 9,99 $/kg · était à 3,88 $ récemment → Attendre
 - **Café Van Houtte 930g** (IGA) · 12,99 $ · était à 2,99 $ récemment → Attendre
 - **Pommes de terre jaunes 10lb** (Maxi) · 4,99 $ · était à 1,10 $ récemment → Pas assez bon
 - **Pâtes spaghetti Barilla 900g** (Metro) · 2,49 $ · était à 1,66 $ récemment → Attendre
 - **Oeufs blancs extra larges 12** (IGA) · 5,49 $ · était à 0,33 $ récemment → Attendre
-- **Pommes Gala 3lb** (BoniChoix St-Émilie-de-l'Énergie) · 3,49 $ · était à 2,56 $ récemment → Pas assez bon
+- **Pommes Gala 3lb** (BoniChoix) · 3,49 $ · était à 2,56 $ récemment → Pas assez bon
 - **Yogourt grec Olympe 750g** (Super C) · 5,99 $ · était à 3,27 $ récemment → Attendre
 - **REGAL, Chocolat au lait, 50 g** (Familiprix) · 3,99 $ · était à 0,97 $ récemment → Attendre
 - **HIBISCUS BUISSON** (IGA) · 37,99 $ · était à 26,99 $ récemment → Attendre
@@ -10695,7 +10733,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **FILÉS DE SAUMON ATLANTIQUE FRAIS** (Metro) · 15,99 $ · était à 3,88 $ récemment → Attendre
 - **PÂTES ALIMENTAIRES PRIMO** (Metro) · 3,00 $ · était à 1,66 $ récemment → Attendre
 - **PÂTES FARCIES O' SOLE MIO** (Metro) · 5,99 $ · était à 1,66 $ récemment → Attendre
-- **YOGOURT MÉDITERRANÉE LIBERTÉ** (Metro) · 3,49 $ · était à 3,27 $ récemment → Pas assez bon
 - **POMMES HONEYCRISP** (Metro) · 3,49 $ · était à 2,56 $ récemment → Attendre
 - **THON OU SAUMON EN CUBES AKI SUSHI SOIRÉE** (Metro) · 10,99 $ · était à 3,88 $ récemment → Attendre
 - **PETITS PAINS À HAMBURGER OU À HOT-DOG SELECTION** (Metro) · 6,50 $ · était à 1,99 $ récemment → Attendre
@@ -10739,7 +10776,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **LAIT AU CHOCOLAT QUÉBON** (Maxi) · 1,99 $ · était à 0,97 $ récemment → Attendre
 - **CROUSTILLES LAY'S** (Maxi) · 2,98 $ · était à 2,77 $ récemment → Pas assez bon
 - **PAINS À BURGER OU À SAUCISSE AUX PIMENTS JALAPEÑO GIGANTICOMD PC** (Maxi) · 4,00 $ · était à 1,99 $ récemment → Attendre
-- **YOGOURT GREC OÎKOS** (Maxi) · 3,50 $ · était à 3,27 $ récemment → Pas assez bon
 - **PRODUITS PAIN PLAT PC, 330-395 g** (Maxi) · 5,00 $ · était à 1,99 $ récemment → Attendre
 - **CRÈME GLACÉE BAR LAITIER PCMD, 946 ML** (Maxi) · 5,00 $ · était à 0,97 $ récemment → Attendre
 - **YOGOURT GLACÉ CHAPMAN'S, 2 L** (Maxi) · 5,50 $ · était à 3,27 $ récemment → Attendre
@@ -10776,7 +10812,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **C'EST PRÊT! À CUIRE FILETS DE SAUMON ATLANTIQUE MARINÉS FRAIS** (BoniChoix) · 16,99 $ · était à 3,88 $ récemment → Attendre
 - **SAUCE POUR PÂTES COMPLIMENTS** (BoniChoix) · 7,49 $ · était à 1,66 $ récemment → Attendre
 - **CRÈME GLACÉE COATICOOK** (BoniChoix) · 5,49 $ · était à 5,49 $ récemment → Faux rabais
-- **YOGOURT LIBERTÉ MÉDITERRANÉE (500 g), GREC (4 x 100 g)** (BoniChoix) · 3,49 $ · était à 3,27 $ récemment → Pas assez bon
 - **CONFITURE SMUCKER'S Fraises (500 mL) TARTINADE OU MARMELADE DOUBLE FRUIT (375 ou 500 mL)** (BoniChoix) · 7,99 $ · était à 5,48 $ récemment → Attendre
 - **BŒUF HACHÉ MI-MAIGRE** (BoniChoix) · 5,99 $ · était à 4,99 $ récemment → Attendre
 - **COMPLIMENTS JUS D'ORANGE RÉFRIGÉRÉ** (BoniChoix) · 4,49 $ · était à 2,90 $ récemment → Attendre
@@ -10787,7 +10822,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **STEFANO FAITA SAUCE POUR PÂTES** (BoniChoix) · 6,99 $ · était à 1,66 $ récemment → Attendre
 - **Pains à hot-dog ou à hamburger Pom** (Super C) · 3,99 $ · était à 1,99 $ récemment → Attendre
 - **Croustilles Lay's** (Super C) · 2,97 $ · était à 2,77 $ récemment → Pas assez bon
-- **Yogourt grec Oîkos Danone** (Super C) · 3,47 $ · était à 3,27 $ récemment → Pas assez bon
 - **Pommes de terre Cavendish** (Super C) · 2,99 $ · était à 2,56 $ récemment → Attendre
 - **Capsules de café Irrésistible** (Super C) · 29,99 $ · était à 2,99 $ récemment → Attendre
 - **Côtelettes de porc frais érable-chipotle** (Super C) · 4,99 $ · était à 3,59 $ récemment → Attendre
@@ -10835,7 +10869,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **CROUSTILLES LAY'S** (Marchés Tradition) · 2,77 $ · était à 2,77 $ récemment → Pas assez bon
 - **COMPLIMENTS SAUCE POUR PÂTES** (Marchés Tradition) · 7,99 $ · était à 1,66 $ récemment → Attendre
 - **FRUITS SURGELÉS BLEU & BON** (Marchés Tradition) · 4,99 $ · était à 4,49 $ récemment → Attendre
-- **YOGOURT LIBERTÉ CLASSIQUE (650 650 g) GREC (4 x 100 g) GREC (x 100 g MÉDITERRANÉE (500 g) MÉDITERRANÉE (500 g)** (Marchés Tradition) · 3,49 $ · était à 3,27 $ récemment → Pas assez bon
 - **PAINS KAISER** (Marchés Tradition) · 3,99 $ · était à 1,99 $ récemment → Attendre
 - **C'EST PRÊT! À CUIRE CÔTELETTES DE LONGE DE PORC FRAIS DÉSOSSÉES MARINÉES** (Marchés Tradition) · 5,99 $ · était à 3,59 $ récemment → Attendre
 - **TOMATES ROUGES DE SERRE** (Marchés Tradition) · 3,49 $ · était à 2,99 $ récemment → Attendre
@@ -10852,7 +10885,6 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 - **CRÈME GLACÉE COATICOOK** (Marchés Tradition) · 5,49 $ · était à 5,49 $ récemment → Faux rabais
 - **PAIN TRANCHÉ VILLAGGIO-BEN'S** (Marchés Tradition) · 4,49 $ · était à 1,99 $ récemment → Attendre
 - **SAUCE POUR PÂTES COMPLIMENTS** (Marchés Tradition) · 7,99 $ · était à 1,66 $ récemment → Attendre
-- **YOGOURT LIBERTÉ** (Marchés Tradition) · 3,49 $ · était à 3,27 $ récemment → Pas assez bon
 - **LES LAITS FRAPPÉS RICHES EN PROTÉINES EN BOUTEILLE** (L'Inter-Marché) · 4,99 $ · était à 0,97 $ récemment → Attendre
 - **CÉRÉALES, 297 - 430 G, BOISSON À BASE DE PLANTES OU BOISSON SANS PRODUITS LAITIERS, 1,75/1,89 L** (L'Inter-Marché) · 7,00 $ · était à 0,97 $ récemment → Attendre
 - **POMMES HONEYCRISP OU PINK LADY OU FUJI OU COSMIC** (L'Inter-Marché) · 2,79 $ · était à 2,56 $ récemment → Pas assez bon
@@ -10887,7 +10919,7 @@ Prix habituel : ~2,74 $  ·  meilleur vu : 1,97 $
 
 ---
 
-📊 Metro : 4/249  ·  Maxi : 5/191  ·  IGA : 4/337  ·  Super C : 8/190  ·  BoniChoix : 4/89  ·  Inter-Marché : 1/102  ·  Marchés Tradition : 3/151  ·  BoniChoix St-Émilie : —  ·  Familiprix : 0/352  ·  Costco : 0/94
+📊 Metro : 5/250  ·  Maxi : 6/192  ·  IGA : 4/337  ·  Super C : 9/191  ·  BoniChoix : 5/90  ·  Inter-Marché : 1/102  ·  Marchés Tradition : 5/153  ·  BoniChoix : —  ·  Familiprix : 0/352  ·  Costco : 0/94
 *(confirmés bons / total spéciaux)*
 
-*Rapport du 18 mai 2026 — bons-speciaux v1.0*
+*Rapport du 20 mai 2026 — bons-speciaux v1.0*

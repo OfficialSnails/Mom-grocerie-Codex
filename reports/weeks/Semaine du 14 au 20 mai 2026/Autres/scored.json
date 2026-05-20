@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T21:02:34.867Z",
+  "generated_at": "2026-05-20T04:10:32.561Z",
   "report_variant": "live",
   "week_label": "14 au 20 mai 2026",
   "deals": [
@@ -19,7 +19,7 @@
       "confidence": "HIGH",
       "week_start": "2026-05-12",
       "notes": "Spécial de la semaine",
-      "score": 92,
+      "score": 93,
       "label": "STOCK_UP",
       "french_label": "À acheter en extra",
       "french_reason": "Très bon prix, proche du meilleur prix des 6 derniers mois.",
@@ -41,7 +41,7 @@
       },
       "normalized_price_per_unit": 4.99,
       "normalized_unit": "kg",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -87,7 +87,7 @@
       },
       "normalized_price_per_unit": 10.75,
       "normalized_unit": "kg",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -133,7 +133,7 @@
       },
       "normalized_price_per_unit": 9.98,
       "normalized_unit": "kg",
-      "stats_avg": 12.03,
+      "stats_avg": 11.98,
       "stats_low": 5.97,
       "stats_low30": 5.97
     },
@@ -205,7 +205,7 @@
       "source_raw_price": "5.49",
       "confidence": "HIGH",
       "week_start": "2026-05-12",
-      "score": 57,
+      "score": 56,
       "label": "STOCK_UP",
       "french_label": "À acheter en extra",
       "french_reason": "Très bon prix par rapport au prix habituel — pratique à garder en réserve.",
@@ -228,7 +228,7 @@
       },
       "normalized_price_per_unit": 5.49,
       "normalized_unit": "kg",
-      "stats_avg": 6.58,
+      "stats_avg": 6.49,
       "stats_low": 4.99,
       "stats_low30": 5.49
     },
@@ -271,7 +271,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "kg",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -296,10 +296,10 @@
       "source_flyer_id": "7924146",
       "source_flyer_name": "Weekly Flyer - Valid Thursday, May 14 - Wednesday, May 20",
       "source_item_id": "1013987813",
-      "score": 74,
-      "label": "GOOD_IF_NEEDED",
-      "french_label": "Bon prix si tu en as besoin",
-      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "score": 76,
+      "label": "GREAT_DEAL",
+      "french_label": "Très bon prix",
+      "french_reason": "Environ 42 % moins cher que le prix habituel.",
       "worth_buying": true,
       "matched_product": {
         "id": "fraises",
@@ -317,7 +317,7 @@
       },
       "normalized_price_per_unit": 5.48,
       "normalized_unit": "kg",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -360,7 +360,7 @@
       },
       "normalized_price_per_unit": 9.99,
       "normalized_unit": "kg",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -408,7 +408,7 @@
       },
       "normalized_price_per_unit": 13.97,
       "normalized_unit": "kg",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -472,7 +472,7 @@
       "source_raw_price": "4.99",
       "confidence": "HIGH",
       "week_start": "2026-05-12",
-      "score": 57,
+      "score": 59,
       "label": "SKIP_WEAK_DEAL",
       "french_label": "Pas assez bon",
       "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
@@ -496,7 +496,7 @@
       },
       "normalized_price_per_unit": 1.1,
       "normalized_unit": "kg",
-      "stats_avg": 1.43,
+      "stats_avg": 1.45,
       "stats_low": 1.1,
       "stats_low30": 1.1
     },
@@ -543,7 +543,7 @@
       },
       "normalized_price_per_unit": 2.77,
       "normalized_unit": "kg",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -588,7 +588,7 @@
       },
       "normalized_price_per_unit": 0.46,
       "normalized_unit": "each",
-      "stats_avg": 0.71,
+      "stats_avg": 0.74,
       "stats_low": 0.29,
       "stats_low30": 0.33
     },
@@ -678,7 +678,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "kg",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -698,10 +698,10 @@
       "confidence": "HIGH",
       "week_start": "2026-05-12",
       "notes": "Toujours disponible",
-      "score": 89,
-      "label": "GREAT_DEAL",
-      "french_label": "Très bon prix",
-      "french_reason": "Environ 56 % moins cher que le prix habituel.",
+      "score": 90,
+      "label": "MUST_BUY",
+      "french_label": "Excellent spécial",
+      "french_reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
       "worth_buying": true,
       "matched_product": {
         "id": "bananes",
@@ -718,7 +718,7 @@
       },
       "normalized_price_per_unit": 0.59,
       "normalized_unit": "kg",
-      "stats_avg": 1.34,
+      "stats_avg": 4.67,
       "stats_low": 0.59,
       "stats_low30": 0.59
     },
@@ -16550,7 +16550,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -17699,7 +17699,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -17956,7 +17956,7 @@
       },
       "normalized_price_per_unit": 4.49,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -18055,7 +18055,7 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 89,
+      "score": 91,
       "label": "STOCK_UP",
       "french_label": "À acheter en extra",
       "french_reason": "Très bon prix, proche du meilleur prix des 6 derniers mois.",
@@ -18079,7 +18079,7 @@
       },
       "normalized_price_per_unit": 3.59,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -19870,7 +19870,7 @@
       },
       "normalized_price_per_unit": 35,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -20124,7 +20124,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -20834,7 +20834,7 @@
       },
       "normalized_price_per_unit": 6.79,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -22272,7 +22272,7 @@
       },
       "normalized_price_per_unit": 18.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -22689,7 +22689,7 @@
       },
       "normalized_price_per_unit": 6.44,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -23834,7 +23834,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -23903,7 +23903,7 @@
       },
       "normalized_price_per_unit": 1.29,
       "normalized_unit": "unknown",
-      "stats_avg": 1.34,
+      "stats_avg": 4.67,
       "stats_low": 0.59,
       "stats_low30": 0.59
     },
@@ -24065,7 +24065,7 @@
       },
       "normalized_price_per_unit": 3.79,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -24113,7 +24113,7 @@
       },
       "normalized_price_per_unit": 7.49,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -24711,7 +24711,7 @@
       },
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -24757,7 +24757,7 @@
       },
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -24894,7 +24894,7 @@
       },
       "normalized_price_per_unit": 4.49,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -24978,7 +24978,7 @@
       "score": 88,
       "label": "GREAT_DEAL",
       "french_label": "Très bon prix",
-      "french_reason": "Environ 56 % moins cher que le prix habituel.",
+      "french_reason": "Environ 57 % moins cher que le prix habituel.",
       "worth_buying": true,
       "matched_product": {
         "id": "poitrine-poulet",
@@ -24997,7 +24997,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -26707,7 +26707,7 @@
       },
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -27314,7 +27314,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66,
       "cross_store_winner": true,
@@ -27547,7 +27547,7 @@
       },
       "normalized_price_per_unit": 2.99,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -29848,7 +29848,7 @@
       },
       "normalized_price_per_unit": 2.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -30476,7 +30476,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -30519,7 +30519,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -30822,7 +30822,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -31758,7 +31758,7 @@
       },
       "normalized_price_per_unit": 5.49,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -31803,7 +31803,7 @@
       },
       "normalized_price_per_unit": 9.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.58,
+      "stats_avg": 6.49,
       "stats_low": 4.99,
       "stats_low30": 5.49
     },
@@ -32536,7 +32536,7 @@
       },
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -32613,7 +32613,7 @@
       },
       "normalized_price_per_unit": 3,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -33072,7 +33072,7 @@
       },
       "normalized_price_per_unit": 1.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -33233,7 +33233,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -33548,10 +33548,10 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 76,
+      "score": 77,
       "label": "GREAT_DEAL",
       "french_label": "Très bon prix",
-      "french_reason": "Environ 46 % moins cher que le prix habituel.",
+      "french_reason": "Environ 48 % moins cher que le prix habituel.",
       "worth_buying": true,
       "matched_product": {
         "id": "fraises",
@@ -33569,7 +33569,7 @@
       },
       "normalized_price_per_unit": 4.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -34145,7 +34145,7 @@
       },
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -34619,7 +34619,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -34847,7 +34847,7 @@
       },
       "normalized_price_per_unit": 4.75,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -35457,7 +35457,7 @@
       },
       "normalized_price_per_unit": 6.79,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -35734,7 +35734,7 @@
       },
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -36048,7 +36048,7 @@
       },
       "normalized_price_per_unit": 3,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -36153,7 +36153,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -36258,11 +36258,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 58,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -36284,7 +36284,7 @@
       },
       "normalized_price_per_unit": 3.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -36519,7 +36519,7 @@
       },
       "normalized_price_per_unit": 10.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -37306,7 +37306,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -37411,7 +37411,7 @@
       },
       "normalized_price_per_unit": 10.99,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -37679,7 +37679,7 @@
       },
       "normalized_price_per_unit": 7.49,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99,
       "cross_store_winner": true,
@@ -38030,7 +38030,7 @@
       },
       "normalized_price_per_unit": 24.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -38298,7 +38298,7 @@
       },
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -38564,7 +38564,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -38669,7 +38669,7 @@
       },
       "normalized_price_per_unit": 4.49,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -38801,7 +38801,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -38990,7 +38990,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -39034,7 +39034,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -39107,7 +39107,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -39163,9 +39163,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -39193,9 +39193,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 13.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 13.99,
+      "stats_low": 13.99,
+      "stats_low30": 13.99
     },
     {
       "store_id": "costco-quebec",
@@ -39223,9 +39223,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 13.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 13.99,
+      "stats_low": 13.99,
+      "stats_low30": 13.99
     },
     {
       "store_id": "costco-quebec",
@@ -39273,7 +39273,7 @@
       },
       "normalized_price_per_unit": 9.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -39303,9 +39303,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 47.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 47.99,
+      "stats_low": 47.99,
+      "stats_low30": 47.99
     },
     {
       "store_id": "costco-quebec",
@@ -39353,7 +39353,7 @@
       },
       "normalized_price_per_unit": 23.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -39382,9 +39382,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -39412,9 +39412,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 20.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 20.99,
+      "stats_low": 20.99,
+      "stats_low30": 20.99
     },
     {
       "store_id": "costco-quebec",
@@ -39442,9 +39442,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -39472,9 +39472,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 12.99,
+      "stats_low": 12.99,
+      "stats_low30": 12.99
     },
     {
       "store_id": "costco-quebec",
@@ -39502,9 +39502,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 59.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 59.99,
+      "stats_low": 59.99,
+      "stats_low30": 59.99
     },
     {
       "store_id": "costco-quebec",
@@ -39531,9 +39531,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -39561,9 +39561,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -39591,9 +39591,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 32.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 32.99,
+      "stats_low": 32.99,
+      "stats_low30": 32.99
     },
     {
       "store_id": "costco-quebec",
@@ -39621,9 +39621,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -39651,9 +39651,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -39681,9 +39681,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 18.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 18.99,
+      "stats_low": 18.99,
+      "stats_low30": 18.99
     },
     {
       "store_id": "costco-quebec",
@@ -39711,9 +39711,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 21.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 21.99,
+      "stats_low": 21.99,
+      "stats_low30": 21.99
     },
     {
       "store_id": "costco-quebec",
@@ -39741,9 +39741,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 299.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 299.99,
+      "stats_low": 299.99,
+      "stats_low30": 299.99
     },
     {
       "store_id": "costco-quebec",
@@ -39771,9 +39771,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -39801,9 +39801,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 21.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 21.99,
+      "stats_low": 21.99,
+      "stats_low30": 21.99
     },
     {
       "store_id": "costco-quebec",
@@ -39831,9 +39831,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -39861,9 +39861,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 23.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 23.99,
+      "stats_low": 23.99,
+      "stats_low30": 23.99
     },
     {
       "store_id": "costco-quebec",
@@ -39891,9 +39891,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 299.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 299.99,
+      "stats_low": 299.99,
+      "stats_low30": 299.99
     },
     {
       "store_id": "costco-quebec",
@@ -39921,9 +39921,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 199.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 199.99,
+      "stats_low": 199.99,
+      "stats_low30": 199.99
     },
     {
       "store_id": "costco-quebec",
@@ -39970,7 +39970,7 @@
       },
       "normalized_price_per_unit": 8.69,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -40000,9 +40000,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 94.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 94.99,
+      "stats_low": 94.99,
+      "stats_low30": 94.99
     },
     {
       "store_id": "costco-quebec",
@@ -40030,9 +40030,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -40060,9 +40060,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 44.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 44.99,
+      "stats_low": 44.99,
+      "stats_low30": 44.99
     },
     {
       "store_id": "costco-quebec",
@@ -40090,9 +40090,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -40120,9 +40120,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 17.49,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 17.49,
+      "stats_low": 17.49,
+      "stats_low30": 17.49
     },
     {
       "store_id": "costco-quebec",
@@ -40150,9 +40150,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -40180,9 +40180,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -40210,9 +40210,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -40240,9 +40240,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 10.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 10.99,
+      "stats_low": 10.99,
+      "stats_low30": 10.99
     },
     {
       "store_id": "costco-quebec",
@@ -40270,9 +40270,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -40300,9 +40300,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 499.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 499.99,
+      "stats_low": 499.99,
+      "stats_low30": 499.99
     },
     {
       "store_id": "costco-quebec",
@@ -40330,9 +40330,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -40360,9 +40360,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 11.99,
+      "stats_low": 11.99,
+      "stats_low30": 11.99
     },
     {
       "store_id": "costco-quebec",
@@ -40390,9 +40390,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 18.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 18.99,
+      "stats_low": 18.99,
+      "stats_low30": 18.99
     },
     {
       "store_id": "costco-quebec",
@@ -40420,9 +40420,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 11.99,
+      "stats_low": 11.99,
+      "stats_low30": 11.99
     },
     {
       "store_id": "costco-quebec",
@@ -40450,9 +40450,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 6.99,
+      "stats_low": 6.99,
+      "stats_low30": 6.99
     },
     {
       "store_id": "costco-quebec",
@@ -40480,9 +40480,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 12.99,
+      "stats_low": 12.99,
+      "stats_low30": 12.99
     },
     {
       "store_id": "costco-quebec",
@@ -40510,9 +40510,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 8.99,
+      "stats_low": 8.99,
+      "stats_low30": 8.99
     },
     {
       "store_id": "costco-quebec",
@@ -40540,9 +40540,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 31.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 31.99,
+      "stats_low": 31.99,
+      "stats_low30": 31.99
     },
     {
       "store_id": "costco-quebec",
@@ -40570,9 +40570,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -40600,9 +40600,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 47.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 47.99,
+      "stats_low": 47.99,
+      "stats_low30": 47.99
     },
     {
       "store_id": "costco-quebec",
@@ -40630,9 +40630,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -40660,9 +40660,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.49,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.49,
+      "stats_low": 15.49,
+      "stats_low30": 15.49
     },
     {
       "store_id": "costco-quebec",
@@ -40690,9 +40690,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -40720,9 +40720,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 9.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 9.99,
+      "stats_low": 9.99,
+      "stats_low30": 9.99
     },
     {
       "store_id": "costco-quebec",
@@ -40750,9 +40750,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -40780,9 +40780,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 26.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 26.99,
+      "stats_low": 26.99,
+      "stats_low30": 26.99
     },
     {
       "store_id": "costco-quebec",
@@ -40810,9 +40810,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 9.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 9.99,
+      "stats_low": 9.99,
+      "stats_low30": 9.99
     },
     {
       "store_id": "costco-quebec",
@@ -40840,9 +40840,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -40870,9 +40870,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -40900,9 +40900,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -40930,9 +40930,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -40960,9 +40960,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -40990,9 +40990,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41020,9 +41020,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.49,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.49,
+      "stats_low": 15.49,
+      "stats_low30": 15.49
     },
     {
       "store_id": "costco-quebec",
@@ -41050,9 +41050,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41079,9 +41079,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 299.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 299.99,
+      "stats_low": 299.99,
+      "stats_low30": 299.99
     },
     {
       "store_id": "costco-quebec",
@@ -41109,9 +41109,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 12.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 12.99,
+      "stats_low": 12.99,
+      "stats_low30": 12.99
     },
     {
       "store_id": "costco-quebec",
@@ -41139,9 +41139,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 7.99,
+      "stats_low": 7.99,
+      "stats_low30": 7.99
     },
     {
       "store_id": "costco-quebec",
@@ -41169,9 +41169,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41199,9 +41199,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 7.99,
+      "stats_low": 7.99,
+      "stats_low30": 7.99
     },
     {
       "store_id": "costco-quebec",
@@ -41229,9 +41229,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 159.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 159.99,
+      "stats_low": 159.99,
+      "stats_low30": 159.99
     },
     {
       "store_id": "costco-quebec",
@@ -41259,9 +41259,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41289,9 +41289,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 4.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 4.99,
+      "stats_low": 4.99,
+      "stats_low30": 4.99
     },
     {
       "store_id": "costco-quebec",
@@ -41319,9 +41319,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 64.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 64.99,
+      "stats_low": 64.99,
+      "stats_low30": 64.99
     },
     {
       "store_id": "costco-quebec",
@@ -41349,9 +41349,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -41379,9 +41379,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 25.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 25.99,
+      "stats_low": 25.99,
+      "stats_low30": 25.99
     },
     {
       "store_id": "costco-quebec",
@@ -41409,9 +41409,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 11.99,
+      "stats_low": 11.99,
+      "stats_low30": 11.99
     },
     {
       "store_id": "costco-quebec",
@@ -41439,9 +41439,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 18.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 18.99,
+      "stats_low": 18.99,
+      "stats_low30": 18.99
     },
     {
       "store_id": "costco-quebec",
@@ -41469,9 +41469,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.49,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.49,
+      "stats_low": 15.49,
+      "stats_low30": 15.49
     },
     {
       "store_id": "costco-quebec",
@@ -41499,9 +41499,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 159.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 159.99,
+      "stats_low": 159.99,
+      "stats_low30": 159.99
     },
     {
       "store_id": "costco-quebec",
@@ -41529,9 +41529,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 22.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 22.99,
+      "stats_low": 22.99,
+      "stats_low30": 22.99
     },
     {
       "store_id": "costco-quebec",
@@ -41559,9 +41559,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 44.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 44.99,
+      "stats_low": 44.99,
+      "stats_low30": 44.99
     },
     {
       "store_id": "costco-quebec",
@@ -41589,9 +41589,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 13.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 13.99,
+      "stats_low": 13.99,
+      "stats_low30": 13.99
     },
     {
       "store_id": "costco-quebec",
@@ -41619,9 +41619,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -41648,9 +41648,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -41677,9 +41677,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41720,7 +41720,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 1.34,
+      "stats_avg": 4.67,
       "stats_low": 0.59,
       "stats_low30": 0.59
     },
@@ -41750,9 +41750,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 19.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 19.99,
+      "stats_low": 19.99,
+      "stats_low30": 19.99
     },
     {
       "store_id": "costco-quebec",
@@ -41780,9 +41780,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 17.99,
+      "stats_low": 17.99,
+      "stats_low30": 17.99
     },
     {
       "store_id": "costco-quebec",
@@ -41810,9 +41810,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 54.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 54.99,
+      "stats_low": 54.99,
+      "stats_low30": 54.99
     },
     {
       "store_id": "costco-quebec",
@@ -41840,9 +41840,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 14.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 14.99,
+      "stats_low": 14.99,
+      "stats_low30": 14.99
     },
     {
       "store_id": "costco-quebec",
@@ -41870,9 +41870,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -41900,9 +41900,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 6.99,
+      "stats_low": 6.99,
+      "stats_low30": 6.99
     },
     {
       "store_id": "costco-quebec",
@@ -41930,9 +41930,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 39.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 39.99,
+      "stats_low": 39.99,
+      "stats_low30": 39.99
     },
     {
       "store_id": "costco-quebec",
@@ -41959,9 +41959,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 299.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 299.99,
+      "stats_low": 299.99,
+      "stats_low30": 299.99
     },
     {
       "store_id": "costco-quebec",
@@ -41989,9 +41989,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 29.99,
+      "stats_low": 29.99,
+      "stats_low30": 29.99
     },
     {
       "store_id": "costco-quebec",
@@ -42019,9 +42019,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 47.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 47.99,
+      "stats_low": 47.99,
+      "stats_low30": 47.99
     },
     {
       "store_id": "costco-quebec",
@@ -42049,9 +42049,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 43.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 43.99,
+      "stats_low": 43.99,
+      "stats_low30": 43.99
     },
     {
       "store_id": "costco-quebec",
@@ -42079,9 +42079,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 15.99,
+      "stats_low": 15.99,
+      "stats_low30": 15.99
     },
     {
       "store_id": "costco-quebec",
@@ -42108,9 +42108,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 24.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 24.99,
+      "stats_low": 24.99,
+      "stats_low30": 24.99
     },
     {
       "store_id": "costco-quebec",
@@ -42137,9 +42137,9 @@
       "worth_buying": false,
       "normalized_price_per_unit": 59.99,
       "normalized_unit": "unknown",
-      "stats_avg": null,
-      "stats_low": null,
-      "stats_low30": null
+      "stats_avg": 59.99,
+      "stats_low": 59.99,
+      "stats_low30": 59.99
     },
     {
       "store_id": "maxi-joliette",
@@ -42911,7 +42911,7 @@
       },
       "normalized_price_per_unit": 15.41,
       "normalized_unit": "kg",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -43242,7 +43242,7 @@
       },
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "each",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -43291,7 +43291,7 @@
       },
       "normalized_price_per_unit": 6.5,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -43696,7 +43696,7 @@
       },
       "normalized_price_per_unit": 5.5,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -43834,7 +43834,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -44060,7 +44060,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -44375,7 +44375,7 @@
       },
       "normalized_price_per_unit": 13.88,
       "normalized_unit": "each",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -44523,7 +44523,7 @@
       },
       "normalized_price_per_unit": 11,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -45162,7 +45162,7 @@
       },
       "normalized_price_per_unit": 3,
       "normalized_unit": "each",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -45241,7 +45241,7 @@
       },
       "normalized_price_per_unit": 4.5,
       "normalized_unit": "each",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99,
       "cross_store_winner": true,
@@ -45845,11 +45845,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 58,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -45871,7 +45871,7 @@
       },
       "normalized_price_per_unit": 3.5,
       "normalized_unit": "each",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -46126,7 +46126,7 @@
       },
       "normalized_price_per_unit": 3.88,
       "normalized_unit": "each",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -46418,7 +46418,7 @@
       },
       "normalized_price_per_unit": 5.5,
       "normalized_unit": "each",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -46466,7 +46466,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "each",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -46574,7 +46574,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -46652,7 +46652,7 @@
       },
       "normalized_price_per_unit": 11,
       "normalized_unit": "each",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -46965,7 +46965,7 @@
       },
       "normalized_price_per_unit": 16,
       "normalized_unit": "each",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -47044,7 +47044,7 @@
       },
       "normalized_price_per_unit": 5,
       "normalized_unit": "each",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -48034,7 +48034,7 @@
       },
       "normalized_price_per_unit": 6.5,
       "normalized_unit": "each",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -49294,7 +49294,7 @@
       },
       "normalized_price_per_unit": 4.39,
       "normalized_unit": "kg",
-      "stats_avg": 1.43,
+      "stats_avg": 1.45,
       "stats_low": 1.1,
       "stats_low30": 1.1
     },
@@ -49560,7 +49560,7 @@
       "score": 76,
       "label": "GREAT_DEAL",
       "french_label": "Très bon prix",
-      "french_reason": "Environ 51 % moins cher que le prix habituel.",
+      "french_reason": "Environ 53 % moins cher que le prix habituel.",
       "worth_buying": true,
       "matched_product": {
         "id": "fraises",
@@ -49578,7 +49578,7 @@
       },
       "normalized_price_per_unit": 4.49,
       "normalized_unit": "each",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -49808,7 +49808,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -49940,7 +49940,7 @@
       },
       "normalized_price_per_unit": 13.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -50046,7 +50046,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -50698,7 +50698,7 @@
       },
       "normalized_price_per_unit": 2.99,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -50747,7 +50747,7 @@
       },
       "normalized_price_per_unit": 1.66,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -51220,7 +51220,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -51838,7 +51838,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -52046,7 +52046,7 @@
       },
       "normalized_price_per_unit": 7.49,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -52377,7 +52377,7 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 64,
+      "score": 74,
       "label": "GOOD_IF_NEEDED",
       "french_label": "Bon prix si tu en as besoin",
       "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
@@ -52403,7 +52403,7 @@
       },
       "normalized_price_per_unit": 3.27,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -52426,11 +52426,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 58,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -52452,7 +52452,7 @@
       },
       "normalized_price_per_unit": 3.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -52555,7 +52555,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -52946,7 +52946,7 @@
       },
       "normalized_price_per_unit": 4.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -53469,7 +53469,7 @@
       },
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -54029,11 +54029,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 59,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -54055,7 +54055,7 @@
       },
       "normalized_price_per_unit": 3.47,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27,
       "cross_store_winner": true,
@@ -54214,7 +54214,7 @@
       },
       "normalized_price_per_unit": 29.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -54260,7 +54260,7 @@
       },
       "normalized_price_per_unit": 4.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -55096,7 +55096,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -55142,7 +55142,7 @@
       },
       "normalized_price_per_unit": 5.97,
       "normalized_unit": "unknown",
-      "stats_avg": 12.03,
+      "stats_avg": 11.98,
       "stats_low": 5.97,
       "stats_low30": 5.97
     },
@@ -55367,7 +55367,7 @@
       },
       "normalized_price_per_unit": 6,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -55479,7 +55479,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -55818,7 +55818,7 @@
       },
       "normalized_price_per_unit": 2.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -55949,7 +55949,7 @@
       },
       "normalized_price_per_unit": 6.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -56450,7 +56450,7 @@
       },
       "normalized_price_per_unit": 5.97,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -56495,7 +56495,7 @@
       },
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -56971,7 +56971,7 @@
       },
       "normalized_price_per_unit": 5.97,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -57019,7 +57019,7 @@
       },
       "normalized_price_per_unit": 15.97,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -58104,7 +58104,7 @@
       },
       "normalized_price_per_unit": 1.57,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -58339,7 +58339,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -58635,7 +58635,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 9.24,
+      "stats_avg": 9.5,
       "stats_low": 5.48,
       "stats_low30": 5.48
     },
@@ -59290,7 +59290,7 @@
       },
       "normalized_price_per_unit": 6.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -59608,7 +59608,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 0.71,
+      "stats_avg": 0.74,
       "stats_low": 0.29,
       "stats_low30": 0.33
     },
@@ -59807,7 +59807,7 @@
       },
       "normalized_price_per_unit": 0.99,
       "normalized_unit": "unknown",
-      "stats_avg": 1.34,
+      "stats_avg": 4.67,
       "stats_low": 0.59,
       "stats_low30": 0.59
     },
@@ -59965,7 +59965,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -59986,7 +59986,7 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 47,
+      "score": 46,
       "label": "SKIP_WEAK_DEAL",
       "french_label": "Pas assez bon",
       "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
@@ -60009,7 +60009,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.58,
+      "stats_avg": 6.49,
       "stats_low": 4.99,
       "stats_low30": 5.49
     },
@@ -60303,7 +60303,7 @@
       },
       "normalized_price_per_unit": 10,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -60491,7 +60491,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -61142,7 +61142,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -61189,7 +61189,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -61239,7 +61239,7 @@
       },
       "normalized_price_per_unit": 8.49,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -61346,7 +61346,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -62457,7 +62457,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -62864,7 +62864,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -63007,11 +63007,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 58,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -63033,7 +63033,7 @@
       },
       "normalized_price_per_unit": 3.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -63342,7 +63342,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -65133,7 +65133,7 @@
       },
       "normalized_price_per_unit": 17.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -65183,7 +65183,7 @@
       },
       "normalized_price_per_unit": 8.49,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -65455,7 +65455,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 6.42,
+      "stats_avg": 6.53,
       "stats_low": 3.59,
       "stats_low30": 3.59
     },
@@ -66240,7 +66240,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -66494,7 +66494,7 @@
       },
       "normalized_price_per_unit": 11.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -67444,7 +67444,7 @@
       },
       "normalized_price_per_unit": 16.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -67817,7 +67817,7 @@
       },
       "normalized_price_per_unit": 7.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -68334,11 +68334,11 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 58,
-      "label": "SKIP_WEAK_DEAL",
-      "french_label": "Pas assez bon",
-      "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
-      "worth_buying": false,
+      "score": 69,
+      "label": "GOOD_IF_NEEDED",
+      "french_label": "Bon prix si tu en as besoin",
+      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
         "normalized_name": "yogourt",
@@ -68360,7 +68360,7 @@
       },
       "normalized_price_per_unit": 3.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -68994,7 +68994,7 @@
       },
       "normalized_price_per_unit": 5.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -69071,7 +69071,7 @@
       },
       "normalized_price_per_unit": 2.29,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -69174,7 +69174,7 @@
       },
       "normalized_price_per_unit": 15.99,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -69249,7 +69249,7 @@
       },
       "normalized_price_per_unit": 13,
       "normalized_unit": "unknown",
-      "stats_avg": 12.05,
+      "stats_avg": 11.98,
       "stats_low": 3.88,
       "stats_low30": 3.88
     },
@@ -69695,7 +69695,7 @@
       },
       "normalized_price_per_unit": 12,
       "normalized_unit": "unknown",
-      "stats_avg": 9.05,
+      "stats_avg": 9.23,
       "stats_low": 4.99,
       "stats_low30": 4.99
     },
@@ -69943,7 +69943,7 @@
       },
       "normalized_price_per_unit": 3.99,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -70963,7 +70963,7 @@
       },
       "normalized_price_per_unit": 5.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -71198,7 +71198,7 @@
       },
       "normalized_price_per_unit": 2.49,
       "normalized_unit": "unknown",
-      "stats_avg": 1.34,
+      "stats_avg": 4.67,
       "stats_low": 0.59,
       "stats_low30": 0.59
     },
@@ -71400,7 +71400,7 @@
       },
       "normalized_price_per_unit": 5.49,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -71422,10 +71422,10 @@
       "sale_start": "2026-05-14T00:00:00-04:00",
       "sale_end": "2026-05-20T23:59:59-04:00",
       "confidence": "HIGH",
-      "score": 66,
-      "label": "GOOD_IF_NEEDED",
-      "french_label": "Bon prix si tu en as besoin",
-      "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
+      "score": 75,
+      "label": "GREAT_DEAL",
+      "french_label": "Très bon prix",
+      "french_reason": "Environ 45 % moins cher que le prix habituel.",
       "worth_buying": true,
       "matched_product": {
         "id": "yogourt",
@@ -71448,7 +71448,7 @@
       },
       "normalized_price_per_unit": 2.99,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -71496,7 +71496,7 @@
       },
       "normalized_price_per_unit": 5.49,
       "normalized_unit": "unknown",
-      "stats_avg": 4.93,
+      "stats_avg": 5.4,
       "stats_low": 3.27,
       "stats_low30": 3.27
     },
@@ -71734,7 +71734,7 @@
       },
       "normalized_price_per_unit": 5.29,
       "normalized_unit": "unknown",
-      "stats_avg": 10.99,
+      "stats_avg": 10.7,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -71874,7 +71874,7 @@
       },
       "normalized_price_per_unit": 26.99,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -72542,7 +72542,7 @@
       },
       "normalized_price_per_unit": 8.99,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -72619,7 +72619,7 @@
       },
       "normalized_price_per_unit": 7,
       "normalized_unit": "unknown",
-      "stats_avg": 3.75,
+      "stats_avg": 3.79,
       "stats_low": 1.66,
       "stats_low30": 1.66
     },
@@ -72697,7 +72697,7 @@
       },
       "normalized_price_per_unit": 12.79,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
@@ -73050,7 +73050,7 @@
       },
       "normalized_price_per_unit": 11,
       "normalized_unit": "unknown",
-      "stats_avg": 11.74,
+      "stats_avg": 11.52,
       "stats_low": 2.99,
       "stats_low30": 2.99
     },
