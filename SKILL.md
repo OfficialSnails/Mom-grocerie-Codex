@@ -45,6 +45,7 @@ When running this skill:
 16. Put a section summary at the top, then render standard Markdown section headings and normal checkbox lists
 17. Keep proof photos open inline; do not hide individual product photos in collapsed blocks
 18. Keep the website frontend data-only: the website reads generated JSON and must not scrape live sources
+18a. Keep `DESIGN.md` as the website visual contract. UI changes should reuse its linen/evergreen palette, Playfair Display headings, Inter body text, card/button/total-block tokens, and readability principles without redesigning the shopping flow.
 19. After website UI/data-rendering changes, run the local website and validate it in a real browser
 20. Prefer Agent Browser or Playwright for that browser validation when available; verify week loading, product selection, sidebar final list, clearing/removal, print/export, proof photos, prices, units and store labels
 21. Keep the website as a 3-zone shopping workspace: week/search/rayon controls on top, one active rayon in the center, and the final basket on the right

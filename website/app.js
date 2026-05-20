@@ -696,13 +696,22 @@ function renderSelection() {
   }
 }
 
-function setExportStatus(message, tone = '') {
+function setExportStatus(message, tone = '', detail = '') {
   if (exportStatusTimer) {
     clearTimeout(exportStatusTimer);
     exportStatusTimer = null;
   }
 
-  els.exportStatus.textContent = message;
+  if (!message) {
+    els.exportStatus.textContent = '';
+    els.exportStatus.className = 'export-status';
+    return;
+  }
+
+  els.exportStatus.innerHTML = `
+    <span>${escapeHtml(message)}</span>
+    ${detail ? `<small>${escapeHtml(detail)}</small>` : ''}
+  `;
   els.exportStatus.className = `export-status ${tone}`.trim();
 
   if (message && tone === 'success') {
@@ -710,7 +719,7 @@ function setExportStatus(message, tone = '') {
       els.exportStatus.textContent = '';
       els.exportStatus.className = 'export-status';
       exportStatusTimer = null;
-    }, 5000);
+    }, 7000);
   }
 }
 
@@ -1094,8 +1103,9 @@ async function downloadBrowserPdf() {
     y += 11;
   }
 
-  pdf.save(fileNameForCurrentWeek('pdf'));
-  setExportStatus('PDF téléchargé.', 'success');
+  const fileName = fileNameForCurrentWeek('pdf');
+  pdf.save(fileName);
+  setExportStatus('PDF téléchargé.', 'success', fileName);
 }
 
 function openBrowserPrintExport() {
@@ -1152,7 +1162,7 @@ async function exportPdfToDesktop() {
     const text = await response.text();
     const result = text ? JSON.parse(text) : {};
     if (!response.ok) throw new Error(result.error || 'Export impossible');
-    setExportStatus('PDF sauvegardé.', 'success');
+    setExportStatus('PDF sauvegardé sur le bureau.', 'success', result.fileName || '');
   } catch (err) {
     openBrowserPrintExport();
   } finally {

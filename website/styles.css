@@ -1,17 +1,24 @@
 :root {
-  --page: #f3f1ea;
+  --color-linen-bg: #faf9f6;
+  --color-evergreen: #2d4739;
+  --color-border-subtle: #dadad7;
+  --color-surface-container: #f4f3f1;
+  --color-secondary: #5c7066;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --page: var(--color-linen-bg);
   --panel: #fffefa;
-  --panel-soft: #f8f5ed;
+  --panel-soft: var(--color-surface-container);
   --ink: #171714;
   --text: #2d2b26;
-  --muted: #746f65;
-  --faint: #e7dfd1;
-  --rule: #d8cdbb;
-  --forest: #235845;
+  --muted: var(--color-secondary);
+  --faint: #ece8df;
+  --rule: var(--color-border-subtle);
+  --forest: var(--color-evergreen);
   --forest-soft: #e5f0e9;
   --wine: #7f2f3e;
   --ochre: #c28a36;
-  --danger: #9c322f;
+  --danger: #b3261e;
   --shadow: 0 16px 42px rgba(38, 31, 18, 0.1);
   color-scheme: light;
 }
@@ -29,9 +36,9 @@ body {
   min-height: 100vh;
   color: var(--text);
   background:
-    linear-gradient(180deg, rgba(255, 254, 250, 0.9), rgba(243, 241, 234, 0.9)),
+    linear-gradient(180deg, rgba(255, 254, 250, 0.9), rgba(250, 249, 246, 0.92)),
     var(--page);
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+  font-family: var(--font-body);
 }
 
 body {
@@ -58,7 +65,7 @@ button {
   padding: 10px 12px;
   color: white;
   background: var(--ink);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-weight: 900;
   text-decoration: none;
 }
@@ -89,7 +96,7 @@ a:focus-visible {
 .eyebrow {
   margin: 0 0 5px;
   color: var(--wine);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.11em;
@@ -106,6 +113,7 @@ p {
 h1 {
   margin-bottom: 0;
   color: var(--ink);
+  font-family: var(--font-display);
   font-size: clamp(2rem, 3.5vw, 3.25rem);
   line-height: 0.95;
   letter-spacing: 0;
@@ -114,6 +122,7 @@ h1 {
 h2 {
   margin-bottom: 0;
   color: var(--ink);
+  font-family: var(--font-display);
   font-size: 1.05rem;
 }
 
@@ -130,7 +139,7 @@ h2 {
   padding: 10px 15px;
   color: white;
   background: var(--forest);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-weight: 800;
   cursor: pointer;
   box-shadow: 0 10px 22px rgba(35, 88, 69, 0.16);
@@ -205,7 +214,7 @@ h2 {
   max-width: 860px;
   margin-top: 4px;
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.84rem;
   line-height: 1.35;
 }
@@ -259,7 +268,7 @@ h2 {
 }
 
 .panel-heading h2 {
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .control-field {
@@ -275,7 +284,7 @@ h2 {
   display: block;
   margin-bottom: 8px;
   color: var(--ink);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.82rem;
   font-weight: 900;
 }
@@ -288,7 +297,7 @@ h2 {
   padding: 11px 12px;
   color: var(--ink);
   background: #fff;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.94rem;
 }
 
@@ -318,7 +327,7 @@ h2 {
   color: var(--text);
   background: #fff;
   cursor: pointer;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.78rem;
   font-weight: 900;
 }
@@ -383,7 +392,7 @@ h2 {
   padding: 12px;
   color: var(--muted);
   background: rgba(255, 254, 250, 0.78);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.86rem;
   font-weight: 800;
 }
@@ -401,7 +410,7 @@ h2 {
   color: var(--text);
   background: #fff;
   cursor: pointer;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.88rem;
   font-weight: 900;
 }
@@ -460,7 +469,7 @@ h2 {
   background: transparent;
   cursor: pointer;
   text-align: left;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.9rem;
   font-weight: 800;
 }
@@ -521,7 +530,7 @@ h2 {
   gap: 12px;
   align-items: center;
   padding: 13px 14px;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .category-name {
@@ -596,7 +605,7 @@ h2 {
   border-radius: 999px;
   padding: 7px 10px;
   background: rgba(255, 255, 255, 0.72);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.82rem;
   font-weight: 700;
 }
@@ -635,7 +644,7 @@ h2 {
 
 .category-title > span {
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.9rem;
   font-weight: 800;
 }
@@ -705,7 +714,7 @@ h2 {
   color: var(--ink);
   background: rgba(255, 254, 250, 0.88);
   box-shadow: 0 8px 18px rgba(38, 31, 18, 0.08);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.74rem;
   font-weight: 900;
   overflow: hidden;
@@ -721,7 +730,7 @@ h2 {
 
 .item-name {
   color: var(--ink);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 900;
   line-height: 1.22;
@@ -731,7 +740,7 @@ h2 {
 
 .store-line {
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.87rem;
   line-height: 1.25;
   display: none;
@@ -741,7 +750,7 @@ h2 {
   justify-self: start;
   border-radius: 999px;
   padding: 3px 8px;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.68rem;
   font-weight: 900;
 }
@@ -769,7 +778,7 @@ h2 {
   color: #462807;
   background: #f3d79e;
   white-space: nowrap;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.95rem;
   font-weight: 900;
   font-variant-numeric: tabular-nums;
@@ -780,7 +789,7 @@ h2 {
   padding: 3px 7px;
   color: var(--forest);
   background: var(--forest-soft);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.72rem;
   font-weight: 900;
 }
@@ -793,7 +802,7 @@ h2 {
   border-top: 1px solid var(--faint);
   list-style: none;
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.87rem;
   line-height: 1.35;
 }
@@ -825,7 +834,7 @@ h2 {
   background:
     linear-gradient(135deg, rgba(35, 88, 69, 0.08), rgba(194, 138, 54, 0.08)),
     #fff;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   text-align: center;
 }
 
@@ -854,7 +863,7 @@ h2 {
   color: white;
   background: var(--ink);
   cursor: pointer;
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.85rem;
   font-weight: 900;
   transition: background-color 160ms ease, transform 160ms ease;
@@ -909,7 +918,7 @@ h2 {
   padding: 11px 12px;
   color: var(--forest);
   background: var(--forest-soft);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-weight: 900;
 }
 
@@ -921,7 +930,7 @@ h2 {
   padding: 11px 12px;
   color: var(--text);
   background: rgba(255, 254, 250, 0.82);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .selection-estimate:not(:empty) {
@@ -963,7 +972,7 @@ h2 {
   border-radius: 8px;
   padding: 0;
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.84rem;
   line-height: 1.35;
   overflow-wrap: anywhere;
@@ -974,6 +983,15 @@ h2 {
   background: var(--forest-soft);
   color: var(--forest);
   font-weight: 800;
+}
+
+.export-status small {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 700;
+  line-height: 1.25;
 }
 
 .export-status.warning {
@@ -989,7 +1007,7 @@ h2 {
   margin-top: 12px;
   padding-top: 12px;
   border-top: 1px solid var(--faint);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .notes-field label {
@@ -1028,7 +1046,7 @@ h2 {
 .store-address {
   margin-bottom: 9px;
   color: var(--muted);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
   font-size: 0.84rem;
 }
 
@@ -1039,7 +1057,7 @@ h2 {
   align-items: center;
   padding: 10px 0;
   border-top: 1px solid rgba(116, 111, 101, 0.16);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .selected-item span {
@@ -1080,7 +1098,7 @@ h2 {
   border-top: 1px solid rgba(116, 111, 101, 0.16);
   padding-top: 10px;
   color: var(--forest);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .store-subtotal span {
@@ -1108,7 +1126,7 @@ h2 {
   border-radius: 8px;
   color: var(--muted);
   background: rgba(255, 254, 250, 0.72);
-  font-family: Avenir Next, Avenir, Helvetica, sans-serif;
+  font-family: var(--font-body);
 }
 
 .empty-state p {

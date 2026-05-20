@@ -129,6 +129,9 @@ Règles UI importantes:
 ## Site local
 
 Le run hebdomadaire alimente aussi une petite application statique dans `website/`.
+Le guide visuel du site est `DESIGN.md`; les changements UI doivent réutiliser
+ses jetons de couleur, typographie, cartes, boutons et bloc total sans casser
+le flux existant des filtres, du panier et du PDF.
 
 - `website/index.html` — interface locale
 - `website/app.js` — logique de sélection et liste finale

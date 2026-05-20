@@ -1180,7 +1180,9 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain('Total estimé de la liste');
     expect(js).toContain('let exportStatusTimer = null');
     expect(js).toContain("tone === 'success'");
-    expect(js).toContain('}, 5000)');
+    expect(js).toContain('PDF sauvegardé sur le bureau.');
+    expect(js).toContain('result.fileName');
+    expect(js).toContain('}, 7000)');
     expect(css).not.toContain('.topbar {\n  position: sticky');
     const selectionPanelCss = css.match(/\.selection-panel\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
     expect(selectionPanelCss).toContain('display: flex');
@@ -1190,6 +1192,7 @@ describe('website user-facing wording and week filtering', () => {
     const exportStatusCss = css.match(/\.export-status\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
     expect(exportStatusCss).toContain('margin: 0 0 12px');
     expect(exportStatusCss).not.toContain('margin: -');
+    expect(css).toContain('.export-status small');
     expect(server).toContain('estimateBasketTotal');
     expect(server).toContain('Total estimé');
     expect(server).toContain('Sous-total estimé');
