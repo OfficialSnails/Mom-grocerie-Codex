@@ -1,16 +1,16 @@
 # Comparaison des listes — 21 au 27 mai 2026
 
-- Ancienne liste mom: 171 lignes
-- Liste vérifiée: 100 lignes
-- Différence: -71 lignes
+- Ancienne liste mom: 170 lignes
+- Liste vérifiée: 103 lignes
+- Différence: -67 lignes
 
 ## Répartition vérifiée
 
 - Metro: 16
-- Maxi: 13
+- Maxi: 10
 - IGA: 17
-- Super C: 17
-- BoniChoix: 7
+- Super C: 20
+- BoniChoix: 10
 - L'Inter-Marché: 6
 - Marchés Tradition: 14
 - Familiprix: 5
