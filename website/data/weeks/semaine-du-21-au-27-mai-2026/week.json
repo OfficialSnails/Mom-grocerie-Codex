@@ -4,15 +4,9 @@
   "folderName": "Semaine du 21 au 27 mai 2026",
   "title": "Liste d'épicerie — 21 au 27 mai 2026",
   "weekRange": "21 au 27 mai 2026",
-<<<<<<< HEAD
-  "generatedAt": "2026-05-21T16:00:00.000Z",
-  "itemCount": 78,
-  "allItemCount": 1409,
-=======
   "generatedAt": "2026-05-21T14:48:22.307Z",
   "itemCount": 93,
-  "allItemCount": 1435,
->>>>>>> e28c0ebd1461263a1190a81099f1ebccfdbc7b31
+  "allItemCount": 1436,
   "method": {
     "title": "D’où viennent les choix",
     "sourceSummary": "Prix en CAD tirés des circulaires et données structurées disponibles pour Metro, Maxi, IGA, Super C, BoniChoix, L'Inter-Marché, Marchés Tradition, Familiprix, Costco. Costco peut avoir des prix membre, des formats en vrac et des périodes de circulaire plus longues.",
@@ -45914,13 +45908,8 @@
       "id": "metro-joliette",
       "name": "Metro",
       "address": "180 rue Beaudry N, Joliette",
-<<<<<<< HEAD
-      "itemCount": 13,
-      "allItemCount": 236
-=======
       "itemCount": 14,
-      "allItemCount": 235
->>>>>>> e28c0ebd1461263a1190a81099f1ebccfdbc7b31
+      "allItemCount": 236
     },
     {
       "id": "maxi-joliette",
