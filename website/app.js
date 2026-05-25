@@ -42,15 +42,21 @@ const els = {
   printButton: document.querySelector('#print-button'),
   clearButton: document.querySelector('#clear-button'),
   emptyTemplate: document.querySelector('#empty-template'),
+  imagePreview: document.querySelector('#image-preview'),
+  imagePreviewImg: document.querySelector('#image-preview-img'),
+  imagePreviewTitle: document.querySelector('#image-preview-title'),
+  imagePreviewMeta: document.querySelector('#image-preview-meta'),
+  imagePreviewClose: document.querySelector('#image-preview-close'),
 };
 
 let exportStatusTimer = null;
+let lastImagePreviewTrigger = null;
 
 function moneySafe(text) {
   return text || '';
 }
 
-const VARIABLE_PRICE_UNITS = new Set(['kg', 'lb', 'lbs', '100g', 'l', 'litre', 'litres']);
+const VARIABLE_PRICE_UNITS = new Set(['kg', 'lb', 'lbs', '100g', 'l', 'litre', 'litres', 'rebate', 'rabais']);
 const VARIABLE_PRICE_PATTERN = /\/\s*(?:kg|lb|lbs|100\s*g|g|l|litre|litres)\b/i;
 
 function isVariablePrice(item) {
@@ -503,6 +509,36 @@ function itemDetails(item) {
   return rows.map(row => `<li>${row}</li>`).join('');
 }
 
+function openImagePreview(item) {
+  if (!els.imagePreview || !els.imagePreviewImg || !item.proofImageUrl) return;
+
+  lastImagePreviewTrigger = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+  els.imagePreviewImg.src = item.proofImageUrl;
+  els.imagePreviewImg.alt = `Preuve prix ${item.name}`;
+  if (els.imagePreviewTitle) els.imagePreviewTitle.textContent = item.name;
+  if (els.imagePreviewMeta) {
+    els.imagePreviewMeta.textContent = `${displayStoreName(item.storeId, item.storeName)} · ${moneySafe(item.price)}`;
+  }
+  els.imagePreview.hidden = false;
+  els.imagePreview.setAttribute('aria-hidden', 'false');
+  document.body.classList.add('preview-open');
+  els.imagePreviewClose?.focus();
+}
+
+function closeImagePreview() {
+  if (!els.imagePreview || els.imagePreview.hidden) return;
+
+  els.imagePreview.hidden = true;
+  els.imagePreview.setAttribute('aria-hidden', 'true');
+  document.body.classList.remove('preview-open');
+  if (els.imagePreviewImg) {
+    els.imagePreviewImg.removeAttribute('src');
+    els.imagePreviewImg.alt = '';
+  }
+  lastImagePreviewTrigger?.focus();
+  lastImagePreviewTrigger = null;
+}
+
 function renderItemCard(item) {
   const selected = state.selected.has(item.id);
   const badgeClass = item.itemKind === 'seen' ? 'seen' : 'deal';
@@ -511,7 +547,7 @@ function renderItemCard(item) {
   card.className = `item-card ${selected ? 'selected' : ''}`;
   card.innerHTML = `
     <div class="product-media">
-      ${item.proofImageUrl ? `<img class="proof" src="${escapeHtml(item.proofImageUrl)}" alt="Preuve prix ${escapeHtml(item.name)}" width="520" height="360" loading="lazy" />` : '<div class="proof-missing"><span>Image non disponible</span><small>Le prix reste vérifié par les données de la semaine.</small></div>'}
+      ${item.proofImageUrl ? `<button class="proof-button" type="button" aria-label="Agrandir la photo de prix pour ${escapeHtml(item.name)}"><img class="proof" src="${escapeHtml(item.proofImageUrl)}" alt="Preuve prix ${escapeHtml(item.name)}" width="520" height="360" loading="lazy" /></button>` : '<div class="proof-missing"><span>Image non disponible</span><small>Le prix reste vérifié par les données de la semaine.</small></div>'}
       <span class="media-store">${escapeHtml(displayStoreName(item.storeId, item.storeName))}</span>
     </div>
     <div class="product-body">
@@ -532,6 +568,7 @@ function renderItemCard(item) {
       </label>
     </div>
   `;
+  card.querySelector('.proof-button')?.addEventListener('click', () => openImagePreview(item));
   card.querySelector('input').addEventListener('change', event => {
     if (event.target.checked) {
       state.selected.set(item.id, item);
@@ -1215,8 +1252,17 @@ document.addEventListener('click', event => {
   if (!event.target.closest('.week-field')) closeWeekMenu();
 });
 document.addEventListener('keydown', event => {
-  if (event.key === 'Escape') closeWeekMenu();
+  if (event.key === 'Escape') {
+    closeWeekMenu();
+    closeImagePreview();
+  }
 });
+els.imagePreview?.addEventListener('click', event => {
+  if (event.target instanceof HTMLElement && event.target.dataset.previewClose === 'true') {
+    closeImagePreview();
+  }
+});
+els.imagePreviewClose?.addEventListener('click', closeImagePreview);
 els.searchInput.addEventListener('input', event => {
   state.searchQuery = event.target.value;
   renderItems();

@@ -1347,6 +1347,27 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain('certains produits peuvent parfois être approximatifs');
   });
 
+  it('supports an in-page proof image preview', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const [html, js, css] = await Promise.all([
+      readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
+      readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
+      readFile(new URL('../website/styles.css', import.meta.url), 'utf8'),
+    ]);
+
+    expect(html).toContain('id="image-preview"');
+    expect(html).toContain('role="dialog"');
+    expect(html).toContain('id="image-preview-close"');
+    expect(js).toContain('function openImagePreview');
+    expect(js).toContain('function closeImagePreview');
+    expect(js).toContain('proof-button');
+    expect(js).toContain("event.key === 'Escape'");
+    expect(css).toContain('.proof-button');
+    expect(css).toContain('.image-preview');
+    expect(css).toContain('.image-preview-backdrop');
+    expect(css).toContain('body.preview-open');
+  });
+
   it('keeps store scope when category, search, and mode change', async () => {
     const { readFile } = await import('node:fs/promises');
     const [html, js, css] = await Promise.all([

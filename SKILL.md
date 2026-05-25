@@ -33,7 +33,7 @@ When running this skill:
 5. Treat all prices as CAD
 6. Show the sale unit when known (`/lb`, `/kg`, `/L`, `each`)
 7. Show the normalized scale when useful, especially `/lb` items with `/kg` equivalents
-8. When `tesseract` is available, use conservative proof-photo OCR to recover obvious units (`/100g`, `/lb`, `/kg`) that Flipp did not expose in structured data.
+8. When `tesseract` is available, run the proof-photo OCR recovery pass after the structured Flipp/Wishabi collection and before scoring. This pass should recover high-confidence visual-only offers from complex flyer tiles, then recover obvious units (`/100g`, `/lb`, `/kg`) that Flipp did not expose in structured data.
 9. Say when the unit is not confirmed instead of implying a per-unit format, but keep it short: `Format à vérifier sur la photo.` when a proof image exists, or `Format non confirmé.` without an image.
 10. Prefer embedded proof images over weak generic flyer links when available
 11. Keep the shopper-facing output simple enough for phone reading
@@ -92,6 +92,7 @@ When running this skill:
 42d. `npm run qa:categories` is the broad all-category scan. It reports high-confidence errors separately from ambiguous review items, writes `reports/qa/category-review-<week>.md`, and should pass before publishing a weekly generation. Fix classifier source code, not generated JSON.
 42e. When `Garde-manger et autres` absorbs obvious misses, add reusable rules and tests for the whole family, not one generated product: produce examples include clémentines, pitaya, poires, dattes, romaine and prepared trays; meat/fish examples include goberge, brochettes, côtelettes, veau and surlonge; frozen examples include Eggo, frozen desserts and frozen meals; health examples include sunscreen, dental care, cosmetics, digestive/allergy products and pharmacy meal replacements; household examples include detergent, dish soap, paper goods and diapers.
 43. Do not run Firecrawl for Familiprix during ordinary cleanup or weekly generation. Use Flipp/Wishabi data first; investigate with Firecrawl only if that feed fails and a human asks for it.
+44. OCR recovery is automatic, not a manual review queue. If a proof image clearly contains an extra grocery offer that the structured feed missed, append a source-backed raw item before scoring so it appears in `Tous les produits` and the weekly archive. Keep recovered offers conservative, tied to the original proof image, and covered by tests. Example: a Metro tile can expose `pain tranché St-Méthode` as a receipt rebate even when Wishabi only returns another product from the same tile.
 
 ## Official weekly outputs
 

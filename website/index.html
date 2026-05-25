@@ -93,6 +93,18 @@
       </div>
     </template>
 
+    <div id="image-preview" class="image-preview" hidden aria-hidden="true">
+      <button class="image-preview-backdrop" type="button" data-preview-close="true" aria-label="Fermer l'aperçu"></button>
+      <section class="image-preview-card" role="dialog" aria-modal="true" aria-labelledby="image-preview-title">
+        <button id="image-preview-close" class="image-preview-close" type="button" aria-label="Fermer l'aperçu">×</button>
+        <img id="image-preview-img" class="image-preview-img" src="" alt="" />
+        <div class="image-preview-info">
+          <h2 id="image-preview-title">Photo du prix</h2>
+          <p id="image-preview-meta"></p>
+        </div>
+      </section>
+    </div>
+
     <script src="./app.js" type="module"></script>
   </body>
 </html>

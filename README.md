@@ -296,7 +296,9 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 - Les preuves photo des produits retenus restent visibles directement dans le Markdown
 - Les prix affichent l'unité quand elle est connue (`/lb`, `/kg`, `/L`, etc.)
 - Les produits au poids avec prix en livre affichent aussi l'équivalent au kg quand disponible
-- Les preuves photo sont aussi passées dans un OCR local conservateur quand `tesseract` est disponible. Le système peut alors récupérer des formats évidents comme `/100g`, `/lb` ou `/kg` même si l'API Flipp ne les donne pas.
+- Les preuves photo sont aussi passées dans un OCR local quand `tesseract` est disponible. Le système utilise cette passe avant le scoring pour récupérer des offres visuelles très probables que Flipp/Wishabi n'a pas exposées comme produit structuré, puis pour récupérer des formats évidents comme `/100g`, `/lb` ou `/kg`.
+- Les offres récupérées par OCR doivent rester automatiques et prudentes: elles sont liées à la preuve photo originale, entrent dans `Tous les produits`, passent ensuite par le classifieur, la déduplication, le rapport complet et le JSON du site. Ne pas corriger le JSON généré à la main.
+- Exemple de cas couvert: une tuile Metro peut contenir `pain tranché St-Méthode` avec `2,50 $ de rabais à l'achat de 2 pains` même si l'API retourne seulement un autre produit de la même tuile.
 - Si l'unité n'est pas confirmée, la liste affiche seulement `Format à vérifier sur la photo.` quand une preuve existe, ou `Format non confirmé.` sans preuve photo.
 - Les raisons génériques comme `Premier aperçu retenu` et `Bon prix si tu en as besoin` sont masquées dans les sorties visibles. Garder seulement les raisons utiles: économies historiques, pourcentages, comparaison gagnante ou autre explication concrète.
 - Chaque rayon peut afficher jusqu'à 20 bons prix, mais seulement si les prix sont réels, vérifiables, utiles et non redondants. Une section courte veut dire qu'il n'y avait pas assez de bons prix solides cette semaine.
@@ -316,6 +318,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
 - `npm run qa:categories` scanne toutes les catégories, échoue seulement sur les erreurs évidentes à haute confiance, et écrit un rapport dans `reports/qa/category-review-<semaine>.md`; les cas ambigus servent de revue humaine et ne bloquent pas.
 - Après une génération hebdomadaire depuis les données brutes, lancer `npm run qa:categories` avant de publier. Les corrections doivent aller dans `src/generate-report.ts`, jamais dans le JSON généré à la main.
 - Pour une modification UI seulement, utiliser la boucle rapide: tests ciblés, `node --check website/app.js`, puis un smoke visuel court. Ne pas lancer `qa:pantry`, `qa:categories`, Firecrawl ou une génération longue sauf si le changement touche les sources, le classifieur, les exports hebdomadaires ou les données.
+- Pour que la récupération OCR complète fonctionne sur une machine locale ou en automation, installer `tesseract` et les langues utiles (`brew install tesseract tesseract-lang` sur macOS). Si `tesseract` n'est pas disponible, la génération continue avec les données structurées, mais elle peut manquer certaines offres visibles seulement dans l'image de circulaire.
 - Agent Browser ou Playwright peut être utilisé après les scans de données pour vérifier visuellement quelques rayons, mais la source principale de QA reste le scan JSON.
 - La déduplication doit garder le meilleur représentant d'une même famille évidente, par exemple bologne, sauciflard/chorizo ou boeuf haché extra maigre. Les rosettes de boeuf ne doivent pas être confondues avec le sauciflard/chorizo.
 - Les entrées manuelles sans image affichent explicitement:

@@ -14,7 +14,7 @@ export interface PriceEstimate {
   totalCount: number;
 }
 
-const VARIABLE_PRICE_UNITS = new Set(['kg', 'lb', 'lbs', '100g', 'l', 'litre', 'litres']);
+const VARIABLE_PRICE_UNITS = new Set(['kg', 'lb', 'lbs', '100g', 'l', 'litre', 'litres', 'rebate', 'rabais']);
 const VARIABLE_PRICE_PATTERN = /\/\s*(?:kg|lb|lbs|100\s*g|g|l|litre|litres)\b/i;
 
 export function isVariablePrice(item: PriceEstimateItem): boolean {

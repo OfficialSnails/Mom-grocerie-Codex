@@ -23,7 +23,7 @@ import {
   frenchWeekLabel,
   frenchWeekFolderName,
 } from './weekly-files.js';
-import { enrichDealsWithProofOcr } from './proof-ocr.js';
+import { enrichDealsWithProofOcr, recoverMissingOffersFromProofOcr } from './proof-ocr.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PRODUCTS_PATH = join(__dirname, '..', 'data', 'products.json');
@@ -1980,7 +1980,8 @@ export async function generateReport(
   items: RawDealItem[],
   options?: { reportVariant?: string }
 ): Promise<{ filepath: string; momFilepath: string; auditFilepath: string; verifiedMomFilepath: string; comparisonFilepath: string; rawFilepath: string; verifiedJsonFilepath: string; shoppingListFilepath: string; storeSummaryFilepath: string; weeklyPackDir: string; scored: ScoredDeal[] }> {
-  const scored = scoreAllDeals(items);
+  const reportItems = recoverMissingOffersFromProofOcr(items);
+  const scored = scoreAllDeals(reportItems);
   const skipped = getSkippedSources();
   const now = new Date();
   const reportVariant = options?.reportVariant ?? 'live';
@@ -2052,7 +2053,7 @@ export async function generateReport(
   writeFileSync(comparisonFilepath, comparisonReport, 'utf-8');
 
   const rawFilepath = join(RAW_DIR, `bons-speciaux-joliette-${dateStr}${suffix}-raw-items.json`);
-  writeFileSync(rawFilepath, JSON.stringify(items, null, 2), 'utf-8');
+  writeFileSync(rawFilepath, JSON.stringify(reportItems, null, 2), 'utf-8');
 
   const auditPayload = scored.map(deal => ({
     store_id: deal.store_id,
@@ -2122,7 +2123,7 @@ export async function generateReport(
   writeFileSync(weeklyPack.finalList, generateEmptyFinalListReport(now), 'utf-8');
   writeFileSync(weeklyPack.fullReport, fullReport, 'utf-8');
   writeFileSync(weeklyPack.audit, JSON.stringify(auditPayload, null, 2), 'utf-8');
-  writeFileSync(weeklyPack.raw, JSON.stringify(items, null, 2), 'utf-8');
+  writeFileSync(weeklyPack.raw, JSON.stringify(reportItems, null, 2), 'utf-8');
   writeFileSync(weeklyPack.verified, JSON.stringify(shortlist, null, 2), 'utf-8');
   writeFileSync(weeklyPack.scored, JSON.stringify(scoredPayload, null, 2), 'utf-8');
   writeFileSync(weeklyPack.pickerItems, JSON.stringify(picker.items, null, 2), 'utf-8');

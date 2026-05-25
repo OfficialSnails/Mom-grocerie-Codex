@@ -6,7 +6,7 @@
   "weekRange": "21 au 27 mai 2026",
   "generatedAt": "2026-05-21T16:00:00.000Z",
   "itemCount": 78,
-  "allItemCount": 1408,
+  "allItemCount": 1409,
   "method": {
     "title": "D’où viennent les choix",
     "sourceSummary": "Prix en CAD tirés des circulaires et données structurées disponibles pour Metro, Maxi, IGA, Super C, BoniChoix, L'Inter-Marché, Marchés Tradition, Familiprix, Costco. Costco peut avoir des prix membre, des formats en vrac et des périodes de circulaire plus longues.",
@@ -35593,6 +35593,34 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+          "id": "2026-05-21::metro-joliette::pain-tranche-st-methode-ocr-recovered",
+          "name": "PAIN TRANCHÉ ST-MÉTHODE 500-675 g",
+          "normalizedName": null,
+          "categoryId": "bakery",
+          "categoryTitle": "Boulangerie",
+          "categoryEmoji": "🥖",
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "2,50 $ de rabais à l'achat de 2 pains",
+          "currentPrice": null,
+          "unit": "rebate",
+          "scale": "Rabais à vérifier sur la photo: applicable à l’achat de 2 pains.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/420352205/1778870996/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/420352205/1778870996/extra_large.jpg",
+          "sourceType": "flyer-ocr-recovered",
+          "sourceSystem": "flipp-ocr",
+          "saleStart": "2026-05-21T00:00:00-04:00",
+          "saleEnd": "2026-05-27T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_OCR",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
           "id": "2026-05-21::metro-joliette::pain",
           "name": "PAIN PLAT NAAN",
           "normalizedName": null,
@@ -44310,7 +44338,7 @@
       "name": "Metro",
       "address": "180 rue Beaudry N, Joliette",
       "itemCount": 13,
-      "allItemCount": 235
+      "allItemCount": 236
     },
     {
       "id": "maxi-joliette",
