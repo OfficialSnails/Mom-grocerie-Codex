@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-21T16:00:00.000Z",
+  "generatedAt": "2026-05-21T14:48:22.307Z",
   "weeks": [
     {
       "slug": "semaine-du-21-au-27-mai-2026",
       "folderName": "Semaine du 21 au 27 mai 2026",
       "title": "Liste d'épicerie — 21 au 27 mai 2026",
       "weekRange": "21 au 27 mai 2026",
-      "generatedAt": "2026-05-21T16:00:00.000Z",
-      "itemCount": 78,
-      "allItemCount": 1408,
+      "generatedAt": "2026-05-21T14:48:22.307Z",
+      "itemCount": 93,
+      "allItemCount": 1435,
       "path": "data/weeks/semaine-du-21-au-27-mai-2026/week.json"
     },
     {
