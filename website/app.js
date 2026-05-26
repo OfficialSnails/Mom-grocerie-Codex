@@ -1164,7 +1164,7 @@ async function shareBasketPdf() {
 
   const originalLabel = els.shareButton.textContent;
   els.shareButton.disabled = true;
-  els.shareButton.textContent = 'Préparation...';
+  els.shareButton.textContent = 'Prépare...';
   setExportStatus('Préparation du partage...', '');
 
   try {

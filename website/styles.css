@@ -137,6 +137,7 @@ h2 {
 }
 
 .button {
+  min-width: 0;
   min-height: 42px;
   border: 0;
   border-radius: 8px;
@@ -145,6 +146,11 @@ h2 {
   background: var(--forest);
   font-family: var(--font-body);
   font-weight: 800;
+  line-height: 1.1;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   cursor: pointer;
   box-shadow: 0 10px 22px rgba(35, 88, 69, 0.16);
 }
@@ -1048,7 +1054,7 @@ h2 {
   position: sticky;
   bottom: 0;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(92px, 0.72fr) minmax(76px, 0.58fr);
+  grid-template-columns: minmax(0, 1fr) minmax(104px, 0.8fr) minmax(76px, 0.54fr);
   gap: 10px;
   margin: 14px 0 0;
   padding: 14px 0 0;
