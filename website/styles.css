@@ -701,10 +701,11 @@ h2 {
 }
 
 .product-main {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  display: flex;
   gap: 12px;
+  justify-content: space-between;
   align-items: start;
+  min-width: 0;
 }
 
 .media-store {
@@ -728,6 +729,7 @@ h2 {
 
 .item-main {
   display: grid;
+  flex: 1 1 0;
   gap: 5px;
   min-width: 0;
 }
@@ -738,7 +740,9 @@ h2 {
   font-size: 1rem;
   font-weight: 900;
   line-height: 1.22;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: manual;
   text-wrap: pretty;
 }
 
@@ -772,19 +776,28 @@ h2 {
 
 .price-stack {
   display: grid;
+  flex: 0 1 min(52%, 150px);
   justify-items: end;
   gap: 5px;
+  min-width: 86px;
+  max-width: 150px;
 }
 
 .price {
+  display: inline-block;
+  max-width: 100%;
   padding: 7px 9px;
   border-radius: 8px;
   color: #462807;
   background: #f3d79e;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+  text-align: center;
   font-family: var(--font-body);
   font-size: 0.95rem;
   font-weight: 900;
+  line-height: 1.12;
   font-variant-numeric: tabular-nums;
 }
 
@@ -801,6 +814,7 @@ h2 {
 .detail-list {
   display: grid;
   gap: 5px;
+  min-width: 0;
   margin: 0;
   padding: 10px 0 0;
   border-top: 1px solid var(--faint);
@@ -809,6 +823,12 @@ h2 {
   font-family: var(--font-body);
   font-size: 0.87rem;
   line-height: 1.35;
+}
+
+.detail-list li {
+  min-width: 0;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 .detail-list strong {

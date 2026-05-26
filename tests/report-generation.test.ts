@@ -1368,6 +1368,26 @@ describe('website user-facing wording and week filtering', () => {
     expect(css).toContain('body.preview-open');
   });
 
+  it('keeps long rebate prices from crushing product card titles', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const css = await readFile(new URL('../website/styles.css', import.meta.url), 'utf8');
+
+    const productMainCss = css.match(/\.product-main\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    const itemNameCss = css.match(/\.item-name\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    const priceStackCss = css.match(/\.price-stack\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    const priceCss = css.match(/\.price\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+    const detailListItemCss = css.match(/\.detail-list li\s*\{[\s\S]*?\n\}/)?.[0] ?? '';
+
+    expect(productMainCss).toContain('display: flex');
+    expect(productMainCss).toContain('min-width: 0');
+    expect(itemNameCss).toContain('overflow-wrap: break-word');
+    expect(itemNameCss).not.toContain('overflow-wrap: anywhere');
+    expect(priceStackCss).toContain('max-width: 150px');
+    expect(priceCss).toContain('white-space: normal');
+    expect(priceCss).toContain('overflow-wrap: break-word');
+    expect(detailListItemCss).toContain('overflow-wrap: break-word');
+  });
+
   it('keeps store scope when category, search, and mode change', async () => {
     const { readFile } = await import('node:fs/promises');
     const [html, js, css] = await Promise.all([
