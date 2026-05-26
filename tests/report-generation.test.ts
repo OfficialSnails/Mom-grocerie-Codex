@@ -1301,7 +1301,14 @@ describe('website user-facing wording and week filtering', () => {
     ]);
 
     expect(html).toContain('selection-estimate');
+    expect(html).toContain('id="share-button"');
+    expect(html).toContain('Partager');
     expect(js).toContain('function estimateBasketTotal');
+    expect(js).toContain('async function shareBasketPdf');
+    expect(js).toContain('navigator.share');
+    expect(js).toContain('navigator.canShare');
+    expect(js).toContain("pdf.output('blob')");
+    expect(js).toContain("els.shareButton.addEventListener('click', shareBasketPdf)");
     expect(js).toContain('Total estimé');
     expect(js).toContain('Avant taxes, dépôts, quantités réelles et prix au poids');
     expect(js).toContain('Sous-total estimé');
@@ -1321,6 +1328,8 @@ describe('website user-facing wording and week filtering', () => {
     expect(exportStatusCss).toContain('margin: 0 0 12px');
     expect(exportStatusCss).not.toContain('margin: -');
     expect(css).toContain('.export-status small');
+    expect(css).toContain('.button.share');
+    expect(css).toContain('#print-button');
     expect(server).toContain('estimateBasketTotal');
     expect(server).toContain('Total estimé');
     expect(server).toContain('Sous-total estimé');

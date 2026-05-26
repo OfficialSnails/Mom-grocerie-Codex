@@ -174,6 +174,7 @@ Fonctionnement:
 - la zone `Notes` du panier est sauvegardée localement et apparaît dans le PDF sous `Notes`
 - la liste finale affiche aussi un `Total estimé` conservateur: les prix fixes comptent dans le sous-total, mais les prix au poids ou formats variables restent indiqués à vérifier
 - `Exporter PDF` crée une liste propre avec magasin, adresse, produit, prix, notes, `Total estimé` en haut, sous-totaux par magasin et `Total estimé de la liste` à la fin. En local (`npm run web`), le PDF est sauvegardé directement sur le bureau. Sur le site hébergé, le navigateur télécharge un vrai fichier PDF que la personne peut imprimer ou envoyer.
+- `Partager` génère le même PDF. Sur mobile, si le navigateur le permet, il ouvre la feuille de partage native pour envoyer la liste par Messages, Mail, AirDrop, etc. Si le partage natif n'est pas disponible, le site télécharge simplement le PDF.
 - la sélection est sauvegardée dans le navigateur avec `localStorage`
 
 Important: un site hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur. Le site public génère donc un PDF téléchargeable dans le navigateur; l'utilisateur choisit ensuite où le sauvegarder, l'imprime ou l'envoie à son téléphone.

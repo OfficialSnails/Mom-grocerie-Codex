@@ -40,6 +40,7 @@ const els = {
   notesInput: document.querySelector('#list-notes'),
   exportStatus: document.querySelector('#export-status'),
   printButton: document.querySelector('#print-button'),
+  shareButton: document.querySelector('#share-button'),
   clearButton: document.querySelector('#clear-button'),
   emptyTemplate: document.querySelector('#empty-template'),
   imagePreview: document.querySelector('#image-preview'),
@@ -1021,7 +1022,7 @@ async function loadJsPdf() {
   return window.jspdf.jsPDF;
 }
 
-async function downloadBrowserPdf() {
+async function createBrowserPdfDocument() {
   const selectedItems = [...state.selected.values()];
   const stores = groupSelectedByStore();
   const estimate = estimateBasketTotal(selectedItems);
@@ -1144,8 +1145,53 @@ async function downloadBrowserPdf() {
   }
 
   const fileName = fileNameForCurrentWeek('pdf');
+  return { pdf, fileName };
+}
+
+async function downloadBrowserPdf() {
+  const { pdf, fileName } = await createBrowserPdfDocument();
   pdf.save(fileName);
   setExportStatus('PDF téléchargé.', 'success', fileName);
+}
+
+async function shareBasketPdf() {
+  if (!state.week) return;
+  const selectedIds = [...state.selected.keys()];
+  if (selectedIds.length === 0) {
+    setExportStatus('Ajoute au moins un produit avant de partager la liste.', 'warning');
+    return;
+  }
+
+  const originalLabel = els.shareButton.textContent;
+  els.shareButton.disabled = true;
+  els.shareButton.textContent = 'Préparation...';
+  setExportStatus('Préparation du partage...', '');
+
+  try {
+    const { pdf, fileName } = await createBrowserPdfDocument();
+    const blob = pdf.output('blob');
+    const file = typeof File === 'function'
+      ? new File([blob], fileName, { type: 'application/pdf' })
+      : null;
+
+    if (file && navigator.canShare?.({ files: [file] }) && navigator.share) {
+      await navigator.share({
+        title: 'Liste d’épicerie',
+        text: state.week?.title || 'Liste d’épicerie',
+        files: [file],
+      });
+      setExportStatus('Liste prête à partager.', 'success', fileName);
+      return;
+    }
+
+    pdf.save(fileName);
+    setExportStatus('PDF téléchargé.', 'success', fileName);
+  } catch (err) {
+    setExportStatus('Partage indisponible. Essaie “Exporter PDF”.', 'warning');
+  } finally {
+    els.shareButton.disabled = false;
+    els.shareButton.textContent = originalLabel;
+  }
 }
 
 function openBrowserPrintExport() {
@@ -1250,6 +1296,7 @@ async function init() {
 }
 
 els.printButton.addEventListener('click', exportPdfToDesktop);
+els.shareButton.addEventListener('click', shareBasketPdf);
 els.weekToggle.addEventListener('click', toggleWeekMenu);
 document.addEventListener('click', event => {
   if (!event.target.closest('.week-field')) closeWeekMenu();

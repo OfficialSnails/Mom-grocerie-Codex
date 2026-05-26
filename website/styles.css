@@ -163,6 +163,12 @@ h2 {
   background: var(--ink);
 }
 
+.button.share {
+  color: var(--forest);
+  background: var(--forest-soft);
+  box-shadow: inset 0 0 0 1px rgba(35, 88, 69, 0.2);
+}
+
 .button.ghost {
   color: var(--ink);
   background: transparent;
@@ -1042,7 +1048,7 @@ h2 {
   position: sticky;
   bottom: 0;
   display: grid;
-  grid-template-columns: 1fr 0.7fr;
+  grid-template-columns: minmax(0, 1fr) minmax(92px, 0.72fr) minmax(76px, 0.58fr);
   gap: 10px;
   margin: 14px 0 0;
   padding: 14px 0 0;
@@ -1387,6 +1393,14 @@ h2 {
 @media (max-width: 520px) {
   .category-tabs {
     grid-template-columns: 1fr;
+  }
+
+  .basket-actions {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #print-button {
+    grid-column: 1 / -1;
   }
 }
 
