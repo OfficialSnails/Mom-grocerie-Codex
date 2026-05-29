@@ -4030,6 +4030,7 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-25,costco-quebec,Assortiment de boissons énergisantes Ultra Zero de Monster,Assortiment de boissons énergisantes Ultra Zero de Monster,Monster,,35.99,,,35.99,unknown,flipp,Circulaire
 2026-05-25,costco-quebec,Agent de rinçage Quantum Jet-Dry Ultra de Finish,Agent de rinçage Quantum Jet-Dry Ultra de Finish,Finish,,12.49,,,12.49,unknown,flipp,Circulaire
 2026-05-25,costco-quebec,Dattes dénoyautées biologiques Deglet Noor de Terra Delyssa,Dattes dénoyautées biologiques Deglet Noor de Terra Delyssa,Terra Delyssa,,6.99,,,6.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
 2026-05-28,metro-joliette,"MÉLANGE À SAUCE ST‑HUBERT, THE KEG, PACINI","MÉLANGE À SAUCE ST‑HUBERT, THE KEG, PACINI",,,1.69,,,1.69,unknown,flipp,Quebec
 2026-05-28,metro-joliette,ABRICOTS,ABRICOTS,,,6.99,,,6.99,unknown,flipp,Quebec
 2026-05-28,metro-joliette,HARICOTS VERTS,HARICOTS VERTS,,,3.99,,,3.99,unknown,flipp,Quebec
@@ -4238,6 +4239,8 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,metro-joliette,MAÏS SOUFFLÉ ORVILLE,MAÏS SOUFFLÉ ORVILLE,,,3.79,,,3.79,unknown,flipp,Quebec
 2026-05-28,metro-joliette,"GRIGNOTINES À SAVEUR DE FROMAGE CHEETOS® (170 G - 285 G, SAVEUR AU CHOIX; EXCLUT LES GRIGNOTINES SIMPLY CHEETOS® 1227 9- HI 241 G]) CHIPS TORTILLA TOSTITOS® (205 G - 295 G, SAVEUR AU CHOIX; EXCLUT LES CHIPS TORTILLA SIMPLY TOSTITOS® [240 G))","GRIGNOTINES À SAVEUR DE FROMAGE CHEETOS® (170 G - 285 G, SAVEUR AU CHOIX; EXCLUT LES GRIGNOTINES SIMPLY CHEETOS® 1227 9- HI 241 G]) CHIPS TORTILLA TOSTITOS® (205 G - 295 G, SAVEUR AU CHOIX; EXCLUT LES CHIPS TORTILLA SIMPLY TOSTITOS® [240 G))",,,8.5,,,8.5,unknown,flipp,Quebec
 2026-05-28,metro-joliette,CRISPY MINIS' BROWN RICE SNACKS,CRISPY MINIS' BROWN RICE SNACKS,,,6,,,6,unknown,flipp,Quebec
+=======
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,iga-joliette,PÉTONCLES DE BAIE SURGELÉS BLUE TIDE,PÉTONCLES DE BAIE SURGELÉS BLUE TIDE,BLUE TIDE,,7.99,,,7.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-05-28,iga-joliette,PALMIERS SAVEURS DU FOUR,PALMIERS SAVEURS DU FOUR,Saveurs du Four,,5.49,,,5.49,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-05-28,iga-joliette,JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS,JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS,Oasis®,,2.19,,,2.19,unknown,flipp,Québec - Circulaire Hebdomadaire
@@ -4748,6 +4751,217 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,superc-joliette,Brochettes de crevettes assaisonnées Irrésistible,Brochettes de crevettes assaisonnées Irrésistible,,,12,,,12,unknown,flipp,Circulaire
 2026-05-28,superc-joliette,Hibiscus buisson,Hibiscus buisson,,,26.99,,,26.99,unknown,flipp,Circulaire
 2026-05-28,superc-joliette,RIZ BEN'S ORIGINAL,RIZ BEN'S ORIGINAL,,,2.49,,,2.49,unknown,flipp,Circulaire
+<<<<<<< HEAD
+=======
+2026-05-28,metro-joliette,HOMARD VIVANT,HOMARD VIVANT,,,13.99,,,13.99,unknown,flipp,Tout sur le Homard
+2026-05-28,metro-joliette,"MÉLANGE À SAUCE ST‑HUBERT, THE KEG, PACINI","MÉLANGE À SAUCE ST‑HUBERT, THE KEG, PACINI",,,1.69,,,1.69,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ABRICOTS,ABRICOTS,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HARICOTS VERTS,HARICOTS VERTS,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FILETS DE PORC FRAIS ASSAISONNÉS,FILETS DE PORC FRAIS ASSAISONNÉS,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BROCHETTES DE PORC MIEL ET DIJON ROSE,BROCHETTES DE PORC MIEL ET DIJON ROSE,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MOULES BLEUES FRAÎCHES CANADIAN COVE,MOULES BLEUES FRAÎCHES CANADIAN COVE,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BISCUITS TRIO,BISCUITS TRIO,,,6.49,,,6.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GÂTEAU TRANCHÉ,GÂTEAU TRANCHÉ,,,5.49,,,5.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOISSON ÉNERGISANTE REDBULL,BOISSON ÉNERGISANTE REDBULL,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"FRIANDISES CHOCOLATÉES HERSHEY'S, REESE'S, MARS MONDELEZ","FRIANDISES CHOCOLATÉES HERSHEY'S, REESE'S, MARS MONDELEZ",,,1.11,,,1.11,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TERRE SELECTION,TERRE SELECTION,,,10,,,10,unknown,flipp,Quebec
+2026-05-28,metro-joliette,VIANDE FRAÎCHE À FONDUE,VIANDE FRAÎCHE À FONDUE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JAMBON FUMÉ OU CUIT SELECTION,JAMBON FUMÉ OU CUIT SELECTION,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE,CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE,,,17.99,,,17.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CRISTAUX DE SAVEURS CRISTAL LÉGER,CRISTAUX DE SAVEURS CRISTAL LÉGER,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,EAU PÉTILLANTE SAN PELLEGRINO,EAU PÉTILLANTE SAN PELLEGRINO,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOISSON PÉTILLANTE MONTELLIER,BOISSON PÉTILLANTE MONTELLIER,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CÉRÉALES KELLOGG'S®,CÉRÉALES KELLOGG'S®,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"CÉRÉALES GENERAL MILLS,KELLOGG'S, QUAKER","CÉRÉALES GENERAL MILLS,KELLOGG'S, QUAKER",,,3.33,,,3.33,unknown,flipp,Quebec
+2026-05-28,metro-joliette,KETCHUP AUX TOMATES HEINZ,KETCHUP AUX TOMATES HEINZ,,,4.97,,,4.97,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROÛTES IRRÉSISTIBLE,CROÛTES IRRÉSISTIBLE,,,0.99,,,0.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"POMMES CORTLAND, MCINTOSH, SPARTAN OU EMPIRE",pommes,,,1.77,,,1.77,unknown,flipp,Quebec
+2026-05-28,metro-joliette,DEMI-LONGE DE PORC FRAIS DÉSOSSÉE,cotes de porc,,,1.75,,,1.75,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ASPERGES,ASPERGES,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,AILES DE POULET ST‑HUBERT,AILES DE POULET ST‑HUBERT,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PAIN TRANCHÉ AUX RAISINS SUN‑MAID,raisins,,,8,,,8,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MELON D'EAU SANS PÉPINS,MELON D'EAU SANS PÉPINS,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"DÎNER IRRÉSISTIBLE, MIEUX-ÊTRE","DÎNER IRRÉSISTIBLE, MIEUX-ÊTRE",,,2.79,,,2.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,RIZ BISTRO EXPRESS BEN'S ORIGINAL,RIZ BISTRO EXPRESS BEN'S ORIGINAL,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BÂTONNETS DE FROMAGE FICELLO,BÂTONNETS DE FROMAGE FICELLO,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CAPSULES DE CAFÉ TIM HORTONS,cafe,,,10.99,,,10.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CONCOMBRE SANS PÉPINS,CONCOMBRE SANS PÉPINS,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BIFTECK D'ALOYAU DE VEAU DE LAIT,lait,,,19.99,,,19.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CELERI RAVE,CELERI RAVE,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOUILLON CAMPBELL'S,BOUILLON CAMPBELL'S,,,1.77,,,1.77,unknown,flipp,Quebec
+2026-05-28,metro-joliette,POIREAUX EN RONDELLES,POIREAUX EN RONDELLES,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,YOGOURT À BOIRE IÖGO NANÖ,yogourt,,,3.29,,,3.29,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PÂTÉ AU POULET ST-HUBERT,PÂTÉ AU POULET ST-HUBERT,,,11.99,,,11.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MÉDAILLONS DE HAUT DE SURLONGE,MÉDAILLONS DE HAUT DE SURLONGE,,,19.99,,,19.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TOMATES ROUGES EN GRAPPE,TOMATES ROUGES EN GRAPPE,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SAUCISSES SELECTION,SAUCISSES SELECTION,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CHOU FRISÉ VERT (KALE),CHOU FRISÉ VERT (KALE),,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,POITRINES DE POULET FRAÎCHES DÉSOSSÉES,POITRINES DE POULET FRAÎCHES DÉSOSSÉES,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TARTINADE MAP-O-SPREAD,TARTINADE MAP-O-SPREAD,,,2.79,,,2.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ROSETTES DE BŒUF,ROSETTES DE BŒUF,,,10.99,,,10.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FILETS DE POISSON COUPES  DU MARCHÉ HIGH LINER,FILETS DE POISSON COUPES  DU MARCHÉ HIGH LINER,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE DORÉ-MI SAPUTO,FROMAGE DORÉ-MI SAPUTO,,,10.99,,,10.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PORTIONS DE POISSON PANÉES JANES,PORTIONS DE POISSON PANÉES JANES,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JAMBON CUIT SELECTION,JAMBON CUIT SELECTION,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FLOCONS DE GOBERGE À SAVEUR DE CRABE,FLOCONS DE GOBERGE À SAVEUR DE CRABE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PASTILLES LAVE‑VAISSELLE FINISH POWERBALL,PASTILLES LAVE‑VAISSELLE FINISH POWERBALL,,,14.99,,,14.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BAGELS SELECTION,BAGELS SELECTION,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CHAPELURE PASTENE,CHAPELURE PASTENE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JAMBON PROSCIUTTO TRANCHÉ SAN DANIELE,JAMBON PROSCIUTTO TRANCHÉ SAN DANIELE,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TARTE,TARTE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BRUSCHETTA FONTAINE SANTÉ,BRUSCHETTA FONTAINE SANTÉ,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BLANCS D'OEUFS MIEUX‑ÊTRE NATURALIA,oeufs,,,8.49,,,8.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,DÎNER DR. ISABELLE,DÎNER DR. ISABELLE,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JAMBON FORÊT NOIRE,JAMBON FORÊT NOIRE,,,2.69,,,2.69,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SALSA TOSTITOS,SALSA TOSTITOS,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,EAU DE SOURCE ESKA,EAU DE SOURCE ESKA,,,4.79,,,4.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SOUPE HAIKU,SOUPE HAIKU,,,4.79,,,4.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MICHE CALABRESE,MICHE CALABRESE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PAPIER HYGIÉNIQUE CASHMERE,PAPIER HYGIÉNIQUE CASHMERE,,,12.99,,,12.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SOUPE CAMPBELL'S,SOUPE CAMPBELL'S,,,2.29,,,2.29,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CRÈME SELECTION,CRÈME SELECTION,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SOUPE PRÊTE‑À‑SERVIR ST‑HUBERT,SOUPE PRÊTE‑À‑SERVIR ST‑HUBERT,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PETITS GÂTEAUX,PETITS GÂTEAUX,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,COCKTAIL DE LÉGUMES GARDEN COCKTAIL,COCKTAIL DE LÉGUMES GARDEN COCKTAIL,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROISSANTS |,CROISSANTS |,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,COCKTAIL DE CANNEBERGE IRRÉSISTIBLE,COCKTAIL DE CANNEBERGE IRRÉSISTIBLE,,,4.49,,,4.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CONFITURE PURE SMUCKER'S,CONFITURE PURE SMUCKER'S,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"BOISSON ALCOOLISÉE ARIZONA, BOISSON DE MALT SVNS, WHITE CLAW CLAWTAILS","BOISSON ALCOOLISÉE ARIZONA, BOISSON DE MALT SVNS, WHITE CLAW CLAWTAILS",,,22.99,,,22.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CHOCOLAT IRRÉSISTIBLE,CHOCOLAT IRRÉSISTIBLE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BISCUITS IRRÉSISTIBLE,BISCUITS IRRÉSISTIBLE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SIMILI POULET GASPÉSIEN,SIMILI POULET GASPÉSIEN,,,1.59,,,1.59,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JUS RÉFRIGÉRÉ IRRÉSISTIBLE,JUS RÉFRIGÉRÉ IRRÉSISTIBLE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BEURRE PRÉSIDENT,beurre,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,LÉGUMINEUSES PRIMO,LÉGUMINEUSES PRIMO,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FRUITS IRRÉSISTIBLE,FRUITS IRRÉSISTIBLE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOLOGNE SELECTION,BOLOGNE SELECTION,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SAUCISSES FRAÎCHES,SAUCISSES FRAÎCHES,,,4.44,,,4.44,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BARRES NUTRI GRAIN KELLOGG'S,BARRES NUTRI GRAIN KELLOGG'S,,,2.69,,,2.69,unknown,flipp,Quebec
+2026-05-28,metro-joliette,KIWI,KIWI,,,0.99,,,0.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROUSTILLES PRINGLES,CROUSTILLES PRINGLES,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,12 CANETTES 355 ML,12 CANETTES 355 ML,,,21.99,,,21.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,POULET OU DINDE HACHÉ EXTRA MAIGRE MIEUX-ÊTRE,POULET OU DINDE HACHÉ EXTRA MAIGRE MIEUX-ÊTRE,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TARTARE LA CAGE,TARTARE LA CAGE,,,11.99,,,11.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ROULÉS SUISSES,ROULÉS SUISSES,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,VIENNA PASTRIES,VIENNA PASTRIES,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PÂTÉ PLAISIRS GASTRONOMIQUES,PÂTÉ PLAISIRS GASTRONOMIQUES,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MIEL SELECTION,MIEL SELECTION,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOÎTE À LUNCH,BOÎTE À LUNCH,,,13,,,13,unknown,flipp,Quebec
+2026-05-28,metro-joliette,COQUILLES FARCIES AU HOMARD,COQUILLES FARCIES AU HOMARD,,,3.79,,,3.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,REPAS INDIVIDUELS,REPAS INDIVIDUELS,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PIZZA 9 PO,PIZZA 9 PO,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CAVATAPPI AU FROMAGE ET AU HOMARD,CAVATAPPI AU FROMAGE ET AU HOMARD,,,2.59,,,2.59,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BEIGNETS CROUSTILLANTS DE HOMARD ET SAUCE CITRONNÉE,BEIGNETS CROUSTILLANTS DE HOMARD ET SAUCE CITRONNÉE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CHAUDRÉE DE HOMARD,CHAUDRÉE DE HOMARD,,,11.49,,,11.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SAUCE À SPAGHETTI,sauce tomate,,,16.49,,,16.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HUILE VÉGÉTALE SELECTION,HUILE VÉGÉTALE SELECTION,,,3.69,,,3.69,unknown,flipp,Quebec
+2026-05-28,metro-joliette,VIANDE EN FLOCONS MAPLE LEAF,VIANDE EN FLOCONS MAPLE LEAF,,,5,,,5,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SAUCE À PIZZA SELECTION,SAUCE À PIZZA SELECTION,,,1.29,,,1.29,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HUILE D'OLIVE TERRA DELYSSA,HUILE D'OLIVE TERRA DELYSSA,,,8.49,,,8.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,RELISH SELECTION,RELISH SELECTION,,,1.79,,,1.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BACON HORMEL,BACON HORMEL,,,6.49,,,6.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,THON PÂLE LISTAO CLOVER LEAF,THON PÂLE LISTAO CLOVER LEAF,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SERVIETTES HYGIÉNIQUES PERSONNELLE,SERVIETTES HYGIÉNIQUES PERSONNELLE,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,COUCHES POUR BÉBÉ PERSONNELLE BÉBÉ,COUCHES POUR BÉBÉ PERSONNELLE BÉBÉ,,,7.49,,,7.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SACS À ORDURES SELECTION,SACS À ORDURES SELECTION,,,1.49,,,1.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CORNICHONS STRUB'S,CORNICHONS STRUB'S,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,DÉTERGENT POUR LA VAISSELLE SELECTION,DÉTERGENT POUR LA VAISSELLE SELECTION,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FRUITS EN CONSERVES SELECTION,FRUITS EN CONSERVES SELECTION,,,4.29,,,4.29,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FARINE SELECTION,FARINE SELECTION,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GAUFRES SELECTION,GAUFRES SELECTION,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GLAÇAGE AU VINAIGRE BALSAMIQUE IRRÉSISTIBLE,GLAÇAGE AU VINAIGRE BALSAMIQUE IRRÉSISTIBLE,,,4.49,,,4.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GRUAU SELECTION,GRUAU SELECTION,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE RÂPÉ SELECTION,FROMAGE RÂPÉ SELECTION,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,VINAIGRETTE MANDY'S,VINAIGRETTE MANDY'S,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,VINAIGRETTE IRRÉSISTIBLE,VINAIGRETTE IRRÉSISTIBLE,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,AMANDES KRISPY KERNELS,AMANDES KRISPY KERNELS,,,6.49,,,6.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FRITES SELECTION,FRITES SELECTION,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JUS OU BOISSON SELECTION,JUS OU BOISSON SELECTION,,,1.79,,,1.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MOUTARDE MAILLE,MOUTARDE MAILLE,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROÛTONS MRS. CUBBISON'S,CROÛTONS MRS. CUBBISON'S,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,OLIVES KALAMATA IRRÉSISTIBLE,OLIVES KALAMATA IRRÉSISTIBLE,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CANNOLI À LA CRÈME DE RICOTTA,CANNOLI À LA CRÈME DE RICOTTA,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,WON TON FRIT AKI SUSHI,WON TON FRIT AKI SUSHI,,,7.49,,,7.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PAINS À SOUS-MARIN,pain,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GÂTEAUX MARIANNE,GÂTEAUX MARIANNE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FILETS DE SOLE,FILETS DE SOLE,,,11.99,,,11.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TARTARE GRIZZLY,TARTARE GRIZZLY,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MUFFINS,MUFFINS,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"BIÈRE FLYING FISH, BRASSEUR DE MONTRÉAL, UNIBROUE","BIÈRE FLYING FISH, BRASSEUR DE MONTRÉAL, UNIBROUE",,,21.99,,,21.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MINI NAAN IRRESISTIBLE,MINI NAAN IRRESISTIBLE,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BEIGNES,BEIGNES,,,5.99,,,5.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,AVOCATS,AVOCATS,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PÂTÉ ST-HUBERT,PÂTÉ ST-HUBERT,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"HORS-D'OEUVRE IRRÉSISTIBLE, MIEUX-ÊTRE, SELECTION","HORS-D'OEUVRE IRRÉSISTIBLE, MIEUX-ÊTRE, SELECTION",,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,POULET DE GRAIN MIEUX-ÊTRE BIOLOGIQUE,POULET DE GRAIN MIEUX-ÊTRE BIOLOGIQUE,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,RÔTÍ DE POITRINE DE DINDE,RÔTÍ DE POITRINE DE DINDE,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PIZZA CROÛTE MINCE RISTORANTE,PIZZA CROÛTE MINCE RISTORANTE,,,3.47,,,3.47,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BAVETTE DE BOEUF IRRÉSISTIBLE,BAVETTE DE BOEUF IRRÉSISTIBLE,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,DÉTERGENT POUR LA LESSIVE TIDE |TIDE LAUNDRY DETERGENT,DÉTERGENT POUR LA LESSIVE TIDE |TIDE LAUNDRY DETERGENT,,,12.97,,,12.97,unknown,flipp,Quebec
+2026-05-28,metro-joliette,JAMBON FUMÉ SELECTION,JAMBON FUMÉ SELECTION,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MINI CONCOMBRES,MINI CONCOMBRES,,,1.77,,,1.77,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CITRON,CITRON,,,0.99,,,0.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ORANGES NAVEL,ORANGES NAVEL,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PAPAYE JUMBO,PAPAYE JUMBO,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BIFTECKS FRANÇAIS,BIFTECKS FRANÇAIS,,,12.99,,,12.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,RÔTI DE BAS DE PALETTE DÉSOSSÉ,RÔTI DE BAS DE PALETTE DÉSOSSÉ,,,12.99,,,12.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PILONS DE POULET ASSAISONNÉS FRAIS,PILONS DE POULET ASSAISONNÉS FRAIS,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOEUF HACHÉ EXTRA-MAIGRE,boeuf hache,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CÔTES DE DOS DE PORC FRAIS,CÔTES DE DOS DE PORC FRAIS,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,LANIÈRES DE POITRINE DE POULET CUITES OLYMEL,poitrine de poulet,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SMOKED MEAT STYLE MONTRÉAL IRRÉSISTIBLE ARTISAN,SMOKED MEAT STYLE MONTRÉAL IRRÉSISTIBLE ARTISAN,,,13.99,,,13.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HAUTS DE CUISSES DE POULET MIEUX-ÊTRE NATURALIA,HAUTS DE CUISSES DE POULET MIEUX-ÊTRE NATURALIA,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BAVETTE DE PORC ÉRABLE ET CHIPOTLE ROSE,BAVETTE DE PORC ÉRABLE ET CHIPOTLE ROSE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PAVÉS DE THON IRRÉSISTIBLE,PAVÉS DE THON IRRÉSISTIBLE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HUMMUS IRRÉSISTIBLE,HUMMUS IRRÉSISTIBLE,,,3.49,,,3.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE,GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE,,,10.99,,,10.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,RIZ À SUSHI CALROSE AKI SUSHI,RIZ À SUSHI CALROSE AKI SUSHI,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TARTARE SHAKER,TARTARE SHAKER,,,12.99,,,12.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BAGUETTE FRANÇAISE,BAGUETTE FRANÇAISE,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE OKA ORIGINAL,FROMAGE OKA ORIGINAL,,,4.19,,,4.19,unknown,flipp,Quebec
+2026-05-28,metro-joliette,ÉMINCÉ DE POITRINE DE DINDE MAPLE LEAF NATURAL SELECTIONS,ÉMINCÉ DE POITRINE DE DINDE MAPLE LEAF NATURAL SELECTIONS,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE BRIE BRISE DU MATIN ALEXIS DE PORTNEUF,FROMAGE BRIE BRISE DU MATIN ALEXIS DE PORTNEUF,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE,FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE,,,4.49,,,4.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,COLLATION SELECTION,COLLATION SELECTION,,,1.99,,,1.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOUILLON CONCENTRÉ BOVRIL,BOUILLON CONCENTRÉ BOVRIL,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CRÈME GLACE COATICOOK,CRÈME GLACE COATICOOK,,,6.99,,,6.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SMOOTHIE EVIVE,SMOOTHIE EVIVE,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MÉLANGE À COCKTAIL STIRRINGS,MÉLANGE À COCKTAIL STIRRINGS,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROUSTILLES DE LÉGUMES VIVA YUM YUM,CROUSTILLES DE LÉGUMES VIVA YUM YUM,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOISSON ALCOOLISÉE POPPERS ICE,BOISSON ALCOOLISÉE POPPERS ICE,,,15.49,,,15.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"VIN ROUGE, BLANC OU ROSÉ BON TEMPS POUR","VIN ROUGE, BLANC OU ROSÉ BON TEMPS POUR",,,10.99,,,10.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,POUDRE POUR GELÉE JELL‑O,POUDRE POUR GELÉE JELL‑O,,,4,,,4,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GÂTERIES POUR CHATS TEMPTATIONS WHISKAS,GÂTERIES POUR CHATS TEMPTATIONS WHISKAS,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HELLMANN'S® MAYONNAISE,HELLMANN'S® MAYONNAISE,,,6.37,,,6.37,unknown,flipp,Quebec
+2026-05-28,metro-joliette,HELLMANN'S MAYONNAISE,HELLMANN'S MAYONNAISE,,,4.67,,,4.67,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BROCHETTES DE MINI SAUCISSES ITALIENNES DOUCES ROMA,BROCHETTES DE MINI SAUCISSES ITALIENNES DOUCES ROMA,,,8.99,,,8.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FRIANDISES GLACÉES MAGNUM,FRIANDISES GLACÉES MAGNUM,,,4.95,,,4.95,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CREVETTES BLANCHES DU PACIFIQUE NON-CUITES IRRÉSISTIBLE,CREVETTES BLANCHES DU PACIFIQUE NON-CUITES IRRÉSISTIBLE,,,5.77,,,5.77,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BACON LAFLEUR,BACON LAFLEUR,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,STEAK DE CAPICOLLE DE PORC AUX 3 POIVRES ROSE,STEAK DE CAPICOLLE DE PORC AUX 3 POIVRES ROSE,,,9.99,,,9.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FROMAGE RIVIERA,FROMAGE RIVIERA,,,7.99,,,7.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"ASSIETTES SELECTION, ECO","ASSIETTES SELECTION, ECO",,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,NOURRITURE POUR CHATS FANCY FEAST HORS‑D'OEUVRE,NOURRITURE POUR CHATS FANCY FEAST HORS‑D'OEUVRE,,,1.49,,,1.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BOISSON RÉFRIGÉRÉE IRRÉSISTIBLE,BOISSON RÉFRIGÉRÉE IRRÉSISTIBLE,,,3.99,,,3.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,FRITO-LAY® EMBALLAGES DE PRODUITS ASSORTIS,FRITO-LAY® EMBALLAGES DE PRODUITS ASSORTIS,,,16.99,,,16.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"CORONA, CORONA LIGHT, CORONA CERO, MODELO ESPECIAL, STELLA ARTOIS, HOEGAARDEN, BECK'S","CORONA, CORONA LIGHT, CORONA CERO, MODELO ESPECIAL, STELLA ARTOIS, HOEGAARDEN, BECK'S",,,22.99,,,22.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SANGRIA D'ICI,SANGRIA D'ICI,,,22.99,,,22.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,TOSTITOS® SALSA,TOSTITOS® SALSA,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CROUSTILLES LAY'S®,CROUSTILLES LAY'S®,,,8,,,8,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CRETONS NOREL,CRETONS NOREL,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,SAUCISSES FUMÉES LAFLEUR,SAUCISSES FUMÉES LAFLEUR,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BLEUETS,BLEUETS,,,2.99,,,2.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PANIER FLEURI,PANIER FLEURI,,,13.99,,,13.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,BISCUITS DARE,BISCUITS DARE,,,2.49,,,2.49,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MÛRES,MÛRES,,,5,,,5,unknown,flipp,Quebec
+2026-05-28,metro-joliette,GROS PAMPLEMOUSSE ROUGE,GROS PAMPLEMOUSSE ROUGE,,,5,,,5,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CHARCUTERIES IRRÉSISTIBLE ARTISAN,CHARCUTERIES IRRÉSISTIBLE ARTISAN,,,3.89,,,3.89,unknown,flipp,Quebec
+2026-05-28,metro-joliette,PURIFICATEUR D'AIR FEBREZE,PURIFICATEUR D'AIR FEBREZE,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MÉLANGE À BOISSON MR. & MRS. T,MÉLANGE À BOISSON MR. & MRS. T,,,4.99,,,4.99,unknown,flipp,Quebec
+2026-05-28,metro-joliette,MAÏS SOUFFLÉ ORVILLE,MAÏS SOUFFLÉ ORVILLE,,,3.79,,,3.79,unknown,flipp,Quebec
+2026-05-28,metro-joliette,"GRIGNOTINES À SAVEUR DE FROMAGE CHEETOS® (170 G - 285 G, SAVEUR AU CHOIX; EXCLUT LES GRIGNOTINES SIMPLY CHEETOS® 1227 9- HI 241 G]) CHIPS TORTILLA TOSTITOS® (205 G - 295 G, SAVEUR AU CHOIX; EXCLUT LES CHIPS TORTILLA SIMPLY TOSTITOS® [240 G))","GRIGNOTINES À SAVEUR DE FROMAGE CHEETOS® (170 G - 285 G, SAVEUR AU CHOIX; EXCLUT LES GRIGNOTINES SIMPLY CHEETOS® 1227 9- HI 241 G]) CHIPS TORTILLA TOSTITOS® (205 G - 295 G, SAVEUR AU CHOIX; EXCLUT LES CHIPS TORTILLA SIMPLY TOSTITOS® [240 G))",,,8.5,,,8.5,unknown,flipp,Quebec
+2026-05-28,metro-joliette,CRISPY MINIS' BROWN RICE SNACKS,CRISPY MINIS' BROWN RICE SNACKS,,,6,,,6,unknown,flipp,Quebec
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,bonichoix-joliette,SAUCISSES FUMÉES LESTERS,SAUCISSES FUMÉES LESTERS,Lesters,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
 2026-05-28,bonichoix-joliette,"LANIÈRES, PÉPITES, LANGUETTES, BURGERS LANGUETTES, BURGERS OU FRITES DE POITRINE DE POULET OU POULET POPCORN PANÉS FLAMINGO",poitrine de poulet,Flamingo,,8.99,,,8.99,unknown,flipp,Circulaire de la semaine
 2026-05-28,bonichoix-joliette,BLEUETS,BLEUETS,,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
@@ -5441,6 +5655,7 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,CHOCOLAT EN SACHET NESTLÉ,CHOCOLAT EN SACHET NESTLÉ,Nestle,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA,PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA,PHILADELPHIA,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,COURGETTE VERTE │ GREEN ZUCCHINI,COURGETTE VERTE │ GREEN ZUCCHINI,,,2.5,,lb,5.51,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
 2026-05-28,maxi-joliette,"BACON LAFLEUR, 65-500 g","BACON LAFLEUR, 65-500 g",Lafleur,,5.99,,each,5.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"LAITUE ICEBERG OU OIGNONS JAUNES DÉLICES DU MARCHÉ, SAC DE 3 LB",lait,,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"MINI PIZZA LE FRAISIER, 125 G","MINI PIZZA LE FRAISIER, 125 G",LE FRAISIER,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5449,6 +5664,21 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,FRIANDISES HARIBO,FRIANDISES HARIBO,Haribo,,2.79,,each,2.79,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,CUISSES DE POULET MAPLE LEAF PRIME,CUISSES DE POULET MAPLE LEAF PRIME,Maple Leaf,,13,,each,13,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CITRONS, LIMES OU KIWIS","CITRONS, LIMES OU KIWIS",,,0.55,,each,0.55,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+=======
+2026-05-28,maxi-joliette,"YOGOURT ACTIVIA, 650 G OU EXPERT, 4X100 G │ YOGURT",yogourt,Activia,,3.75,,each,3.75,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"BACON LAFLEUR, 65-500 g","BACON LAFLEUR, 65-500 g",Lafleur,,5.99,,each,5.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"LAITUE ICEBERG OU OIGNONS JAUNES DÉLICES DU MARCHÉ, SAC DE 3 LB",lait,,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"MINI PIZZA LE FRAISIER, 125 G","MINI PIZZA LE FRAISIER, 125 G",LE FRAISIER,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,Biscuits PC Le décadent,Biscuits PC Le décadent,PC,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"VOITURES HOT WHEELS, 1 un.","VOITURES HOT WHEELS, 1 un.",Hot Wheels,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"SOUPE AYLMER, 284 ML","SOUPE AYLMER, 284 ML",Aylmer,,0.75,,each,0.75,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,FRIANDISES HARIBO,FRIANDISES HARIBO,Haribo,,2.79,,each,2.79,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,BOISSONS GAZEUSES PEPSI OU COCA-COLA,BOISSONS GAZEUSES PEPSI OU COCA-COLA,"PEPSI │ COCA-COLA, 2 L",,1.69,,each,1.69,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"FRITES LES FERMES CAVENDISH, 800 g","FRITES LES FERMES CAVENDISH, 800 g",Cavendish Farms,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,CUISSES DE POULET MAPLE LEAF PRIME,CUISSES DE POULET MAPLE LEAF PRIME,Maple Leaf,,13,,each,13,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"CITRONS, LIMES OU KIWIS","CITRONS, LIMES OU KIWIS",,,0.55,,each,0.55,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"SAUCE À CUISSON OU TREMPETTE VH │ COOKING OR DIPPING SAUCE, 341-380 ML","SAUCE À CUISSON OU TREMPETTE VH │ COOKING OR DIPPING SAUCE, 341-380 ML",VH,,2.99,,each,2.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,"SUCRE GRANULÉ LANTIC, 2 kg","SUCRE GRANULÉ LANTIC, 2 kg",LANTIC,,1.99,,each,1.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CHAMPIGNONS ENTIERS BLANCS OU CREMINI PC, 227 g","CHAMPIGNONS ENTIERS BLANCS OU CREMINI PC, 227 g",PC,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,FROMAGE EN TRANCHES ZIGGY'S 160/180G OU GOUDA HENRI WILLIG 200 G,FROMAGE EN TRANCHES ZIGGY'S 160/180G OU GOUDA HENRI WILLIG 200 G,,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5466,6 +5696,13 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,"BOISSONS OASIS, ARIZONA OU DEL MONTE","BOISSONS OASIS, ARIZONA OU DEL MONTE",OASIS | ARIZONA | DEL MONTE,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"PANIER SUSPENDU D'ANNUELLES, 10 POUCES","PANIER SUSPENDU D'ANNUELLES, 10 POUCES",,,10,,each,10,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,MÛRES OU FRAMBOISES,MÛRES OU FRAMBOISES,,,3.49,,each,3.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,"JUS OASIS, NECTAR DEL MONTE OU THÉ GLACÉ ARIZONA, 960 ML OU BOISSONS FRUITÉ, 2 L","JUS OASIS, NECTAR DEL MONTE OU THÉ GLACÉ ARIZONA, 960 ML OU BOISSONS FRUITÉ, 2 L",OASIS │ DEL MONTE │ ARIZONA │ FRUITÉ,,1.75,,each,1.75,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"BIÈRE STELLA ARTOIS, SAPPORO, KRONENBOURG OU MODELO, 24x330/355 mL","BIÈRE STELLA ARTOIS, SAPPORO, KRONENBOURG OU MODELO, 24x330/355 mL",STELLA ARTOIS │ SAPPORO │ KRONENBOURG │ MODELO,,77,,,77,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"ESCALOPES DE POITRINES DE POULET FARCIES ET PANÉES SANS NOM®, 284 g","ESCALOPES DE POITRINES DE POULET FARCIES ET PANÉES SANS NOM®, 284 g",,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,Maïs sucré deux couleurs,Maïs sucré deux couleurs,,,0.5,,each,0.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,PÊCHES À CHAIR JAUNE │ YELLOW PEACHES,PÊCHES À CHAIR JAUNE │ YELLOW PEACHES,,,1.99,,lb,4.39,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"EAU DE SOURCE NATURELLE PC, 24X500 ML","EAU DE SOURCE NATURELLE PC, 24X500 ML",PC,,3.29,,,3.29,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BIÈRE BRASSEUR DE MONTRÉAL, 12X355 ML","BIÈRE BRASSEUR DE MONTRÉAL, 12X355 ML",BRASSEUR DE MONTRÉAL,,19.99,,,19.99,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5481,7 +5718,14 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,"CÔTELETTES DE LONGE DE PORC MARINÉES MARCANGELO │ MARINATED PORK LOIN CHOPS, 380 g",cotes de porc,,,9.49,,each,9.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"POMPANO 800 G OU TILAPIA 1,36 KG SEAQUEST®","POMPANO 800 G OU TILAPIA 1,36 KG SEAQUEST®",SEAQUEST®,,9,,each,9,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BOISSON DE MALT ALCOOLISÉE COORS SELTZER OU SIMPLY SPIKED, 12X355 ML","BOISSON DE MALT ALCOOLISÉE COORS SELTZER OU SIMPLY SPIKED, 12X355 ML",,,22.99,,,22.99,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
 2026-05-28,maxi-joliette,FÈVES À TABLE!,FÈVES À TABLE!,,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+=======
+2026-05-28,maxi-joliette,"BOISSONS DÉSALTÉRANTES GATORADE, 24x591 mL","BOISSONS DÉSALTÉRANTES GATORADE, 24x591 mL",Gatorade,,21.5,,,21.5,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,FÈVES À TABLE!,FÈVES À TABLE!,,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"BIÈRE COORS LIGHT OU ORIGINAL, BUDWEISER, BUD LIGHT, MOLSON EXPORT, CANADIAN, DRY OU ULTRA, LABATT BLEUE OU 50, MICHELOB ULTRA, MILLER LITE OU SLEEMAN CLEAR OU DRAUGHT, 24x341/355 mL","BIÈRE COORS LIGHT OU ORIGINAL, BUDWEISER, BUD LIGHT, MOLSON EXPORT, CANADIAN, DRY OU ULTRA, LABATT BLEUE OU 50, MICHELOB ULTRA, MILLER LITE OU SLEEMAN CLEAR OU DRAUGHT, 24x341/355 mL",,,73,,,73,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,Bouillon Campbell's │ broth,Bouillon Campbell's │ broth,Campbell's,,1.69,,each,1.69,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,TARTINADE DE SALADE PLAISIRS GASTRONOMIQUES,TARTINADE DE SALADE PLAISIRS GASTRONOMIQUES,,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,FROMAGE BRIE ALEXIS DE PORTNEUF 125 G OU FONDUE PARMESAN ROYAL,FROMAGE BRIE ALEXIS DE PORTNEUF 125 G OU FONDUE PARMESAN ROYAL,,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"SOUPE ST-HUBERT, 540 mL","SOUPE ST-HUBERT, 540 mL",,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5489,12 +5733,17 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,FRIANDISES GUMMY NERDS,FRIANDISES GUMMY NERDS,Nerds,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BOISSONS GAZEUSES PC, 2 L","BOISSONS GAZEUSES PC, 2 L",,,1.5,,each,1.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"PAPIER HYGIÉNIQUE ROYALE, 16=48 ROULEAUX","PAPIER HYGIÉNIQUE ROYALE, 16=48 ROULEAUX",Royale,,10,,each,10,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,"CINTRES NEATFREAK ! HANGERS, 20 UN.","CINTRES NEATFREAK ! HANGERS, 20 UN.",,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,EAU DE JAVEL SANS NOM®,EAU DE JAVEL SANS NOM®,sans nom®,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,CHARCUTERIES TRANCHÉES ROYAL,CHARCUTERIES TRANCHÉES ROYAL,,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CRÈME GLACÉE STYLE CRÈMERIE BREYERS 1,41 L OU FRIANDISES GLACÉES FUDGESICLE 4-12 UN. │ ICE CREAM OR NOVELTIES","CRÈME GLACÉE STYLE CRÈMERIE BREYERS 1,41 L OU FRIANDISES GLACÉES FUDGESICLE 4-12 UN. │ ICE CREAM OR NOVELTIES",BREYERS │ FUDGESICLE,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CARRÉS RICE KRISPIES 154-198 G, POP TARTS 384 G OU BARRES SPECIAL K 125 G OU NUTRI-GRAIN 295 G NUTRI-GRAIN 295 G KELLOGG'S","CARRÉS RICE KRISPIES 154-198 G, POP TARTS 384 G OU BARRES SPECIAL K 125 G OU NUTRI-GRAIN 295 G NUTRI-GRAIN 295 G KELLOGG'S",,,3.29,,each,3.29,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BIÈRE CORONA, 24x330/355 mL","BIÈRE CORONA, 24x330/355 mL",Corona,,36,,,36,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,BIFTECK D'ALOYAU,BIFTECK D'ALOYAU,,,9.88,,lb,21.78,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
 2026-05-28,maxi-joliette,Maïs sucré deux couleurs,Maïs sucré deux couleurs,,,0.5,,each,0.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,Biscuits PC Le décadent,Biscuits PC Le décadent,PC,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"MÉLANGES DE JUS DEL MONTE │ JUICE BLENDS, 2,5 L","MÉLANGES DE JUS DEL MONTE │ JUICE BLENDS, 2,5 L",Del Monte,,6.49,,each,6.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5518,6 +5767,8 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,"FRITES LES FERMES CAVENDISH, 800 g","FRITES LES FERMES CAVENDISH, 800 g",Cavendish Farms,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CROUSTILLES CUITES À LA MARMITE PC │ POTATO CHIPS, 200 g","CROUSTILLES CUITES À LA MARMITE PC │ POTATO CHIPS, 200 g",PC,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"DENTIFRICE, 50-100 ML COLGATE OU CREST OU BROSSE À DENTS MANUELLE, 1 UN. COLGATE OU ORAL-B","DENTIFRICE, 50-100 ML COLGATE OU CREST OU BROSSE À DENTS MANUELLE, 1 UN. COLGATE OU ORAL-B",COLGATE │ ORAL-B,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+=======
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,AVOCAT │ AVOCADO,AVOCAT │ AVOCADO,,,1.44,,each,1.44,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,BISCUITS LA PETITE BRETONNE,BISCUITS LA PETITE BRETONNE,BRETONNE,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,TOAST À L'AIL FURLANI,TOAST À L'AIL FURLANI,Furlani,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5557,12 +5808,23 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,"MINI CONCOMBRES DÉLICES DU MARCHÉ, 6 un.","MINI CONCOMBRES DÉLICES DU MARCHÉ, 6 un.",DÉLICES DU MARCHÉ,,1.5,,each,1.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BOISSON DE MALT ALCOOLISÉE BULLES DE NUIT, 750 ML","BOISSON DE MALT ALCOOLISÉE BULLES DE NUIT, 750 ML",,,7.49,,each,7.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"VINAIGRE BLANC SANS NOM®, 4 L","VINAIGRE BLANC SANS NOM®, 4 L",,,1.5,,each,1.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
 2026-05-28,maxi-joliette,FARINE ROBIN HOOD OU FIVE ROSES,FARINE ROBIN HOOD OU FIVE ROSES,ROBIN HOOD | FIVE ROSES,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+=======
+2026-05-28,maxi-joliette,"CROUSTILLES CUITES À LA MARMITE PC │ POTATO CHIPS, 200 g","CROUSTILLES CUITES À LA MARMITE PC │ POTATO CHIPS, 200 g",PC,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,FARINE ROBIN HOOD OU FIVE ROSES,FARINE ROBIN HOOD OU FIVE ROSES,ROBIN HOOD | FIVE ROSES,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"BIÈRE ARCHIBALD, 12x355 mL","BIÈRE ARCHIBALD, 12x355 mL",,,23.99,,,23.99,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,BARRES DE FROMAGE 400 G OU RÂPÉ 320 G P'TIT QUÉBEC,BARRES DE FROMAGE 400 G OU RÂPÉ 320 G P'TIT QUÉBEC,,,5.47,,each,5.47,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"MINI CANETTES PEPSI, 6X222 ML","MINI CANETTES PEPSI, 6X222 ML",Pepsi,,4.25,,,4.25,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"SAUCE ST-HUBERT, 398 ML","SAUCE ST-HUBERT, 398 ML",ST-HUBERT,,1.79,,each,1.79,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CROUSTILLES CUITES À LA MARMITE MISS VICKIE'S, 190/200 G","CROUSTILLES CUITES À LA MARMITE MISS VICKIE'S, 190/200 G",Miss Vickie's,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"MELON D'EAU ENTIER SANS PÉPINS, MOYENNE DE 9 LB","MELON D'EAU ENTIER SANS PÉPINS, MOYENNE DE 9 LB",,,3.77,,each,3.77,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,"MÉLANGES DE JUS DEL MONTE │ JUICE BLENDS, 2,5 L","MÉLANGES DE JUS DEL MONTE │ JUICE BLENDS, 2,5 L",Del Monte,,6.49,,each,6.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"EAU PÉTILLANTE PC MENU BLEU, 12x355 mL","EAU PÉTILLANTE PC MENU BLEU, 12x355 mL",PC,,5.75,,,5.75,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,"EAU PÉTILLANTE BUBLY, 12X355 ML OU MONTELLIER, 10X355 ML","EAU PÉTILLANTE BUBLY, 12X355 ML OU MONTELLIER, 10X355 ML",BUBLY | MONTELLIER,,6.75,,,6.75,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"Lingettes désinfectantes 75/84 un., vaporisateur 350 g ou nettoyant multi-usage à gâchette 950 mL Lysol","Lingettes désinfectantes 75/84 un., vaporisateur 350 g ou nettoyant multi-usage à gâchette 950 mL Lysol",Lysol,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"Barres énergétiques CLIF, 5x68 g","Barres énergétiques CLIF, 5x68 g",,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5573,10 +5835,18 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,"THÉ GLACÉ FUZE, 12X341 ML","THÉ GLACÉ FUZE, 12X341 ML",Fuze,,8,,,8,unknown,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"Barres de chocolat Cadbury, 90-105 g","Barres de chocolat Cadbury, 90-105 g",,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"DÉTERGENT LIQUIDE À LESSIVE, 4,25 L OU FLINGS, 42 UN. PERLES, 598/680 G OU FEUILLES","DÉTERGENT LIQUIDE À LESSIVE, 4,25 L OU FLINGS, 42 UN. PERLES, 598/680 G OU FEUILLES",,,15,,each,15,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,"BISCUITS CÉLÉBRATION, 200-350 G OU TRADITION, 280-350 G LECLERC","BISCUITS CÉLÉBRATION, 200-350 G OU TRADITION, 280-350 G LECLERC",Leclerc,,2.33,,each,2.33,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,PAPIER HYGIÉNIQUE CHARMIN 8=24 ROULEAUX OU ESSUIE-TOUT BOUNTY 3=6 ROULEAUX,PAPIER HYGIÉNIQUE CHARMIN 8=24 ROULEAUX OU ESSUIE-TOUT BOUNTY 3=6 ROULEAUX,CHARMIN | BOUNTY,,8.99,,each,8.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"GALETTES OU CROUSTILLES DE RIZ CRISPY MINIS QUAKER, 90-199 G","GALETTES OU CROUSTILLES DE RIZ CRISPY MINIS QUAKER, 90-199 G",,,2.79,,each,2.79,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,CÉRÉALES 350-500 G OU CROQUE NATURE 325-510 G QUAKER,CÉRÉALES 350-500 G OU CROQUE NATURE 325-510 G QUAKER,Quaker,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,BISCUITS FORMAT FAMILIAL CHRISTIE 374-488 G OU MOELLEUX 285 G,BISCUITS FORMAT FAMILIAL CHRISTIE 374-488 G OU MOELLEUX 285 G,Mr. Christie's,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,CERISES ROUGES │ RED CHERRIES,CERISES ROUGES │ RED CHERRIES,,,4.99,,lb,11,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,"BARRES GRANOLA QUAKER DIPPS OU CHEWY, 120-156 G","BARRES GRANOLA QUAKER DIPPS OU CHEWY, 120-156 G",Quaker,,2.49,,each,2.49,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CRAQUELINS 135-225 G, CRISPS LÉGUMES 100 G, TOAST MELBA, CANAPÉ OU BAGUETTES GRISSOL 120-200 G DARE","CRAQUELINS 135-225 G, CRISPS LÉGUMES 100 G, TOAST MELBA, CANAPÉ OU BAGUETTES GRISSOL 120-200 G DARE",,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BARRES DE CHOCOLAT INDIVIDUELLES HERSHEY'S, 43-58 G","BARRES DE CHOCOLAT INDIVIDUELLES HERSHEY'S, 43-58 G",Hershey's,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5587,6 +5857,11 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,BISCUITS VITAL LECLERC,BISCUITS VITAL LECLERC,Leclerc,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,CÉRÉALES FORMAT JUMBO KELLOGG'S,CÉRÉALES FORMAT JUMBO KELLOGG'S,Kellogg's,,9.5,,each,9.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,POULET HACHÉ 454 G OU PORC HACHÉ MAIGRE 450 G FRAIS,POULET HACHÉ 454 G OU PORC HACHÉ MAIGRE 450 G FRAIS,,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
+=======
+2026-05-28,maxi-joliette,"FROMAGE BOCCONCINI 200 G, PARMESAN RÂPÉ OU EN PÉTALES 125/170 G, FETA 170/200 G, RÂPÉ 140 G OU MOZZARELLA 190 G SAPUTO","FROMAGE BOCCONCINI 200 G, PARMESAN RÂPÉ OU EN PÉTALES 125/170 G, FETA 170/200 G, RÂPÉ 140 G OU MOZZARELLA 190 G SAPUTO",,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"DENTIFRICE, 50-100 ML COLGATE OU CREST OU BROSSE À DENTS MANUELLE, 1 UN. COLGATE OU ORAL-B","DENTIFRICE, 50-100 ML COLGATE OU CREST OU BROSSE À DENTS MANUELLE, 1 UN. COLGATE OU ORAL-B",COLGATE │ ORAL-B,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,CHOU VERT,CHOU VERT,,,0.85,,lb,1.87,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"PÂTÉ ST-HUBERT │ POT PIES, 675-800 g","PÂTÉ ST-HUBERT │ POT PIES, 675-800 g",St. Hubert,,8.99,,each,8.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"CHARCUTERIES TRANCHÉES PC SPLENDIDO, 200 G OU PEPPERONI ROMA, 900 G","CHARCUTERIES TRANCHÉES PC SPLENDIDO, 200 G OU PEPPERONI ROMA, 900 G",PC │ ROMA,,10.5,,each,10.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
@@ -5617,7 +5892,13 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-05-28,maxi-joliette,FOIE DE VEAU FAMILLE FONTAINE,FOIE DE VEAU FAMILLE FONTAINE,Famille Fontaine,,16.99,,lb,37.46,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-01,maxi-joliette,"BROCHETTES DE SOUVLAKI MARCANGELO, 2 UN., 120 G","BROCHETTES DE SOUVLAKI MARCANGELO, 2 UN., 120 G",Marcangelo Chicken,,1.88,,each,1.88,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"BARBOTINE ICEE SLUSH, 177 mL","BARBOTINE ICEE SLUSH, 177 mL",ICEE,,1.5,,each,1.5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+<<<<<<< HEAD
 2026-05-28,maxi-joliette,"ORANGES NAVEL DÉLICES DU MARCHÉ DU MAROC, D'ESPAGNE OU D'ÉGYPTE' OU D'ÉGYPTE SAC DE, 3 LB","ORANGES NAVEL DÉLICES DU MARCHÉ DU MAROC, D'ESPAGNE OU D'ÉGYPTE' OU D'ÉGYPTE SAC DE, 3 LB",,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+=======
+2026-05-28,maxi-joliette,FRIANDISES GLACÉES SANS NOM®,FRIANDISES GLACÉES SANS NOM®,sans nom®,,11,,each,11,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"ORANGES NAVEL DÉLICES DU MARCHÉ DU MAROC, D'ESPAGNE OU D'ÉGYPTE' OU D'ÉGYPTE SAC DE, 3 LB","ORANGES NAVEL DÉLICES DU MARCHÉ DU MAROC, D'ESPAGNE OU D'ÉGYPTE' OU D'ÉGYPTE SAC DE, 3 LB",,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+2026-05-28,maxi-joliette,"VIN WALLAROO TRAIL ROUGE OU BLANC, 1 L","VIN WALLAROO TRAIL ROUGE OU BLANC, 1 L",,,12,,each,12,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 2026-05-28,maxi-joliette,ASPERGES,ASPERGES,,,2.99,,lb,6.59,kg,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,"PÂTE DE PIMENT ROUGE SAMBAL OELEK 476 ML, SAUCE CHILI À L'AIL 481 ML OU SRIRACHA 714 ML HUY FONG","PÂTE DE PIMENT ROUGE SAMBAL OELEK 476 ML, SAUCE CHILI À L'AIL 481 ML OU SRIRACHA 714 ML HUY FONG",Huy Fong,,4.99,,each,4.99,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"
 2026-05-28,maxi-joliette,CROUSTILLES DE TORTILLA DORITOS,CROUSTILLES DE TORTILLA DORITOS,Doritos,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, May 28 - Wednesday, June 03"

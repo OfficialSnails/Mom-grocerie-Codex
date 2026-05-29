@@ -4,10 +4,6 @@
     "store_name": "Metro",
     "item_name": "CÔTELETTES DE PORC FRAIS DÉSOSSÉES",
     "current_price": 2.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945548",
     "source_image_url": "https://f.wishabi.net/page_items/421245804/1779422497/extra_large.jpg",
     "source_system": "flipp",
@@ -42,25 +38,14 @@
       "unit_type": "kg",
       "is_stock_up_friendly": true
     },
-<<<<<<< HEAD
-    "normalized_price_per_unit": 6.59,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 2.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 6.72,
     "stats_low": 3.59,
     "stats_low30": 3.59,
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "metro-joliette",
@@ -292,10 +277,6 @@
     "store_name": "Metro",
     "item_name": "ASPERGES",
     "current_price": 2.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945548",
     "source_image_url": "https://f.wishabi.net/page_items/421245794/1779422502/extra_large.jpg",
     "source_system": "flipp",
@@ -313,13 +294,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 6.59,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 2.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 6.9,
     "stats_low": 4.99,
     "stats_low30": 4.99,
@@ -334,13 +310,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "metro-joliette",
@@ -387,10 +357,6 @@
     "store_name": "Metro",
     "item_name": "FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE",
     "current_price": 4.49,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945548",
     "source_image_url": "https://f.wishabi.net/page_items/421245933/1779721621/extra_large.jpg",
     "source_system": "flipp",
@@ -408,13 +374,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 9.9,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 4.49,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -429,13 +390,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "metro-joliette",
@@ -1081,10 +1036,6 @@
     "store_name": "IGA",
     "item_name": "RAISINS VERTS SANS PÉPINS",
     "current_price": 1.97,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7951088",
     "source_image_url": "https://f.wishabi.net/page_items/421200148/1779726408/extra_large.jpg",
     "source_system": "flipp",
@@ -1120,13 +1071,8 @@
       "unit_type": "kg",
       "is_stock_up_friendly": false
     },
-<<<<<<< HEAD
-    "normalized_price_per_unit": 4.34,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 1.97,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 3.86,
     "stats_low": 1.99,
     "stats_low30": 2.99,
@@ -1141,13 +1087,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "iga-joliette",
@@ -1185,10 +1125,6 @@
     "store_name": "IGA",
     "item_name": "POMMES ENVY",
     "current_price": 1.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7951088",
     "source_image_url": "https://f.wishabi.net/page_items/421200281/1779726474/extra_large.jpg",
     "source_system": "flipp",
@@ -1224,25 +1160,14 @@
       "unit_type": "kg",
       "is_stock_up_friendly": false
     },
-<<<<<<< HEAD
-    "normalized_price_per_unit": 4.39,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 1.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 3.33,
     "stats_low": 2.49,
     "stats_low30": 2.49,
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "iga-joliette",
@@ -1331,10 +1256,6 @@
     "store_name": "IGA",
     "item_name": "BAVETTE D'ÉPAULE DE PORC ASSAISONNÉE TOP GOURMET",
     "current_price": 7.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7951088",
     "source_image_url": "https://f.wishabi.net/page_items/421200145/1779726407/extra_large.jpg",
     "source_system": "flipp",
@@ -1352,13 +1273,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 17.61,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 7.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -1373,13 +1289,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "iga-joliette",
@@ -1428,10 +1338,6 @@
     "store_name": "IGA",
     "item_name": "FROMAGE OKA",
     "current_price": 4.29,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7951088",
     "source_image_url": "https://f.wishabi.net/page_items/421200691/1779449791/extra_large.jpg",
     "source_system": "flipp",
@@ -1449,13 +1355,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 9.46,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 4.29,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -1470,13 +1371,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "iga-joliette",
@@ -1790,10 +1685,6 @@
     "store_name": "Super C",
     "item_name": "Raisins rouges extra larges sans pépins",
     "current_price": 1.77,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "flipp_discount_pct": 56,
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421241958/1779437057/extra_large.jpg",
@@ -1830,25 +1721,14 @@
       "unit_type": "kg",
       "is_stock_up_friendly": false
     },
-<<<<<<< HEAD
-    "normalized_price_per_unit": 3.9,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 1.77,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 3.86,
     "stats_low": 1.99,
     "stats_low30": 2.99,
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
@@ -1937,10 +1817,6 @@
     "store_name": "Super C",
     "item_name": "BOEUF HACHÉ MI-MAIGRE",
     "current_price": 4.73,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "flipp_discount_pct": 30,
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421242107/1779437058/extra_large.jpg",
@@ -1975,35 +1851,20 @@
       "unit_type": "kg",
       "is_stock_up_friendly": true
     },
-<<<<<<< HEAD
-    "normalized_price_per_unit": 10.43,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 4.73,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 6.6,
     "stats_low": 4.99,
     "stats_low30": 5.44,
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
     "store_name": "Super C",
     "item_name": "Tomates rouges de serre",
     "current_price": 1.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421242003/1779437044/extra_large.jpg",
     "source_system": "flipp",
@@ -2021,25 +1882,14 @@
     "french_label": "Bon prix si tu en as besoin",
     "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
     "worth_buying": true,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 4.39,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 1.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 3.74,
     "stats_low": 2.99,
     "stats_low30": 2.99,
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
@@ -2128,10 +1978,6 @@
     "store_name": "Super C",
     "item_name": "Haricots verts",
     "current_price": 1.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "flipp_discount_pct": 50,
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421241967/1779437061/extra_large.jpg",
@@ -2150,13 +1996,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 4.39,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 1.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -2171,23 +2012,13 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
     "store_name": "Super C",
     "item_name": "Poitrines de poulet frais désossées",
     "current_price": 6.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "flipp_discount_pct": 7,
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421242226/1779437062/extra_large.jpg",
@@ -2206,13 +2037,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 15.41,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 6.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 5.97,
     "stats_low": 5.44,
     "stats_low30": 5.44,
@@ -2227,23 +2053,13 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
     "store_name": "Super C",
     "item_name": "Biftecks français",
     "current_price": 10.99,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7945513",
     "source_image_url": "https://f.wishabi.net/page_items/421242054/1779437048/extra_large.jpg",
     "source_system": "flipp",
@@ -2261,13 +2077,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 24.23,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 10.99,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -2282,13 +2093,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "superc-joliette",
@@ -2999,10 +2804,6 @@
     "store_name": "L'Inter-Marché",
     "item_name": "ABRICOTS OU NECTARINES",
     "current_price": 4.29,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7943980",
     "source_image_url": "https://f.wishabi.net/page_items/421159609/1779319597/extra_large.jpg",
     "source_system": "flipp",
@@ -3020,13 +2821,8 @@
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
     "worth_buying": false,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 9.46,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 4.29,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": null,
     "stats_low": null,
     "stats_low30": null,
@@ -3041,13 +2837,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "tradition-joliette",
@@ -3231,10 +3021,6 @@
     "store_name": "Marchés Tradition",
     "item_name": "TOMATES ROUGES DE SERRE",
     "current_price": 2.49,
-<<<<<<< HEAD
-    "unit": "lb",
-=======
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "source_url": "https://flipp.com/en-ca/joliette-qc/flyer/7950406",
     "source_image_url": "https://f.wishabi.net/page_items/420963578/1779257598/extra_large.jpg",
     "source_system": "flipp",
@@ -3252,13 +3038,8 @@
     "french_label": "Bon prix si tu en as besoin",
     "french_reason": "Bon prix si tu en as besoin, mais pas le meilleur vu récemment.",
     "worth_buying": true,
-<<<<<<< HEAD
-    "normalized_price_per_unit": 5.49,
-    "normalized_unit": "kg",
-=======
     "normalized_price_per_unit": 2.49,
     "normalized_unit": "unknown",
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
     "stats_avg": 3.74,
     "stats_low": 2.99,
     "stats_low30": 2.99,
@@ -3275,13 +3056,7 @@
     ],
     "verification_status": "VERIFIED_FLYER_STRUCTURED",
     "verification_confidence": "HIGH",
-<<<<<<< HEAD
-    "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.",
-    "size": "1",
-    "notes": "Format inféré par OCR de la preuve photo: lb"
-=======
     "verification_reason": "Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants."
->>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   },
   {
     "store_id": "tradition-joliette",

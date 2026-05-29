@@ -7,7 +7,11 @@ cssclasses:
   - bons-summary
 ---
 # 🏬 Résumé par magasin — 28 mai au 3 juin 2026
+<<<<<<< HEAD
 29 mai 2026 · Référence par magasin seulement.
+=======
+28 mai 2026 · Référence par magasin seulement.
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
 Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de dupliquer les cases.
 
 ---
@@ -18,8 +22,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **CÔTELETTES DE PORC FRAIS DÉSOSSÉES**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421245804/1779422497/extra_large.jpg" alt="Preuve prix CÔTELETTES DE PORC FRAIS DÉSOSSÉES" width="220" />
@@ -47,19 +56,33 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE**
   - 🥛 Section: Produits laitiers et oeufs
+<<<<<<< HEAD
   - Prix: 4,49 $/lb
   - Échelle: Équivaut à 9,90 $/kg.
   - 📊 Gagne contre Super C 9,99 $
   - 🏅 Pourquoi ça gagne: 5,50 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 4,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 9,99 $
+  - 🏅 Pourquoi ça gagne: 5,50 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421245933/1779721621/extra_large.jpg" alt="Preuve prix FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE" width="220" />
 
 - **ASPERGES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
   - 📊 Gagne contre Super C 4,99 $
   - 🏅 Pourquoi ça gagne: 2,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 4,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421245794/1779422502/extra_large.jpg" alt="Preuve prix ASPERGES" width="220" />
 
@@ -178,11 +201,19 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **RAISINS VERTS SANS PÉPINS**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 1,97 $/lb
   - Échelle: Équivaut à 4,34 $/kg.
   - Pourquoi: Environ 49 % moins cher que le prix habituel.
   - 📊 Gagne contre Maxi 3,99 $/lb
   - 🏅 Pourquoi ça gagne: 6,83 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 49 % moins cher que le prix habituel.
+  - 📊 Gagne contre Maxi 3,99 $/lb
+  - 🏅 Pourquoi ça gagne: 6,83 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421200148/1779726408/extra_large.jpg" alt="Preuve prix RAISINS VERTS SANS PÉPINS" width="220" />
 
@@ -204,19 +235,33 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BAVETTE D'ÉPAULE DE PORC ASSAISONNÉE TOP GOURMET**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 7,99 $/lb
   - Échelle: Équivaut à 17,61 $/kg.
   - 📊 Gagne contre BoniChoix 10,99 $
   - 🏅 Pourquoi ça gagne: 3,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 7,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 10,99 $
+  - 🏅 Pourquoi ça gagne: 3,00 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421200145/1779726407/extra_large.jpg" alt="Preuve prix BAVETTE D'ÉPAULE DE PORC ASSAISONNÉE TOP GOURMET" width="220" />
 
 - **FROMAGE OKA**
   - 🥛 Section: Produits laitiers et oeufs
+<<<<<<< HEAD
   - Prix: 4,29 $/lb
   - Échelle: Équivaut à 9,46 $/kg.
   - 📊 Gagne contre Maxi 7,00 $
   - 🏅 Pourquoi ça gagne: 2,71 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 4,29 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Maxi 7,00 $
+  - 🏅 Pourquoi ça gagne: 2,71 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421200691/1779449791/extra_large.jpg" alt="Preuve prix FROMAGE OKA" width="220" />
 
@@ -316,8 +361,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BOEUF HACHÉ MI-MAIGRE**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 4,73 $/lb
   - Échelle: Équivaut à 10,43 $/kg.
+=======
+  - Prix: 4,73 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421242107/1779437058/extra_large.jpg" alt="Preuve prix BOEUF HACHÉ MI-MAIGRE" width="220" />
 
@@ -332,19 +382,33 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Biftecks français**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 10,99 $/lb
   - Échelle: Équivaut à 24,23 $/kg.
   - 📊 Gagne contre Metro 12,99 $
   - 🏅 Pourquoi ça gagne: 2,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 10,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 12,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421242054/1779437048/extra_large.jpg" alt="Preuve prix Biftecks français" width="220" />
 
 - **Haricots verts**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 1,99 $/lb
   - Échelle: Équivaut à 4,39 $/kg.
   - 📊 Gagne contre Metro 3,99 $
   - 🏅 Pourquoi ça gagne: 2,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 1,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 3,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421241967/1779437061/extra_large.jpg" alt="Preuve prix Haricots verts" width="220" />
 
@@ -359,10 +423,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Poitrines de poulet frais désossées**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 6,99 $/lb
   - Échelle: Équivaut à 15,41 $/kg.
   - 📊 Gagne contre Metro 8,99 $
   - 🏅 Pourquoi ça gagne: 2,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 6,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 8,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421242226/1779437062/extra_large.jpg" alt="Preuve prix Poitrines de poulet frais désossées" width="220" />
 
@@ -490,10 +561,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **ABRICOTS OU NECTARINES**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 4,29 $/lb
   - Échelle: Équivaut à 9,46 $/kg.
   - 📊 Gagne contre Metro 6,99 $
   - 🏅 Pourquoi ça gagne: 2,70 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 4,29 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 6,99 $
+  - 🏅 Pourquoi ça gagne: 2,70 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/421159609/1779319597/extra_large.jpg" alt="Preuve prix ABRICOTS OU NECTARINES" width="220" />
 
@@ -523,10 +601,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **TOMATES ROUGES DE SERRE**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 2,49 $/lb
   - Échelle: Équivaut à 5,49 $/kg.
   - 📊 Gagne contre BoniChoix 2,99 $
   - 🏅 Pourquoi ça gagne: 0,50 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 2,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 2,99 $
+  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+>>>>>>> cd89edfe0eac54f6cd1aeff7bb839092200940b5
   - 🧾 Autres prix vus: BoniChoix 2,99 $ · IGA 3,99 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/420963578/1779257598/extra_large.jpg" alt="Preuve prix TOMATES ROUGES DE SERRE" width="220" />
