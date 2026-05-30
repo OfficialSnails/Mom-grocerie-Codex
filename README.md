@@ -225,6 +225,7 @@ Le workflow GitHub Actions `.github/workflows/weekly-cloudflare.yml` garde Cloud
 
 - à chaque push sur `main`, il installe les dépendances, lance `npm test`, puis déploie `website/` sur Cloudflare Pages
 - chaque jeudi, il peut aussi lancer `npm run weekly`, committer les nouveaux fichiers de semaine, tester, puis déployer
+- avant tout déploiement, il faut vérifier qu'aucun fichier généré ne contient de marqueurs de conflit Git (`<<<<<<<`, `=======`, `>>>>>>>`) et que `website/data/weeks/index.json` ainsi que chaque `website/data/weeks/*/week.json` se lisent comme du JSON valide. Ne jamais déployer si ces vérifications échouent.
 
 Déclencheurs:
 
@@ -354,6 +355,7 @@ Le pipeline est prêt pour un nouveau run dans une nouvelle fenêtre:
 - `npm run weekly` doit produire un nouveau dossier `reports/weeks/Semaine du .../`
 - `npm run weekly` doit aussi exporter ce dossier vers Dropbox Obsidian
 - `npm run weekly` doit aussi mettre à jour `website/data/weeks/index.json` et `website/data/weeks/<semaine>/week.json`
+- avant de publier, scanner le repo pour les marqueurs de conflit Git (`<<<<<<<`, `=======`, `>>>>>>>`) et valider le JSON du site. Si le conflit touche seulement les artefacts générés, préférer régénérer depuis le pipeline normal ou les données raw existantes plutôt que corriger le JSON à la main.
 - après un changement UI web, `npm run web` doit être validé dans un vrai navigateur avec Agent Browser ou Playwright quand disponible
 - la synchronisation auto doit démarrer pour que cocher une case dans `01 Choix d'items.md` ajoute à `00 Liste d'épicerie.md`
 - cocher une case dans `00 Liste d'épicerie.md` doit enlever le produit de `01 Choix d'items.md`
