@@ -252,6 +252,8 @@ export function recoverMissingOffersFromProofOcr(items: RawDealItem[]): RawDealI
 }
 
 export function enrichDealsWithProofOcr<T extends ScoredDeal>(deals: T[]): T[] {
+  if (process.env.BONS_SPECIAUX_DISABLE_OCR_RECOVERY === '1') return deals;
+
   return deals.map(deal => {
     if (!deal.source_image_url) return deal;
 
