@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-04T06:19:34.064Z",
+  "generatedAt": "2026-06-04T14:42:18.536Z",
   "weeks": [
     {
       "slug": "semaine-du-4-au-10-juin-2026",
       "folderName": "Semaine du 4 au 10 juin 2026",
       "title": "Liste d'épicerie — 4 au 10 juin 2026",
       "weekRange": "4 au 10 juin 2026",
-      "generatedAt": "2026-06-04T06:19:34.064Z",
-      "itemCount": 75,
+      "generatedAt": "2026-06-04T14:42:18.536Z",
+      "itemCount": 89,
       "allItemCount": 1475,
       "path": "data/weeks/semaine-du-4-au-10-juin-2026/week.json"
     },
