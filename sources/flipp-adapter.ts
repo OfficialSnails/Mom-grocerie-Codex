@@ -1,5 +1,6 @@
 import type { RawDealItem, SourceAdapter } from './source-adapter.js';
 import { shouldRunSource, updateSourceStatus } from './firecrawl-adapter.js';
+import { addDays, format, isWithinInterval, parseISO, startOfWeek } from 'date-fns';
 
 const WISHABI_BASE = 'https://backflipp.wishabi.com/flipp';
 const POSTAL_CODE = 'J6E3N2';
@@ -58,6 +59,11 @@ interface WishabiItemsResponse {
   items: WishabiItem[];
 }
 
+interface FlyerCycle {
+  start: Date;
+  end: Date;
+}
+
 function parseFrenchName(raw: string): string {
   // Bilingual names: "croustilles tortilla Doritos | Doritos tortilla chips"
   // Take French part (before " | "), capitalize first letter
@@ -99,6 +105,83 @@ export function matchMerchant(merchant: string): { store_id: string; store_name:
     if (pattern.test(merchant.trim())) return { store_id, store_name };
   }
   return null;
+}
+
+function getTargetFlyerCycle(now: Date = new Date()): FlyerCycle {
+  const day = now.getDay();
+  if (day === 3) {
+    const start = addDays(startOfWeek(now, { weekStartsOn: 4 }), 7);
+    return { start, end: addDays(start, 6) };
+  }
+
+  const start = startOfWeek(now, { weekStartsOn: 4 });
+  return { start, end: addDays(start, 6) };
+}
+
+function overlapsTargetCycle(flyer: WishabiFlyer, cycle: FlyerCycle): boolean {
+  const validFrom = parseISO(flyer.valid_from);
+  const validTo = parseISO(flyer.valid_to);
+
+  return (
+    isWithinInterval(cycle.start, { start: validFrom, end: validTo }) ||
+    isWithinInterval(cycle.end, { start: validFrom, end: validTo }) ||
+    isWithinInterval(validFrom, { start: cycle.start, end: cycle.end })
+  );
+}
+
+function scoreFlyer(flyer: WishabiFlyer, cycle: FlyerCycle): number {
+  const name = flyer.name.toLowerCase();
+  const validFrom = parseISO(flyer.valid_from);
+  const validTo = parseISO(flyer.valid_to);
+  let score = 0;
+
+  if (
+    format(validFrom, 'yyyy-MM-dd') === format(cycle.start, 'yyyy-MM-dd') &&
+    format(validTo, 'yyyy-MM-dd') === format(cycle.end, 'yyyy-MM-dd')
+  ) {
+    score += 40;
+  } else if (overlapsTargetCycle(flyer, cycle)) {
+    score += 20;
+  }
+
+  if (/(weekly flyer|circulaire hebdomadaire|circulaire de la semaine|circulaire)/i.test(flyer.name)) {
+    score += 20;
+  }
+
+  if (/(qu[eé]bec|\bqc\b)/i.test(flyer.name)) {
+    score += 10;
+  }
+
+  if (/(brochure|barbecue|bbq|nouveau-brunswick|new brunswick|ontario)/i.test(name)) {
+    score -= 25;
+  }
+
+  return score;
+}
+
+export function selectPrimaryFlyersForCycle(
+  flyers: WishabiFlyer[],
+  now: Date = new Date(),
+): WishabiFlyer[] {
+  const cycle = getTargetFlyerCycle(now);
+  const candidates = flyers.filter(flyer => overlapsTargetCycle(flyer, cycle));
+  const grouped = new Map<string, WishabiFlyer[]>();
+
+  for (const flyer of candidates) {
+    const match = matchMerchant(flyer.merchant);
+    if (!match) continue;
+    if (!grouped.has(match.store_id)) grouped.set(match.store_id, []);
+    grouped.get(match.store_id)!.push(flyer);
+  }
+
+  const selected: WishabiFlyer[] = [];
+
+  for (const storeFlyers of grouped.values()) {
+    const best = [...storeFlyers].sort((a, b) => scoreFlyer(b, cycle) - scoreFlyer(a, cycle))[0];
+    if (best) selected.push(best);
+  }
+
+  return selected;
 }
 
 export function wishabiItemOverlapsDate(
@@ -149,10 +232,15 @@ export class FlippAdapter implements SourceAdapter {
     try {
       console.log(`[${this.id}] Découverte des circulaires Joliette via Flipp API (${POSTAL_CODE})...`);
       const allFlyers = await this.fetchFlyers();
+      const selectedFlyers = selectPrimaryFlyersForCycle(allFlyers);
+      const cycle = getTargetFlyerCycle();
+      console.log(
+        `[${this.id}] Cycle ciblé: ${format(cycle.start, 'yyyy-MM-dd')} -> ${format(cycle.end, 'yyyy-MM-dd')}`
+      );
 
       // Group matched flyers by store_id
       const storeFlyers = new Map<string, { flyers: WishabiFlyer[]; store_name: string }>();
-      for (const flyer of allFlyers) {
+      for (const flyer of selectedFlyers) {
         const match = matchMerchant(flyer.merchant);
         if (!match) continue;
         if (!storeFlyers.has(match.store_id)) {
@@ -165,6 +253,13 @@ export class FlippAdapter implements SourceAdapter {
         `${id}(${flyers.length})`
       ).join(', ');
       console.log(`[${this.id}] Magasins trouvés: ${storeList}`);
+      for (const [store_id, { flyers }] of storeFlyers) {
+        for (const flyer of flyers) {
+          console.log(
+            `[${this.id}] Flyer retenu ${store_id}: ${flyer.name} (${flyer.valid_from.slice(0, 10)} -> ${flyer.valid_to.slice(0, 10)})`
+          );
+        }
+      }
 
       const allItems: RawDealItem[] = [];
 

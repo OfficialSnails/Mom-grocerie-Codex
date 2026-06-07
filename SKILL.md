@@ -26,6 +26,7 @@ The weekly run must also update the static local website data:
 
 When running this skill:
 
+0. First confirm the current workspace is exactly `/Users/slugz/Desktop/Mes Document/CLAUDE CODING APP/SEQUENCER VIDEO APP/Mom grocerie Codex`. If you are in the legacy `Mom grocerie` folder, switch here before running generation. If `website/data/weeks/index.json`, `website/app.js`, `qa:pantry`, `qa:categories`, or `deploy:cloudflare` are unavailable, treat that as the wrong workspace or a hard preflight failure; do not report a public-site update from that state.
 1. Prefer live flyer data from Flipp/Wishabi
 2. Use manual CSV only as supplement or fallback
 3. Never let a CSV-only or mock-only run overwrite a live weekly result
@@ -54,7 +55,8 @@ When running this skill:
 21ab. The website must include `Tous` as the first rayon. `Tous` is a virtual frontend filter option, not a generated product category; it shows every product for the current mode and current store filter.
 21b. Cloudflare Pages deployment serves the static `website/` folder. Use `npm run cloudflare:login` once and `npm run deploy:cloudflare` to publish; never publish `.env`, `.cache/`, `node_modules/`, `output/`, or logs.
 21c. GitHub weekly automation lives in `.github/workflows/weekly-cloudflare.yml`. It requires GitHub secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and optionally `FIRECRAWL_API_KEY`; it regenerates weekly data, commits generated outputs, and deploys Cloudflare Pages.
-21d. Before any deploy, validate that no generated artifact contains Git conflict markers. Run a repo scan for `<<<<<<<`, `=======`, and `>>>>>>>` outside `.git/` and `node_modules/`, then parse `website/data/weeks/index.json` and every `website/data/weeks/*/week.json`. Never deploy if these checks fail. If conflict markers appear only in generated grocery artifacts, prefer regenerating clean outputs from the normal pipeline or existing raw data instead of hand-editing JSON.
+21d. Before any deploy, validate that no generated artifact contains Git conflict markers. Run a repo scan for line-start markers `^<<<<<<<`, `^=======`, and `^>>>>>>>` outside `.git/` and `node_modules/`, then parse `website/data/weeks/index.json` and every `website/data/weeks/*/week.json`. Inline documentation examples are not conflicts. Never deploy if real line-start conflict markers remain. If conflict markers appear only in generated grocery artifacts, prefer regenerating clean outputs from the normal pipeline or existing raw data instead of hand-editing JSON.
+21e. After every weekly website update, verify both local and live website data. Locally, serve `npm run web` and confirm `http://localhost:4187/data/weeks/index.json` lists the newest generated week first. After Cloudflare deployment, confirm `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` lists that same newest week first. If the live JSON is stale, report deployment as not complete.
 22. Do not use category navigation that scrolls the user up and down through the full page; rayon clicks should switch the active category in place
 22a. Rayons should wrap into visible button rows. Do not use a horizontal scroller for category pills. Use enough card width and normal word wrapping so labels never split inside a word such as `Boulangerie`.
 22b. Rayon counts must always be scoped by the selected mode and selected store. The `Tous` count is the total for that same scope. Rayon cards show available product totals only, never selected/total ratios; selected counts belong only in the panier/header/final list.
