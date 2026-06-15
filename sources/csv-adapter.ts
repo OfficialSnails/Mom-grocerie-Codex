@@ -3,6 +3,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import Papa from 'papaparse';
 import type { SourceAdapter, RawDealItem } from './source-adapter.js';
+import { datedRowOverlapsRange, flyerWeekRangeForSourceRun, formatLocalDateOnly } from '../src/date-ranges.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = join(__dirname, '..', 'data', 'current_week_prices.csv');
@@ -31,6 +32,10 @@ function mapConfidence(score: string): 'HIGH' | 'MEDIUM' | 'LOW' {
   if (s === 'HIGH') return 'HIGH';
   if (s === 'MEDIUM') return 'MEDIUM';
   return 'LOW';
+}
+
+export function isCsvRowActiveForTargetWeek(row: Pick<CsvRow, 'week_start_date' | 'week_end_date'>, runDate = new Date()): boolean {
+  return datedRowOverlapsRange(row.week_start_date, row.week_end_date, flyerWeekRangeForSourceRun(runDate));
 }
 
 // Map store CSV id to store config id
@@ -75,8 +80,16 @@ export class CsvAdapter implements SourceAdapter {
       console.warn('[csv-adapter] Erreurs CSV:', result.errors.slice(0, 3));
     }
 
-    return result.data
+    const targetRange = flyerWeekRangeForSourceRun();
+    let skippedExpired = 0;
+
+    const items = result.data
       .filter(row => row.item_name && row.current_price)
+      .filter(row => {
+        const active = datedRowOverlapsRange(row.week_start_date, row.week_end_date, targetRange);
+        if (!active) skippedExpired += 1;
+        return active;
+      })
       .map(row => {
         const storeId = resolveStoreId(row.store);
         const price = parseFloat(row.current_price);
@@ -100,9 +113,20 @@ export class CsvAdapter implements SourceAdapter {
           source_raw_price: row.current_price,
           confidence: mapConfidence(row.confidence_score),
           week_start: row.week_start_date || undefined,
+          week_end: row.week_end_date || undefined,
+          sale_start: row.week_start_date || undefined,
+          sale_end: row.week_end_date || undefined,
           notes: row.notes || undefined,
         } satisfies RawDealItem;
       })
       .filter((item): item is RawDealItem => item !== null);
+
+    if (skippedExpired > 0) {
+      console.log(
+        `[csv-adapter] ${skippedExpired} entrée(s) manuelle(s) ignorée(s): dates hors semaine cible ${formatLocalDateOnly(targetRange.start)} -> ${formatLocalDateOnly(targetRange.end)}.`,
+      );
+    }
+
+    return items;
   }
 }

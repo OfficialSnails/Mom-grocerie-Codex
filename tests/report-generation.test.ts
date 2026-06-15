@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, isCostcoGroceryRelevant, scoreAllDeals, shopperStoreId } from '../src/generate-report.js';
+import { classifyShopperCategory, deduplicateDisplayDeals, findSuspiciousCategoryItems, findSuspiciousPantryItems, generateMarkdownReport, generateMomReport, generateShoppingListReport, generateShoppingPickerReport, generateStoreSummaryReport, generateVerifiedMomReport, isActiveForReportWeek, isCostcoGroceryRelevant, scoreAllDeals, shopperStoreId } from '../src/generate-report.js';
 import { frenchWeekFolderName, frenchWeekLabel } from '../src/weekly-files.js';
 import { matchMerchant, wishabiItemOverlapsDate } from '../sources/flipp-adapter.js';
 import type { RawDealItem } from '../sources/source-adapter.js';
@@ -223,6 +223,37 @@ describe('scoreAllDeals', () => {
     const chicken = scored.find(d => d.normalized_name === 'poitrine de poulet');
     // Chicken at 4.99/kg vs avg ~7.49/kg should be worth buying
     expect(chicken?.worth_buying).toBe(true);
+  });
+});
+
+describe('manual source date gating', () => {
+  const manualChicken: RawDealItem = {
+    store_id: 'superc-joliette',
+    store_name: 'Super C',
+    item_name: 'Poitrine de poulet sans os',
+    normalized_name: 'poitrine de poulet',
+    category: 'viande',
+    current_price: 4.99,
+    unit: 'kg',
+    source_system: 'csv',
+    source_type: 'manual',
+    confidence: 'HIGH',
+    week_start: '2026-05-12',
+    week_end: '2026-05-18',
+    sale_start: '2026-05-12',
+    sale_end: '2026-05-18',
+  };
+
+  it('excludes expired manual CSV items from later report weeks', () => {
+    expect(isActiveForReportWeek(manualChicken, new Date('2026-06-11T12:00:00-04:00'))).toBe(false);
+  });
+
+  it('keeps manual CSV items in their dated report week', () => {
+    expect(isActiveForReportWeek(manualChicken, new Date('2026-05-14T12:00:00-04:00'))).toBe(true);
+  });
+
+  it('keeps live flyer items even when manual CSV dates are absent', () => {
+    expect(isActiveForReportWeek(SAMPLE_ITEMS[0], new Date('2026-06-11T12:00:00-04:00'))).toBe(true);
   });
 });
 

@@ -330,6 +330,7 @@ Quand disponible, utiliser Agent Browser ou Playwright pour cette validation. Po
   - `⚠️ Preuve photo manquante (entrée manuelle)`
 - Un prix n'est pas montré comme "confirmé visuellement" s'il ne l'est pas
 - Un run CSV-only ou mock-only ne doit jamais écraser un bon run live
+- `data/current_week_prices.csv` est un supplément daté, pas une liste permanente. Chaque entrée manuelle doit avoir `week_start_date` et `week_end_date`; les entrées hors de la semaine cible doivent être ignorées par l'adaptateur CSV, le générateur de rapport et l'historique. Ne jamais laisser un ancien prix manuel réapparaître dans une semaine future sans dates qui se chevauchent.
 
 ## Sources
 

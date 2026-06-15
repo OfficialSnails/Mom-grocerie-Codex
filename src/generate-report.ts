@@ -20,10 +20,12 @@ import {
   PICKER_FILE,
   STORE_SUMMARY_FILE,
   TECHNICAL_DIR,
+  flyerWeekRangeDates,
   frenchWeekLabel,
   frenchWeekFolderName,
 } from './weekly-files.js';
 import { enrichDealsWithProofOcr, recoverMissingOffersFromProofOcr } from './proof-ocr.js';
+import { datedRowOverlapsRange } from './date-ranges.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PRODUCTS_PATH = join(__dirname, '..', 'data', 'products.json');
@@ -70,6 +72,18 @@ export interface VerifiedDeal extends ScoredDeal {
   verification_status: 'VERIFIED_FLYER_STRUCTURED' | 'VERIFIED_MANUAL' | 'UNVERIFIED';
   verification_confidence: 'HIGH' | 'MEDIUM' | 'LOW';
   verification_reason: string;
+}
+
+export function isActiveForReportWeek(item: RawDealItem, reportDate: Date = new Date()): boolean {
+  const isManual = item.source_type === 'manual' || item.source_system === 'csv';
+  if (!isManual) return true;
+
+  const weekRange = flyerWeekRangeDates(reportDate);
+  return datedRowOverlapsRange(
+    item.sale_start ?? item.week_start ?? null,
+    item.sale_end ?? item.week_end ?? item.week_start ?? null,
+    weekRange,
+  );
 }
 
 export type ShopperCategoryId =
@@ -1980,11 +1994,18 @@ export async function generateReport(
   items: RawDealItem[],
   options?: { reportVariant?: string }
 ): Promise<{ filepath: string; momFilepath: string; auditFilepath: string; verifiedMomFilepath: string; comparisonFilepath: string; rawFilepath: string; verifiedJsonFilepath: string; shoppingListFilepath: string; storeSummaryFilepath: string; weeklyPackDir: string; scored: ScoredDeal[] }> {
-  const reportItems = recoverMissingOffersFromProofOcr(items);
+  const now = new Date();
+  const activeItems = items.filter(item => isActiveForReportWeek(item, now));
+  const reportItems = recoverMissingOffersFromProofOcr(activeItems)
+    .filter(item => isActiveForReportWeek(item, now));
   const scored = scoreAllDeals(reportItems);
   const skipped = getSkippedSources();
-  const now = new Date();
   const reportVariant = options?.reportVariant ?? 'live';
+
+  const skippedExpiredManual = items.length - activeItems.length;
+  if (skippedExpiredManual > 0) {
+    console.log(`   ⏱️ ${skippedExpiredManual} entrée(s) manuelle(s) expirée(s) exclue(s) du rapport.`);
+  }
 
   if (!existsSync(HISTORICAL_DIR)) mkdirSync(HISTORICAL_DIR, { recursive: true });
   if (!existsSync(MOM_DIR)) mkdirSync(MOM_DIR, { recursive: true });

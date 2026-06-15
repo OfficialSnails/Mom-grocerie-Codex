@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import { format, startOfWeek } from 'date-fns';
 import Papa from 'papaparse';
 import type { ScoredDeal } from './generate-report.js';
+import { datedRowOverlapsRange, flyerWeekRangeForSourceRun } from './date-ranges.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CURRENT_PATH = join(__dirname, '..', 'data', 'current_week_prices.csv');
@@ -33,7 +34,8 @@ interface CurrentRow {
   normalized_name: string;
   brand: string;
   category: string;
-  price: string;
+  price?: string;
+  current_price?: string;
   size: string;
   unit: string;
   normalized_price_per_unit: string;
@@ -68,9 +70,16 @@ export function updateHistory(): void {
   );
 
   const toAdd: HistoricalRow[] = [];
+  const targetRange = flyerWeekRangeForSourceRun();
+  let skippedExpired = 0;
 
   for (const row of current) {
-    if (!row.week_start_date || !row.store || !row.price) continue;
+    const price = row.price ?? row.current_price;
+    if (!row.week_start_date || !row.store || !price) continue;
+    if (!datedRowOverlapsRange(row.week_start_date, row.week_end_date, targetRange)) {
+      skippedExpired += 1;
+      continue;
+    }
 
     const dateObserved = row.week_start_date;
     const key = `${dateObserved}::${row.store}::${row.normalized_name || row.item_name}`;
@@ -84,7 +93,7 @@ export function updateHistory(): void {
       normalized_name: row.normalized_name ?? '',
       brand: row.brand ?? '',
       category: row.category ?? '',
-      price: row.price,
+      price,
       size: row.size ?? '',
       unit: row.unit ?? '',
       normalized_price_per_unit: row.normalized_price_per_unit ?? '',
@@ -96,6 +105,9 @@ export function updateHistory(): void {
   }
 
   if (toAdd.length === 0) {
+    if (skippedExpired > 0) {
+      console.log(`⏱️ ${skippedExpired} entrée(s) manuelle(s) ignorée(s) dans l'historique: dates hors semaine cible.`);
+    }
     console.log("Toutes les données de cette semaine sont déjà dans l'historique.");
     return;
   }
@@ -104,6 +116,9 @@ export function updateHistory(): void {
   saveCSV(HISTORICAL_PATH, updated as Record<string, unknown>[]);
 
   console.log(`✅ ${toAdd.length} entrée(s) ajoutée(s) à l'historique.`);
+  if (skippedExpired > 0) {
+    console.log(`⏱️ ${skippedExpired} entrée(s) manuelle(s) expirée(s) non ajoutée(s) à l'historique.`);
+  }
   console.log(`📊 Total historique : ${updated.length} entrées.`);
 }
 

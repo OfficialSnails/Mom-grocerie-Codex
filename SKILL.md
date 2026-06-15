@@ -30,6 +30,7 @@ When running this skill:
 1. Prefer live flyer data from Flipp/Wishabi
 2. Use manual CSV only as supplement or fallback
 3. Never let a CSV-only or mock-only run overwrite a live weekly result
+3a. Treat `data/current_week_prices.csv` as a dated supplement only. Manual CSV rows must overlap the generated Thursday-to-Wednesday flyer cycle through `week_start_date`/`week_end_date`; expired or undated manual rows must be skipped in collection, report generation, website export, and history updates. Do not carry old manual prices forward as current products.
 4. Keep source provenance visible
 5. Treat all prices as CAD
 6. Show the sale unit when known (`/lb`, `/kg`, `/L`, `each`)
