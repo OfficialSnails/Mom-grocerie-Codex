@@ -1,14 +1,24 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-06-11T16:00:00.000Z",
+=======
+  "generatedAt": "2026-06-11T15:41:34.681Z",
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   "weeks": [
     {
       "slug": "semaine-du-11-au-17-juin-2026",
       "folderName": "Semaine du 11 au 17 juin 2026",
       "title": "Liste d'épicerie — 11 au 17 juin 2026",
       "weekRange": "11 au 17 juin 2026",
+<<<<<<< HEAD
       "generatedAt": "2026-06-11T16:00:00.000Z",
       "itemCount": 90,
       "allItemCount": 1445,
+=======
+      "generatedAt": "2026-06-11T15:41:34.681Z",
+      "itemCount": 92,
+      "allItemCount": 1717,
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
       "path": "data/weeks/semaine-du-11-au-17-juin-2026/week.json"
     },
     {

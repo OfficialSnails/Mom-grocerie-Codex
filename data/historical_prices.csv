@@ -7309,6 +7309,90 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,maxi-joliette,Bananes,bananes,,fruits,0.59,1,kg,0.59,kg,csv,Toujours disponible
 2026-06-11,metro-joliette,Jus d'orange Tropicana 1.89L,jus d orange,Tropicana,boissons,5.49,1890,ml,2.9,L,csv,
 2026-06-11,iga-joliette,Sauce tomate Classico 650ml,sauce tomate,Classico,epicerie,3.49,650,ml,5.37,L,csv,
+<<<<<<< HEAD
+=======
+2026-06-08,costco-quebec,"McSweeney's - Charqui de bœuf saveur originale, 12 × 30 g","McSweeney's - Charqui de bœuf saveur originale, 12 × 30 g",McSweeney's,,30.99,,,30.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Jack Link's - Bâtonnets de pepperoni piquant, 20 × 22 g","Jack Link's - Bâtonnets de pepperoni piquant, 20 × 22 g",Jack Link's,,20.49,,,20.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kellogg's - Corn flakes, 1,22 kg","Kellogg's - Corn flakes, 1,22 kg",Kellogg's,,9.99,,,9.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Archer - Bâtonnets de bœuf nourri à l'herbe, 28 × 14 g","Archer - Bâtonnets de bœuf nourri à l'herbe, 28 × 14 g",Archer,,22.49,,,22.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Bertolli - Huile d'olive extralégère Bertolli, 3 L","Bertolli - Huile d'olive extralégère Bertolli, 3 L",Bertolli,,27.99,,,27.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Dole - Mangues en dés dans du jus, 20 × 107 mL","Dole - Mangues en dés dans du jus, 20 × 107 mL",Dole,,13.99,,,13.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Swiffer Sweeper linges secs pour balayage, 84 unités","Swiffer Sweeper linges secs pour balayage, 84 unités",Swiffer,,23.99,,,23.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,Vileda EasyWring Power - Système de vadrouille et d'essoreuse rotative,Vileda EasyWring Power - Système de vadrouille et d'essoreuse rotative,Vileda,,45.99,,,45.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Tostitos - Croustilles tortilla rondes, 826 g","Tostitos - Croustilles tortilla rondes, 826 g",Tostitos,,7.99,,,7.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Bounty - Barres de friandises, 24 × 57 g","Bounty - Barres de friandises, 24 × 57 g",Bounty,,33.99,,,33.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Sensible Portions - Boite de craquelins de pain pita, 567 g",pain,Sensible Portions,,8.99,,,8.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kraft Miracle Whip, 3.78 L","Kraft Miracle Whip, 3.78 L",Kraft,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Boulangerie Schwartz Brothers - Croustilles de bagel absolument-tout biologiques, 425 g","Boulangerie Schwartz Brothers - Croustilles de bagel absolument-tout biologiques, 425 g",Schwartz Brothers,,10.99,,,10.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kit Cannoli Sicilien original petit, 72-count","Kit Cannoli Sicilien original petit, 72-count",,,99.99,,,99.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Munchies - Mélange du randonneur à saveur sucrée miel, 12 × 35 g","Munchies - Mélange du randonneur à saveur sucrée miel, 12 × 35 g",Munchies,,8.49,,,8.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Hellmann's - Vraie mayonnaise, 3 × 591 ml","Hellmann's - Vraie mayonnaise, 3 × 591 ml",Hellmann's,,10.99,,,10.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,5-hour ENERGY - Paquet de 12 boissons énergisantes à saveur de framboise bleue,5-hour ENERGY - Paquet de 12 boissons énergisantes à saveur de framboise bleue,5-hour ENERGY,,33.99,,,33.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Noah Martin's - Bâtonnets de peppéroni gastronomique à saveur de dinde, 25 × 50 g","Noah Martin's - Bâtonnets de peppéroni gastronomique à saveur de dinde, 25 × 50 g",Noah Martin's,,31.99,,,31.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Munchies - Arachides salées, 12 × 55 g","Munchies - Arachides salées, 12 × 55 g",Munchies,,8.49,,,8.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"5-hour ENERGY Extra-strength Grape Shot, 12-count","5-hour ENERGY Extra-strength Grape Shot, 12-count",5-hour ENERGY,,33.99,,,33.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Noah Martin's - Bâtonnets de pepperoni doux, 25 × 50 g","Noah Martin's - Bâtonnets de pepperoni doux, 25 × 50 g",Noah Martin's,,28.99,,,28.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"M&M's - Bonbons au chocolat au lait, Paquet de 24",lait,M&M's,,33.99,,,33.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Jumping Bean - Capsules de café biologique Deep Water Dark certifié Fairtrade, 90 godets",cafe,Jumping Bean,,51.99,,,51.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Fiji - Eau de source naturelle 12 × 1,5","Fiji - Eau de source naturelle 12 × 1,5",Fiji,,35.49,,,35.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,Thai Kitchen bouteille de sauce chili sucrée de 1 L,Thai Kitchen bouteille de sauce chili sucrée de 1 L,Thai Kitchen,,7.99,,,7.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Mars - Barres de chocolat au caramel grand format, Paquet de 24","Mars - Barres de chocolat au caramel grand format, Paquet de 24",Mars,,43.99,,,43.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Rao's sauce marinara, 2 x 770 mL","Rao's sauce marinara, 2 x 770 mL",Rao's,,14.99,,,14.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Cascade Power Clean - Détergent pour lave-vaisselle, 115 ActionPacs","Cascade Power Clean - Détergent pour lave-vaisselle, 115 ActionPacs",Cascade,,23.99,,,23.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Edward Marc Chocolatier - Amandes enrobées de noix de coco et de chocolat noir, 907 g","Edward Marc Chocolatier - Amandes enrobées de noix de coco et de chocolat noir, 907 g",Edward Marc Chocolatier,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"McSweeney's - Languettes de bifteck saveur teriyaki, 12 × 28 g","McSweeney's - Languettes de bifteck saveur teriyaki, 12 × 28 g",McSweeney's,,21.99,,,21.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Mother Earth Vinegar - Vinaigre de cidre de pomme biologique, 1,9 L","Mother Earth Vinegar - Vinaigre de cidre de pomme biologique, 1,9 L",Mother Earth,,9.99,,,9.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Lysol Advanced - Lingettes désinfectantes, 550 lingettes","Lysol Advanced - Lingettes désinfectantes, 550 lingettes",Lysol,,24.99,,,24.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Joyburst boisson hydratante de qualité supérieure pack variété, 500 mL paquet de 18","Joyburst boisson hydratante de qualité supérieure pack variété, 500 mL paquet de 18",Joyburst,,27.99,,,27.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Wonderful Pistachios - Pistaches au cornichons à l'aneth sans coquilles, 623 g","Wonderful Pistachios - Pistaches au cornichons à l'aneth sans coquilles, 623 g",Wonderful,,23.99,,,23.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Fibre 1 - Barres tendres avoinbe et chocolat, 36 × 35 g","Fibre 1 - Barres tendres avoinbe et chocolat, 36 × 35 g",Fibre 1,,14.99,,,14.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"ECOS - Savon à vaisselle à base de plantes à l'odeur de pamplemousse, 3,79 L + 739 mL","ECOS - Savon à vaisselle à base de plantes à l'odeur de pamplemousse, 3,79 L + 739 mL",ECOS,,24.99,,,24.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Bounce -Sélectionnez une taille feuilles assouplissantes, 400 Feuilles","Bounce -Sélectionnez une taille feuilles assouplissantes, 400 Feuilles",Bounce,,15.99,,,15.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Pretzel Pzazz - Morceaux de bretzel assaisonné à saveur de miel et dijon, 12 × 56 g","Pretzel Pzazz - Morceaux de bretzel assaisonné à saveur de miel et dijon, 12 × 56 g",Pretzel Pzazz,,14.49,,,14.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kit Cannoli Sicilien original grande, 24-count","Kit Cannoli Sicilien original grande, 24-count",,,99.99,,,99.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Built Puffs – Barres protéinées, pâte à brownies et noix de coco, 14 × 40 g","Built Puffs – Barres protéinées, pâte à brownies et noix de coco, 14 × 40 g",Built,,28.99,,,28.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Nestlé - Mini-barres assorties et friandises, 1,3 kg","Nestlé - Mini-barres assorties et friandises, 1,3 kg",Nestlé,,26.49,,,26.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"RXBAR - Barres protéinées à saveurs variées, 14 x 52 g","RXBAR - Barres protéinées à saveurs variées, 14 x 52 g",RXBAR,,21.99,,,21.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kraft - Vinaigrette campagne, 3,78 L","Kraft - Vinaigrette campagne, 3,78 L",Kraft,,25.99,,,25.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Craquelins Goldfish Pepperidge Farm, 1,64 kg","Craquelins Goldfish Pepperidge Farm, 1,64 kg",Pepperidge Farm,,13.99,,,13.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Munchies - Arachides grillées au miel, 12 × 55 g","Munchies - Arachides grillées au miel, 12 × 55 g",Munchies,,8.49,,,8.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Snickers - Barres de chocolat grand format, Paquet de 24","Snickers - Barres de chocolat grand format, Paquet de 24",Snickers,,43.99,,,43.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Céréales Croque Cannelle Super Jumbo, 1,3 kg","Céréales Croque Cannelle Super Jumbo, 1,3 kg",General Mills,,10.49,,,10.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Titan papier d'aluminium plus résistant, 656' x 11.8""","Titan papier d'aluminium plus résistant, 656' x 11.8""",Titan,,19.99,,,19.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Eau de coco pure Vita Coco, 12 × 330 mL","Eau de coco pure Vita Coco, 12 × 330 mL",Vita Coco,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Swiffer Sweeper Wet Linges humides, Paquet de 64","Swiffer Sweeper Wet Linges humides, Paquet de 64",Swiffer,,24.99,,,24.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,Kirkland Signature Sulfate de glucosamine 750 mg - 420 capsules végétariennes,Kirkland Signature Sulfate de glucosamine 750 mg - 420 capsules végétariennes,Kirkland Signature,,23.99,,,23.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Chosen Foods 100% - Huile d'avocat en spray, 2 × 383 g","Chosen Foods 100% - Huile d'avocat en spray, 2 × 383 g",Chosen Foods,,19.49,,,19.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Lysol Advanced - Nettoyant pour cuvettes, 4 × 946 ml","Lysol Advanced - Nettoyant pour cuvettes, 4 × 946 ml",Lysol,,16.99,,,16.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Mary Macleod's - Boîtes de biscuits sablés assortis, 3 x 24 biscuits","Mary Macleod's - Boîtes de biscuits sablés assortis, 3 x 24 biscuits",Mary Macleod's,,89.99,,,89.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Maltesers Friandises, 15 × 37 g","Maltesers Friandises, 15 × 37 g",Maltesers,,21.99,,,21.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Twix - Barres de chocolat et biscuit, Paquet de 36","Twix - Barres de chocolat et biscuit, Paquet de 36",Twix,,48.99,,,48.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kinder's - Épicée au miel sauce BBQ, 598 ml","Kinder's - Épicée au miel sauce BBQ, 598 ml",Kinder's,,12.99,,,12.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Febreze Air - Rafraichiseur d'air, assortiments, 4-unités","Febreze Air - Rafraichiseur d'air, assortiments, 4-unités",Febreze,,13.99,,,13.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kit Kat - Barres de gaufrettes au chocolat grand format, Paquet de 24","Kit Kat - Barres de gaufrettes au chocolat grand format, Paquet de 24",Kit Kat,,42.99,,,42.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Ferrero - Nutella B-Ready, 36 × 22 g","Ferrero - Nutella B-Ready, 36 × 22 g",Nutella,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Pretzel Pzazz - Morceaux de bretzel assaisonné à saveur assaisonnés, 12 × 56 g","Pretzel Pzazz - Morceaux de bretzel assaisonné à saveur assaisonnés, 12 × 56 g",Pretzel Pzazz,,14.49,,,14.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Dawn - Détergent à vaisselle liquide formule professionnelle, 3,78 L","Dawn - Détergent à vaisselle liquide formule professionnelle, 3,78 L",Dawn,,17.99,,,17.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Dawn - Powerwash vaporisatuer pour la vaisselle, 3 × 635 ml","Dawn - Powerwash vaporisatuer pour la vaisselle, 3 × 635 ml",Dawn,,16.49,,,16.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Jack Link's - Bâtonnets de pepperoni à saveur originale, 20 × 22 g","Jack Link's - Bâtonnets de pepperoni à saveur originale, 20 × 22 g",Jack Link's,,20.49,,,20.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Scotch-Brite - Rouleau antipeluches 50% Plus Collant, Paquet de 5","Scotch-Brite - Rouleau antipeluches 50% Plus Collant, Paquet de 5",Scotch-Brite,,15.99,,,15.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Cadbury Mini Eggs - Friandises, 24 × 38 g",oeufs,Cadbury,,31.99,,,31.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Love Good Protein - Barres protéinées, 24 × 55 g","Love Good Protein - Barres protéinées, 24 × 55 g",love good fats,,54.99,,,54.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Ritz - Bits mini sandwiches, Craquelins à saveur de fromage, 34 × 42 g","Ritz - Bits mini sandwiches, Craquelins à saveur de fromage, 34 × 42 g",Ritz,,16.49,,,16.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,Twinings - Paquet de 144 sachets de thé Earl Grey,Twinings - Paquet de 144 sachets de thé Earl Grey,Twinings,,12.49,,,12.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Reese's - Moules au beurre d'arachides avec caramel, 16 × 79 g",beurre,Reese's,,30.99,,,30.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Cashmere Premium-Papier hygiénique doux, épais, hypoallergénique et sans danger pour les fosses septiques, Paquet de 40","Cashmere Premium-Papier hygiénique doux, épais, hypoallergénique et sans danger pour les fosses septiques, Paquet de 40",Cashmere,,29.49,,,29.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"BRITA – Filtres de rechange, paquet de 8","BRITA – Filtres de rechange, paquet de 8",BRITA,,40.99,,,40.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"SmartSweets Baies Sauvages, 7 × 50 g","SmartSweets Baies Sauvages, 7 × 50 g",SmartSweets,,16.49,,,16.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"PopCorners - Croustilles de maïs soufflé aromatisées, saveurs variées, 30 × 28 g","PopCorners - Croustilles de maïs soufflé aromatisées, saveurs variées, 30 × 28 g",PopCorners,,17.99,,,17.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Neutrogena Hydro Boost gel-crème, 2 x 47 mL","Neutrogena Hydro Boost gel-crème, 2 x 47 mL",Neutrogena,,28.39,,,28.39,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Shopsy's - Bâtonnets de peppéroni, paquet de 40","Shopsy's - Bâtonnets de peppéroni, paquet de 40",Shopsy's,,23.49,,,23.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Celsius - Boisson énergisante electric vibe, 355 mL paquet de 12","Celsius - Boisson énergisante electric vibe, 355 mL paquet de 12",Celsius,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Alcan Ultra fort et anti-adhérent - Papier d'aluminium, Paquet de 3","Alcan Ultra fort et anti-adhérent - Papier d'aluminium, Paquet de 3",Alcan,,20.99,,,20.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,Cubeware - Contenants rectangulaires pour aliments 38 oz paquet de 55,Cubeware - Contenants rectangulaires pour aliments 38 oz paquet de 55,Cubeware,,19.99,,,19.99,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Dare - Pattes d'ours, biscuits aux pépites de chocolat, 40 sachets","Dare - Pattes d'ours, biscuits aux pépites de chocolat, 40 sachets",Dare,,12.49,,,12.49,unknown,flipp,Costco Grocery
+2026-06-08,costco-quebec,"Kinder - Barres de chocolat, 36 × 21 g","Kinder - Barres de chocolat, 36 × 21 g",Kinder,,22.99,,,22.99,unknown,flipp,Costco Grocery
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-08,costco-quebec,Détergent à lave-vaisselle Super Net de Cascade,Détergent à lave-vaisselle Super Net de Cascade,Cascade,,19.99,,,19.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,T-shirt sous licence pour enfant,T-shirt sous licence pour enfant,Spider-Man,,15.99,,,15.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Téléviseur 4K QLED QD6QV de 58 po by Hisense,Téléviseur 4K QLED QD6QV de 58 po by Hisense,Hisense,,396.99,,,396.99,unknown,flipp,Circulaire
@@ -7328,7 +7412,10 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-08,costco-quebec,Numériseur ScanSnap ix2500 de Ricoh,Numériseur ScanSnap ix2500 de Ricoh,RICOH,,399.99,,,399.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Appareil à iontophorèse Dermadry Total pour la transpiration excessive,Appareil à iontophorèse Dermadry Total pour la transpiration excessive,,,349.99,,,349.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Nettoyant pour le corps ultra hydratant Olay,Nettoyant pour le corps ultra hydratant Olay,Olay,,12.99,,,12.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
 2026-06-08,costco-quebec,Craquelins de pain pita ail et ciboulette Pita Bites de Sensible Portions,pain,Pita Bites,,6.99,,,6.99,unknown,flipp,Circulaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-08,costco-quebec,Barres protéinées RXBAR,Barres protéinées RXBAR,RXBAR,,17.99,,,17.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Couche little snugglers plus+ de Huggies,Couche little snugglers plus+ de Huggies,Huggies,,33.99,,,33.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Chariot pliant avec freins Mac Sports,Chariot pliant avec freins Mac Sports,MAC Sports,,99.99,,,99.99,unknown,flipp,Circulaire
@@ -7384,7 +7471,10 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-08,costco-quebec,Bâtons de bœuf pour chiens Dog Delights,Bâtons de bœuf pour chiens Dog Delights,Dog Delights,,12.99,,,12.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Canneberge biologique Jamieson,Canneberge biologique Jamieson,Jamieson,,23.99,,,23.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Croustilles de bagel absolument-tout biologiques Boulangerie Schwartz Brothers,Croustilles de bagel absolument-tout biologiques Boulangerie Schwartz Brothers,Boulangerie Schwartz Brothers,,7.99,,,7.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
 2026-06-08,costco-quebec,McCafé Premium Roast,cafe,McCafé,,42.99,,,42.99,unknown,flipp,Circulaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-08,costco-quebec,HUGGIES plus,HUGGIES plus,Huggies,,41.99,,,41.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Cooler,Cooler,,,23.99,,,23.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Sous-vêtements d'entraînement Pull-Ups plus de Huggies pour garçon ou fille,Sous-vêtements d'entraînement Pull-Ups plus de Huggies pour garçon ou fille,Huggies,,36.99,,,36.99,unknown,flipp,Circulaire
@@ -7409,6 +7499,53 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-08,costco-quebec,Gouttes oculaires sans agent de conservation Ultra de Systane,Gouttes oculaires sans agent de conservation Ultra de Systane,Systane,,18.99,,,18.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Nettoyant pour cuvette Advanced de Lysol,Nettoyant pour cuvette Advanced de Lysol,Lysol,,10.99,,,10.99,unknown,flipp,Circulaire
 2026-06-08,costco-quebec,Complexe de vitamine B100 ultra fort à libération prolongée Jamieson,Complexe de vitamine B100 ultra fort à libération prolongée Jamieson,Jamieson,,23.99,,,23.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
+=======
+2026-06-11,familiprix-joliette,Lunettes de soleil sélectionnées,Lunettes de soleil sélectionnées,,,30,,,30,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"STYLÉ, Bas pour femme sélectionnés","STYLÉ, Bas pour femme sélectionnés",STYLE,,21,,,21,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"MONDOUX, Sweet Sixteen, Mélange de réglisses assorties, 800 g","MONDOUX, Sweet Sixteen, Mélange de réglisses assorties, 800 g",Sweet Sixteen,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"NESTLÉ, Aero Scoops, Barre de chocolat, 105 g","NESTLÉ, Aero Scoops, Barre de chocolat, 105 g",Nestle,,3.99,,,3.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Covergirl Clean rouge à lèvres #215 Enchantress Blush 3.5g,Covergirl Clean rouge à lèvres #215 Enchantress Blush 3.5g,CoverGirl,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"ANNABELLE, Perfect Matte, Poudre pressée matifiante","ANNABELLE, Perfect Matte, Poudre pressée matifiante",Annabelle,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"SALLY HANSEN, Insta-Dri, Vernis à ongles","SALLY HANSEN, Insta-Dri, Vernis à ongles",Sally Hansen,,6.99,,,6.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"COVERGIRL, Eye Enhancer Wrap Tubing, Mascara tubulaire à effet allongeant","COVERGIRL, Eye Enhancer Wrap Tubing, Mascara tubulaire à effet allongeant",CoverGirl,,10.99,,,10.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Couverture de pique-nique avec poignée de transport,Couverture de pique-nique avec poignée de transport,,,18.99,,,18.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Hawaiian Tropic Silk Hydration écran solaire incolore FPS30 en vaporisateur 170g,Hawaiian Tropic Silk Hydration écran solaire incolore FPS30 en vaporisateur 170g,Hawaiian Tropic,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Sally Hansen Xtreme Wear vernis à ongles #432 Cloud 9 - 11.8ml,Sally Hansen Xtreme Wear vernis à ongles #432 Cloud 9 - 11.8ml,Sally Hansen,,3.49,,,3.49,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"ANNABELLE, Perfect Bronzer, Poudre bronzante","ANNABELLE, Perfect Bronzer, Poudre bronzante",Annabelle,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"COVERGIRL, Clean Fresh Prime + Refresh, Lait nourrissant spray",lait,CoverGirl,,10.99,,,10.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"ANNABELLE, Perfect Blush, Fard à joues en poudre","ANNABELLE, Perfect Blush, Fard à joues en poudre",Annabelle,,5.99,,,5.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Kiss Salon X-Tend extension d'ongle en gel 30un,Kiss Salon X-Tend extension d'ongle en gel 30un,Kiss,,15.99,,,15.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"ESSENTIEL, Bracelet antimoustiques","ESSENTIEL, Bracelet antimoustiques",Essentiel,,16.99,,,16.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"SUN BUM, Baume écran solaire pour les lèvres","SUN BUM, Baume écran solaire pour les lèvres",Sun Bum,,3.79,,,3.79,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"FRUITS & PASSION, Cucina, Routine du Chef, Coffret, 2 pièces","FRUITS & PASSION, Cucina, Routine du Chef, Coffret, 2 pièces",CUCINA,,18.99,,,18.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"FRUITS & PASSION, Alo, Rituel SPA, Coffret, 4 pièces","FRUITS & PASSION, Alo, Rituel SPA, Coffret, 4 pièces",FRUITS & PASSION,,23.99,,,23.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"FRUITS & PASSION, Alo, Trio melon d'eau kiwi","FRUITS & PASSION, Alo, Trio melon d'eau kiwi",FRUITS & PASSION,,19.99,,,19.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Chapeau,Stylé Chapeau,STYLE,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"NERDS, Gummy Clusters, Friandises, 142 g","NERDS, Gummy Clusters, Friandises, 142 g",Nerds,,2.99,,,2.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"IMPÉRIAL, Barbe à papa, 60 g","IMPÉRIAL, Barbe à papa, 60 g",Imperial,,1.99,,,1.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Sandale - Grandeur 6-7,Stylé Sandale - Grandeur 6-7,STYLE,,10.99,,,10.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"KANDJU, Friandises, 700 g","KANDJU, Friandises, 700 g",Kandju,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Nivea baume à lèvres bienfaisant FPS30 Soleil 2x4.8g,Nivea baume à lèvres bienfaisant FPS30 Soleil 2x4.8g,Nivea,,3.99,,,3.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Maybelline New York Lifter Glaze baume à lèvres à base d'huile #005 Peach Quench 2.8g,Maybelline New York Lifter Glaze baume à lèvres à base d'huile #005 Peach Quench 2.8g,Maybelline,,12.99,,,12.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Clairol Natural Instincts coloration cheveux semi-permanente #6 Châtain Clair,Clairol Natural Instincts coloration cheveux semi-permanente #6 Châtain Clair,Clairol,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Serviette de Plage Microfibre - Coucher de Soleil,Stylé Serviette de Plage Microfibre - Coucher de Soleil,STYLE,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Sally Hansen Insta-Dri Vernis à Ongles #352 Peachy Flare 9.17ml,Sally Hansen Insta-Dri Vernis à Ongles #352 Peachy Flare 9.17ml,Sally Hansen,,6.99,,,6.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,L'Oréal Paris True Match Lumi Glotion sublimateur d'éclat naturel #902 Éclat Clair 40ml,L'Oréal Paris True Match Lumi Glotion sublimateur d'éclat naturel #902 Éclat Clair 40ml,L'oreal paris,,18.99,,,18.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Glacière - Lignée,Stylé Glacière - Lignée,STYLE,,22.99,,,22.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Sally Hansen Xtreme Wear vernis à ongles #552 Lavender Skies 11.8ml,Sally Hansen Xtreme Wear vernis à ongles #552 Lavender Skies 11.8ml,Sally Hansen,,3.49,,,3.49,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Garnier Good coloration cheveux permanente #8.0 Blond Miel,Garnier Good coloration cheveux permanente #8.0 Blond Miel,Garnier,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Biomedic écran solaire lotion ultra FPS50+ famille 1L,Biomedic écran solaire lotion ultra FPS50+ famille 1L,Biomedic,,24.99,,,24.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Kiss Gel Fantasy Velvet Effect ongles prêts-à-porter Moyen 28un,Kiss Gel Fantasy Velvet Effect ongles prêts-à-porter Moyen 28un,Kiss,,15.99,,,15.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Serviette de Plage Microfibre - Lignée,Stylé Serviette de Plage Microfibre - Lignée,STYLE,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Biomedic écran solaire teinté visage FPS50 50ml,Biomedic écran solaire teinté visage FPS50 50ml,Biomedic,,13.99,,,13.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,L'Oréal Paris True Match Super-Blendable fond de teint unifiant #2N Clair Neutre Vanille 30ml,L'Oréal Paris True Match Super-Blendable fond de teint unifiant #2N Clair Neutre Vanille 30ml,L'oreal paris,,17.99,,,17.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Stylé Sac de Plage - Lignée,Stylé Sac de Plage - Lignée,STYLE,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Hawaiian Tropic Silk Hydration après-soleil parfum de noix de coco et de papaye 180ml,Hawaiian Tropic Silk Hydration après-soleil parfum de noix de coco et de papaye 180ml,Hawaiian Tropic,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"NESTLÉ, Mini barres assorties et friandises, 25 unités","NESTLÉ, Mini barres assorties et friandises, 25 unités",Nestle,,8.99,,,8.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,L'Oréal Paris Casting Crème Gloss Coloration Cheveux #210 Noir Bleuté,L'Oréal Paris Casting Crème Gloss Coloration Cheveux #210 Noir Bleuté,L'oreal paris,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Clairol Root Touch Up Color + Volume Retouche Repousse Temporaire - Brun Foncé à Moyen 52.7g,Clairol Root Touch Up Color + Volume Retouche Repousse Temporaire - Brun Foncé à Moyen 52.7g,Clairol,,9.99,,,9.99,unknown,flipp,Catalogue
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,familiprix-joliette,Ensure Hyperprotéiné supplément nutritionnel Vanille 6x235ml,Ensure Hyperprotéiné supplément nutritionnel Vanille 6x235ml,Ensure,,12.99,,,12.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,Fantastik nettoyant tout usage original 650ml,Fantastik nettoyant tout usage original 650ml,Fantastik,,5.99,,,5.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,"BIOVERT Détergent à lessive HE, 4,43 litres","BIOVERT Détergent à lessive HE, 4,43 litres",BIOVERT,,14.99,,,14.99,unknown,flipp,Circulaire
@@ -7429,7 +7566,10 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,familiprix-joliette,Garnier Fructis Pure Clean shampooing fortifiant avec extrait de citron pour cheveux normaux à gras 370ml,Garnier Fructis Pure Clean shampooing fortifiant avec extrait de citron pour cheveux normaux à gras 370ml,Garnier,,3.49,,,3.49,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,L'ORÉAL PARIS Products de maquillaje seleccionados,L'ORÉAL PARIS Products de maquillaje seleccionados,L'oreal paris,,14.99,,,14.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,Gaviscon antiacide extra fort mélange de fruits 60un,Gaviscon antiacide extra fort mélange de fruits 60un,Gaviscon,,15.99,,,15.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
 2026-06-11,familiprix-joliette,Enfamil A+ NeuroPro Gentlease Préparation à base de lait enrichie de fer pour nourrissons 0 mois + poudre ajouter de l'eau Recharges 2x431g,lait,Enfamil,,65.49,,,65.49,unknown,flipp,Circulaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,familiprix-joliette,L'ORÉAL PARIS Produits de maquillage sélectionnés,L'ORÉAL PARIS Produits de maquillage sélectionnés,L'oreal paris,,14.99,,,14.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,Essentiel Ultra essuie-tout absorbant résistant 6un,Essentiel Ultra essuie-tout absorbant résistant 6un,Essentiel,,5.99,,,5.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,Secret Thérapeutique + antisudorifique en bâton réaction au stress 45g,Secret Thérapeutique + antisudorifique en bâton réaction au stress 45g,Secret,,6.49,,,6.49,unknown,flipp,Circulaire
@@ -7596,12 +7736,261 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,familiprix-joliette,ALIGN PROBIOTIQUE Probiotiques sélectionnés,ALIGN PROBIOTIQUE Probiotiques sélectionnés,Align,,29.99,,,29.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,PROBACLAC Probiotiques sélectionnés,PROBACLAC Probiotiques sélectionnés,PROBACLAC,,15.99,,,15.99,unknown,flipp,Circulaire
 2026-06-11,familiprix-joliette,Align santé digestive prébiotique+probiotique saveurs de fruits 50un,Align santé digestive prébiotique+probiotique saveurs de fruits 50un,Align,,27.99,,,27.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
+=======
+2026-06-11,familiprix-joliette,"KISS, Ensemble d'ongles sélectionnés","KISS, Ensemble d'ongles sélectionnés",Kiss,,15.99,,,15.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"STYLÉ, Glacière isolée rayée","STYLÉ, Glacière isolée rayée",,,22.99,,,22.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"PAMPERS, Splashers, Maillots de bain jetables/Disposable swim pants, 18 ou 20 unités","PAMPERS, Splashers, Maillots de bain jetables/Disposable swim pants, 18 ou 20 unités",Pampers,,10.99,,,10.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"ESSIE, Break Fix, Fixateur liquide pour ongles","ESSIE, Break Fix, Fixateur liquide pour ongles",Essie,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Hawaiian Tropic lotion écran solaire FPS30 sans huile toucher soyeux 240ml,Hawaiian Tropic lotion écran solaire FPS30 sans huile toucher soyeux 240ml,Hawaiian Tropic,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"CLAIROL, Natural Instincts, Coloration sans ammoniaque","CLAIROL, Natural Instincts, Coloration sans ammoniaque",Clairol,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"GUESS, ICONIC BLUE, Eau de parfum pour homme","GUESS, ICONIC BLUE, Eau de parfum pour homme",GUESS,,95,,,95,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"VITALITY'S, art Absolute, Coloration en crème","VITALITY'S, art Absolute, Coloration en crème",VITALITY'S,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"TEAOLOGY, Duo cils et sourcils","TEAOLOGY, Duo cils et sourcils",TEAOLOGY,,65.99,,,65.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"TEAOLOGY, Brume parfumée pour le corps et les cheveux","TEAOLOGY, Brume parfumée pour le corps et les cheveux",TEAOLOGY,,65.99,,,65.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Annabelle Perfect Bronzer,Annabelle Perfect Bronzer,Annabelle,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Huiles à lèvres teintées naturellement ou transparentes sélectionnées,Huiles à lèvres teintées naturellement ou transparentes sélectionnées,,,18.99,,,18.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"BIODERMA, Photoderm Gel-crème, Après soleil","BIODERMA, Photoderm Gel-crème, Après soleil",Bioderma,,31.99,,,31.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,L'Oréal Paris Skin Ink fond de teint & correcteur #15 Clair-Léger 15ml,L'Oréal Paris Skin Ink fond de teint & correcteur #15 Clair-Léger 15ml,L'oreal paris,,17.99,,,17.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,VITRY Vernis à ongles sélectionnés,VITRY Vernis à ongles sélectionnés,VITRY,,6.99,,,6.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"L'ORÉAL PARIS, True Match, Fond de teint fondant unifiant","L'ORÉAL PARIS, True Match, Fond de teint fondant unifiant",L'oreal paris,,17.99,,,17.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,GARNIER GOOD,GARNIER GOOD,Garnier,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,TAKE CARE Spray mains nettoyant et parfumant 35 ml,TAKE CARE Spray mains nettoyant et parfumant 35 ml,TAKE CARE,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,NERDS Friandises,NERDS Friandises,Nerds,,2.99,,,2.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"NESTLÉ, Mini barres assorties et friandises","NESTLÉ, Mini barres assorties et friandises",Nestle,,8.99,,,8.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"IMPÉRIAL POPCORN, Maïs soufflé rose 178 g","IMPÉRIAL POPCORN, Maïs soufflé rose 178 g",Imperial,,2.99,,,2.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Essie Break Fix Fixateur Liquide pour Ongles 7ml,Essie Break Fix Fixateur Liquide pour Ongles 7ml,Essie,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Vernis gel 3 en 1,Vernis gel 3 en 1,LOOKY,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,COVERGIRL,COVERGIRL,,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,LISE WATIER MAGNIFIX,LISE WATIER MAGNIFIX,LISE WATIER,,45,,,45,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"WATIER, Collection Havana, Pinceau poudre bronzante","WATIER, Collection Havana, Pinceau poudre bronzante",WATIER,,49,,,49,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"NESTLÉ, Aero Scoops, Barre de chocolat","NESTLÉ, Aero Scoops, Barre de chocolat",Nestle,,3.99,,,3.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,ANNABELLE Fard à joues en poudre,ANNABELLE Fard à joues en poudre,Annabelle,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"L'ORÉAL PARIS, Casting Crème Gloss, Coloration capillaire semi-permanente sans ammoniaque","L'ORÉAL PARIS, Casting Crème Gloss, Coloration capillaire semi-permanente sans ammoniaque",L'oreal paris,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"WATIER, Magnifix 4 en 1/4 in 1, Brume fixatrice, base, soin hydratant et protecteu","WATIER, Magnifix 4 en 1/4 in 1, Brume fixatrice, base, soin hydratant et protecteu",WATIER,,62,,,62,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"SALLY HANSEN, Xtreme Wear, Vernis à ongles","SALLY HANSEN, Xtreme Wear, Vernis à ongles",Sally Hansen,,3.49,,,3.49,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,ROGER & GALLET Parfums solides sélectionnés 5 g,ROGER & GALLET Parfums solides sélectionnés 5 g,ROGER & GALLET,,19,,,19,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,WAITER,WAITER,,,60,,,60,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"DASHING DIVA, Magic Press, Ensembles d'ongles sélectionnés","DASHING DIVA, Magic Press, Ensembles d'ongles sélectionnés",Dashing Diva,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,LOOKY Vernis 3 en 1,LOOKY Vernis 3 en 1,LOOKY,,9.99,,,9.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"FRUITS & PASSION, Alo, Rituel SPA","FRUITS & PASSION, Alo, Rituel SPA",Alo,,23.99,,,23.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"FRUITS & PASSION, Cucina, Routine du Chef/Chef's routine, Coffret 2 pièces","FRUITS & PASSION, Cucina, Routine du Chef/Chef's routine, Coffret 2 pièces",CUCINA,,18.99,,,18.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"TAKE CARE, Spray mains nettoyant et parfumant","TAKE CARE, Spray mains nettoyant et parfumant",TAKE CARE,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,LOOKY Fragrances sélectionnées pour femme,LOOKY Fragrances sélectionnées pour femme,LOOKY,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Looky Dissolvant Miracle 15ml,Looky Dissolvant Miracle 15ml,LOOKY,,7.99,,,7.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,Bracelet antimoustiques,Bracelet antimoustiques,Essentiel,,16.99,,,16.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"STYLÉ, Chapeau Fedora en paille, sac de plage ou serviette de plage en mirofibre","STYLÉ, Chapeau Fedora en paille, sac de plage ou serviette de plage en mirofibre",,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"Chapeau Fedora en paille, sac de plage ou microfibre","Chapeau Fedora en paille, sac de plage ou microfibre",,,14.99,,,14.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,IMPÉRIAL Barbe à papa,IMPÉRIAL Barbe à papa,IMPERIAL™,,1.99,,,1.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"""STYLÉ, Bas pour femme sélectionnés","""STYLÉ, Bas pour femme sélectionnés",STYLE,,21,,,21,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"STYLÉ, Sandales double boucles","STYLÉ, Sandales double boucles",STYLE,,10.99,,,10.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"KANDJU, Friandises 700 g","KANDJU, Friandises 700 g",Kandju,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,"MONDOUX, Sweet Sixteen, Mélange de réglisses assorties","MONDOUX, Sweet Sixteen, Mélange de réglisses assorties",Sweet Sixteen,,11.99,,,11.99,unknown,flipp,Catalogue
+2026-06-11,familiprix-joliette,GENACOL,GENACOL,Genacol,,19.99,,,19.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BAUSCH + LOMB, Produits sélectionnés","BAUSCH + LOMB, Produits sélectionnés",Bausch & Lomb,,18.99,,,18.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Culottes protectrices sélectionnées,Culottes protectrices sélectionnées,Essentiel,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Tylenol caplets 650mg douleurs arthritiques 215un,Tylenol caplets 650mg douleurs arthritiques 215un,Tylenol,,25.99,,,25.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Antiphlogistine crème muscles et articulations puissance maximale 100g,Antiphlogistine crème muscles et articulations puissance maximale 100g,ANTIPHLOGISTINE,,10.49,,,10.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Aspirin comprimés enrobés 81mg 180un,Aspirin comprimés enrobés 81mg 180un,ASPIRIN,,20.49,,,20.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"TYLENOL Sinus, Rhume, Rhume et Sinus ou Grippé produits sélectionnés, 18 ou 20 unités","TYLENOL Sinus, Rhume, Rhume et Sinus ou Grippé produits sélectionnés, 18 ou 20 unités",Tylenol,,9.49,,,9.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"MOTRIN Ibuprofène, 200 mg, 72 gélules, 90 comprimés ou Platine, Ibuprofène + Relaxant musculaire, 18 caplets","MOTRIN Ibuprofène, 200 mg, 72 gélules, 90 comprimés ou Platine, Ibuprofène + Relaxant musculaire, 18 caplets",Motrin,,12.49,,,12.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Tylenol Extra Fort comprimé 500mg 50un,Tylenol Extra Fort comprimé 500mg 50un,Tylenol,,8.99,,,8.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BIOMEDIC Allergies,BIOMEDIC Allergies,Biomedic,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Biomedic nettoyant doux pour la peau 500ml,Biomedic nettoyant doux pour la peau 500ml,Biomedic,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Biomedic spray nasal jet moyen 135ml,Biomedic spray nasal jet moyen 135ml,Biomedic,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Biomedic pastilles sans sucre aux herbes citron et menthe 20un,Biomedic pastilles sans sucre aux herbes citron et menthe 20un,Biomedic,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BIOMEDIC Pansements sélectionnés,BIOMEDIC Pansements sélectionnés,Biomedic,,4.99,,,4.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,IMODIUM Produits sélectionnés,IMODIUM Produits sélectionnés,IMODIUM,,21.99,,,21.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"""REACTINE, Produits sélectionnés","""REACTINE, Produits sélectionnés",Reactine,,19.99,,,19.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC Acétaminophène, 500 mg, 500 comprimés ou 500 caplets","BIOMEDIC Acétaminophène, 500 mg, 500 comprimés ou 500 caplets",Biomedic,,25.99,,,25.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Ibuprofène, 200 mg, 120 comprimés ou caplets","BIOMEDIC, Ibuprofène, 200 mg, 120 comprimés ou caplets",Biomedic,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Biomedic antiacide et antiflatulent saveur de menthe 350ml,Biomedic antiacide et antiflatulent saveur de menthe 350ml,Biomedic,,8.49,,,8.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,CANESTEN Crème antifongique externe ou crème topique pour les pieds 15 g,CANESTEN Crème antifongique externe ou crème topique pour les pieds 15 g,CANESTEN,,8.79,,,8.79,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,POLYSPORIN Selected products,POLYSPORIN Selected products,Polysporin,,11.49,,,11.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC Platine Soulagement des douleurs musculaires et dorsales , 18 caplets ou Soulagement des douleurs musculaires et corporelle, 650 mg, 72","BIOMEDIC Platine Soulagement des douleurs musculaires et dorsales , 18 caplets ou Soulagement des douleurs musculaires et corporelle, 650 mg, 72",Biomedic,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"SCOTTIES Mouchoirs, 6 boîtes","SCOTTIES Mouchoirs, 6 boîtes",Scotties,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"CLARITIN, Allergies, 10 mg, 20 comprimés","CLARITIN, Allergies, 10 mg, 20 comprimés",Claritin,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BIOMEDIC Soulagement de la diarrhée,BIOMEDIC Soulagement de la diarrhée,Biomedic,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BENADRYL Produits sélectionnés,BENADRYL Produits sélectionnés,Benadryl,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Advil comprimés d'ibuprofène plus acétaminophène 18un,Advil comprimés d'ibuprofène plus acétaminophène 18un,Advil,,6.49,,,6.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Biomedic Bismuth antidiarrhéique régulier saveur originale 230ml,Biomedic Bismuth antidiarrhéique régulier saveur originale 230ml,Biomedic,,7.49,,,7.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,HYDRASENSE Gouttes pour les yeux,HYDRASENSE Gouttes pour les yeux,hydraSense,,18.99,,,18.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Benzagel 5 Gel Anti-Acné 60g,Benzagel 5 Gel Anti-Acné 60g,BENZAGEL,,13.49,,,13.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BAND-AID Pansements adhésifs sélectionnés,BAND-AID Pansements adhésifs sélectionnés,Band-Aid,,5.99,,,5.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BENADRYL ou REACTINE Produits sélectionnés,BENADRYL ou REACTINE Produits sélectionnés,Benadryl,,19.49,,,19.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,LOOKY Vernis gel 3 en 1,LOOKY Vernis gel 3 en 1,LOOKY,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,FÉRIA ou OLIA Colorations capillaires sélectionnées,FÉRIA ou OLIA Colorations capillaires sélectionnées,L'oreal paris,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,LAX-A-DAY Laxatif 238 g ou 10 sachets x 17 g,LAX-A-DAY Laxatif 238 g ou 10 sachets x 17 g,Lax-A-Day,,13.99,,,13.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Gillette Fusion Proglide cartouches 4un,Gillette Fusion Proglide cartouches 4un,Gillette,,24.99,,,24.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Pour Un Nettoyage Éclatant Et Efficace 28% des dents plus blanches,Pour Un Nettoyage Éclatant Et Efficace 28% des dents plus blanches,,,4.49,,,4.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"OLD SPICE, Nettoyants pour le corps sélectionnés","OLD SPICE, Nettoyants pour le corps sélectionnés",Old Spice,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"NAIR, Produits dépilatoires sélectionnés","NAIR, Produits dépilatoires sélectionnés",NAIR,,14.49,,,14.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Scotties Original papiers-mouchoirs 2 épaisseurs Boîte 6x126un,Scotties Original papiers-mouchoirs 2 épaisseurs Boîte 6x126un,Scotties,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"THE LITTLE CACAO CO. Sommeil Mélatonine, 1 mg, 20 unités","THE LITTLE CACAO CO. Sommeil Mélatonine, 1 mg, 20 unités",THE LITTLE CACAO,,24.99,,,24.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,L'ORÉAL PARIS Selected makeup products,L'ORÉAL PARIS Selected makeup products,L'oreal paris,,14.99,,,14.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Platinum Dishwasher Detergent 39 sachets/pacs or Platinum Plus 30 sachets/pacs,Platinum Dishwasher Detergent 39 sachets/pacs or Platinum Plus 30 sachets/pacs,Cascade,,13.99,,,13.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,GENACOL Produits sélectionnés,GENACOL Produits sélectionnés,Genacol,,19.99,,,19.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,DOVE MEN+CARE Nettoyants corps et visage sélectionnés 532 mL,DOVE MEN+CARE Nettoyants corps et visage sélectionnés 532 mL,Dove Men+Care,,7.49,,,7.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"CASHMERE, SCOTTIES ESSENTIEL Papiers sélectionnés","CASHMERE, SCOTTIES ESSENTIEL Papiers sélectionnés",Cashmere,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Old Spice COSMIC QUEST,Old Spice COSMIC QUEST,Old Spice,,7.99,,,7.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"DAWN, Détergent à vaisselle liquide , 1,12 litre","DAWN, Détergent à vaisselle liquide , 1,12 litre",Dawn,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Annabelle Produits de maquillage sélectionnés,Annabelle Produits de maquillage sélectionnés,Annabelle,,8.99,,,8.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"L'ORÉAL PARIS, Produits de maquillage sélectionnés","L'ORÉAL PARIS, Produits de maquillage sélectionnés",L'oreal paris,,14.99,,,14.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Pampers Cruisers 360° couches pour bébés Taille 5 (plus de 12kg) - 56un,Pampers Cruisers 360° couches pour bébés Taille 5 (plus de 12kg) - 56un,Pampers,,20.99,,,20.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"GILLETTE, Cartouches ou rasoirs sélectionnés","GILLETTE, Cartouches ou rasoirs sélectionnés",Gillette,,19.99,,,19.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Prana Bean Me Up mélange de légumineuses et noix assaisonnées cornichon à l'aneth épicé 325g,Prana Bean Me Up mélange de légumineuses et noix assaisonnées cornichon à l'aneth épicé 325g,PRANA,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Soin du nez hydratant,Soin du nez hydratant,Biomedic,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"LISTERINE ou VASELINE, Produits sélectionnés","LISTERINE ou VASELINE, Produits sélectionnés",,,7.99,,,7.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,SAVON EN BARRE,SAVON EN BARRE,Dove,,15.99,,,15.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Vaseline Clinical Care crème thérapeutique traitement de l'eczéma non parfumée 200ml,Vaseline Clinical Care crème thérapeutique traitement de l'eczéma non parfumée 200ml,Vaseline,,7.99,,,7.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,POLIGRIP,POLIGRIP,Poligrip,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,CASCADES Tuff Enviro Essuie-tout 12 rouleaux jumbo,CASCADES Tuff Enviro Essuie-tout 12 rouleaux jumbo,Cascades,,11.99,,,11.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"GUM, Produits buccaux sélectionnés","GUM, Produits buccaux sélectionnés",G.U.M,,2.79,,,2.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,OLD SPICE Produits soins pour le corps et désodorisant sélectionnés,OLD SPICE Produits soins pour le corps et désodorisant sélectionnés,Old Spice,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"OLAY, Super Sérum, Nettoyant pour le corps, 591 ml","OLAY, Super Sérum, Nettoyant pour le corps, 591 ml",Olay,,13.99,,,13.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Shampoos antipelliculaires sélectionnés,Shampoos antipelliculaires sélectionnés,Head & Shoulders,,13.99,,,13.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ESSENTIEL, Rince-bouche, 1 litre","ESSENTIEL, Rince-bouche, 1 litre",Essentiel,,4.99,,,4.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Vaseline gelée de pétrole originale 100g,Vaseline gelée de pétrole originale 100g,Vaseline,,3.79,,,3.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Un duo parfait pour la fête des Pères,Un duo parfait pour la fête des Pères,,,10,,,10,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Bausch + Lomb Biotrue solution polyvalente pour lentilles cornéennes souples et celles en silicone hydrogel 2x300ml,Bausch + Lomb Biotrue solution polyvalente pour lentilles cornéennes souples et celles en silicone hydrogel 2x300ml,BAUSCH + LOMB,,18.99,,,18.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"DR-HOS, Ceinture lombaire à triple action","DR-HOS, Ceinture lombaire à triple action",DR-HO'S,,189.99,,,189.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"""CANESTEN, Crème antifongique externe ou crème topique pour les pieds, 15 g …""","""CANESTEN, Crème antifongique externe ou crème topique pour les pieds, 15 g …""",CANESTEN,,8.79,,,8.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"Lingettes pour bébé, 3 x 64 unités","Lingettes pour bébé, 3 x 64 unités",Essentiel,,6.99,,,6.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Dove Original pain de savon 12x106g,pain,Dove,,15.99,,,15.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Ibuprofène en gélules liquides, 200 mg, 32 capsules","BIOMEDIC, Ibuprofène en gélules liquides, 200 mg, 32 capsules",Biomedic,,7.99,,,7.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC Bismuth, Antidiarrhéique 230 ml ou 24 caplets","BIOMEDIC Bismuth, Antidiarrhéique 230 ml ou 24 caplets",Biomedic,,7.49,,,7.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Bios Diagnostics tensiomètre facile à lire precision 6.0,Bios Diagnostics tensiomètre facile à lire precision 6.0,BIOS,,79.99,,,79.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"MITCHUM, Antisudorifiques ou désodorisants sélectionnés","MITCHUM, Antisudorifiques ou désodorisants sélectionnés",Mitchum,,6.99,,,6.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"IVORY, Nettoyant pour le corps, 621 ml","IVORY, Nettoyant pour le corps, 621 ml",Ivory,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Pâte d'lhle 500 g ou ONGUENT DE ZINC 450 g,Pâte d'lhle 500 g ou ONGUENT DE ZINC 450 g,Essentiel,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Lysol lingettes désinfectantes agrumes 75un,Lysol lingettes désinfectantes agrumes 75un,Lysol,,6.99,,,6.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"COTTONELLE, Lingettes jetables, 4 x 42 unités","COTTONELLE, Lingettes jetables, 4 x 42 unités",Cottonelle,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ESSENTIEL, Liquide à vaisselle, 591 ml à 800 ml","ESSENTIEL, Liquide à vaisselle, 591 ml à 800 ml",Essentiel,,5,,,5,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Biomedic Soin du nez hydratant,Biomedic Soin du nez hydratant,Biomedic,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"TYLENOL, Sinus, Rhume, Rhume et Sinus ou Grippe, produits sélectionnés, 18 ou 20 unités","TYLENOL, Sinus, Rhume, Rhume et Sinus ou Grippe, produits sélectionnés, 18 ou 20 unités",Tylenol,,9.49,,,9.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,ORAL-B Produits buccaux sélectionné,ORAL-B Produits buccaux sélectionné,Oral-B,,2.79,,,2.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ESSENTIEL, Culottes protectrices sélectionnées","ESSENTIEL, Culottes protectrices sélectionnées",Essentiel,,11.99,,,11.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Biomedic comprimés d'ibuprophène 200mg 120un,Biomedic comprimés d'ibuprophène 200mg 120un,Biomedic,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC Antiacide et antiflatulent, 350 ml","BIOMEDIC Antiacide et antiflatulent, 350 ml",Biomedic,,8.49,,,8.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,L'Oréal Paris Infallible couvrance complète correcteur #345 Avoine 10ml,L'Oréal Paris Infallible couvrance complète correcteur #345 Avoine 10ml,L'oreal paris,,14.99,,,14.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,GAVISCON Pour reflux acide et brûlures d'estomac produits sélectionnés,GAVISCON Pour reflux acide et brûlures d'estomac produits sélectionnés,Gaviscon,,15.99,,,15.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,ALIGN PROBIOTIQUES POUR FEMMES,ALIGN PROBIOTIQUES POUR FEMMES,Align,,29.99,,,29.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Essentiel Papiers sélectionnés,Essentiel Papiers sélectionnés,Essentiel,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Dove Soin Avancé antisudorifique en bâton Essentiels Fraîcheur 74g,Dove Soin Avancé antisudorifique en bâton Essentiels Fraîcheur 74g,Dove,,8.49,,,8.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ENSURE, Substitut de repas , 6 x 235 ml","ENSURE, Substitut de repas , 6 x 235 ml",Ensure,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Herbal Essences mousse rehausse-boucles 192g,Herbal Essences mousse rehausse-boucles 192g,Herbal Essences,,4.99,,,4.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"SENSODYNE ou POLIGRIP, Produits buccaux sélectionnés","SENSODYNE ou POLIGRIP, Produits buccaux sélectionnés",Sensodyne,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,HYDRASENSE Gouttes pour les yeux 2 x 10 ml,HYDRASENSE Gouttes pour les yeux 2 x 10 ml,hydraSense,,18.99,,,18.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,BASE GLAXAL Crème hydratante,BASE GLAXAL Crème hydratante,Base Glaxal,,20.99,,,20.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"DIPPITY-DO, Men ou Girls with Curls, Produits capillaires sélectionnés","DIPPITY-DO, Men ou Girls with Curls, Produits capillaires sélectionnés",DIPPITY-DO,,5.79,,,5.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,U by Kotex Night Defense Serviettes Ultraminces avec Ailes de Nuit 36un,U by Kotex Night Defense Serviettes Ultraminces avec Ailes de Nuit 36un,U by Kotex,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,BOOST Juste des protéines 227 g,BOOST Juste des protéines 227 g,Boost,,18.99,,,18.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Probaclac Adulte capsules végétales 7 souches de probiotiques et de ferments lactiques 30un,Probaclac Adulte capsules végétales 7 souches de probiotiques et de ferments lactiques 30un,PROBACLAC,,15.99,,,15.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"Q-TIPS Cotons-tiges, 400 unités","Q-TIPS Cotons-tiges, 400 unités",Q-tips,,3.99,,,3.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Vaseline Intensive Care lotion avec beurre de cacao pur 600ml,beurre,Vaseline,,7.99,,,7.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Pansements sélectionnés","BIOMEDIC, Pansements sélectionnés",Biomedic,,4.99,,,4.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"OLAY, Super Sérum, Sérums sélectionnés","OLAY, Super Sérum, Sérums sélectionnés",Olay,,30.99,,,30.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"LIGHT BLUE SHADE Shampooing ou revitalisant, 450 ml","LIGHT BLUE SHADE Shampooing ou revitalisant, 450 ml",LIGHT BLUE SHADE,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,DR TEAL'S Produits sélectionnés,DR TEAL'S Produits sélectionnés,Dr. Teals,,6.99,,,6.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,SCHICK Cartouches sélectionnées,SCHICK Cartouches sélectionnées,Schick,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Maybelline Produits de maquillage sélectionnés,Maybelline Produits de maquillage sélectionnés,Maybelline,,14.95,,,14.95,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,U by Kotex CLICK,U by Kotex CLICK,U by Kotex,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"WEBBER NATURALS, Produits sélectionnés","WEBBER NATURALS, Produits sélectionnés",webber naturals,,18.99,,,18.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,PREMIÈRE RÉPONSE Tests de grossesse sélectionnés,PREMIÈRE RÉPONSE Tests de grossesse sélectionnés,PREMIÈRE RÉPONSE,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Four o'Clock Herboriste sachets tisane calme Passiflore et Valériane 20un,Four o'Clock Herboriste sachets tisane calme Passiflore et Valériane 20un,FOUR O'CLOCK,,4.99,,,4.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Scrubbing Bubbles mousse superpuissante pour la douche rosée du matin 946ml,Scrubbing Bubbles mousse superpuissante pour la douche rosée du matin 946ml,Scrubbing Bubbles,,5.99,,,5.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,BENZAGEL Acne gel,BENZAGEL Acne gel,BENZAGEL,,13.49,,,13.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"LISTERINE, Rince-bouches sélectionnés, 500 ml ou 1,5 litre","LISTERINE, Rince-bouches sélectionnés, 500 ml ou 1,5 litre",Listerine,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,DOVE ou DOVE MEN CARE,DOVE ou DOVE MEN CARE,Dove,,8.49,,,8.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,NIVEA Crème nourrissante 400 ml,NIVEA Crème nourrissante 400 ml,Nivea,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,BON DÉPART GOOD START Plus,BON DÉPART GOOD START Plus,Bon Départ,,42.99,,,42.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Sally Hansen Miracle Gel Top Coat vernis de protection étape 2 #106 Unicorn 14.7ml,Sally Hansen Miracle Gel Top Coat vernis de protection étape 2 #106 Unicorn 14.7ml,Sally Hansen,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Garnier Olia coloration cheveux permanente optimisée par l'huile #6.0 Châtain Clair,Garnier Olia coloration cheveux permanente optimisée par l'huile #6.0 Châtain Clair,Olia,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Bon Ami nettoyant à vitres mousse active 560g,Bon Ami nettoyant à vitres mousse active 560g,Bon Ami,,6.29,,,6.29,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,OLD SPICE ou SECRET Antisudorifiques ou désodorisants sélectionnés,OLD SPICE ou SECRET Antisudorifiques ou désodorisants sélectionnés,Old Spice,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Allergies, 10 mg, 10 comprimés","BIOMEDIC, Allergies, 10 mg, 10 comprimés",Biomedic,,8.99,,,8.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Tampax tampons abs régulier 40un,Tampax tampons abs régulier 40un,Always,,7.79,,,7.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,FRUCTIS Garnier Fructis Pure Clean shampooing fortifiant avec extrait de citron pour cheveux normaux à gras 370ml,FRUCTIS Garnier Fructis Pure Clean shampooing fortifiant avec extrait de citron pour cheveux normaux à gras 370ml,Garnier,,3.49,,,3.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Tylenol caplet extra fort rhume et sinus jour et nuit 20un,Tylenol caplet extra fort rhume et sinus jour et nuit 20un,Tylenol,,8.99,,,8.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,CREST ou ORAL-B Produits buccaux sélectionné,CREST ou ORAL-B Produits buccaux sélectionné,Crest,,2.79,,,2.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Hemovel comprimé oral traitement des hémoroĩdes 18un,Hemovel comprimé oral traitement des hémoroĩdes 18un,Hemovel,,15.99,,,15.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Philips Série 3200 rasoir têtes pivot & flex 5D,Philips Série 3200 rasoir têtes pivot & flex 5D,Philips,,66.99,,,66.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ESSENTIEL COSMETIK, Lingettes démaquillantes 3 en 1, 25 lingettes","ESSENTIEL COSMETIK, Lingettes démaquillantes 3 en 1, 25 lingettes",ESSENTIEL COSMETIK,,3.99,,,3.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Revlon Super Lustrous rouge à lèvres Pearl #025 Sky Line Pink 4.2g,Revlon Super Lustrous rouge à lèvres Pearl #025 Sky Line Pink 4.2g,Revlon,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"THRIVE Complet Gomme de nicotine 2 mg, 108 morceaux","THRIVE Complet Gomme de nicotine 2 mg, 108 morceaux",Thrive,,26.99,,,26.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"SENOKOT ou SENOKOT-S, Laxatif , formats sélectionnés","SENOKOT ou SENOKOT-S, Laxatif , formats sélectionnés",Senokot®,,6.49,,,6.49,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"OLD SPICE Secret Désodorisant pour tout le corps aluminium-free, 68 g à 99 g","OLD SPICE Secret Désodorisant pour tout le corps aluminium-free, 68 g à 99 g",Secret,,14.99,,,14.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Biomedic extra strength acetaminophen tablets for adults 500un,Biomedic extra strength acetaminophen tablets for adults 500un,Biomedic,,25.99,,,25.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Venixxa comprimés soulagement symptômes maladie veineuse chronique 30un,Venixxa comprimés soulagement symptômes maladie veineuse chronique 30un,VENIXXA,,22.99,,,22.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ALOEX, Gel d'aloe vera pur, 125 g","ALOEX, Gel d'aloe vera pur, 125 g",ALOEX,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"ENSURE, Substitut de repas, 6 x 235 ml","ENSURE, Substitut de repas, 6 x 235 ml",Ensure,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"LES PIERRAFEU, Multivitamines sélectionnées","LES PIERRAFEU, Multivitamines sélectionnées",Les Pierrafeu,,9.99,,,9.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Pampers Free & Gentle lingettes sans parfum 6x78un,Pampers Free & Gentle lingettes sans parfum 6x78un,Pampers,,19.99,,,19.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Schick Intuition Hydratation Améliorée rasoir + cartouches 2un,Schick Intuition Hydratation Améliorée rasoir + cartouches 2un,Schick,,10.99,,,10.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Centrum Forte Essentiels Adultes comprimés supplément de vitamines et minéraux 250un,Centrum Forte Essentiels Adultes comprimés supplément de vitamines et minéraux 250un,Centrum,,35.99,,,35.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,PROLAV BRILLE Nettoyant multi-usage ultra concentré 400 ml,PROLAV BRILLE Nettoyant multi-usage ultra concentré 400 ml,Prolav,,13.99,,,13.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Glucerna substitut de repas pour personne diabétique Vanille 6x237ml,Glucerna substitut de repas pour personne diabétique Vanille 6x237ml,Glucerna,,12.99,,,12.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Fungi Nail solution anti-fongique puissance maximale 30ml,Fungi Nail solution anti-fongique puissance maximale 30ml,Fungi-Nail,,11.99,,,11.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"WELIVA Cimidona, Soulagement de la ménopause Menopause relief, 30 comprimés","WELIVA Cimidona, Soulagement de la ménopause Menopause relief, 30 comprimés",WELIVA,,27.99,,,27.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,"PINE-SOL Nettoyant multi-surface, 1, 41 litre","PINE-SOL Nettoyant multi-surface, 1, 41 litre",Pine-Sol,,5.79,,,5.79,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,RESOLVE Prétraitement 946 ml,RESOLVE Prétraitement 946 ml,Resolve,,4.99,,,4.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Biovert Détergent à Lessive He - Coton Frais 4.43L,Biovert Détergent à Lessive He - Coton Frais 4.43L,BIOVERT,,14.99,,,14.99,unknown,flipp,Extra Circulaire
+2026-06-11,familiprix-joliette,Essentiel culottes protectrices absorption extra L 14un,Essentiel culottes protectrices absorption extra L 14un,Essentiel,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Listerine Zero rince-bouche antiseptique menthe 1.5L,Listerine Zero rince-bouche antiseptique menthe 1.5L,Listerine,,7.99,,,7.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,GAVISCON Pour reflets acide et brûlures d'estomac,GAVISCON Pour reflets acide et brûlures d'estomac,,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"CLARITIN Allergies, 10 mg","CLARITIN Allergies, 10 mg",Claritin,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BENZAGEL, Gel contre l'acné, 60 g","BENZAGEL, Gel contre l'acné, 60 g",BENZAGEL,,13.49,,,13.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"IMODIUM, Produits sélectionnés","IMODIUM, Produits sélectionnés",IMODIUM,,21.99,,,21.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,ORAL-B Produits buccaux sélectionnés,ORAL-B Produits buccaux sélectionnés,Oral-B,,2.79,,,2.79,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Q-TIPS Cotton swabs 400 units,Q-TIPS Cotton swabs 400 units,Q-tips,,3.99,,,3.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Ensure Hyperprotéiné substitut de repas Vanille 6x235ml,Ensure Hyperprotéiné substitut de repas Vanille 6x235ml,Ensure,,12.99,,,12.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Soin du nez hydratant, 135 ml","BIOMEDIC, Soin du nez hydratant, 135 ml",Biomedic,,9.99,,,9.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"GAIN, Produits sélectionnés","GAIN, Produits sélectionnés",Gain,,11.99,,,11.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"OLD SPICE ou SECRET, Antisudorifiques ou désodorisants sélectionnés","OLD SPICE ou SECRET, Antisudorifiques ou désodorisants sélectionnés",,,6.49,,,6.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,BIOMEDIC Pastilles contre la toux 20 unités,BIOMEDIC Pastilles contre la toux 20 unités,Biomedic,,2.99,,,2.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"TIDE Power Pods Oxi Max Capsules de détergent à lessive liquide, 45 capsules","TIDE Power Pods Oxi Max Capsules de détergent à lessive liquide, 45 capsules",Tide,,22.99,,,22.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"DOVE MEN CARE Nettoyants corps et visage sélectionnés, 532 ml","DOVE MEN CARE Nettoyants corps et visage sélectionnés, 532 ml",Dove Men+Care,,7.49,,,7.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC Suppositoires à la glycérine, 24 unités","BIOMEDIC Suppositoires à la glycérine, 24 unités",Biomedic,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Tampax tampons regular abs 40un,Tampax tampons regular abs 40un,Always,,7.79,,,7.79,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,ALWAYS ou TAMPAX Produits sélectionnés,ALWAYS ou TAMPAX Produits sélectionnés,Always,,7.79,,,7.79,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Gillette Venus Comfortglide cartouches thé blanc 4un,Gillette Venus Comfortglide cartouches thé blanc 4un,Gillette,,19.99,,,19.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"PEPCID AC ou PEPCID COMPLET, Soulage les brûlures d'estomac, 50 unités","PEPCID AC ou PEPCID COMPLET, Soulage les brûlures d'estomac, 50 unités",Pepcid,,24.49,,,24.49,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BENADRYL, Produits sélectionnés","BENADRYL, Produits sélectionnés",Benadryl,,6.99,,,6.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"HEAD & SHOULDERS, Bare ou Clinical Thérapeutique, Shampooings antipelliculaires sélectionnés, 400 ml","HEAD & SHOULDERS, Bare ou Clinical Thérapeutique, Shampooings antipelliculaires sélectionnés, 400 ml",Head & Shoulders,,13.99,,,13.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,Olay Super 5-en-1 sérum 30ml,Olay Super 5-en-1 sérum 30ml,Olay,,30.99,,,30.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,GAVISCON,GAVISCON,Gaviscon,,15.99,,,15.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,"BIOMEDIC, Allergies, 25 mg, 36 caplets","BIOMEDIC, Allergies, 25 mg, 36 caplets",Biomedic,,10.99,,,10.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,REACTINE Produits sélectionnés,REACTINE Produits sélectionnés,Reactine,,19.99,,,19.99,unknown,flipp,Circulaire
+2026-06-11,familiprix-joliette,A perfect duo for Father's Day - Shop Button,A perfect duo for Father's Day - Shop Button,style,,10.5,,,10.5,unknown,flipp,Circulaire
+2026-06-11,iga-joliette,SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE,SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE,C'EST PRÊT! À CUIRE,,7.99,,,7.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,,,23,,,23,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,FLEUR DE SEL MAISON ORPHÉE,FLEUR DE SEL MAISON ORPHÉE,Maison Orphee,,6.99,,,6.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,CAROTTES NANTAISES,CAROTTES NANTAISES,,,3.99,,,3.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,PERSIL FRISÉ OU ITALIEN FRAIS,PERSIL FRISÉ OU ITALIEN FRAIS,,,1.69,,,1.69,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,AIL UNE TOUCHE D'AIL,AIL UNE TOUCHE D'AIL,,,4.99,,,4.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,HUILE DE SÉSAME PURE KADOYA,HUILE DE SÉSAME PURE KADOYA,Kadoya,,5.49,,,5.49,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,BACON DOUBLE FUMÉ FUMOIRS GOSSELIN,BACON DOUBLE FUMÉ FUMOIRS GOSSELIN,FUMOIRS GOSSELIN,,9.99,,,9.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,TRANCHES DE FROMAGE COMPLIMENTS,TRANCHES DE FROMAGE COMPLIMENTS,Compliments,,10.99,,,10.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,MAYONNAISE OU SAUCE POUR BURGER MAG SIGNATURE,MAYONNAISE OU SAUCE POUR BURGER MAG SIGNATURE,,,4.99,,,4.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,SAUCE HOISIN LEE KUM KEE,SAUCE HOISIN LEE KUM KEE,Lee Kum Kee,,3.79,,,3.79,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,PAINS À BURGER BRIOCHÉS COMPLIMENTS,pain,Compliments,,4.99,,,4.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,CAPUCHONS DE CHAMPIGNONS PORTABELLA BIOLOGIQUES,CAPUCHONS DE CHAMPIGNONS PORTABELLA BIOLOGIQUES,,,9,,,9,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,VINAIGRE DE VIN MAILLE,VINAIGRE DE VIN MAILLE,,,8.49,,,8.49,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,HUILE D'OLIVE EXTRA VIERGE LIV99,HUILE D'OLIVE EXTRA VIERGE LIV99,LIV99,,15.99,,,15.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,AVOCAT,AVOCAT,,,1.99,,,1.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,MANGUE ATAUFLO,MANGUE ATAUFLO,,,1.99,,,1.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,TOMATES ROUGES DE SERRE,TOMATES ROUGES DE SERRE,,,3.99,,,3.99,unknown,flipp,Barbecue Brochure - QC
+2026-06-11,iga-joliette,LAITUE BOSTON VIVANTE DE SERRE GEN V,lait,GEN V,,2.99,,,2.99,unknown,flipp,Barbecue Brochure - QC
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,iga-joliette,KÉFIR PROBIOTIQUE OU YOGOURT À BASE DE PLANTES MAISON RIVIERA,yogourt,MAISON RIVIERA,,5.99,,,5.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,DuBreton,,7.99,,,7.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,BISCUITS SANS GLUTEN TATE'S BAKE SHOP,BISCUITS SANS GLUTEN TATE'S BAKE SHOP,Tate’s Bake Shop,,7.49,,,7.49,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,SAUCE SAN-J TAMARI SPLASH,SAUCE SAN-J TAMARI SPLASH,San-J,,9.99,,,9.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,SAUCISSES MERGUEZ D'AGNEAU RECOMMANDÉ PAR VOTRE BOUCHER,SAUCISSES MERGUEZ D'AGNEAU RECOMMANDÉ PAR VOTRE BOUCHER,RECOMMANDÉ PAR VOTRE POISSONNIER,,11.99,,,11.99,unknown,flipp,Québec - Circulaire Hebdomadaire
+<<<<<<< HEAD
 2026-06-11,iga-joliette,PAIN BELGE À L'ANCIENNE OU CÉRÉALIER AU PAIN DORÉ,pain,AU PAIN DORÉ,,4.49,,,4.49,unknown,flipp,Québec - Circulaire Hebdomadaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,iga-joliette,VIANDE DE PORC FUMÉE FUMOIRS GOSSELIN,VIANDE DE PORC FUMÉE FUMOIRS GOSSELIN,FUMOIRS GOSSELIN,,14.99,,,14.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,HOMARD VIVANT,HOMARD VIVANT,,,12.99,,,12.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,FROMAGE PECORINO ROMANO PANACHE,FROMAGE PECORINO ROMANO PANACHE,Panache,,10.49,,,10.49,unknown,flipp,Québec - Circulaire Hebdomadaire
@@ -7631,7 +8020,10 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,iga-joliette,FROMAGE LE PETIT NORMAND FROMAGERIE LA SUISSE NORMANDE,FROMAGE LE PETIT NORMAND FROMAGERIE LA SUISSE NORMANDE,,,7.99,,,7.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,TREMPETTE LA CAGE,TREMPETTE LA CAGE,La Cage,,5.49,,,5.49,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,PEPSI,PEPSI,Pepsi,,13,,,13,unknown,flipp,Québec - Circulaire Hebdomadaire
+<<<<<<< HEAD
 2026-06-11,iga-joliette,LAIT DE COCO KIM PHAT,lait,KIM PHAT,,2.78,,,2.78,unknown,flipp,Québec - Circulaire Hebdomadaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,iga-joliette,ACCESSOIRES DE CUISINE RICARDO,ACCESSOIRES DE CUISINE RICARDO,Ricardo,,4.99,,,4.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,PAELLA AUX FRUITS DE MER SURGELÉE LA FISHERIE,PAELLA AUX FRUITS DE MER SURGELÉE LA FISHERIE,LA FISHERIE,,19.99,,,19.99,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,DEMI-BAGEL AU SAUMON FUMÉ C'EST PRÊT!,saumon,C'EST PRÊT!,,3.49,,,3.49,unknown,flipp,Québec - Circulaire Hebdomadaire
@@ -7714,7 +8106,10 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,iga-joliette,JAMBON CABANE À SUCRE PANACHE,JAMBON CABANE À SUCRE PANACHE,Panache,,2.59,,,2.59,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,BOUCHÉES DE PIZZAS PEPPERONI SURGELÉES VALEUR PLUS,BOUCHÉES DE PIZZAS PEPPERONI SURGELÉES VALEUR PLUS,VALEUR PLUS,,12,,,12,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,"MÉLANGE À SAUCE, À MARINADE OU D'ASSAISONNEMENT FRENCH'S","MÉLANGE À SAUCE, À MARINADE OU D'ASSAISONNEMENT FRENCH'S",French's,,0.99,,,0.99,unknown,flipp,Québec - Circulaire Hebdomadaire
+<<<<<<< HEAD
 2026-06-11,iga-joliette,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,Prix Club,,23,,,23,unknown,flipp,Québec - Circulaire Hebdomadaire
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,iga-joliette,POITRINES DE POULET FRAIS DÉSOSSÉES PRIX CLUB,POITRINES DE POULET FRAIS DÉSOSSÉES PRIX CLUB,Prix Club,,35,,,35,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,CHOCOLAT LINDT EXCELLENCE,CHOCOLAT LINDT EXCELLENCE,Lindt,,12,,,12,unknown,flipp,Québec - Circulaire Hebdomadaire
 2026-06-11,iga-joliette,MACREUSE DE BŒUF STERLING SILVER,MACREUSE DE BŒUF STERLING SILVER,STERLING SILVER,,15.99,,,15.99,unknown,flipp,Québec - Circulaire Hebdomadaire
@@ -8005,6 +8400,7 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,bonichoix-joliette,FRESH SEASONED PORK KOFTAS,FRESH SEASONED PORK KOFTAS,,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
 2026-06-11,bonichoix-joliette,CÔTES LEVÉES DE DOS DE PORC FRAIS,CÔTES LEVÉES DE DOS DE PORC FRAIS,,,8.49,,,8.49,unknown,flipp,Circulaire de la semaine
 2026-06-11,bonichoix-joliette,"GLAÇAGE BETTY CROCKER FOUETTÉ, CRÉMEUX DE LUXE","GLAÇAGE BETTY CROCKER FOUETTÉ, CRÉMEUX DE LUXE",Betty Crocker,,2.49,,,2.49,unknown,flipp,Circulaire de la semaine
+<<<<<<< HEAD
 2026-06-11,tradition-joliette,"ÉCRAN SOLAIRE BANANA BOAT (240 ou 315 mL, 170 ou 226 g) OU HAWAIIAN TROPIC (240 ou 480 mL ou 170 g)",bananes,BANANA BOAT | HAWAIIAN TROPIC,,12.99,,,12.99,unknown,flipp,Québec
 2026-06-11,tradition-joliette,MOUTARDE PRÉPARÉE HEINZ,MOUTARDE PRÉPARÉE HEINZ,Heinz,,2.49,,,2.49,unknown,flipp,Québec
 2026-06-11,tradition-joliette,POITRINES DE POULET FRAIS DÉSOSSÉES,POITRINES DE POULET FRAIS DÉSOSSÉES,,,3.77,,,3.77,unknown,flipp,Québec
@@ -8125,6 +8521,149 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-06-11,tradition-joliette,"CRAQUELINS PEPPERIDGE FARM GOLDFISH (156 à 227 g) DARE BRETON, VINTA, CRISPS LÉGUMES (100 à 225 g) OU GRISSOL (120 à 150 g)","CRAQUELINS PEPPERIDGE FARM GOLDFISH (156 à 227 g) DARE BRETON, VINTA, CRISPS LÉGUMES (100 à 225 g) OU GRISSOL (120 à 150 g)",PEPPERIDGE FARM | DARE,,2.99,,,2.99,unknown,flipp,Québec
 2026-06-11,tradition-joliette,POULET CRAPAUDINE FRAIS RICARDO,POULET CRAPAUDINE FRAIS RICARDO,Ricardo,,6.49,,,6.49,unknown,flipp,Québec
 2026-06-11,tradition-joliette,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,DuBreton,,7.99,,,7.99,unknown,flipp,Québec
+=======
+2026-06-11,tradition-joliette,CÉRÉALES KELLOGG'S,CÉRÉALES KELLOGG'S,Kellogg's,,3.49,,,3.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BISCUITS LECLERC,BISCUITS LECLERC,Leclerc,,2.22,,,2.22,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PEPSI OU COCA-COLA Mini,PEPSI OU COCA-COLA Mini,PEPSI | COCA-COLA,,3.49,,,3.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MARGARINE BECEL,MARGARINE BECEL,Becel,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"MÉLANGE À SAUCE ST-HUBERT, FINE CUISINE OU THE KEG","MÉLANGE À SAUCE ST-HUBERT, FINE CUISINE OU THE KEG",ST-HUBERT | FINE CUISINE | THE KEG,,4.98,,,4.98,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PÂTES ALIMENTAIRES CATELLI,pates,Catelli,,1.66,,,1.66,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CAFÉ VAN HOUTTE K-CUP,cafe,Van Houtte,,11.99,,,11.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"SAUCE POUR CUISSON POUR SAUTÉ, SOYA OU TREMPETTE VH","SAUCE POUR CUISSON POUR SAUTÉ, SOYA OU TREMPETTE VH",VH,,3.79,,,3.79,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,EAU DE SOURCE NATURELLE COMPLIMENTS,EAU DE SOURCE NATURELLE COMPLIMENTS,Compliments,,4.49,,,4.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,EAU PÉTILLANTE COMPLIMENTS,EAU PÉTILLANTE COMPLIMENTS,Compliments,,7.49,,,7.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,DÉTERGENT À LESSIVE PUREX,DÉTERGENT À LESSIVE PUREX,Purex,,10.49,,,10.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MANGUES ATAULFO OU ROUGES,MANGUES ATAULFO OU ROUGES,,,5,,,5,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FROMAGE BOURSIN,FROMAGE BOURSIN,Boursin,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FROMAGE TRANCHÉ SAPUTO,FROMAGE TRANCHÉ SAPUTO,Saputo,,7.49,,,7.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FROMAGE DE CHÈVRE COMPLIMENTS,FROMAGE DE CHÈVRE COMPLIMENTS,Compliments,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE DE CREVETTES ET PÉTONCLES SURGELÉS GREEN OCEAN,MÉLANGE DE CREVETTES ET PÉTONCLES SURGELÉS GREEN OCEAN,Green Ocean,,9.99,,,9.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POIVRONS ASSORTIS,POIVRONS ASSORTIS,,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POITRINES DE POULET FRAIS DÉSOSSÉES,POITRINES DE POULET FRAIS DÉSOSSÉES,,,3.77,,,3.77,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PIZZA SURGELÉE DR.OETKER,PIZZA SURGELÉE DR.OETKER,Dr. Oetker,,3.47,,,3.47,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,JAMBON FUMÉ MÈRE MICHEL,JAMBON FUMÉ MÈRE MICHEL,Mere Michel,,3.19,,,3.19,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CHARCUTERIES ÉMINCÉES OLYMEL,CHARCUTERIES ÉMINCÉES OLYMEL,Olymel,,11.99,,,11.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES FUMÉES COMPLIMENTS,SAUCISSES FUMÉES COMPLIMENTS,Compliments,,3.49,,,3.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT,PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT,Kraft,,3.97,,,3.97,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE,SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE,C'EST PRÊT! À CUIRE,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,REPAS DE POULET FRIT C'EST PRÊT!,REPAS DE POULET FRIT C'EST PRÊT!,C'EST PRÊT!,,6.49,,,6.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCE POUR FONDUE ST-HUBERT (350 mL) OU THE KEG (355 mL) SAUCE,SAUCE POUR FONDUE ST-HUBERT (350 mL) OU THE KEG (355 mL) SAUCE,ST-HUBERT | THE KEG,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MAYONNAISE HELLMANN'S,MAYONNAISE HELLMANN'S,Hellmann's,,9.49,,,9.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PÂTE PILLSBURY,PÂTE PILLSBURY,Pillsbury,,2.79,,,2.79,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,RIZ DAINTY,RIZ DAINTY,Dainty,,6.49,,,6.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BOISSON GAZEUSE COMPLIMENTS,BOISSON GAZEUSE COMPLIMENTS,Compliments,,1.99,,,1.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS,BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS,Compliments,,18.99,,,18.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SALAMI TRANCHÉ COMPLIMENTS,SALAMI TRANCHÉ COMPLIMENTS,Compliments,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE BŒUF FARCIS SURGELÉS COMPLIMENTS,BURGERS DE BŒUF FARCIS SURGELÉS COMPLIMENTS,Compliments,,17.49,,,17.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MANGUE PALMER,MANGUE PALMER,Palmer,,3.99,,,3.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MAÏS EN ÉPI DEUX COULEURS,MAÏS EN ÉPI DEUX COULEURS,,,6.99,,,6.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BAVETTE DE PORC ASSAISONNÉE TOP GOURMET,BAVETTE DE PORC ASSAISONNÉE TOP GOURMET,TOP GOURMET,,7.99,,,7.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCE TOMATE HUNT'S OU PÂTE DE TOMATES,sauce tomate,Hunt's,,5,,,5,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,YOGOURT À BOIRE YOPLAIT,lait,Yoplait,,0.97,,,0.97,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TARTINADE MALIMOUSSE LE TRIO,TARTINADE MALIMOUSSE LE TRIO,MALIMOUSSE LE TRIO,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE BŒUF WAGYU SURGELÉS RICARDO,BURGERS DE BŒUF WAGYU SURGELÉS RICARDO,Ricardo,,13.99,,,13.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,ASPERGES VERTES,ASPERGES VERTES,,,2.99,,,2.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,ROULADES OU FILETS MARINÉS DE SAUMON ATLANTIQUE FRAIS C'EST PRÊT! À CUIRE,saumon,C'EST PRÊT! À CUIRE,,16.99,,,16.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MINI-CONCOMBRES SANS PÉPINS,MINI-CONCOMBRES SANS PÉPINS,,,1.99,,,1.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POITRINES DE POULET FARCIES SURGELÉES RECOMMANDÉ PAR VOTRE BOUCHER,POITRINES DE POULET FARCIES SURGELÉES RECOMMANDÉ PAR VOTRE BOUCHER,PAR VOTRE BOUCHER,,18.49,,,18.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POULET DE GRAIN FRAIS FERME DES VOLTIGEURS,POULET DE GRAIN FRAIS FERME DES VOLTIGEURS,FERME DES VOLTIGEURS,,4.76,,,4.76,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,JUS DE POMME TRADITION,JUS DE POMME TRADITION,Tradition,,5.49,,,5.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BIFTECK DE TOURNEDOS FRANÇAIS,BIFTECK DE TOURNEDOS FRANÇAIS,,,13.49,,,13.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MOUTARDE PRÉPARÉE HEINZ,MOUTARDE PRÉPARÉE HEINZ,Heinz,,2.49,,,2.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE POULET ÉCRASÉS SURGELÉS COMPLIMENTS,BURGERS DE POULET ÉCRASÉS SURGELÉS COMPLIMENTS,Compliments,,16.99,,,16.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"ESSUIE-TOUT SPONGE TOWELS (3 roul.) MOUCHOIRS DE PAPIER SCOTTIES (emballage de 6 boîtes) OU PAPIER HYGIÉNIQUE CASHMERE TRIPLE, ULTRA LUXE (8 ou 12 roul.) PAPER TOWELS, FACIAL TISSUES OR BATHROOM TISSUE","ESSUIE-TOUT SPONGE TOWELS (3 roul.) MOUCHOIRS DE PAPIER SCOTTIES (emballage de 6 boîtes) OU PAPIER HYGIÉNIQUE CASHMERE TRIPLE, ULTRA LUXE (8 ou 12 roul.) PAPER TOWELS, FACIAL TISSUES OR BATHROOM TISSUE",SPONGE TOWELS | SCOTTIES | CASHMERE,,6.99,,,6.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PAINS OU SANDWICHS FARCIS C'EST PRÊT!,pain,C'EST PRÊT!,,7,,,7,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SERVIETTES HYGIÉNIQUES OU TAMPONS KOTEX U,SERVIETTES HYGIÉNIQUES OU TAMPONS KOTEX U,U by Kotex,,10.79,,,10.79,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FROMAGE BRIE DOUBLE CRÈME OU CAMEMBERT COMPLIMENTS,FROMAGE BRIE DOUBLE CRÈME OU CAMEMBERT COMPLIMENTS,Compliments,,13.49,,,13.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE BŒUF SURGELÉS,BURGERS DE BŒUF SURGELÉS,,,16,,,16,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE DE SALADE GOOD LEAF,MÉLANGE DE SALADE GOOD LEAF,GOOD LEAF,,3.99,,,3.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"JUS, PUNCH AUX FRUITS OU LIMONADE FRUITS OU LIMONADE RÉFRIGÉRÉS SIMPLY","JUS, PUNCH AUX FRUITS OU LIMONADE FRUITS OU LIMONADE RÉFRIGÉRÉS SIMPLY",Simply Beverages,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FRIANDISES GLACÉES COMPLIMENTS,FRIANDISES GLACÉES COMPLIMENTS,Compliments,,3.33,,,3.33,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POULET CRAPAUDINE FRAIS RICARDO,POULET CRAPAUDINE FRAIS RICARDO,Ricardo,,6.49,,,6.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,DÉTERGENT POUR LAVE-VAISSELLE COMPLIMENTS,DÉTERGENT POUR LAVE-VAISSELLE COMPLIMENTS,Compliments,,6.99,,,6.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CROUSTILLES MISS VICKIE'S,CROUSTILLES MISS VICKIE'S,Miss Vickie's,,3.99,,,3.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,EAU DE SOURCE NATURELLE GAZÉIFIÉE MAISON PERRIER (8 x 330 mL) OU BOISSON PÉTILLANTE ITALIENNE SANPELLEGRINO (6 x 330 mL),EAU DE SOURCE NATURELLE GAZÉIFIÉE MAISON PERRIER (8 x 330 mL) OU BOISSON PÉTILLANTE ITALIENNE SANPELLEGRINO (6 x 330 mL),MAISON PERRIER | SANPELLEGRINO,,7.99,,,7.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE À MUFFINS QUAKER (750 ou 900 g) OU MÉLANGE À CRÊPES QUAKER PROTÉINES (650 g),MÉLANGE À MUFFINS QUAKER (750 ou 900 g) OU MÉLANGE À CRÊPES QUAKER PROTÉINES (650 g),Quaker,,6.49,,,6.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,NOURRITURE POUR CHIENS PURINA ONE SMART BLEND,NOURRITURE POUR CHIENS PURINA ONE SMART BLEND,Purina One SmartBlend,,30.99,,,30.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FRIANDISES GLACÉES CHAPMAN'S,FRIANDISES GLACÉES CHAPMAN'S,Chapman's,,7.99,,,7.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CERISES ROUGES,CERISES ROUGES,,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TOMATES COMPLIMENTS,TOMATES COMPLIMENTS,Compliments,,2.29,,,2.29,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SOUS-MARIN C'EST PRÊT!,SOUS-MARIN C'EST PRÊT!,C'EST PRÊT!,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SERVIETTES DE TABLE COMPLIMENTS,SERVIETTES DE TABLE COMPLIMENTS,Compliments,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BACON COMPLIMENTS (375 g) OU BACON ENTIÈREMENT CUIT COMPLIMENTS (65 g),BACON COMPLIMENTS (375 g) OU BACON ENTIÈREMENT CUIT COMPLIMENTS (65 g),Compliments,,6.99,,,6.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TARTE,TARTE,,,18.99,,,18.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TREMPETTE MARZETTI,TREMPETTE MARZETTI,Marzetti,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE À GÂTEAU BETTY CROCKER,MÉLANGE À GÂTEAU BETTY CROCKER,Betty Crocker,,1.87,,,1.87,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,EAU DE SOURCE NATURELLE ESKA,EAU DE SOURCE NATURELLE ESKA,Eska,,4.97,,,4.97,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TRANCHES DE FROMAGE COMPLIMENTS,TRANCHES DE FROMAGE COMPLIMENTS,Compliments,,5.49,,,5.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES FUMÉES HYGRADE,SAUCISSES FUMÉES HYGRADE,Hygrade,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FRAISES,fraises,,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES FUMÉES ENROBÉES DE PÂTE SURGELÉES POGO,SAUCISSES FUMÉES ENROBÉES DE PÂTE SURGELÉES POGO,Pogo,,17.99,,,17.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BOISSON POUR SPORTIFS POWERADE,BOISSON POUR SPORTIFS POWERADE,Powerade,,6,,,6,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FROMAGE SAPUTO,FROMAGE SAPUTO,Saputo,,11.49,,,11.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS,HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS,Compliments,,13.99,,,13.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,COLLATIONS AUX FRUITS COMPLIMENTS,COLLATIONS AUX FRUITS COMPLIMENTS,,,1.99,,,1.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,TARTINADE NUTELLA,TARTINADE NUTELLA,Nutella,,11.99,,,11.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,REPAS SURGELÉ CRAVE OU KRAFT KD DELUXE,REPAS SURGELÉ CRAVE OU KRAFT KD DELUXE,CRAVE | KRAFT,,3.99,,,3.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE À SOUPE KNORR OU LIPTON 2 sachets (113 à 338 g) OU SOUPE CAMPBELL'S CHUNKY(515 mL) OR ST-HUBERT (540 mL),MÉLANGE À SOUPE KNORR OU LIPTON 2 sachets (113 à 338 g) OU SOUPE CAMPBELL'S CHUNKY(515 mL) OR ST-HUBERT (540 mL),KNORR | CAMPBELL'S | ST-HUBERT,,3.49,,,3.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,FRIANDISES HERSHEY'S (160 à 230 g) OU BROOKSIDE (200 à 235 g),FRIANDISES HERSHEY'S (160 à 230 g) OU BROOKSIDE (200 à 235 g),HERSHEY'S | BROOKSIDE,,5.49,,,5.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES FUMÉES LESTERS,SAUCISSES FUMÉES LESTERS,Lesters,,4.49,,,4.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON,DuBreton,,7.99,,,7.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MÉLANGE À SAUCE POUR CÔTES LEVÉES SUWONG,MÉLANGE À SAUCE POUR CÔTES LEVÉES SUWONG,SUWONG,,2.99,,,2.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,VIANDE FUMÉE FUMOIRS GOSSELIN,VIANDE FUMÉE FUMOIRS GOSSELIN,GOSSELIN,,14.99,,,14.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,LÉGUMINEUSES COMPLIMENTS,LÉGUMINEUSES COMPLIMENTS,Compliments,,1.89,,,1.89,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BRUSCHETTA OU SALADE FONTAINE SANTÉ,BRUSCHETTA OU SALADE FONTAINE SANTÉ,Fontaine Santé,,6.49,,,6.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,POMMES DE TERRE FRITES OU RONDELLES D'OIGNONS SURGELÉES COMPLIMENTS,pommes,Compliments,,3.99,,,3.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,ASSAISONNEMENT CLUB HOUSE LA GRILLE,ASSAISONNEMENT CLUB HOUSE LA GRILLE,Club House,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"CRAQUELINS PEPPERIDGE FARM GOLDFISH (156 à 227 g) DARE BRETON, VINTA, CRISPS LÉGUMES (100 à 225 g) OU GRISSOL (120 à 150 g)","CRAQUELINS PEPPERIDGE FARM GOLDFISH (156 à 227 g) DARE BRETON, VINTA, CRISPS LÉGUMES (100 à 225 g) OU GRISSOL (120 à 150 g)",PEPPERIDGE FARM | DARE | GRISSOL,,2.99,,,2.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,RIZ COMPLIMENTS,RIZ COMPLIMENTS,Compliments,,4.29,,,4.29,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BAGUETTES OU TOAST MELBA GRISSOL,BAGUETTES OU TOAST MELBA GRISSOL,Grissol,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,ENDUIT À CUISSON ANTIADHÉSIF PAM,ENDUIT À CUISSON ANTIADHÉSIF PAM,Pam,,5.99,,,5.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,BROCHETTES DE POULET FRAIS ASSAISONNÉES PRIX CLUB,Prix Club,,23,,,23,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BISCUITS SAVEURS DU FOUR,BISCUITS SAVEURS DU FOUR,Saveurs du Four,,5.49,,,5.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"ÉCRAN SOLAIRE BANANA BOAT (240 ou 315 mL, 170 ou 226 g) OU HAWAIIAN TROPIC (240 ou 480 mL ou 170 g)",bananes,Banana Boat,,12.99,,,12.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CROUSTILLES LAY'S,CROUSTILLES LAY'S,Lay's,,8,,,8,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,PEPPERONI TRANCHÉ MIKES,PEPPERONI TRANCHÉ MIKES,Mike's,,6.99,,,6.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CONFITURE BONNE MAMAN,CONFITURE BONNE MAMAN,Bonne Maman,,10.49,,,10.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,JAMBON FUMÉ LAFLEUR P'TIT CAPRICE,JAMBON FUMÉ LAFLEUR P'TIT CAPRICE,Lafleur,,12.49,,,12.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,GLAÇAGE BETTY CROCKER,GLAÇAGE BETTY CROCKER,Betty Crocker,,2.49,,,2.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,SAUCE ST-HUBERT,SAUCE ST-HUBERT,St. Hubert,,2.29,,,2.29,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BROCHETTE DE CREVETTES CRUES C'EST PRÊT! À CUIRE,BROCHETTE DE CREVETTES CRUES C'EST PRÊT! À CUIRE,C'EST PRÊT! À CUIRE,,4.98,,,4.98,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,MAÏS EN CRÈME OU EN GRAINS GÉANT VERT,MAÏS EN CRÈME OU EN GRAINS GÉANT VERT,Géant Vert,,2.49,,,2.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BAGELS DEMPSTER'S,BAGELS DEMPSTER'S,Dempster's®,,4.49,,,4.49,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BAVETTE DE BOEUF MARINÉE TOP GOURMET,BAVETTE DE BOEUF MARINÉE TOP GOURMET,TOP GOURMET,,25.99,,,25.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,ENSEMBLE À REPAS TACO BELL,ENSEMBLE À REPAS TACO BELL,Taco Bell,,4.99,,,4.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BURGERS DE BŒUF ÉCRASÉS SURGELÉS COMPLIMENTS,BURGERS DE BŒUF ÉCRASÉS SURGELÉS COMPLIMENTS,Compliments,,17.99,,,17.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,BOLOGNE TRANCHÉ LARSEN SUNRISE,BOLOGNE TRANCHÉ LARSEN SUNRISE,Sunrise,,4.59,,,4.59,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,REPAS ASIATIQUE REPAS ASIATIQUE SURGELÉ WONG WING,REPAS ASIATIQUE REPAS ASIATIQUE SURGELÉ WONG WING,Wong Wing,,7.99,,,7.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,CUBES DE BOEUF POUR BROCHETTES,CUBES DE BOEUF POUR BROCHETTES,,,11.99,,,11.99,unknown,flipp,Nouveau-Brunswick
+2026-06-11,tradition-joliette,"PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA","PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA",Dr. Oetker,,3.47,,,3.47,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"ESSUIE-TOUT SPONGE TOWELS ULTRA, ULTRA PRO (3 roul.) MOUCHOIRS DE PAPIER SCOTTIES (emballage de 6 boîtes) OU PAPIER HYGIÉNIQUE CASHMERE TRIPLE, ULTRA LUXE (8 ou 12 roul.)","ESSUIE-TOUT SPONGE TOWELS ULTRA, ULTRA PRO (3 roul.) MOUCHOIRS DE PAPIER SCOTTIES (emballage de 6 boîtes) OU PAPIER HYGIÉNIQUE CASHMERE TRIPLE, ULTRA LUXE (8 ou 12 roul.)",SPONGE TOWELS | SCOTTIES | CASHMERE,,6.99,,,6.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"LECLERC VITAL, PRAEVENTIA (210 ou 280g) OU CRAQUELINS COMPLIMENTS (225 g)","LECLERC VITAL, PRAEVENTIA (210 ou 280g) OU CRAQUELINS COMPLIMENTS (225 g)",LECLERC | PRAEVENTIA | COMPLIMENTS,,2.22,,,2.22,unknown,flipp,Québec
+2026-06-11,tradition-joliette,AUX FRUITS COMPLIMENTS,AUX FRUITS COMPLIMENTS,Compliments,,1.99,,,1.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)","BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)",CORONA | HEINEKEN | SAPPORO,,19.99,,,19.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"VIN BLANC OU ROUGE WALLAROO TRAIL, NICOLAS LALOUX OU SMOKY BAY","VIN BLANC OU ROUGE WALLAROO TRAIL, NICOLAS LALOUX OU SMOKY BAY",WALLAROO TRAIL | NICOLAS LALOUX | SMOKY BAY,,39.49,,,39.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,PEPSI OU COCA-COLA MINI,PEPSI OU COCA-COLA MINI,PEPSI | COCA-COLA,,3.49,,,3.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"JUS, PUNCH AUX FRUITS OU LIMONADE RÉFRIGÉRÉS SIMPLY","JUS, PUNCH AUX FRUITS OU LIMONADE RÉFRIGÉRÉS SIMPLY",Simply Beverages,,4.99,,,4.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,TARTE 3 FOIS PAR JOUR,TARTE 3 FOIS PAR JOUR,,,18.99,,,18.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,BURGERS DE BŒUF SURGELÉS VALEUR PLUS,BURGERS DE BŒUF SURGELÉS VALEUR PLUS,VALEUR PLUS,,16,,,16,unknown,flipp,Québec
+2026-06-11,tradition-joliette,BIFTECK DE TOURNEDOS FRANÇAIS FRENCH TOURNEDOS STEAK,BIFTECK DE TOURNEDOS FRANÇAIS FRENCH TOURNEDOS STEAK,,,13.49,,,13.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,JAMBON FUMÉ LAFLEUR,JAMBON FUMÉ LAFLEUR,Lafleur,,12.49,,,12.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,REPAS ASIATIQUE SURGELÉ WONG WING,REPAS ASIATIQUE SURGELÉ WONG WING,Wong Wing,,7.99,,,7.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,CUBES DE BŒUF POUR BROCHETTES,CUBES DE BŒUF POUR BROCHETTES,,,11.99,,,11.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,BAVETTE DE BŒUF MARINÉE TOP GOURMET,BAVETTE DE BŒUF MARINÉE TOP GOURMET,TOP GOURMET,,25.99,,,25.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,POITRINES DE POULET FARCIES SURGELÉES,POITRINES DE POULET FARCIES SURGELÉES,,,16.49,,,16.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"PÂTEPÂTE PILLSBURY POUR SAUCISSES (200 g), CROISSANTS (226 ou 227 g)","PÂTEPÂTE PILLSBURY POUR SAUCISSES (200 g), CROISSANTS (226 ou 227 g)",Pillsbury,,2.79,,,2.79,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"CRÈME QUÉBON ULTRA'CRÈME OU SEALTEST 35% M.G. (237 mL), 5%, 10%, 15% M.G. (473 mL) OU YOGOURT LIBERTÉ MÉDITERRANÉE (500 g), CLASSIQUE (650 g), GREC (4 x 100 g) CREAM OR YOGURT",yogourt,QUÉBON | Liberté,,3.49,,,3.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,MÉLANGE A MUFFINS OU À BISCUITS QUAKER (750 ou 900 g) OU MELANGE À CRÊPES QUAKER PROTÉINES (650 g),MÉLANGE A MUFFINS OU À BISCUITS QUAKER (750 ou 900 g) OU MELANGE À CRÊPES QUAKER PROTÉINES (650 g),Quaker,,6.49,,,6.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"TACO BELL (260 à 420 g) TACO KIT, SAUCE OR TACO BELL (207 ou 354 mL) CREAMY SAUCE","TACO BELL (260 à 420 g) TACO KIT, SAUCE OR TACO BELL (207 ou 354 mL) CREAMY SAUCE",Taco Bell,,4.99,,,4.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,SAUCE POUR FONDUE ST-HUBERT,SAUCE POUR FONDUE ST-HUBERT,St. Hubert,,4.99,,,4.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,MÉLANGE À SOUPE KNORR OU LIPTON 2 sachets (113 à 338 g) OU SOUPE CAMPBELL'S CHUNKY (515 mL) OU ST-HUBERT (540 mL),MÉLANGE À SOUPE KNORR OU LIPTON 2 sachets (113 à 338 g) OU SOUPE CAMPBELL'S CHUNKY (515 mL) OU ST-HUBERT (540 mL),KNORR | LIPTON | CAMPBELL'S,,3.49,,,3.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,NOURRITURE POUR CHIENS PURINA ONE,NOURRITURE POUR CHIENS PURINA ONE,Purina,,30.99,,,30.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"BIÈRE BUDWEISER, COORS LIGHT OU SLEEMAN ORIGINAL","BIÈRE BUDWEISER, COORS LIGHT OU SLEEMAN ORIGINAL",BUDWEISER | COORS | SLEEMAN,,21.99,,,21.99,unknown,flipp,Québec
+2026-06-11,tradition-joliette,VIN BLANC OU ROUGE TORO LOCO,VIN BLANC OU ROUGE TORO LOCO,Toro Loco,,13.49,,,13.49,unknown,flipp,Québec
+2026-06-11,tradition-joliette,"BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY, WHITE CLAW OU COORS SELTZER","BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY, WHITE CLAW OU COORS SELTZER",BEACH DAY | WHITE CLAW | COORS,,23.49,,,23.49,unknown,flipp,Québec
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 2026-06-11,intermarche-joliette,CHAMPIGNONS,CHAMPIGNONS,SANS NOM,,1.29,,,1.29,unknown,flipp,"Weekly Flyer - Valid Thursday, June 11 - Wednesday, June 17"
 2026-06-11,intermarche-joliette,"GOBERGE À SAVEUR DE CRABE DE HOMARD, OU SAUMON STEELHEAD FUMÉ DOM",saumon,SeaQuest | DOM,,2.99,,,2.99,unknown,flipp,"Weekly Flyer - Valid Thursday, June 11 - Wednesday, June 17"
 2026-06-11,intermarche-joliette,CONFITURE OU MARMELADE,CONFITURE OU MARMELADE,Smucker's,,6.49,,,6.49,unknown,flipp,"Weekly Flyer - Valid Thursday, June 11 - Wednesday, June 17"

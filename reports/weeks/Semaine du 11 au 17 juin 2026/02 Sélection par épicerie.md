@@ -13,7 +13,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Metro
+<<<<<<< HEAD
 > [!info] 15 produits retenus
+=======
+> [!info] 12 produits retenus
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 > 📍 180 rue Beaudry N, Joliette
 
 - **CANNOLI À LA CRÈME DE RICOTTA**
@@ -24,6 +28,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038950/1780630095/extra_large.jpg" alt="Preuve prix CANNOLI À LA CRÈME DE RICOTTA" width="220" />
 
+<<<<<<< HEAD
 - **HARICOTS VERTS**
   - 🥫 Section: Garde-manger et autres
   - Prix: 1,44 $/lb
@@ -32,6 +37,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038799/1780630096/extra_large.jpg" alt="Preuve prix HARICOTS VERTS" width="220" />
 
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **RADIS EN FEUILLES**
   - 🥫 Section: Garde-manger et autres
   - Prix: 0,99 $
@@ -48,6 +55,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038983/1780630106/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET MAPLE LODGE" width="220" />
 
+<<<<<<< HEAD
 - **CHOU VERT**
   - 🥬 Section: Fruits et légumes
   - Prix: 0,55 $
@@ -84,6 +92,29 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038841/1780947008/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE SELECTION" width="220" />
 
+=======
+- **Jus d'orange Tropicana 1.89L**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 5,49 $
+  - Échelle: Équivaut à 2,90 $/L.
+  - Pourquoi: Environ 53 % moins cher que le prix habituel.
+  ⚠️ Preuve photo manquante (entrée manuelle)
+
+- **HARICOTS VERTS**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 1,44 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423038799/1780630096/extra_large.jpg" alt="Preuve prix HARICOTS VERTS" width="220" />
+
+- **CHOU VERT**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 0,55 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423038810/1780630091/extra_large.jpg" alt="Preuve prix CHOU VERT" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **NOUILLES INSTANTANÉES MR.NOODLES**
   - 🥫 Section: Garde-manger et autres
   - Prix: 1,29 $
@@ -93,6 +124,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423039055/1780630106/extra_large.jpg" alt="Preuve prix NOUILLES INSTANTANÉES MR.NOODLES" width="220" />
 
+<<<<<<< HEAD
 - **BIFTECKS DE HAUT DE SURLONGE (BOSTON) DÉSOSSÉS**
   - 🥩 Section: Viandes et poissons
   - Prix: 8,95 $/lb
@@ -104,6 +136,12 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🥬 Section: Fruits et légumes
   - Prix: 4,96 $/lb
   - Échelle: Équivaut à 10,93 $/kg.
+=======
+- **CERISES COLOSSALES**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 4,96 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038804/1780630100/extra_large.jpg" alt="Preuve prix CERISES COLOSSALES" width="220" />
 
@@ -114,10 +152,24 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038796/1780630094/extra_large.jpg" alt="Preuve prix CREVETTES SAUVAGES D'ARGENTINE IRRÉSISTIBLE" width="220" />
 
+<<<<<<< HEAD
 - **PORC HACHÉ EXTRA-MAIGRE**
   - 🥩 Section: Viandes et poissons
   - Prix: 2,94 $/lb
   - Échelle: Équivaut à 6,48 $/kg.
+=======
+- **CROUSTILLES YUM YUM**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423039107/1780630104/extra_large.jpg" alt="Preuve prix CROUSTILLES YUM YUM" width="220" />
+
+- **PORC HACHÉ EXTRA-MAIGRE**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 2,94 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423038803/1780630099/extra_large.jpg" alt="Preuve prix PORC HACHÉ EXTRA-MAIGRE" width="220" />
 
@@ -134,16 +186,25 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 > [!info] 11 produits retenus
 > 📍 909 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 - **CÉRÉALES GENERAL MILLS**
   - 🥫 Section: Garde-manger et autres
   - Prix: 2,00 $
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423144677/1780711648/extra_large.jpg" alt="Preuve prix CÉRÉALES GENERAL MILLS" width="220" />
+=======
+- **Bananes**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 0,59 $/kg
+  - Pourquoi: Environ 80 % moins cher que le prix habituel.
+  ⚠️ Preuve photo manquante (entrée manuelle)
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **PAIN PITA SANS NOM®**
   - 🥖 Section: Boulangerie
   - Prix: 1,50 $
+<<<<<<< HEAD
   - Pourquoi: Environ 84 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423144753/1780711657/extra_large.jpg" alt="Preuve prix PAIN PITA SANS NOM®" width="220" />
@@ -161,6 +222,25 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423145177/1780711833/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
 
+=======
+  - Pourquoi: Environ 86 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423144753/1780711657/extra_large.jpg" alt="Preuve prix PAIN PITA SANS NOM®" width="220" />
+
+- **BISCUITS PATTES D'OURS DARE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,55 $
+  - Pourquoi: Environ 40 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423145177/1780711833/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
+
+- **CÉRÉALES GENERAL MILLS**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 2,00 $
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423144677/1780711648/extra_large.jpg" alt="Preuve prix CÉRÉALES GENERAL MILLS" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **VINAIGRETTE SANS NOM®**
   - 🥫 Section: Garde-manger et autres
   - Prix: 2,50 $
@@ -211,9 +291,23 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 IGA
+<<<<<<< HEAD
 > [!info] 17 produits retenus
 > 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
+=======
+> [!info] 16 produits retenus
+> 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
+
+- **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 4,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422952230/1780947348/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **CAFÉ PROTÉINÉ BRÜST**
   - 🥫 Section: Garde-manger et autres
   - Prix: 2,99 $
@@ -222,6 +316,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952374/1780544012/extra_large.jpg" alt="Preuve prix CAFÉ PROTÉINÉ BRÜST" width="220" />
 
+<<<<<<< HEAD
 - **FROMAGE CHEDDAR 3 ANS, BRIE DOUBLE CRÈME L'EXTRA AGROPUR**
   - 🥛 Section: Produits laitiers et oeufs
   - Prix: 3,49 $/100g
@@ -229,6 +324,15 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422951910/1780947410/extra_large.jpg" alt="Preuve prix FROMAGE CHEDDAR 3 ANS, BRIE DOUBLE CRÈME L'EXTRA AGROPUR" width="220" />
+=======
+- **DEMI-BAGEL AU SAUMON FUMÉ C'EST PRÊT!**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 3,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422952257/1780947386/extra_large.jpg" alt="Preuve prix DEMI-BAGEL AU SAUMON FUMÉ C'EST PRÊT!" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **PAINS À HAMBURGER COMPLIMENTS**
   - 🥬 Section: Fruits et légumes
@@ -238,6 +342,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423631662/1781102803/extra_large.jpg" alt="Preuve prix PAINS À HAMBURGER COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 - **COCA-COLA**
   - 🍪 Section: Collations et boissons
   - Prix: 2,99 $
@@ -245,11 +350,24 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Pourquoi: Environ 73 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952313/1780544010/extra_large.jpg" alt="Preuve prix COCA-COLA" width="220" />
+=======
+- **CROUSTILLES MISS VICKIE'S**
+  - 🍪 Section: Collations et boissons
+  - Prix: 3,77 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 41 % moins cher que le prix habituel.
+  - 📊 Gagne contre BoniChoix 3,99 $
+  - 🏅 Pourquoi ça gagne: 0,22 $ moins cher que le prochain meilleur prix
+  - 🧾 Autres prix vus: BoniChoix 3,99 $ · Marchés Tradition 3,99 $
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422951736/1780947180/extra_large.jpg" alt="Preuve prix CROUSTILLES MISS VICKIE'S" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS**
   - 🍪 Section: Collations et boissons
   - Prix: 2,97 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - Pourquoi: Environ 48 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422951747/1780947189/extra_large.jpg" alt="Preuve prix JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS" width="220" />
@@ -275,6 +393,19 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952302/1780544020/extra_large.jpg" alt="Preuve prix MOUTARDE PRÉPARÉE FRENCH'S" width="220" />
+=======
+  - Pourquoi: Environ 52 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422951747/1780947189/extra_large.jpg" alt="Preuve prix JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS" width="220" />
+
+- **COCA-COLA**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 71 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422952313/1780544010/extra_large.jpg" alt="Preuve prix COCA-COLA" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **MÛRES**
   - 🥬 Section: Fruits et légumes
@@ -285,10 +416,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **VIANDE FUMÉE FUMOIRS GOSSELIN**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 3,49 $/100g
   - Échelle: Équivaut à 34,90 $/kg.
   - 📊 Gagne contre Marchés Tradition 14,99 $
   - 🏅 Pourquoi ça gagne: 11,50 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 3,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 14,99 $
+  - 🏅 Pourquoi ça gagne: 11,50 $ moins cher que le prochain meilleur prix
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952238/1780947354/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE FUMOIRS GOSSELIN" width="220" />
 
@@ -303,10 +441,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **POULET DE GRAIN FRAIS FERME DES VOLTIGEURS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 4,49 $/lb
   - Échelle: Équivaut à 9,90 $/kg.
   - 📊 Gagne contre Marchés Tradition 4,76 $
   - 🏅 Pourquoi ça gagne: 0,27 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 4,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 4,76 $
+  - 🏅 Pourquoi ça gagne: 0,27 $ moins cher que le prochain meilleur prix
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952211/1780947325/extra_large.jpg" alt="Preuve prix POULET DE GRAIN FRAIS FERME DES VOLTIGEURS" width="220" />
 
@@ -317,12 +462,21 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422952291/1780544011/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE AMOOZA!" width="220" />
 
+<<<<<<< HEAD
 - **CREVETTES SAUVAGES D'ARGENTINE CRUES SURGELÉES GREEN OCEAN**
   - 🧊 Section: Surgelés
   - Prix: 6,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423631657/1781102798/extra_large.jpg" alt="Preuve prix CREVETTES SAUVAGES D'ARGENTINE CRUES SURGELÉES GREEN OCEAN" width="220" />
+=======
+- **CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 10,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422951735/1780947179/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **FRAMBOISES BIOLOGIQUES**
   - 🥬 Section: Fruits et légumes
@@ -338,16 +492,26 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423106944/1780661863/extra_large.jpg" alt="Preuve prix LIMES BIOLOGIQUES" width="220" />
 
+<<<<<<< HEAD
 - **POIVRONS VALEUR PLUS**
   - 🥬 Section: Fruits et légumes
   - Prix: 5,00 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423631649/1781102791/extra_large.jpg" alt="Preuve prix POIVRONS VALEUR PLUS" width="220" />
+=======
+- **PIZZA SURGELÉE MIKES**
+  - 🧊 Section: Surgelés
+  - Prix: 6,49 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422951730/1780947175/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE MIKES" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 ---
 
 ## 🏬 Super C
+<<<<<<< HEAD
 > [!info] 16 produits retenus
 > 📍 1445 boul. Firestone, Joliette
 
@@ -377,6 +541,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023733/1780615182/extra_large.jpg" alt="Preuve prix Tomates raisins de serre" width="220" />
 
+=======
+> [!info] 20 produits retenus
+> 📍 1445 boul. Firestone, Joliette
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **Yogourt à boire Yop Yoplait**
   - 🥛 Section: Produits laitiers et oeufs
   - Prix: 0,99 $
@@ -393,6 +562,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023570/1780615182/extra_large.jpg" alt="Preuve prix Sauce tomate Hunt's" width="220" />
 
+<<<<<<< HEAD
 - **Fromage râpé Selection**
   - 🥛 Section: Produits laitiers et oeufs
   - Prix: 5,47 $
@@ -419,6 +589,53 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023742/1780615190/extra_large.jpg" alt="Preuve prix Framboises ou mûres" width="220" />
+=======
+- **Légumes surgelés mélangés 1kg**
+  - 🧊 Section: Surgelés
+  - Prix: 2,49 $
+  - Échelle: Équivaut à 2,49 $/kg.
+  - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
+  ⚠️ Preuve photo manquante (entrée manuelle)
+
+- **Boeuf haché extra maigre**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 5,49 $/kg
+  - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  ⚠️ Preuve photo manquante (entrée manuelle)
+
+- **Tomates raisins de serre**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 59 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023733/1780615182/extra_large.jpg" alt="Preuve prix Tomates raisins de serre" width="220" />
+
+- **Flocons de goberge à saveur de crabe Selection**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 3,47 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 49 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023542/1780615184/extra_large.jpg" alt="Preuve prix Flocons de goberge à saveur de crabe Selection" width="220" />
+
+- **Diner Kraft**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 1,27 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 77 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023483/1780927231/extra_large.jpg" alt="Preuve prix Diner Kraft" width="220" />
+
+- **Pêches**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 2,97 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,02 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023496/1780615185/extra_large.jpg" alt="Preuve prix Pêches" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **Mayonnaise Hellmann's**
   - 🥫 Section: Garde-manger et autres
@@ -429,6 +646,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023589/1780927227/extra_large.jpg" alt="Preuve prix Mayonnaise Hellmann's" width="220" />
 
+<<<<<<< HEAD
 - **Biscuits Selection**
   - 🍪 Section: Collations et boissons
   - Prix: 2,49 $
@@ -444,6 +662,21 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023542/1780615184/extra_large.jpg" alt="Preuve prix Flocons de goberge à saveur de crabe Selection" width="220" />
+=======
+- **Mini concombres**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 0,97 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023734/1780615183/extra_large.jpg" alt="Preuve prix Mini concombres" width="220" />
+
+- **Cuisses de poulet frais**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023737/1780615186/extra_large.jpg" alt="Preuve prix Cuisses de poulet frais" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **Jus Selection**
   - 🍪 Section: Collations et boissons
@@ -454,6 +687,18 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023611/1780615189/extra_large.jpg" alt="Preuve prix Jus Selection" width="220" />
 
+<<<<<<< HEAD
+=======
+- **Fromage râpé Selection**
+  - 🥛 Section: Produits laitiers et oeufs
+  - Prix: 5,47 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 14,99 $
+  - 🏅 Pourquoi ça gagne: 9,52 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023625/1780615186/extra_large.jpg" alt="Preuve prix Fromage râpé Selection" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **Bonbons Skittles**
   - 🍪 Section: Collations et boissons
   - Prix: 3,49 $
@@ -463,6 +708,18 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023596/1780927234/extra_large.jpg" alt="Preuve prix Bonbons Skittles" width="220" />
 
+<<<<<<< HEAD
+=======
+- **Framboises ou mûres**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 3,99 $
+  - 🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023742/1780615190/extra_large.jpg" alt="Preuve prix Framboises ou mûres" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **Kiwis |**
   - 🥬 Section: Fruits et légumes
   - Prix: 5,97 $
@@ -472,6 +729,18 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023499/1780615188/extra_large.jpg" alt="Preuve prix Kiwis |" width="220" />
 
+<<<<<<< HEAD
+=======
+- **Sirop d'érable Irrésistible**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 7,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 9,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023609/1780615188/extra_large.jpg" alt="Preuve prix Sirop d'érable Irrésistible" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **Tartinade Plaisirs Gastronomiques**
   - 🥫 Section: Garde-manger et autres
   - Prix: 7,97 $
@@ -490,6 +759,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423023519/1780615185/extra_large.jpg" alt="Preuve prix Eau de source Selection" width="220" />
 
+<<<<<<< HEAD
 ---
 
 ## 🏬 BoniChoix
@@ -506,6 +776,23 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422798711/1780464198/extra_large.jpg" alt="Preuve prix BOISSON POUR SPORTIFS POWERADE" width="220" />
 
+=======
+- **Biscuits Selection**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 2,99 $
+  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423023639/1780615198/extra_large.jpg" alt="Preuve prix Biscuits Selection" width="220" />
+
+---
+
+## 🏬 BoniChoix
+> [!info] 13 produits retenus
+> 📍 773 rue de Lanaudière, Joliette
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **CONCOMBRE SANS PÉPINS**
   - 🥬 Section: Fruits et légumes
   - Prix: 0,99 $
@@ -514,6 +801,24 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422798679/1780464180/extra_large.jpg" alt="Preuve prix CONCOMBRE SANS PÉPINS" width="220" />
 
+<<<<<<< HEAD
+=======
+- **BOISSON GAZEUSE COMPLIMENTS**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 1,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 50 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422798774/1780464180/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE COMPLIMENTS" width="220" />
+
+- **PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT**
+  - 🥛 Section: Produits laitiers et oeufs
+  - Prix: 3,97 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422798673/1780464175/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **JAMBON FUMÉ MÈRE MICHEL**
   - 🥩 Section: Viandes et poissons
   - Prix: 3,19 $
@@ -521,6 +826,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422798698/1780464188/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ MÈRE MICHEL" width="220" />
 
+<<<<<<< HEAD
 - **BOISSON GAZEUSE COMPLIMENTS**
   - 🥬 Section: Fruits et légumes
   - Prix: 1,99 $
@@ -534,6 +840,32 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422798699/1780464189/extra_large.jpg" alt="Preuve prix REPAS DE POULET FRIT C'EST PRÊT!" width="220" />
+=======
+- **BISCUITS LECLERC CÉLÉBRATION**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,47 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422798676/1780464178/extra_large.jpg" alt="Preuve prix BISCUITS LECLERC CÉLÉBRATION" width="220" />
+
+- **BOISSON POUR SPORTIFS POWERADE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 1,49 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 6,00 $
+  - 🏅 Pourquoi ça gagne: 4,51 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422798711/1780464198/extra_large.jpg" alt="Preuve prix BOISSON POUR SPORTIFS POWERADE" width="220" />
+
+- **ROSETTES DE BŒUF FRAIS C'EST PRÊT! À CUIRE**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 10,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 11,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422798730/1780464188/extra_large.jpg" alt="Preuve prix ROSETTES DE BŒUF FRAIS C'EST PRÊT! À CUIRE" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **BURGERS DE BŒUF FARCIS SURGELÉS COMPLIMENTS**
   - 🧊 Section: Surgelés
@@ -582,6 +914,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 L'Inter-Marché
+<<<<<<< HEAD
 > [!info] 4 produits retenus
 > 📍 Joliette
 
@@ -592,11 +925,24 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423060242/1780619113/extra_large.jpg" alt="Preuve prix GOBERGE À SAVEUR DE CRABE DE HOMARD, OU SAUMON STEELHEAD FUMÉ DOM" width="220" />
+=======
+> [!info] 3 produits retenus
+> 📍 Joliette
+
+- **FROMAGE EN BLOC 400 G OU RÂPÉ 320 G**
+  - 🥛 Section: Produits laitiers et oeufs
+  - Prix: 4,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423060211/1780619113/extra_large.jpg" alt="Preuve prix FROMAGE EN BLOC 400 G OU RÂPÉ 320 G" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **LÉGUMES**
   - 🥬 Section: Fruits et légumes
   - Prix: 1,79 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423060265/1780619119/extra_large.jpg" alt="Preuve prix LÉGUMES" width="220" />
@@ -610,6 +956,12 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423060256/1780619125/extra_large.jpg" alt="Preuve prix BŒUF HACHÉ EXTRA-MAIGRE" width="220" />
 
+=======
+  - Pourquoi: Environ 50 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423060265/1780619119/extra_large.jpg" alt="Preuve prix LÉGUMES" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **GUIMAUVES**
   - 🥫 Section: Garde-manger et autres
   - Prix: 2,49 $
@@ -622,6 +974,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Marchés Tradition
+<<<<<<< HEAD
 > [!info] 9 produits retenus
 > 📍 Joliette
 
@@ -649,10 +1002,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422792904/1780572522/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES" width="220" />
 
+=======
+> [!info] 10 produits retenus
+> 📍 Joliette
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - **TRANCHES DE FROMAGE COMPLIMENTS**
   - 🥬 Section: Fruits et légumes
   - Prix: 5,49 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422792984/1780572525/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
 
@@ -664,10 +1023,43 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/422792903/1780572521/extra_large.jpg" alt="Preuve prix SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE" width="220" />
 
 - **AUX FRUITS COMPLIMENTS**
+=======
+  - Pourquoi: Environ 40 % moins cher que le prix habituel.
+  - 📊 Gagne contre IGA 10,99 $
+  - 🏅 Pourquoi ça gagne: 5,50 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778531/1780473322/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
+
+- **ASPERGES VERTES**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 3,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778458/1780473322/extra_large.jpg" alt="Preuve prix ASPERGES VERTES" width="220" />
+
+- **POITRINES DE POULET FRAIS DÉSOSSÉES**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 3,77 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778454/1780473318/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES" width="220" />
+
+- **CÉRÉALES KELLOGG'S**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 3,49 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778513/1780473317/extra_large.jpg" alt="Preuve prix CÉRÉALES KELLOGG'S" width="220" />
+
+- **MINI-CONCOMBRES SANS PÉPINS**
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 🥬 Section: Fruits et légumes
   - Prix: 1,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
+<<<<<<< HEAD
   <img src="https://f.wishabi.net/page_items/422792968/1780572523/extra_large.jpg" alt="Preuve prix AUX FRUITS COMPLIMENTS" width="220" />
 
 - **BAVETTE DE PORC ASSAISONNÉE TOP GOURMET**
@@ -678,10 +1070,32 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   <img src="https://f.wishabi.net/page_items/422792905/1780572523/extra_large.jpg" alt="Preuve prix BAVETTE DE PORC ASSAISONNÉE TOP GOURMET" width="220" />
 
 - **PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA**
+=======
+  <img src="https://f.wishabi.net/page_items/422778497/1780473320/extra_large.jpg" alt="Preuve prix MINI-CONCOMBRES SANS PÉPINS" width="220" />
+
+- **BURGERS DE BŒUF WAGYU SURGELÉS RICARDO**
+  - 🧊 Section: Surgelés
+  - Prix: 13,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 15,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778479/1780473329/extra_large.jpg" alt="Preuve prix BURGERS DE BŒUF WAGYU SURGELÉS RICARDO" width="220" />
+
+- **FROMAGE SAPUTO**
+  - 🥛 Section: Produits laitiers et oeufs
+  - Prix: 11,49 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778536/1780473325/extra_large.jpg" alt="Preuve prix FROMAGE SAPUTO" width="220" />
+
+- **PIZZA SURGELÉE DR.OETKER**
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 🧊 Section: Surgelés
   - Prix: 3,47 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
+<<<<<<< HEAD
   <img src="https://f.wishabi.net/page_items/422792910/1780572526/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA" width="220" />
 
 - **REPAS SURGELÉ CRAVE OU KRAFT KD DELUXE**
@@ -690,6 +1104,23 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422792967/1780572522/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ CRAVE OU KRAFT KD DELUXE" width="220" />
+=======
+  <img src="https://f.wishabi.net/page_items/422778460/1780473323/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER" width="220" />
+
+- **POIVRONS ASSORTIS**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 5,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778494/1780473318/extra_large.jpg" alt="Preuve prix POIVRONS ASSORTIS" width="220" />
+
+- **POULET CRAPAUDINE FRAIS RICARDO**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 6,49 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422778567/1780473318/extra_large.jpg" alt="Preuve prix POULET CRAPAUDINE FRAIS RICARDO" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 ---
 
@@ -697,12 +1128,21 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 > [!info] 6 produits retenus
 > 📍 Joliette
 
+<<<<<<< HEAD
 - **Produits de maquillage sélectionnés**
   - 💊 Section: Santé et pharmacie
   - Prix: 8,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/422646261/1780368689/extra_large.jpg" alt="Preuve prix Produits de maquillage sélectionnés" width="220" />
+=======
+- **BIOMEDIC Allergies**
+  - 💊 Section: Santé et pharmacie
+  - Prix: 10,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/422644763/1780368676/extra_large.jpg" alt="Preuve prix BIOMEDIC Allergies" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - **BOUNCE Produits sélectionnés**
   - 🥫 Section: Garde-manger et autres

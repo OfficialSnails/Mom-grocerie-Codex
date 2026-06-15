@@ -1,5 +1,6 @@
 # Comparaison des listes — 11 au 17 juin 2026
 
+<<<<<<< HEAD
 - Ancienne liste mom: 169 lignes
 - Liste vérifiée: 106 lignes
 - Différence: -63 lignes
@@ -13,6 +14,21 @@
 - BoniChoix: 13
 - L'Inter-Marché: 4
 - Marchés Tradition: 15
+=======
+- Ancienne liste mom: 170 lignes
+- Liste vérifiée: 110 lignes
+- Différence: -60 lignes
+
+## Répartition vérifiée
+
+- Metro: 13
+- Maxi: 11
+- IGA: 19
+- Super C: 20
+- BoniChoix: 15
+- L'Inter-Marché: 5
+- Marchés Tradition: 16
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - Familiprix: 6
 - Costco: 5
 

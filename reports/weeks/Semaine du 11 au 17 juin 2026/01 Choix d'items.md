@@ -30,6 +30,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422798679/1780464180/extra_large.jpg" alt="Preuve prix CONCOMBRE SANS PÉPINS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **MINI-CONCOMBRES SANS PÉPINS** — **1,99 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -51,6 +52,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423060265/1780619119/extra_large.jpg" alt="Preuve prix LÉGUMES" width="220" />
 
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **PAINS À HAMBURGER COMPLIMENTS** — **1,77 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -58,6 +61,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423631662/1781102803/extra_large.jpg" alt="Preuve prix PAINS À HAMBURGER COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Mini concombres** — **0,97 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -77,6 +81,74 @@ cssclasses:
   - ✅ **Pourquoi:** Environ 72 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423145054/1780711805/extra_large.jpg" alt="Preuve prix CONCOMBRES ANGLAIS" width="220" />
+=======
+- [ ] **TRANCHES DE FROMAGE COMPLIMENTS** — **5,49 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 40 % moins cher que le prix habituel.
+  - 📊 Gagne contre IGA 10,99 $
+  - 🏅 Pourquoi ça gagne: 5,50 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778531/1780473322/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
+
+- [ ] **Tomates raisins de serre** — **1,97 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 59 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023733/1780615182/extra_large.jpg" alt="Preuve prix Tomates raisins de serre" width="220" />
+
+- [ ] **Bananes** — **0,59 $/kg**
+  - 📍 **Magasin:** Maxi
+  - ✅ **Pourquoi:** Environ 80 % moins cher que le prix habituel.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
+
+- [ ] **BOISSON GAZEUSE COMPLIMENTS** — **1,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 50 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422798774/1780464180/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE COMPLIMENTS" width="220" />
+
+- [ ] **LÉGUMES** — **1,79 $**
+  - 📍 **Magasin:** L'Inter-Marché
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 50 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423060265/1780619119/extra_large.jpg" alt="Preuve prix LÉGUMES" width="220" />
+
+- [ ] **ASPERGES VERTES** — **2,99 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 3,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778458/1780473322/extra_large.jpg" alt="Preuve prix ASPERGES VERTES" width="220" />
+
+- [ ] **Mini concombres** — **0,97 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023734/1780615183/extra_large.jpg" alt="Preuve prix Mini concombres" width="220" />
+
+- [ ] **MÛRES** — **1,87 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423631653/1781102795/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
+
+- [ ] **CHOU VERT** — **0,55 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423038810/1780630091/extra_large.jpg" alt="Preuve prix CHOU VERT" width="220" />
+
+- [ ] **MINI-CONCOMBRES SANS PÉPINS** — **1,99 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778497/1780473320/extra_large.jpg" alt="Preuve prix MINI-CONCOMBRES SANS PÉPINS" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **Framboises ou mûres** — **1,97 $**
   - 📍 **Magasin:** Super C
@@ -86,6 +158,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023742/1780615190/extra_large.jpg" alt="Preuve prix Framboises ou mûres" width="220" />
 
+<<<<<<< HEAD
 - [ ] **ASPERGES VERTES** — **2,99 $/lb**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Équivaut à 6,59 $/kg.
@@ -112,6 +185,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423631653/1781102795/extra_large.jpg" alt="Preuve prix MÛRES" width="220" />
 
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **Kiwis |** — **5,97 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -120,6 +195,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023499/1780615188/extra_large.jpg" alt="Preuve prix Kiwis |" width="220" />
 
+<<<<<<< HEAD
 - [ ] **AUX FRUITS COMPLIMENTS** — **1,99 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -129,6 +205,11 @@ cssclasses:
 - [ ] **CERISES COLOSSALES** — **4,96 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 10,93 $/kg.
+=======
+- [ ] **CERISES COLOSSALES** — **4,96 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038804/1780630100/extra_large.jpg" alt="Preuve prix CERISES COLOSSALES" width="220" />
 
@@ -149,21 +230,38 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423106944/1780661863/extra_large.jpg" alt="Preuve prix LIMES BIOLOGIQUES" width="220" />
 
+<<<<<<< HEAD
 - [ ] **POIVRONS VALEUR PLUS** — **5,00 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423631649/1781102791/extra_large.jpg" alt="Preuve prix POIVRONS VALEUR PLUS" width="220" />
+=======
+- [ ] **POIVRONS ASSORTIS** — **5,99 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778494/1780473318/extra_large.jpg" alt="Preuve prix POIVRONS ASSORTIS" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 
 ## 🥩 Viandes et poissons
 
+<<<<<<< HEAD
 - [ ] **GOBERGE À SAVEUR DE CRABE DE HOMARD, OU SAUMON STEELHEAD FUMÉ DOM** — **2,99 $**
   - 📍 **Magasin:** L'Inter-Marché
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - ✅ **Pourquoi:** Très bon prix, proche du meilleur prix des 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423060242/1780619113/extra_large.jpg" alt="Preuve prix GOBERGE À SAVEUR DE CRABE DE HOMARD, OU SAUMON STEELHEAD FUMÉ DOM" width="220" />
+=======
+- [ ] **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD** — **4,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422952230/1780947348/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **RÔTI DE POITRINE DE POULET MAPLE LODGE** — **2,49 $**
   - 📍 **Magasin:** Metro
@@ -172,16 +270,31 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038983/1780630106/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET MAPLE LODGE" width="220" />
 
+<<<<<<< HEAD
 - [ ] **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD** — **4,49 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 44,90 $/kg.
   - ✅ **Pourquoi:** Environ 43 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422952230/1780947348/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
+=======
+- [ ] **DEMI-BAGEL AU SAUMON FUMÉ C'EST PRÊT!** — **3,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422952257/1780947386/extra_large.jpg" alt="Preuve prix DEMI-BAGEL AU SAUMON FUMÉ C'EST PRÊT!" width="220" />
+
+- [ ] **Boeuf haché extra maigre** — **5,49 $/kg**
+  - 📍 **Magasin:** Super C
+  - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **Flocons de goberge à saveur de crabe Selection** — **3,47 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+<<<<<<< HEAD
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023542/1780615184/extra_large.jpg" alt="Preuve prix Flocons de goberge à saveur de crabe Selection" width="220" />
 
@@ -190,6 +303,17 @@ cssclasses:
   - ⚖️ **Échelle:** Équivaut à 8,31 $/kg.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422792904/1780572522/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES" width="220" />
+=======
+  - ✅ **Pourquoi:** Environ 49 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023542/1780615184/extra_large.jpg" alt="Preuve prix Flocons de goberge à saveur de crabe Selection" width="220" />
+
+- [ ] **Jus d'orange Tropicana 1.89L** — **5,49 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Équivaut à 2,90 $/L.
+  - ✅ **Pourquoi:** Environ 53 % moins cher que le prix habituel.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **JAMBON FUMÉ MÈRE MICHEL** — **3,19 $**
   - 📍 **Magasin:** BoniChoix
@@ -197,6 +321,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422798698/1780464188/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ MÈRE MICHEL" width="220" />
 
+<<<<<<< HEAD
 - [ ] **SAUCISSES EUROPÉENNES FRAÎCHES C'EST PRÊT! À CUIRE** — **4,99 $/lb**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Équivaut à 11,00 $/kg.
@@ -222,6 +347,33 @@ cssclasses:
   - ⚖️ **Échelle:** Équivaut à 9,90 $/kg.
   - 📊 Gagne contre Marchés Tradition 4,76 $
   - 🏅 Pourquoi ça gagne: 0,27 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **Cuisses de poulet frais** — **1,97 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023737/1780615186/extra_large.jpg" alt="Preuve prix Cuisses de poulet frais" width="220" />
+
+- [ ] **POITRINES DE POULET FRAIS DÉSOSSÉES** — **3,77 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778454/1780473318/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES" width="220" />
+
+- [ ] **ROSETTES DE BŒUF FRAIS C'EST PRÊT! À CUIRE** — **10,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 11,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422798730/1780464188/extra_large.jpg" alt="Preuve prix ROSETTES DE BŒUF FRAIS C'EST PRÊT! À CUIRE" width="220" />
+
+- [ ] **POULET DE GRAIN FRAIS FERME DES VOLTIGEURS** — **4,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 4,76 $
+  - 🏅 Pourquoi ça gagne: 0,27 $ moins cher que le prochain meilleur prix
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422952211/1780947325/extra_large.jpg" alt="Preuve prix POULET DE GRAIN FRAIS FERME DES VOLTIGEURS" width="220" />
 
@@ -230,6 +382,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423145058/1780711808/extra_large.jpg" alt="Preuve prix BAVETTE DE BŒUF HOUSTON, 225 g" width="220" />
 
+<<<<<<< HEAD
 - [ ] **BAVETTE DE PORC ASSAISONNÉE TOP GOURMET** — **7,99 $/lb**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Équivaut à 17,61 $/kg.
@@ -242,11 +395,22 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038809/1780630103/extra_large.jpg" alt="Preuve prix BIFTECKS DE HAUT DE SURLONGE (BOSTON) DÉSOSSÉS" width="220" />
 
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **CHARCUTERIES TRANCHÉES ROYAL, 175-375 g** — **3,00 $**
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423144898/1780711654/extra_large.jpg" alt="Preuve prix CHARCUTERIES TRANCHÉES ROYAL, 175-375 g" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE** — **10,99 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422951735/1780947179/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **CREVETTES SAUVAGES D'ARGENTINE IRRÉSISTIBLE** — **5,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -259,12 +423,27 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423145050/1780711802/extra_large.jpg" alt="Preuve prix POITRINES DE POULET" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PORC HACHÉ EXTRA-MAIGRE** — **2,94 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 6,48 $/kg.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038803/1780630099/extra_large.jpg" alt="Preuve prix PORC HACHÉ EXTRA-MAIGRE" width="220" />
 
+=======
+- [ ] **PORC HACHÉ EXTRA-MAIGRE** — **2,94 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423038803/1780630099/extra_large.jpg" alt="Preuve prix PORC HACHÉ EXTRA-MAIGRE" width="220" />
+
+- [ ] **POULET CRAPAUDINE FRAIS RICARDO** — **6,49 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778567/1780473318/extra_large.jpg" alt="Preuve prix POULET CRAPAUDINE FRAIS RICARDO" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **SAUCISSES FUMÉES COMPLIMENTS** — **3,49 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -294,17 +473,35 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023607/1780615186/extra_large.jpg" alt="Preuve prix Yogourt à boire Yop Yoplait" width="220" />
 
+<<<<<<< HEAD
 - [ ] **FROMAGE CHEDDAR 3 ANS, BRIE DOUBLE CRÈME L'EXTRA AGROPUR** — **3,49 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 34,90 $/kg.
   - ✅ **Pourquoi:** Très bon prix, proche du meilleur prix des 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422951910/1780947410/extra_large.jpg" alt="Preuve prix FROMAGE CHEDDAR 3 ANS, BRIE DOUBLE CRÈME L'EXTRA AGROPUR" width="220" />
+=======
+- [ ] **FROMAGE EN BLOC 400 G OU RÂPÉ 320 G** — **4,99 $**
+  - 📍 **Magasin:** L'Inter-Marché
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423060211/1780619113/extra_large.jpg" alt="Preuve prix FROMAGE EN BLOC 400 G OU RÂPÉ 320 G" width="220" />
+
+- [ ] **PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT** — **3,97 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422798673/1780464175/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU TRANCHÉ KRAFT" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **Fromage râpé Selection** — **5,47 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+<<<<<<< HEAD
   - ✅ **Pourquoi:** Environ 44 % moins cher que le prix habituel.
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 📊 Gagne contre Metro 14,99 $
   - 🏅 Pourquoi ça gagne: 9,52 $ moins cher que le prochain meilleur prix
   - 📸 **Preuve du prix**
@@ -316,6 +513,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422952291/1780544011/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE AMOOZA!" width="220" />
 
+<<<<<<< HEAD
 
 ## 🥫 Garde-manger et autres
 
@@ -348,6 +546,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038799/1780630096/extra_large.jpg" alt="Preuve prix HARICOTS VERTS" width="220" />
 
+=======
+- [ ] **FROMAGE SAPUTO** — **11,49 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778536/1780473325/extra_large.jpg" alt="Preuve prix FROMAGE SAPUTO" width="220" />
+
+
+## 🥫 Garde-manger et autres
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **RADIS EN FEUILLES** — **0,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -369,6 +578,24 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023570/1780615182/extra_large.jpg" alt="Preuve prix Sauce tomate Hunt's" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **Diner Kraft** — **1,27 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 77 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023483/1780927231/extra_large.jpg" alt="Preuve prix Diner Kraft" width="220" />
+
+- [ ] **Pêches** — **2,97 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,02 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023496/1780615185/extra_large.jpg" alt="Preuve prix Pêches" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **Mayonnaise Hellmann's** — **3,99 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -377,6 +604,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023589/1780927227/extra_large.jpg" alt="Preuve prix Mayonnaise Hellmann's" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PLAT D'ACCOMPAGNEMENT KNORR SIDEKICKS** — **1,65 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -394,6 +622,30 @@ cssclasses:
   - ⚖️ **Échelle:** Équivaut à 34,90 $/kg.
   - 📊 Gagne contre Marchés Tradition 14,99 $
   - 🏅 Pourquoi ça gagne: 11,50 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **HARICOTS VERTS** — **1,44 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423038799/1780630096/extra_large.jpg" alt="Preuve prix HARICOTS VERTS" width="220" />
+
+- [ ] **CÉRÉALES GENERAL MILLS** — **2,00 $**
+  - 📍 **Magasin:** Maxi
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423144677/1780711648/extra_large.jpg" alt="Preuve prix CÉRÉALES GENERAL MILLS" width="220" />
+
+- [ ] **CÉRÉALES KELLOGG'S** — **3,49 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778513/1780473317/extra_large.jpg" alt="Preuve prix CÉRÉALES KELLOGG'S" width="220" />
+
+- [ ] **VIANDE FUMÉE FUMOIRS GOSSELIN** — **3,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 14,99 $
+  - 🏅 Pourquoi ça gagne: 11,50 $ moins cher que le prochain meilleur prix
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422952238/1780947354/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE FUMOIRS GOSSELIN" width="220" />
 
@@ -405,6 +657,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423039055/1780630106/extra_large.jpg" alt="Preuve prix NOUILLES INSTANTANÉES MR.NOODLES" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **Sirop d'érable Irrésistible** — **7,99 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 9,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023609/1780615188/extra_large.jpg" alt="Preuve prix Sirop d'érable Irrésistible" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **Tartinade Plaisirs Gastronomiques** — **7,97 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -463,12 +726,15 @@ cssclasses:
 
 ## 🧼 Maison et entretien
 
+<<<<<<< HEAD
 - [ ] **PAPIER HYGIÉNIQUE SELECTION** — **7,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038841/1780947008/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE SELECTION" width="220" />
 
+=======
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **DÉTERGENT À LESSIVE PUREX, PERSIL OU SUNLIGHT** — **16,49 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -496,11 +762,19 @@ cssclasses:
 
 ## 💊 Santé et pharmacie
 
+<<<<<<< HEAD
 - [ ] **Produits de maquillage sélectionnés** — **8,99 $**
   - 📍 **Magasin:** Familiprix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422646261/1780368689/extra_large.jpg" alt="Preuve prix Produits de maquillage sélectionnés" width="220" />
+=======
+- [ ] **BIOMEDIC Allergies** — **10,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422644763/1780368676/extra_large.jpg" alt="Preuve prix BIOMEDIC Allergies" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **Ensure Hyperprotéiné supplément nutritionnel Vanille 6x235ml** — **12,99 $**
   - 📍 **Magasin:** Familiprix
@@ -519,18 +793,38 @@ cssclasses:
 
 - [ ] **PAIN PITA SANS NOM®** — **1,50 $**
   - 📍 **Magasin:** Maxi
+<<<<<<< HEAD
   - ✅ **Pourquoi:** Environ 84 % moins cher que le prix habituel.
+=======
+  - ✅ **Pourquoi:** Environ 86 % moins cher que le prix habituel.
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423144753/1780711657/extra_large.jpg" alt="Preuve prix PAIN PITA SANS NOM®" width="220" />
 
 
 ## 🧊 Surgelés
 
+<<<<<<< HEAD
 - [ ] **GAUFRES EGGO KELLOGG'S** — **2,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423038837/1780630097/extra_large.jpg" alt="Preuve prix GAUFRES EGGO KELLOGG'S" width="220" />
+=======
+- [ ] **Légumes surgelés mélangés 1kg** — **2,49 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Équivaut à 2,49 $/kg.
+  - ✅ **Pourquoi:** Très bon prix, proche du meilleur prix des 6 derniers mois.
+  - ⚠️ **Preuve:** photo manquante (entrée manuelle)
+
+- [ ] **BURGERS DE BŒUF WAGYU SURGELÉS RICARDO** — **13,99 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 15,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778479/1780473329/extra_large.jpg" alt="Preuve prix BURGERS DE BŒUF WAGYU SURGELÉS RICARDO" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **BURGERS DE BŒUF FARCIS SURGELÉS COMPLIMENTS** — **16,99 $**
   - 📍 **Magasin:** BoniChoix
@@ -547,6 +841,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423144757/1780711661/extra_large.jpg" alt="Preuve prix FRUITS SURGELÉS SANS NOM®" width="220" />
 
+<<<<<<< HEAD
 - [ ] **CREVETTES SAUVAGES D'ARGENTINE CRUES SURGELÉES GREEN OCEAN** — **6,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -564,6 +859,19 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422792967/1780572522/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ CRAVE OU KRAFT KD DELUXE" width="220" />
+=======
+- [ ] **PIZZA SURGELÉE DR.OETKER** — **3,47 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422778460/1780473323/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER" width="220" />
+
+- [ ] **PIZZA SURGELÉE MIKES** — **6,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422951730/1780947175/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE MIKES" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **REPAS SURGELÉ CRAVE OU KRAFT XD DELUXE** — **3,99 $**
   - 📍 **Magasin:** BoniChoix
@@ -574,6 +882,7 @@ cssclasses:
 
 ## 🍪 Collations et boissons
 
+<<<<<<< HEAD
 - [ ] **BOISSON POUR SPORTIFS POWERADE** — **1,49 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -589,10 +898,22 @@ cssclasses:
   - ✅ **Pourquoi:** Environ 73 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422952313/1780544010/extra_large.jpg" alt="Preuve prix COCA-COLA" width="220" />
+=======
+- [ ] **CROUSTILLES MISS VICKIE'S** — **3,77 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 41 % moins cher que le prix habituel.
+  - 📊 Gagne contre BoniChoix 3,99 $
+  - 🏅 Pourquoi ça gagne: 0,22 $ moins cher que le prochain meilleur prix
+  - 🧾 Autres prix vus: BoniChoix 3,99 $ · Marchés Tradition 3,99 $
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422951736/1780947180/extra_large.jpg" alt="Preuve prix CROUSTILLES MISS VICKIE'S" width="220" />
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 
 - [ ] **JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS** — **2,97 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+<<<<<<< HEAD
   - ✅ **Pourquoi:** Environ 48 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/422951747/1780947189/extra_large.jpg" alt="Preuve prix JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS" width="220" />
@@ -622,6 +943,31 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423145177/1780711833/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
 
+=======
+  - ✅ **Pourquoi:** Environ 52 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422951747/1780947189/extra_large.jpg" alt="Preuve prix JUS D'ORANGE RÉFRIGÉRÉ VALEUR PLUS" width="220" />
+
+- [ ] **COCA-COLA** — **2,99 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 71 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422952313/1780544010/extra_large.jpg" alt="Preuve prix COCA-COLA" width="220" />
+
+- [ ] **BISCUITS PATTES D'OURS DARE** — **2,55 $**
+  - 📍 **Magasin:** Maxi
+  - ✅ **Pourquoi:** Environ 40 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423145177/1780711833/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
+
+- [ ] **BISCUITS LECLERC CÉLÉBRATION** — **2,47 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422798676/1780464178/extra_large.jpg" alt="Preuve prix BISCUITS LECLERC CÉLÉBRATION" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **Jus Selection** — **1,59 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -638,6 +984,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023596/1780927234/extra_large.jpg" alt="Preuve prix Bonbons Skittles" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **BOISSON POUR SPORTIFS POWERADE** — **1,49 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 6,00 $
+  - 🏅 Pourquoi ça gagne: 4,51 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/422798711/1780464198/extra_large.jpg" alt="Preuve prix BOISSON POUR SPORTIFS POWERADE" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **Eau de source Selection** — **3,27 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -646,6 +1003,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423023519/1780615185/extra_large.jpg" alt="Preuve prix Eau de source Selection" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **Biscuits Selection** — **2,49 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 2,99 $
+  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423023639/1780615198/extra_large.jpg" alt="Preuve prix Biscuits Selection" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **BISCUITS MAXI FRUITS, METEO OU NORMANDIE DARE, 280 G** — **1,88 $**
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
@@ -657,6 +1025,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/423340846/1780941031/extra_large.jpg" alt="Preuve prix Boissons gazeuses Les incontournables de poppi" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **CROUSTILLES YUM YUM** — **2,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423039107/1780630104/extra_large.jpg" alt="Preuve prix CROUSTILLES YUM YUM" width="220" />
+
+>>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
 - [ ] **PEPSI OU COCA-COLA MINI** — **3,49 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
