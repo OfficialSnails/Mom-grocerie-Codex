@@ -1,6 +1,6 @@
 import type { RawDealItem, SourceAdapter } from './source-adapter.js';
 import { shouldRunSource, updateSourceStatus } from './firecrawl-adapter.js';
-import { addDays, format, isWithinInterval, parseISO, startOfWeek } from 'date-fns';
+import { addDays, format, parseISO } from 'date-fns';
 
 const WISHABI_BASE = 'https://backflipp.wishabi.com/flipp';
 const POSTAL_CODE = 'J6E3N2';
@@ -62,7 +62,20 @@ interface WishabiItemsResponse {
 interface FlyerCycle {
   start: Date;
   end: Date;
+  startDate: string;
+  endDate: string;
 }
+
+const TORONTO_TIME_ZONE = 'America/Toronto';
+const WEEKDAY_INDEX: Record<string, number> = {
+  Sun: 0,
+  Mon: 1,
+  Tue: 2,
+  Wed: 3,
+  Thu: 4,
+  Fri: 5,
+  Sat: 6,
+};
 
 function parseFrenchName(raw: string): string {
   // Bilingual names: "croustilles tortilla Doritos | Doritos tortilla chips"
@@ -100,6 +113,40 @@ function inferUnitFromPrintId(printId?: string | null): string | undefined {
   return undefined;
 }
 
+function getTorontoDateParts(date: Date): { year: number; month: number; day: number; weekday: number } {
+  const formatted = new Intl.DateTimeFormat('en-CA', {
+    timeZone: TORONTO_TIME_ZONE,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    weekday: 'short',
+  }).formatToParts(date);
+
+  const year = Number(formatted.find(part => part.type === 'year')?.value);
+  const month = Number(formatted.find(part => part.type === 'month')?.value);
+  const day = Number(formatted.find(part => part.type === 'day')?.value);
+  const weekdayLabel = formatted.find(part => part.type === 'weekday')?.value ?? 'Sun';
+  const weekday = WEEKDAY_INDEX[weekdayLabel] ?? 0;
+
+  return { year, month, day, weekday };
+}
+
+function formatUtcDateOnly(date: Date): string {
+  return date.toISOString().slice(0, 10);
+}
+
+function flyerDateOnly(value: string): string {
+  return value.slice(0, 10);
+}
+
+function dateOnlyOverlaps(start: string, end: string, candidateStart: string, candidateEnd: string): boolean {
+  return (
+    (start >= candidateStart && start <= candidateEnd) ||
+    (end >= candidateStart && end <= candidateEnd) ||
+    (candidateStart >= start && candidateStart <= end)
+  );
+}
+
 export function matchMerchant(merchant: string): { store_id: string; store_name: string } | null {
   for (const { pattern, store_id, store_name } of MERCHANT_PATTERNS) {
     if (pattern.test(merchant.trim())) return { store_id, store_name };
@@ -108,37 +155,36 @@ export function matchMerchant(merchant: string): { store_id: string; store_name:
 }
 
 function getTargetFlyerCycle(now: Date = new Date()): FlyerCycle {
-  const day = now.getDay();
-  if (day === 3) {
-    const start = addDays(startOfWeek(now, { weekStartsOn: 4 }), 7);
-    return { start, end: addDays(start, 6) };
-  }
+  const { year, month, day, weekday } = getTorontoDateParts(now);
+  const anchor = new Date(Date.UTC(year, month - 1, day));
+  const offsetToStart = weekday === 3 ? 1 : -((weekday - 4 + 7) % 7);
+  const start = addDays(anchor, offsetToStart);
+  const end = addDays(start, 6);
 
-  const start = startOfWeek(now, { weekStartsOn: 4 });
-  return { start, end: addDays(start, 6) };
+  return {
+    start,
+    end,
+    startDate: formatUtcDateOnly(start),
+    endDate: formatUtcDateOnly(end),
+  };
 }
 
 function overlapsTargetCycle(flyer: WishabiFlyer, cycle: FlyerCycle): boolean {
-  const validFrom = parseISO(flyer.valid_from);
-  const validTo = parseISO(flyer.valid_to);
-
-  return (
-    isWithinInterval(cycle.start, { start: validFrom, end: validTo }) ||
-    isWithinInterval(cycle.end, { start: validFrom, end: validTo }) ||
-    isWithinInterval(validFrom, { start: cycle.start, end: cycle.end })
+  return dateOnlyOverlaps(
+    cycle.startDate,
+    cycle.endDate,
+    flyerDateOnly(flyer.valid_from),
+    flyerDateOnly(flyer.valid_to),
   );
 }
 
 function scoreFlyer(flyer: WishabiFlyer, cycle: FlyerCycle): number {
   const name = flyer.name.toLowerCase();
-  const validFrom = parseISO(flyer.valid_from);
-  const validTo = parseISO(flyer.valid_to);
+  const validFrom = flyerDateOnly(flyer.valid_from);
+  const validTo = flyerDateOnly(flyer.valid_to);
   let score = 0;
 
-  if (
-    format(validFrom, 'yyyy-MM-dd') === format(cycle.start, 'yyyy-MM-dd') &&
-    format(validTo, 'yyyy-MM-dd') === format(cycle.end, 'yyyy-MM-dd')
-  ) {
+  if (validFrom === cycle.startDate && validTo === cycle.endDate) {
     score += 40;
   } else if (overlapsTargetCycle(flyer, cycle)) {
     score += 20;
