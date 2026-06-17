@@ -1,35 +1,25 @@
 {
-<<<<<<< HEAD
-  "generatedAt": "2026-06-11T16:00:00.000Z",
-=======
-  "generatedAt": "2026-06-11T15:41:34.681Z",
->>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
+  "generatedAt": "2026-06-18T16:00:00.000Z",
   "weeks": [
+    {
+      "slug": "semaine-du-18-au-24-juin-2026",
+      "folderName": "Semaine du 18 au 24 juin 2026",
+      "title": "Liste d'épicerie — 18 au 24 juin 2026",
+      "weekRange": "18 au 24 juin 2026",
+      "generatedAt": "2026-06-18T16:00:00.000Z",
+      "itemCount": 78,
+      "allItemCount": 1334,
+      "path": "data/weeks/semaine-du-18-au-24-juin-2026/week.json"
+    },
     {
       "slug": "semaine-du-11-au-17-juin-2026",
       "folderName": "Semaine du 11 au 17 juin 2026",
       "title": "Liste d'épicerie — 11 au 17 juin 2026",
       "weekRange": "11 au 17 juin 2026",
-<<<<<<< HEAD
       "generatedAt": "2026-06-11T16:00:00.000Z",
-      "itemCount": 90,
+      "itemCount": 84,
       "allItemCount": 1445,
-=======
-      "generatedAt": "2026-06-11T15:41:34.681Z",
-      "itemCount": 92,
-      "allItemCount": 1717,
->>>>>>> 9f90571312d9fd5ebf51d778783bddcff9780676
       "path": "data/weeks/semaine-du-11-au-17-juin-2026/week.json"
-    },
-    {
-      "slug": "semaine-du-4-au-10-juin-2026",
-      "folderName": "Semaine du 4 au 10 juin 2026",
-      "title": "Liste d'épicerie — 4 au 10 juin 2026",
-      "weekRange": "4 au 10 juin 2026",
-      "generatedAt": "2026-06-04T14:42:18.536Z",
-      "itemCount": 89,
-      "allItemCount": 1475,
-      "path": "data/weeks/semaine-du-4-au-10-juin-2026/week.json"
     }
   ]
 }

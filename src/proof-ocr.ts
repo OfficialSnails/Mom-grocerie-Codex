@@ -81,10 +81,14 @@ export function ocrProofImage(url: string): string | null {
   const textPath = join(CACHE_DIR, `${key}.txt`);
   if (existsSync(textPath)) return readFileSync(textPath, 'utf-8');
 
-  const imagePath = join(CACHE_DIR, `${key}.jpg`);
+    const imagePath = join(CACHE_DIR, `${key}.jpg`);
   try {
     if (!existsSync(imagePath)) {
-      execFileSync('curl', ['-fsSL', url, '-o', imagePath], { stdio: 'ignore' });
+      execFileSync(
+        'curl',
+        ['-fsSL', '--connect-timeout', '10', '--max-time', '20', url, '-o', imagePath],
+        { stdio: 'ignore' },
+      );
       if (commandExists('sips')) {
         execFileSync('sips', ['-Z', '1600', imagePath], { stdio: 'ignore' });
       }
