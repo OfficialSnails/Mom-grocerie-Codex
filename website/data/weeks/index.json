@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-18T16:00:00.000Z",
+  "generatedAt": "2026-06-18T14:51:35.763Z",
   "weeks": [
     {
       "slug": "semaine-du-18-au-24-juin-2026",
       "folderName": "Semaine du 18 au 24 juin 2026",
       "title": "Liste d'épicerie — 18 au 24 juin 2026",
       "weekRange": "18 au 24 juin 2026",
-      "generatedAt": "2026-06-18T16:00:00.000Z",
-      "itemCount": 78,
+      "generatedAt": "2026-06-18T14:51:35.763Z",
+      "itemCount": 82,
       "allItemCount": 1334,
       "path": "data/weeks/semaine-du-18-au-24-juin-2026/week.json"
     },
