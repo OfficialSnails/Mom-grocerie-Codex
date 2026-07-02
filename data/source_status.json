@@ -31,8 +31,8 @@
       "collection_method": "api",
       "robots_status": "allowed",
       "terms_status": "unknown",
-      "last_checked_at": "2026-06-25T14:08:59.003Z",
-      "last_success_at": "2026-06-25T14:08:59.003Z",
+      "last_checked_at": "2026-07-02T13:42:42.311Z",
+      "last_success_at": "2026-07-02T13:42:42.311Z",
       "last_error": null,
       "notes": "SOURCE PRINCIPALE — API wishabi directe (backflipp.wishabi.com), aucun crédit Firecrawl utilisé. Découverte auto des circulaires Québec avec Joliette (J6E3N2) comme ancrage: Metro, Maxi, IGA, Super C, BoniChoix, L'Inter-Marché, Marchés Tradition, Familiprix et Costco quand disponible."
     },
