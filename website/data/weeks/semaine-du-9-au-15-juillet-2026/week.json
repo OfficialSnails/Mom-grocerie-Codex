@@ -4,8 +4,13 @@
   "folderName": "Semaine du 9 au 15 juillet 2026",
   "title": "Liste d'épicerie — 9 au 15 juillet 2026",
   "weekRange": "9 au 15 juillet 2026",
+<<<<<<< HEAD
   "generatedAt": "2026-07-10T02:09:35.925Z",
   "itemCount": 61,
+=======
+  "generatedAt": "2026-07-09T14:37:40.154Z",
+  "itemCount": 63,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   "allItemCount": 1233,
   "method": {
     "title": "D’où viennent les choix",
@@ -30,6 +35,7 @@
           "sourceStoreId": "tradition-joliette",
           "storeName": "Marchés Tradition",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "1,97 $/lb",
           "currentPrice": 1.97,
           "unit": "lb",
@@ -38,6 +44,16 @@
           "comparisons": [
             "📊 Gagne contre BoniChoix 3,99 $",
             "🏅 Pourquoi ça gagne: 2,02 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "1,97 $",
+          "currentPrice": 1.97,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+          "comparisons": [
+            "📊 Gagne contre BoniChoix 3,99 $",
+            "🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg",
@@ -388,10 +404,17 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "2,59 $/100g",
           "currentPrice": 2.59,
           "unit": "100g",
           "scale": "Équivaut à 25,90 $/kg.",
+=======
+          "price": "2,59 $",
+          "currentPrice": 2.59,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": "Très bon prix, proche du meilleur prix des 6 derniers mois.",
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321987/1783077216/extra_large.jpg",
@@ -462,6 +485,7 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
           "name": "PEPPERONI ROMA",
           "normalizedName": null,
@@ -493,6 +517,8 @@
           "badgeLabel": "Bon prix"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::jambon fume mere michel",
           "name": "JAMBON FUMÉ MÈRE MICHEL",
           "normalizedName": null,
@@ -503,6 +529,7 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "3,19 $/100g",
           "currentPrice": 3.19,
           "unit": "100g",
@@ -511,6 +538,16 @@
           "comparisons": [
             "📊 Gagne contre Marchés Tradition 15,99 $",
             "🏅 Pourquoi ça gagne: 12,80 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "3,19 $",
+          "currentPrice": 3.19,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Marchés Tradition 15,99 $",
+            "🏅 Pourquoi ça gagne: 12,80 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg",
@@ -534,10 +571,17 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "1,97 $/lb",
           "currentPrice": 1.97,
           "unit": "lb",
           "scale": "Équivaut à 4,34 $/kg.",
+=======
+          "price": "1,97 $",
+          "currentPrice": 1.97,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321599/1783077215/extra_large.jpg",
@@ -562,10 +606,17 @@
           "sourceStoreId": "bonichoix-joliette",
           "storeName": "BoniChoix",
           "storeAddress": "773 rue de Lanaudière, Joliette",
+<<<<<<< HEAD
           "price": "2,79 $/lb",
           "currentPrice": 2.79,
           "unit": "lb",
           "scale": "Équivaut à 6,15 $/kg.",
+=======
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg",
@@ -580,6 +631,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
+          "name": "PEPPERONI ROMA",
+          "normalizedName": null,
+          "categoryId": "meat-fish",
+          "categoryTitle": "Viandes et poissons",
+          "categoryEmoji": "🥩",
+          "storeId": "bonichoix-joliette",
+          "sourceStoreId": "bonichoix-joliette",
+          "storeName": "BoniChoix",
+          "storeAddress": "773 rue de Lanaudière, Joliette",
+          "price": "1,79 $",
+          "currentPrice": 1.79,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::bacon coupe de choix",
           "name": "BACON COUPE DE CHOIX",
           "normalizedName": null,
@@ -915,6 +997,7 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "8,99 $/lb",
           "currentPrice": 8.99,
           "unit": "lb",
@@ -923,6 +1006,16 @@
           "comparisons": [
             "📊 Gagne contre Maxi 10,00 $/lb",
             "🏅 Pourquoi ça gagne: 13,06 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "8,99 $",
+          "currentPrice": 8.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Maxi 10,00 $/lb",
+            "🏅 Pourquoi ça gagne: 13,06 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg",
@@ -946,6 +1039,7 @@
           "sourceStoreId": "intermarche-joliette",
           "storeName": "L'Inter-Marché",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "2,99 $/lb",
           "currentPrice": 2.99,
           "unit": "lb",
@@ -954,6 +1048,16 @@
           "comparisons": [
             "📊 Gagne contre IGA 6,99 $",
             "🏅 Pourquoi ça gagne: 4,00 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre IGA 6,99 $",
+            "🏅 Pourquoi ça gagne: 4,00 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg",
@@ -1101,6 +1205,7 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "3,99 $/kg",
           "currentPrice": 3.99,
           "unit": "kg",
@@ -1109,6 +1214,16 @@
           "comparisons": [
             "📊 Gagne contre Maxi 1,99 $/lb",
             "🏅 Pourquoi ça gagne: 0,40 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "3,99 $",
+          "currentPrice": 3.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Maxi 1,99 $/lb",
+            "🏅 Pourquoi ça gagne: 0,40 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg",
@@ -1132,10 +1247,17 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "0,34 $/lb",
           "currentPrice": 0.34,
           "unit": "lb",
           "scale": "Équivaut à 0,75 $/kg.",
+=======
+          "price": "0,34 $",
+          "currentPrice": 0.34,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426419442/1783165073/extra_large.jpg",
@@ -1216,10 +1338,17 @@
           "sourceStoreId": "bonichoix-joliette",
           "storeName": "BoniChoix",
           "storeAddress": "773 rue de Lanaudière, Joliette",
+<<<<<<< HEAD
           "price": "8,99 $/lb",
           "currentPrice": 8.99,
           "unit": "lb",
           "scale": "Équivaut à 19,82 $/kg.",
+=======
+          "price": "8,99 $",
+          "currentPrice": 8.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426472553/1783350761/extra_large.jpg",
@@ -1272,10 +1401,17 @@
           "sourceStoreId": "tradition-joliette",
           "storeName": "Marchés Tradition",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "2,99 $/lb",
           "currentPrice": 2.99,
           "unit": "lb",
           "scale": "Équivaut à 6,59 $/kg.",
+=======
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426243142/1782974299/extra_large.jpg",
@@ -1654,6 +1790,37 @@
       "emoji": "🍪",
       "items": [
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::bonichoix-joliette::boisson sportive gatorade",
+          "name": "BOISSON SPORTIVE GATORADE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "bonichoix-joliette",
+          "sourceStoreId": "bonichoix-joliette",
+          "storeName": "BoniChoix",
+          "storeAddress": "773 rue de Lanaudière, Joliette",
+          "price": "6,99 $",
+          "currentPrice": 6.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::croustilles ruffles",
           "name": "CROUSTILLES RUFFLES",
           "normalizedName": null,
@@ -1696,7 +1863,11 @@
           "currentPrice": 4.69,
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
+<<<<<<< HEAD
           "reason": "Environ 49 % moins cher que le prix habituel.",
+=======
+          "reason": "Environ 47 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
@@ -1710,6 +1881,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::maxi-joliette::biscuits christie",
+          "name": "BISCUITS CHRISTIE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "maxi-joliette",
+          "sourceStoreId": "maxi-joliette",
+          "storeName": "Maxi",
+          "storeAddress": "909 boul. Firestone, Joliette",
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": "each",
+          "scale": null,
+          "reason": "Environ 40 % moins cher que le prix habituel.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::boisson a base d'eau petillante bubly",
           "name": "BOISSON À BASE D'EAU PÉTILLANTE BUBLY",
           "normalizedName": null,
@@ -1850,6 +2052,7 @@
           "sourceStoreId": "tradition-joliette",
           "storeName": "Marchés Tradition",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "1,97 $/lb",
           "currentPrice": 1.97,
           "unit": "lb",
@@ -1858,6 +2061,16 @@
           "comparisons": [
             "📊 Gagne contre BoniChoix 3,99 $",
             "🏅 Pourquoi ça gagne: 2,02 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "1,97 $",
+          "currentPrice": 1.97,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+          "comparisons": [
+            "📊 Gagne contre BoniChoix 3,99 $",
+            "🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg",
@@ -2208,10 +2421,17 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "2,59 $/100g",
           "currentPrice": 2.59,
           "unit": "100g",
           "scale": "Équivaut à 25,90 $/kg.",
+=======
+          "price": "2,59 $",
+          "currentPrice": 2.59,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": "Très bon prix, proche du meilleur prix des 6 derniers mois.",
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321987/1783077216/extra_large.jpg",
@@ -2282,6 +2502,7 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
           "name": "PEPPERONI ROMA",
           "normalizedName": null,
@@ -2313,6 +2534,8 @@
           "badgeLabel": "Bon prix"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::jambon fume mere michel",
           "name": "JAMBON FUMÉ MÈRE MICHEL",
           "normalizedName": null,
@@ -2323,6 +2546,7 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "3,19 $/100g",
           "currentPrice": 3.19,
           "unit": "100g",
@@ -2331,6 +2555,16 @@
           "comparisons": [
             "📊 Gagne contre Marchés Tradition 15,99 $",
             "🏅 Pourquoi ça gagne: 12,80 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "3,19 $",
+          "currentPrice": 3.19,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Marchés Tradition 15,99 $",
+            "🏅 Pourquoi ça gagne: 12,80 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg",
@@ -2354,10 +2588,17 @@
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+<<<<<<< HEAD
           "price": "1,97 $/lb",
           "currentPrice": 1.97,
           "unit": "lb",
           "scale": "Équivaut à 4,34 $/kg.",
+=======
+          "price": "1,97 $",
+          "currentPrice": 1.97,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426321599/1783077215/extra_large.jpg",
@@ -2382,10 +2623,17 @@
           "sourceStoreId": "bonichoix-joliette",
           "storeName": "BoniChoix",
           "storeAddress": "773 rue de Lanaudière, Joliette",
+<<<<<<< HEAD
           "price": "2,79 $/lb",
           "currentPrice": 2.79,
           "unit": "lb",
           "scale": "Équivaut à 6,15 $/kg.",
+=======
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg",
@@ -2400,6 +2648,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
+          "name": "PEPPERONI ROMA",
+          "normalizedName": null,
+          "categoryId": "meat-fish",
+          "categoryTitle": "Viandes et poissons",
+          "categoryEmoji": "🥩",
+          "storeId": "bonichoix-joliette",
+          "sourceStoreId": "bonichoix-joliette",
+          "storeName": "BoniChoix",
+          "storeAddress": "773 rue de Lanaudière, Joliette",
+          "price": "1,79 $",
+          "currentPrice": 1.79,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::bacon coupe de choix",
           "name": "BACON COUPE DE CHOIX",
           "normalizedName": null,
@@ -2735,6 +3014,7 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "8,99 $/lb",
           "currentPrice": 8.99,
           "unit": "lb",
@@ -2743,6 +3023,16 @@
           "comparisons": [
             "📊 Gagne contre Maxi 10,00 $/lb",
             "🏅 Pourquoi ça gagne: 13,06 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "8,99 $",
+          "currentPrice": 8.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Maxi 10,00 $/lb",
+            "🏅 Pourquoi ça gagne: 13,06 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg",
@@ -2766,6 +3056,7 @@
           "sourceStoreId": "intermarche-joliette",
           "storeName": "L'Inter-Marché",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "2,99 $/lb",
           "currentPrice": 2.99,
           "unit": "lb",
@@ -2774,6 +3065,16 @@
           "comparisons": [
             "📊 Gagne contre IGA 6,99 $",
             "🏅 Pourquoi ça gagne: 4,00 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre IGA 6,99 $",
+            "🏅 Pourquoi ça gagne: 4,00 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg",
@@ -2921,6 +3222,7 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "3,99 $/kg",
           "currentPrice": 3.99,
           "unit": "kg",
@@ -2929,6 +3231,16 @@
           "comparisons": [
             "📊 Gagne contre Maxi 1,99 $/lb",
             "🏅 Pourquoi ça gagne: 0,40 $/kg moins cher que le prochain meilleur prix"
+=======
+          "price": "3,99 $",
+          "currentPrice": 3.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [
+            "📊 Gagne contre Maxi 1,99 $/lb",
+            "🏅 Pourquoi ça gagne: 0,40 $ moins cher que le prochain meilleur prix"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           ],
           "proofImageUrl": "https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg",
@@ -2952,10 +3264,17 @@
           "sourceStoreId": "metro-joliette",
           "storeName": "Metro",
           "storeAddress": "180 rue Beaudry N, Joliette",
+<<<<<<< HEAD
           "price": "0,34 $/lb",
           "currentPrice": 0.34,
           "unit": "lb",
           "scale": "Équivaut à 0,75 $/kg.",
+=======
+          "price": "0,34 $",
+          "currentPrice": 0.34,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426419442/1783165073/extra_large.jpg",
@@ -3036,10 +3355,17 @@
           "sourceStoreId": "bonichoix-joliette",
           "storeName": "BoniChoix",
           "storeAddress": "773 rue de Lanaudière, Joliette",
+<<<<<<< HEAD
           "price": "8,99 $/lb",
           "currentPrice": 8.99,
           "unit": "lb",
           "scale": "Équivaut à 19,82 $/kg.",
+=======
+          "price": "8,99 $",
+          "currentPrice": 8.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426472553/1783350761/extra_large.jpg",
@@ -3092,10 +3418,17 @@
           "sourceStoreId": "tradition-joliette",
           "storeName": "Marchés Tradition",
           "storeAddress": "Joliette",
+<<<<<<< HEAD
           "price": "2,99 $/lb",
           "currentPrice": 2.99,
           "unit": "lb",
           "scale": "Équivaut à 6,59 $/kg.",
+=======
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "reason": null,
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426243142/1782974299/extra_large.jpg",
@@ -3474,6 +3807,37 @@
       "emoji": "🍪",
       "items": [
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::bonichoix-joliette::boisson sportive gatorade",
+          "name": "BOISSON SPORTIVE GATORADE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "bonichoix-joliette",
+          "sourceStoreId": "bonichoix-joliette",
+          "storeName": "BoniChoix",
+          "storeAddress": "773 rue de Lanaudière, Joliette",
+          "price": "6,99 $",
+          "currentPrice": 6.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::croustilles ruffles",
           "name": "CROUSTILLES RUFFLES",
           "normalizedName": null,
@@ -3516,7 +3880,11 @@
           "currentPrice": 4.69,
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
+<<<<<<< HEAD
           "reason": "Environ 49 % moins cher que le prix habituel.",
+=======
+          "reason": "Environ 47 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
@@ -3530,6 +3898,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::maxi-joliette::biscuits christie",
+          "name": "BISCUITS CHRISTIE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "maxi-joliette",
+          "sourceStoreId": "maxi-joliette",
+          "storeName": "Maxi",
+          "storeAddress": "909 boul. Firestone, Joliette",
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": "each",
+          "scale": null,
+          "reason": "Environ 40 % moins cher que le prix habituel.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::boisson a base d'eau petillante bubly",
           "name": "BOISSON À BASE D'EAU PÉTILLANTE BUBLY",
           "normalizedName": null,
@@ -3733,7 +4132,11 @@
           "currentPrice": 2.77,
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
+<<<<<<< HEAD
           "reason": "Environ 61 % moins cher que le prix habituel.",
+=======
+          "reason": "Environ 62 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "comparisons": [
             "📊 Gagne contre IGA 2,97 $",
             "🏅 Pourquoi ça gagne: 0,20 $ moins cher que le prochain meilleur prix"
@@ -4294,6 +4697,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::metro-joliette::carottes nantaises douces",
           "name": "CAROTTES NANTAISES DOUCES",
           "normalizedName": null,
@@ -4322,6 +4726,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::metro-joliette::avocat hass",
           "name": "AVOCAT HASS",
           "normalizedName": null,
@@ -4378,6 +4784,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::metro-joliette::legumineuses cedar",
+          "name": "LÉGUMINEUSES CEDAR",
+          "normalizedName": null,
+          "categoryId": "produce",
+          "categoryTitle": "Fruits et légumes",
+          "categoryEmoji": "🥬",
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "1,99 $",
+          "currentPrice": 1.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426409107/1783165065/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426409107/1783165065/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::legumineuses compliments",
           "name": "LÉGUMINEUSES COMPLIMENTS",
           "normalizedName": null,
@@ -4602,6 +5039,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::bocconcini cocktail irresistible",
+          "name": "Bocconcini cocktail Irrésistible",
+          "normalizedName": null,
+          "categoryId": "produce",
+          "categoryTitle": "Fruits et légumes",
+          "categoryEmoji": "🥬",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "8,00 $",
+          "currentPrice": 8,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301833/1783037059/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301833/1783037059/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::metro-joliette::legumes surgeles",
           "name": "BROCOLI",
           "normalizedName": null,
@@ -5274,6 +5742,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::metro-joliette::legumineuses cedar",
           "name": "LÉGUMINEUSES CEDAR",
           "normalizedName": null,
@@ -5302,6 +5771,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::mini-concombres sans pepins",
           "name": "MINI-CONCOMBRES SANS PÉPINS",
           "normalizedName": null,
@@ -6450,6 +6921,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::bocconcini cocktail irresistible",
           "name": "Bocconcini cocktail Irrésistible",
           "normalizedName": null,
@@ -6478,6 +6950,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::bonichoix-joliette::boisson sans alcool compliments",
           "name": "BOISSON SANS ALCOOL COMPLIMENTS",
           "normalizedName": null,
@@ -6534,6 +7008,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::metro-joliette::carottes nantaises douces",
+          "name": "CAROTTES NANTAISES DOUCES",
+          "normalizedName": null,
+          "categoryId": "produce",
+          "categoryTitle": "Fruits et légumes",
+          "categoryEmoji": "🥬",
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426918396/1783605930/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426918396/1783605930/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::celeri, un.",
           "name": "CÉLERI, 1 UN.",
           "normalizedName": null,
@@ -9316,6 +9821,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::bavette de boeuf irresistible",
+          "name": "Bavette de boeuf Irrésistible",
+          "normalizedName": null,
+          "categoryId": "meat-fish",
+          "categoryTitle": "Viandes et poissons",
+          "categoryEmoji": "🥩",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "7,97 $",
+          "currentPrice": 7.97,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301786/1783037057/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301786/1783037057/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::charcuteries tranchees compliments",
           "name": "CHARCUTERIES TRANCHÉES COMPLIMENTS",
           "normalizedName": null,
@@ -10828,6 +11364,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::brochettes de crevettes assaisonnees irresistible",
+          "name": "Brochettes de crevettes assaisonnées Irrésistible",
+          "normalizedName": null,
+          "categoryId": "meat-fish",
+          "categoryTitle": "Viandes et poissons",
+          "categoryEmoji": "🥩",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "12,00 $",
+          "currentPrice": 12,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301798/1783037063/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301798/1783037063/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::brochettes de saucisses avec legumes prix club",
           "name": "BROCHETTES DE SAUCISSES AVEC LÉGUMES PRIX CLUB",
           "normalizedName": null,
@@ -11416,6 +11983,7 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::bavette de boeuf irresistible",
           "name": "Bavette de boeuf Irrésistible",
           "normalizedName": null,
@@ -11444,6 +12012,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::bavette de bœuf marinee c'est pret! a cuire",
           "name": "BAVETTE DE BŒUF MARINÉE C'EST PRÊT! À CUIRE",
           "normalizedName": null,
@@ -11780,6 +12350,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::brochettes de crevettes assaisonnees irresistible",
           "name": "Brochettes de crevettes assaisonnées Irrésistible",
           "normalizedName": null,
@@ -11808,6 +12379,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::brochettes de crevettes crues, / par lb",
           "name": "BROCHETTES DE CREVETTES CRUES, 31/40 PAR LB",
           "normalizedName": null,
@@ -14307,6 +14880,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::metro-joliette::yogourt",
           "name": "YOGOURT À BOIRE OÎKOS DANONE",
           "normalizedName": null,
@@ -14335,6 +14909,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::yogourt",
           "name": "YOGOURT GREC LIBERTÉ, 4X100 G",
           "normalizedName": null,
@@ -15399,6 +15975,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::metro-joliette::yogourt",
+          "name": "YOGOURT À BOIRE OÎKOS DANONE",
+          "normalizedName": null,
+          "categoryId": "dairy-eggs",
+          "categoryTitle": "Produits laitiers et oeufs",
+          "categoryEmoji": "🥛",
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "3,19 $",
+          "currentPrice": 3.19,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426409126/1783165076/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426409126/1783165076/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::lait",
           "name": "YOGOURT À BOIRE YOP YOPLAIT",
           "normalizedName": null,
@@ -17558,6 +18165,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::ketchup aux tomates selection",
           "name": "Ketchup aux tomates Selection",
           "normalizedName": null,
@@ -17586,6 +18194,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::betteraves en botte",
           "name": "BETTERAVES EN BOTTE",
           "normalizedName": null,
@@ -17614,6 +18224,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::ketchup aux tomates selection",
+          "name": "Ketchup aux tomates Selection",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "3,59 $",
+          "currentPrice": 3.59,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301799/1783037064/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301799/1783037064/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::pouding refrigere kozy shack",
           "name": "POUDING RÉFRIGÉRÉ KOZY SHACK",
           "normalizedName": null,
@@ -18594,24 +19235,43 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::iga-joliette::nectarines",
           "name": "NECTARINES",
+=======
+          "id": "2026-07-09::superc-joliette::millefeuille a la costarde",
+          "name": "Millefeuille à la costarde",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "normalizedName": null,
           "categoryId": "pantry",
           "categoryTitle": "Garde-manger et autres",
           "categoryEmoji": "🥫",
+<<<<<<< HEAD
           "storeId": "iga-joliette",
           "sourceStoreId": "iga-joliette",
           "storeName": "IGA",
           "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
           "price": "6,99 $",
           "currentPrice": 6.99,
+=======
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "6,69 $",
+          "currentPrice": 6.69,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
           "reason": null,
           "comparisons": [],
+<<<<<<< HEAD
           "proofImageUrl": "https://f.wishabi.net/page_items/426321959/1783077223/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426321959/1783077223/extra_large.jpg",
+=======
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301858/1783037063/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301858/1783037063/extra_large.jpg",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "sourceType": "flyer",
           "sourceSystem": "flipp",
           "saleStart": "2026-07-09T00:00:00-04:00",
@@ -18958,6 +19618,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::salsa selection",
+          "name": "Salsa Selection",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "3,99 $",
+          "currentPrice": 3.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301818/1783037066/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301818/1783037066/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::salsa tostitos",
           "name": "SALSA TOSTITOS",
           "normalizedName": null,
@@ -19210,6 +19901,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::herbes irresistible",
+          "name": "Herbes Irrésistible",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301811/1783037063/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301811/1783037063/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::huile d'olive extra vierge gallo",
           "name": "HUILE D'OLIVE EXTRA VIERGE GALLO",
           "normalizedName": null,
@@ -19294,6 +20016,65 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::saucisson sec irresistible artisan",
+          "name": "Saucisson sec Irrésistible Artisan",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "10,99 $",
+          "currentPrice": 10.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301844/1783037066/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301844/1783037066/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+          "id": "2026-07-09::superc-joliette::trempette irresistible",
+          "name": "Trempette Irrésistible",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "3,99 $",
+          "currentPrice": 3.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301843/1783037065/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301843/1783037065/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::trempette marzetti",
           "name": "TREMPETTE MARZETTI",
           "normalizedName": null,
@@ -22122,6 +22903,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::herbes irresistible",
           "name": "Herbes Irrésistible",
           "normalizedName": null,
@@ -22150,6 +22932,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::familiprix-joliette::huggies, pull-ups ou goodnites, sous-vetements d'entrainement selectionnes",
           "name": "HUGGIES, Pull-Ups ou GoodNites, Sous-vêtements d'entraînement sélectionnés",
           "normalizedName": null,
@@ -22934,6 +23718,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::millefeuille a la costarde",
           "name": "Millefeuille à la costarde",
           "normalizedName": null,
@@ -22962,6 +23747,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::mini-crepes gavottes",
           "name": "MINI-CRÊPES GAVOTTES",
           "normalizedName": null,
@@ -23158,6 +23945,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::iga-joliette::nectarines",
+          "name": "NECTARINES",
+          "normalizedName": null,
+          "categoryId": "pantry",
+          "categoryTitle": "Garde-manger et autres",
+          "categoryEmoji": "🥫",
+          "storeId": "iga-joliette",
+          "sourceStoreId": "iga-joliette",
+          "storeName": "IGA",
+          "storeAddress": "17 rue Gauthier N, Notre-Dame-des-Prairies",
+          "price": "6,99 $",
+          "currentPrice": 6.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426321959/1783077223/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426321959/1783077223/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::familiprix-joliette::nic-hit vaporisateur liquide de nicotine 1mg pour cesser de fumer menthe",
           "name": "Nic-Hit vaporisateur liquide de nicotine 1mg pour cesser de fumer Menthe 30ml",
           "normalizedName": null,
@@ -24474,6 +25292,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::salsa selection",
           "name": "Salsa Selection",
           "normalizedName": null,
@@ -24502,6 +25321,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::bonichoix-joliette::sandwich c'est pret!",
           "name": "SANDWICH C'EST PRÊT!",
           "normalizedName": null,
@@ -24950,6 +25771,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::saucisson sec irresistible artisan",
           "name": "Saucisson sec Irrésistible Artisan",
           "normalizedName": null,
@@ -24978,6 +25800,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::saucissons secs tranches biologiques les viandes bio de charlevoix",
           "name": "SAUCISSONS SECS TRANCHÉS BIOLOGIQUES LES VIANDES BIO DE CHARLEVOIX",
           "normalizedName": null,
@@ -26014,6 +26838,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::trempette irresistible",
           "name": "Trempette Irrésistible",
           "normalizedName": null,
@@ -26042,6 +26867,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::trempette la cage",
           "name": "TREMPETTE LA CAGE",
           "normalizedName": null,
@@ -32230,6 +33057,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::paves de thon irresistible",
+          "name": "Pavés de thon Irrésistible",
+          "normalizedName": null,
+          "categoryId": "frozen",
+          "categoryTitle": "Surgelés",
+          "categoryEmoji": "🧊",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "9,99 $",
+          "currentPrice": 9.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301789/1783037059/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301789/1783037059/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::metro-joliette::pizza pochettes mccain",
           "name": "PIZZA POCHETTES MCCAIN",
           "normalizedName": null,
@@ -32398,8 +33256,13 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::paves de thon irresistible",
           "name": "Pavés de thon Irrésistible",
+=======
+          "id": "2026-07-09::superc-joliette::tarte au citron et meringue selection",
+          "name": "Tarte au citron et meringue Selection",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "normalizedName": null,
           "categoryId": "frozen",
           "categoryTitle": "Surgelés",
@@ -32408,14 +33271,24 @@
           "sourceStoreId": "superc-joliette",
           "storeName": "Super C",
           "storeAddress": "1445 boul. Firestone, Joliette",
+<<<<<<< HEAD
           "price": "9,99 $",
           "currentPrice": 9.99,
+=======
+          "price": "6,49 $",
+          "currentPrice": 6.49,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
           "reason": null,
           "comparisons": [],
+<<<<<<< HEAD
           "proofImageUrl": "https://f.wishabi.net/page_items/426301789/1783037059/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426301789/1783037059/extra_large.jpg",
+=======
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301860/1783037064/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301860/1783037064/extra_large.jpg",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "sourceType": "flyer",
           "sourceSystem": "flipp",
           "saleStart": "2026-07-09T00:00:00-04:00",
@@ -34272,6 +35145,7 @@
           "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
           "itemKind": "seen",
           "badgeLabel": "Produit trouvé"
+<<<<<<< HEAD
         },
         {
           "id": "2026-07-09::superc-joliette::tarte au citron et meringue selection",
@@ -34300,6 +35174,8 @@
           "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
           "itemKind": "seen",
           "badgeLabel": "Produit trouvé"
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
         }
       ]
     },
@@ -34309,6 +35185,37 @@
       "emoji": "🍪",
       "items": [
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::bonichoix-joliette::boisson sportive gatorade",
+          "name": "BOISSON SPORTIVE GATORADE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "bonichoix-joliette",
+          "sourceStoreId": "bonichoix-joliette",
+          "storeName": "BoniChoix",
+          "storeAddress": "773 rue de Lanaudière, Joliette",
+          "price": "6,99 $",
+          "currentPrice": 6.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::croustilles ruffles",
           "name": "CROUSTILLES RUFFLES",
           "normalizedName": null,
@@ -34351,7 +35258,11 @@
           "currentPrice": 4.69,
           "unit": null,
           "scale": "Format à vérifier sur la photo.",
+<<<<<<< HEAD
           "reason": "Environ 49 % moins cher que le prix habituel.",
+=======
+          "reason": "Environ 47 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg",
@@ -34365,6 +35276,37 @@
           "badgeLabel": "Bon prix"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::maxi-joliette::biscuits christie",
+          "name": "BISCUITS CHRISTIE",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "maxi-joliette",
+          "sourceStoreId": "maxi-joliette",
+          "storeName": "Maxi",
+          "storeAddress": "909 boul. Firestone, Joliette",
+          "price": "2,79 $",
+          "currentPrice": 2.79,
+          "unit": "each",
+          "scale": null,
+          "reason": "Environ 40 % moins cher que le prix habituel.",
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "deal",
+          "badgeLabel": "Bon prix"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::boisson a base d'eau petillante bubly",
           "name": "BOISSON À BASE D'EAU PÉTILLANTE BUBLY",
           "normalizedName": null,
@@ -34570,6 +35512,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::metro-joliette::barres tendres selection",
           "name": "BARRES TENDRES SELECTION",
           "normalizedName": null,
@@ -34626,6 +35569,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::tradition-joliette::biscuits christie",
           "name": "BISCUITS CHRISTIE",
           "normalizedName": null,
@@ -34654,12 +35599,18 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::maxi-joliette::biscuits christie",
           "name": "BISCUITS CHRISTIE",
+=======
+          "id": "2026-07-09::metro-joliette::biscuits",
+          "name": "BISCUITS",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "normalizedName": null,
           "categoryId": "snacks-drinks",
           "categoryTitle": "Collations et boissons",
           "categoryEmoji": "🍪",
+<<<<<<< HEAD
           "storeId": "maxi-joliette",
           "sourceStoreId": "maxi-joliette",
           "storeName": "Maxi",
@@ -34672,6 +35623,20 @@
           "comparisons": [],
           "proofImageUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
           "proofUrl": "https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg",
+=======
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "10,00 $",
+          "currentPrice": 10,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426419528/1783165075/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426419528/1783165075/extra_large.jpg",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "sourceType": "flyer",
           "sourceSystem": "flipp",
           "saleStart": "2026-07-09T00:00:00-04:00",
@@ -34738,6 +35703,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::boisson gazeuse selection",
           "name": "Boisson gazeuse Selection",
           "normalizedName": null,
@@ -34794,6 +35760,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::cafe",
           "name": "CAFÉ OU CHOCOLAT CHAUD TIM HORTON K-CUP",
           "normalizedName": null,
@@ -35158,6 +36126,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::boisson gazeuse selection",
+          "name": "Boisson gazeuse Selection",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "11,99 $",
+          "currentPrice": 11.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301783/1783037058/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301783/1783037058/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::iga-joliette::chocolat lindt excellence",
           "name": "CHOCOLAT LINDT EXCELLENCE",
           "normalizedName": null,
@@ -35186,6 +36185,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::chocolat suisse irresistible",
+          "name": "Chocolat suisse Irrésistible",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301826/1783037071/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301826/1783037071/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::metro-joliette::eau de source eska",
           "name": "EAU DE SOURCE ESKA",
           "normalizedName": null,
@@ -35214,6 +36244,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::superc-joliette::fruits ou noix enrobes de chocolat irresistible",
+          "name": "Fruits ou noix enrobés de chocolat Irrésistible",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "superc-joliette",
+          "sourceStoreId": "superc-joliette",
+          "storeName": "Super C",
+          "storeAddress": "1445 boul. Firestone, Joliette",
+          "price": "7,99 $",
+          "currentPrice": 7.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426301824/1783037070/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426301824/1783037070/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::costco-quebec::alani boisson energisante barbotine bleue, paquet de",
           "name": "Alani Boisson Energisante barbotine bleue, 355 mL paquet de 12",
           "normalizedName": null,
@@ -35410,6 +36471,37 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
+=======
+          "id": "2026-07-09::metro-joliette::barres tendres selection",
+          "name": "BARRES TENDRES SELECTION",
+          "normalizedName": null,
+          "categoryId": "snacks-drinks",
+          "categoryTitle": "Collations et boissons",
+          "categoryEmoji": "🍪",
+          "storeId": "metro-joliette",
+          "sourceStoreId": "metro-joliette",
+          "storeName": "Metro",
+          "storeAddress": "180 rue Beaudry N, Joliette",
+          "price": "2,99 $",
+          "currentPrice": 2.99,
+          "unit": null,
+          "scale": "Format à vérifier sur la photo.",
+          "reason": null,
+          "comparisons": [],
+          "proofImageUrl": "https://f.wishabi.net/page_items/426409108/1783165066/extra_large.jpg",
+          "proofUrl": "https://f.wishabi.net/page_items/426409108/1783165066/extra_large.jpg",
+          "sourceType": "flyer",
+          "sourceSystem": "flipp",
+          "saleStart": "2026-07-09T00:00:00-04:00",
+          "saleEnd": "2026-07-15T23:59:59-04:00",
+          "verificationConfidence": "HIGH",
+          "verificationStatus": "VERIFIED_FLYER_STRUCTURED",
+          "itemKind": "seen",
+          "badgeLabel": "Produit trouvé"
+        },
+        {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::biscuits sans nom®",
           "name": "BISCUITS SANS NOM®",
           "normalizedName": null,
@@ -35970,6 +37062,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::chocolat suisse irresistible",
           "name": "Chocolat suisse Irrésistible",
           "normalizedName": null,
@@ -35998,6 +37091,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::maxi-joliette::chocolat, - ou en emballage multiple, un. nestle",
           "name": "CHOCOLAT, 76-203 G OU EN EMBALLAGE MULTIPLE, 4 UN. NESTLÉ",
           "normalizedName": null,
@@ -37230,6 +38325,7 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+<<<<<<< HEAD
           "id": "2026-07-09::superc-joliette::fruits ou noix enrobes de chocolat irresistible",
           "name": "Fruits ou noix enrobés de chocolat Irrésistible",
           "normalizedName": null,
@@ -37258,6 +38354,8 @@
           "badgeLabel": "Produit trouvé"
         },
         {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
           "id": "2026-07-09::costco-quebec::g.h. cretors - sac de mais souffle melange chicago de",
           "name": "G.H. Cretors - Sac de maïs soufflé mélange Chicago de 737 g",
           "normalizedName": null,
@@ -38308,7 +39406,11 @@
       "id": "maxi-joliette",
       "name": "Maxi",
       "address": "909 boul. Firestone, Joliette",
+<<<<<<< HEAD
       "itemCount": 6,
+=======
+      "itemCount": 7,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
       "allItemCount": 167
     },
     {
@@ -38329,7 +39431,11 @@
       "id": "bonichoix-joliette",
       "name": "BoniChoix",
       "address": "773 rue de Lanaudière, Joliette",
+<<<<<<< HEAD
       "itemCount": 11,
+=======
+      "itemCount": 12,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
       "allItemCount": 72
     },
     {

@@ -13,19 +13,28 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Metro
+<<<<<<< HEAD
 > [!info] 13 produits retenus
+=======
+> [!info] 14 produits retenus
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 📍 180 rue Beaudry N, Joliette
 
 - **SAUCE ST-HUBERT**
   - 🥫 Section: Garde-manger et autres
   - Prix: 1,49 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - Pourquoi: Environ 46 % moins cher que le prix habituel.
+=======
+  - Pourquoi: Environ 48 % moins cher que le prix habituel.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425871555/1782618718/extra_large.jpg" alt="Preuve prix SAUCE ST-HUBERT" width="220" />
 
 - **FILETS DE PORC FRAIS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 3,99 $/lb
   - Échelle: Équivaut à 8,80 $/kg.
   - 📊 Gagne contre IGA 6,49 $
@@ -33,6 +42,22 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425871554/1782618717/extra_large.jpg" alt="Preuve prix FILETS DE PORC FRAIS" width="220" />
 
+=======
+  - Prix: 3,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 6,49 $
+  - 🏅 Pourquoi ça gagne: 2,50 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425871554/1782618717/extra_large.jpg" alt="Preuve prix FILETS DE PORC FRAIS" width="220" />
+
+- **TOMATES ROUGES DE SERRE**
+  - 🥬 Section: Fruits et légumes
+  - Prix: 1,44 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425871543/1782618711/extra_large.jpg" alt="Preuve prix TOMATES ROUGES DE SERRE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **BISCUITS PATTES D'OURS DARE**
   - 🍪 Section: Collations et boissons
   - Prix: 2,49 $
@@ -42,8 +67,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **CERISES COLOSSALES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425871624/1782618714/extra_large.jpg" alt="Preuve prix CERISES COLOSSALES" width="220" />
 
@@ -199,8 +229,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **VIANDE FUMÉE FUMOIRS GOSSELIN**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 3,49 $/100g
   - Échelle: Équivaut à 34,90 $/kg.
+=======
+  - Prix: 3,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425298886/1782349719/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE FUMOIRS GOSSELIN" width="220" />
@@ -215,16 +250,26 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 2,59 $/100g
   - Échelle: Équivaut à 25,90 $/kg.
+=======
+  - Prix: 2,59 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425298880/1782349713/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS" width="220" />
 
 - **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 4,49 $/100g
   - Échelle: Équivaut à 44,90 $/kg.
+=======
+  - Prix: 4,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Environ 43 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425298885/1782349718/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
@@ -239,16 +284,26 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **CERISES ROUGES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 1,97 $/lb
   - Échelle: Équivaut à 4,34 $/kg.
+=======
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Environ 64 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425298756/1782349714/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
 
 - **FROMAGE OKA AGROPUR**
   - 🥛 Section: Produits laitiers et oeufs
+<<<<<<< HEAD
   - Prix: 3,99 $/100g
   - Échelle: Équivaut à 39,90 $/kg.
+=======
+  - Prix: 3,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Environ 43 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425299009/1782349715/extra_large.jpg" alt="Preuve prix FROMAGE OKA AGROPUR" width="220" />
@@ -329,11 +384,20 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Bonbons Selection**
   - 🍪 Section: Collations et boissons
+<<<<<<< HEAD
   - Prix: 7,00 $
   - Échelle: Format à vérifier sur la photo.
   - Pourquoi: Environ 38 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425747998/1782499509/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+=======
+  - Prix: 4,69 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 5,00 $
+  - 🏅 Pourquoi ça gagne: 0,31 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425748000/1782499511/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - **Ketchup aux tomates Selection**
   - 🥫 Section: Garde-manger et autres
@@ -405,15 +469,25 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **COURGETTES VERTES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 2,49 $/lb
   - Échelle: Équivaut à 5,49 $/kg.
+=======
+  - Prix: 2,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425296720/1782290843/extra_large.jpg" alt="Preuve prix COURGETTES VERTES" width="220" />
 
 - **KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 7,49 $/lb
   - Échelle: Équivaut à 16,51 $/kg.
+=======
+  - Prix: 7,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425296735/1782290855/extra_large.jpg" alt="Preuve prix KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE" width="220" />
 
@@ -425,8 +499,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **PAIN DE VIANDE SIMILI-POULET**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 0,99 $/lb
   - Échelle: Équivaut à 2,18 $/kg.
+=======
+  - Prix: 0,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425646173/1782447135/extra_large.jpg" alt="Preuve prix PAIN DE VIANDE SIMILI-POULET" width="220" />
 
@@ -450,10 +529,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **POULET ENTIER FRAIS CATEGORIE A, MOINS DE, 2 KG**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 3,99 $/lb
   - Échelle: Équivaut à 8,80 $/kg.
   - 📊 Gagne contre Metro 4,49 $
   - 🏅 Pourquoi ça gagne: 0,50 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 3,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 4,49 $
+  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425646175/1782447137/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS CATEGORIE A, MOINS DE, 2 KG" width="220" />
 

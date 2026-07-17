@@ -12,8 +12,12 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/424402097/1782139857/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
 > Texte source: BOISSON SPORTIVE GATORADE | GATORADE DRINK
 
+<<<<<<< HEAD
 **2.** ✅ **BOEUF HACHÉ MAIGRE** — 5,74 $/lb
 > 🏆 Choix gagnant: moins cher que Super C 8,99 $
+=======
+**2.** ✅ **BOEUF HACHÉ MAIGRE** — 5,74 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -35,12 +39,16 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 > Texte source: FROMAGE RÂPÉ SELECTION | SELECTION SHREDDED CHEESE
 
 **5.** 🔵 **MAYONNAISE HELLMANN'S** — 3,99 $
+<<<<<<< HEAD
 > 🏆 Choix gagnant: moins cher que Super C 4,49 $
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401475/1781765789/extra_large.jpg" alt="Preuve prix MAYONNAISE HELLMANN'S" width="220" />
 > Texte source: MAYONNAISE HELLMANN'S | HELLMANN'S MAYONNAISE
 
+<<<<<<< HEAD
 **6.** ❓ **OIGNONS JAUNES VIDALIA** — 1,99 $
 > 🏆 Choix gagnant: moins cher que Super C 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -54,6 +62,21 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424402147/1781765792/extra_large.jpg" alt="Preuve prix PEPSI, 7‑UP" width="220" />
 > Texte source: PEPSI, 7‑UP | SOFT DRINK
+=======
+**6.** ❓ **CALMARS CROUSTILLANTS IRRÉSISTIBLE** — 7,99 $
+> 🏆 Choix gagnant: moins cher que Super C 9,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424401380/1781765776/extra_large.jpg" alt="Preuve prix CALMARS CROUSTILLANTS IRRÉSISTIBLE" width="220" />
+> Texte source: CALMARS CROUSTILLANTS IRRÉSISTIBLE | IRRÉSISTIBLE CRISPY CALAMARI
+
+**7.** ❓ **MUFFINS IRRÉSISTIBLE** — 5,99 $
+> 🏆 Choix gagnant: moins cher que Super C 6,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424401301/1781765783/extra_large.jpg" alt="Preuve prix MUFFINS IRRÉSISTIBLE" width="220" />
+> Texte source: MUFFINS IRRÉSISTIBLE | IRRÉSISTIBLE MUFFINS
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 **8.** ❓ **DÉTERGENT POUR LA VAISSELLE PALMOLIVE** — 2,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -121,6 +144,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/424754282/1781932083/extra_large.jpg" alt="Preuve prix BOUILLON SANS NOM®" width="220" />
 > Texte source: BOUILLON SANS NOM® | BROTH, 900 mL
 
+<<<<<<< HEAD
 **6.** ❓ **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — 5,88 $
 > 🏆 Choix gagnant: moins cher que Super C 13,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -128,21 +152,40 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
 
 **7.** ❓ **PÊCHES À CHAIR JAUNE, 1 KG** — 1,48 $/lb
+=======
+**6.** ❓ **PÊCHES À CHAIR JAUNE, 1 KG** — 1,48 $/lb
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425032169/1782147756/extra_large.jpg" alt="Preuve prix PÊCHES À CHAIR JAUNE, 1 KG" width="220" />
 
+<<<<<<< HEAD
 **8.** ❓ **SANS NOM® MOBILE CARTE SIM** — 2,50 $
+=======
+**7.** ❓ **SANS NOM® MOBILE CARTE SIM** — 2,50 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424754049/1781932370/extra_large.jpg" alt="Preuve prix SANS NOM® MOBILE CARTE SIM" width="220" />
 > Texte source: SANS NOM® MOBILE CARTE SIM | SANS NOM® SIM CARD
 
+<<<<<<< HEAD
 **9.** ❓ **EAU DE SOURCE NATURELLE NAYA, 28X500 ML OU ESKA, 24X500 ML** — 3,48 $
+=======
+**8.** ❓ **EAU DE SOURCE NATURELLE NAYA, 28X500 ML OU ESKA, 24X500 ML** — 3,48 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425032152/1782147741/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE NAYA, 28X500 ML OU ESKA, 24X500 ML" width="220" />
 
+<<<<<<< HEAD
+=======
+**9.** ❓ **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — 5,88 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 **10.** ❓ **PAPIER HYGIÉNIQUE, 15=30 ROULEAUX OU ESSUIE-TOUT TIGER TOWEL, 3=6 ROULEAUX ROYALE** — 6,88 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -152,7 +195,10 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
 **1.** ✅ **CROUSTILLES LAY'S** — 2,47 $
+<<<<<<< HEAD
 > 🏆 Choix gagnant: moins cher que Super C 9,00 $
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -183,7 +229,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424434995/1782156870/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE GAZÉIFIÉE MONTELLIER" width="220" />
 
+<<<<<<< HEAD
 **6.** 🔵 **CERISES ROUGES** — 3,99 $/lb
+=======
+**6.** 🔵 **CERISES ROUGES** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424434906/1781940507/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
@@ -243,7 +293,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424434852/1781940500/extra_large.jpg" alt="Preuve prix CORNICHONS OU BETTRAVES STRUB'S" width="220" />
 
+<<<<<<< HEAD
 **17.** ❓ **FROMAGE TOMME LES DÉPENDANCES** — 5,79 $/100g
+=======
+**17.** ❓ **FROMAGE TOMME LES DÉPENDANCES** — 5,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424434969/1781940502/extra_large.jpg" alt="Preuve prix FROMAGE TOMME LES DÉPENDANCES" width="220" />
@@ -266,6 +320,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## Super C
 📍 1445 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 **1.** ✅ **Dentifrice Colgate** — 1,69 $
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -382,6 +437,21 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425113196/1782219286/extra_large.jpg" alt="Preuve prix Épaule picnic de porc fumé" width="220" />
 > Texte source: épaule picnic de porc fumé | smoked pork picnic shoulder
+=======
+**1.** 🟢 **Bonbons Selection** — 7,00 $
+> *Environ 38 % moins cher que le prix habituel.*
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+> Texte source: bonbons Selection | Selection candies
+
+**2.** ❓ **Smoked meat style Montréal Irrésistible Artisan** — 12,99 $
+> 🏆 Choix gagnant: moins cher que Metro 13,99 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg" alt="Preuve prix Smoked meat style Montréal Irrésistible Artisan" width="220" />
+> Texte source: Smoked meat style Montréal Irrésistible Artisan | Irrésistible Artisan Montreal-style smoked meat
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 ## BoniChoix
 📍 773 rue de Lanaudière, Joliette
@@ -392,7 +462,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425011995/1782188107/extra_large.jpg" alt="Preuve prix MOUCHOIRS DE PAPIER COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **2.** 🟢 **CERISES ROUGES** — 2,99 $/lb
+=======
+**2.** 🟢 **CERISES ROUGES** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 53 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -482,8 +556,13 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424051549/1781568152/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE NAYA" width="220" />
 
+<<<<<<< HEAD
 **3.** 🔵 **CERISES ROUGES** — 2,44 $/lb
 > 🏆 Choix gagnant: moins cher que BoniChoix 2,99 $/lb · IGA 3,99 $/lb
+=======
+**3.** 🔵 **CERISES ROUGES** — 2,44 $
+> 🏆 Choix gagnant: moins cher que BoniChoix 2,99 $ · IGA 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425352990/1782301853/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
@@ -589,5 +668,9 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/423340759/1780941025/extra_large.jpg" alt="Preuve prix Appareil à iontophorèse Dermadry Total pour la transpiration excessive" width="220" />
 
 ---
+<<<<<<< HEAD
 📊 96 produits retenus pour achat réel
+=======
+📊 80 produits retenus pour achat réel
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 *Liste finale vérifiée générée le 25 juin 2026.*

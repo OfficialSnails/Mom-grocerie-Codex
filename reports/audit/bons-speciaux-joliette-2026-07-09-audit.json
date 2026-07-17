@@ -7358,7 +7358,11 @@
     "score": 86,
     "label": "GREAT_DEAL",
     "french_label": "Très bon prix",
+<<<<<<< HEAD
     "french_reason": "Environ 61 % moins cher que le prix habituel.",
+=======
+    "french_reason": "Environ 62 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": true,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -8381,7 +8385,11 @@
     "score": 25,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (4,69 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -9153,10 +9161,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 36,
     "label": "SKIP_WEAK_DEAL",
     "french_label": "Pas assez bon",
     "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
+=======
+    "score": 0,
+    "label": "NOT_ENOUGH_HISTORY",
+    "french_label": "Pas assez d'historique",
+    "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -10706,7 +10721,11 @@
     "score": 25,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (11,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -11230,10 +11249,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (1,25 $). Mieux d'attendre.",
+=======
+    "score": 25,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -12873,10 +12899,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 25,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "score": 20,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -13155,7 +13188,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -13310,7 +13347,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -14299,10 +14340,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (2,49 $). Mieux d'attendre.",
+=======
+    "score": 0,
+    "label": "NOT_ENOUGH_HISTORY",
+    "french_label": "Pas assez d'historique",
+    "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -15818,10 +15866,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (1,49 $). Mieux d'attendre.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 11,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -15849,10 +15904,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 10,
     "label": "FAKE_SALE",
     "french_label": "Faux rabais",
     "french_reason": "Prix très proche du prix habituel (environ 9,66 $). Pas vraiment un spécial.",
+=======
+    "score": 20,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher récemment (8,99 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -15883,7 +15945,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (1,88 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (4,99 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -15973,10 +16039,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 59,
+    "label": "SKIP_WEAK_DEAL",
+    "french_label": "Pas assez bon",
+    "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16035,10 +16108,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 37,
     "label": "SKIP_WEAK_DEAL",
     "french_label": "Pas assez bon",
     "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 4,74 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16128,7 +16208,11 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 54,
+=======
+    "score": 56,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "label": "SKIP_WEAK_DEAL",
     "french_label": "Pas assez bon",
     "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
@@ -16348,7 +16432,11 @@
     "score": 10,
     "label": "FAKE_SALE",
     "french_label": "Faux rabais",
+<<<<<<< HEAD
     "french_reason": "Prix très proche du prix habituel (environ 9,74 $). Pas vraiment un spécial.",
+=======
+    "french_reason": "Prix très proche du prix habituel (environ 9,79 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16376,10 +16464,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 12,00 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16407,10 +16502,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 82,
     "label": "GREAT_DEAL",
     "french_label": "Très bon prix",
     "french_reason": "Environ 49 % moins cher que le prix habituel.",
+=======
+    "score": 81,
+    "label": "GREAT_DEAL",
+    "french_label": "Très bon prix",
+    "french_reason": "Environ 47 % moins cher que le prix habituel.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": true,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16469,10 +16571,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 2,79 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16531,10 +16640,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 20,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher récemment (2,77 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16689,7 +16805,11 @@
     "score": 10,
     "label": "FAKE_SALE",
     "french_label": "Faux rabais",
+<<<<<<< HEAD
     "french_reason": "Prix très proche du prix habituel (environ 4,86 $). Pas vraiment un spécial.",
+=======
+    "french_reason": "Prix très proche du prix habituel (environ 4,89 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16748,10 +16868,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 20,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher récemment (6,49 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16813,7 +16940,11 @@
     "score": 10,
     "label": "FAKE_SALE",
     "french_label": "Faux rabais",
+<<<<<<< HEAD
     "french_reason": "Prix très proche du prix habituel (environ 2,92 $). Pas vraiment un spécial.",
+=======
+    "french_reason": "Prix très proche du prix habituel (environ 2,94 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16841,10 +16972,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 7,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -16996,10 +17134,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 2,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17120,10 +17265,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 3,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17275,10 +17427,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 10,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17554,10 +17713,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 20,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher récemment (4,97 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17647,10 +17813,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 6,32 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17740,7 +17913,11 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 54,
+=======
+    "score": 56,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "label": "SKIP_WEAK_DEAL",
     "french_label": "Pas assez bon",
     "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
@@ -17802,10 +17979,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 0,
     "label": "NOT_ENOUGH_HISTORY",
     "french_label": "Pas assez d'historique",
     "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+=======
+    "score": 10,
+    "label": "FAKE_SALE",
+    "french_label": "Faux rabais",
+    "french_reason": "Prix très proche du prix habituel (environ 2,99 $). Pas vraiment un spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -17833,7 +18017,11 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 40,
+=======
+    "score": 36,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "label": "SKIP_WEAK_DEAL",
     "french_label": "Pas assez bon",
     "french_reason": "Réduction trop faible pour être considérée comme un vrai bon spécial.",
@@ -19076,7 +19264,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -20595,7 +20787,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -23199,7 +23395,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -23754,11 +23954,19 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (5,99 $). Mieux d'attendre.",
     "worth_buying": false,
+=======
+    "score": 90,
+    "label": "MUST_BUY",
+    "french_label": "Excellent spécial",
+    "french_reason": "Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.",
+    "worth_buying": true,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "auditable_for_mom": true,
     "bundle_like_offer": false,
     "source_system": "flipp",
@@ -24315,7 +24523,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -24377,7 +24589,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -27167,7 +27383,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -27663,7 +27883,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -28063,10 +28287,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (2,33 $). Mieux d'attendre.",
+=======
+    "score": 25,
+    "label": "WAIT",
+    "french_label": "Attendre",
+    "french_reason": "Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -29616,7 +29847,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": false,
     "bundle_like_offer": true,
@@ -29647,7 +29882,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -30422,7 +30661,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": false,
     "bundle_like_offer": true,
@@ -30639,7 +30882,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (1,97 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,98 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -30732,7 +30979,11 @@
     "score": 25,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -31011,7 +31262,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -31972,7 +32227,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": false,
     "bundle_like_offer": true,
@@ -33302,11 +33561,19 @@
     "regular_price_cad": null,
     "size": null,
     "unit": "each",
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (2,33 $). Mieux d'attendre.",
     "worth_buying": false,
+=======
+    "score": 75,
+    "label": "GREAT_DEAL",
+    "french_label": "Très bon prix",
+    "french_reason": "Environ 40 % moins cher que le prix habituel.",
+    "worth_buying": true,
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "auditable_for_mom": true,
     "bundle_like_offer": false,
     "source_system": "flipp",
@@ -33894,7 +34161,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": false,
     "bundle_like_offer": true,
@@ -36064,7 +36335,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -36095,7 +36370,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -37487,10 +37766,17 @@
     "regular_price_cad": null,
     "size": null,
     "unit": null,
+<<<<<<< HEAD
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
     "french_reason": "Ce produit était moins cher récemment (1,44 $). Mieux d'attendre.",
+=======
+    "score": 0,
+    "label": "NOT_ENOUGH_HISTORY",
+    "french_label": "Pas assez d'historique",
+    "french_reason": "Pas assez d'historique pour confirmer si c'est un vrai bon spécial.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -38048,7 +38334,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,75 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -38203,7 +38493,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (2,77 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (2,88 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,
@@ -41830,7 +42124,11 @@
     "score": 20,
     "label": "WAIT",
     "french_label": "Attendre",
+<<<<<<< HEAD
     "french_reason": "Ce produit était moins cher récemment (0,99 $). Mieux d'attendre.",
+=======
+    "french_reason": "Ce produit était moins cher récemment (1,44 $). Mieux d'attendre.",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "worth_buying": false,
     "auditable_for_mom": true,
     "bundle_like_offer": false,

@@ -30,9 +30,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425071362/1782176462/extra_large.jpg" alt="Preuve prix MINI CONCOMBRES" width="220" />
 
+<<<<<<< HEAD
 - [ ] **CERISES ROUGES** — **2,99 $/lb**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Équivaut à 6,59 $/kg.
+=======
+- [ ] **CERISES ROUGES** — **2,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - ✅ **Pourquoi:** Environ 53 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425353127/1782302889/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
@@ -51,6 +57,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425032163/1782147749/extra_large.jpg" alt="Preuve prix MANGUES ATAULFO" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Cerises** — **1,97 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -65,6 +72,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425113198/1782219288/extra_large.jpg" alt="Preuve prix Légumineuses Cedar" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **TRANCHES DE FROMAGE COMPLIMENTS** — **5,49 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -83,6 +92,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424435056/1781940515/extra_large.jpg" alt="Preuve prix EAU PÉTILLANTE COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Tomates rouges de serre** — **0,99 $/lb**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Équivaut à 2,18 $/kg.
@@ -97,6 +107,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567179/1781921024/extra_large.jpg" alt="Preuve prix Citrons" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **SALADE HACHÉE TAYLOR FARMS** — **3,97 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -105,6 +117,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425353129/1782302890/extra_large.jpg" alt="Preuve prix SALADE HACHÉE TAYLOR FARMS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **OIGNONS JAUNES VIDALIA** — **1,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -113,6 +126,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424401327/1781765781/extra_large.jpg" alt="Preuve prix OIGNONS JAUNES VIDALIA" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **CARROUSEL DE CRUDITÉS OU DE FRUITS C'EST PRÊT!** — **9,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -152,6 +167,7 @@ cssclasses:
 
 ## 🥩 Viandes et poissons
 
+<<<<<<< HEAD
 - [ ] **BOEUF HACHÉ MAIGRE** — **5,74 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 12,65 $/kg.
@@ -167,6 +183,14 @@ cssclasses:
   - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567330/1781921017/extra_large.jpg" alt="Preuve prix SAUMON ROSE CLOVER LEAF" width="220" />
+=======
+- [ ] **BOEUF HACHÉ MAIGRE** — **5,74 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/425071365/1782176464/extra_large.jpg" alt="Preuve prix BOEUF HACHÉ MAIGRE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - [ ] **BISCUITS 907 G OU ARACHIDES RÔTIES À SEC ASSAISONNÉES 650 G** — **4,49 $**
   - 📍 **Magasin:** L'Inter-Marché
@@ -184,6 +208,17 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424434971/1781940503/extra_large.jpg" alt="Preuve prix CRETONS OU CRETONNADE NOREL" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **Smoked meat style Montréal Irrésistible Artisan** — **12,99 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 13,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg" alt="Preuve prix Smoked meat style Montréal Irrésistible Artisan" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BACON TRANCHÉ MÈRE MICHEL** — **5,29 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -196,6 +231,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425071364/1782176463/extra_large.jpg" alt="Preuve prix BAVETTE DE BŒUF IRRESISTIBLE" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Bifteck de côtes AAA** — **13,75 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -208,6 +244,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425113196/1782219286/extra_large.jpg" alt="Preuve prix Épaule picnic de porc fumé" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **PEPPERONI CASERTA TRANCHÉ ROMA** — **6,99 $**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -276,6 +314,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424754144/1781932076/extra_large.jpg" alt="Preuve prix CÉRÉALES GENERAL MILLS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Mélange à soupe Knorr** — **1,69 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -303,6 +342,11 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📊 Gagne contre Super C 4,49 $
   - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+=======
+- [ ] **MAYONNAISE HELLMANN'S** — **3,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424401475/1781765789/extra_large.jpg" alt="Preuve prix MAYONNAISE HELLMANN'S" width="220" />
 
@@ -318,6 +362,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424051384/1781568149/extra_large.jpg" alt="Preuve prix TARTINADE NUTELLA" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PEPSI, 7‑UP** — **4,49 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -325,6 +370,15 @@ cssclasses:
   - 🏅 Pourquoi ça gagne: 8,50 $ moins cher que le prochain meilleur prix
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424402147/1781765792/extra_large.jpg" alt="Preuve prix PEPSI, 7‑UP" width="220" />
+=======
+- [ ] **CALMARS CROUSTILLANTS IRRÉSISTIBLE** — **7,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 9,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/424401380/1781765776/extra_large.jpg" alt="Preuve prix CALMARS CROUSTILLANTS IRRÉSISTIBLE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - [ ] **TRIO DE SOUS-MARINS C'EST PRÈT!** — **13,99 $**
   - 📍 **Magasin:** BoniChoix
@@ -361,12 +415,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424051552/1781568153/extra_large.jpg" alt="Preuve prix BETTERAVES OU CORNICHONS STRUB'S" width="220" />
 
+<<<<<<< HEAD
 - [ ] **BOUILLON MIEUX-ÊTRE** — **0,99 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425113193/1782219283/extra_large.jpg" alt="Preuve prix BOUILLON MIEUX-ÊTRE" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **Couverture d'extérieur portable Below Zero** — **29,99 $**
   - 📍 **Magasin:** Costco
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -385,6 +442,33 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424051544/1781568149/extra_large.jpg" alt="Preuve prix HUMMUS, BABA GANNOUJ OU HUMMUS DESSERT FONTAINE SANTÉ" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **L'ORÉAL PARIS Produits capillaires sélectionnés** — **10,99 $**
+  - 📍 **Magasin:** Familiprix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/424054114/1781593865/extra_large.jpg" alt="Preuve prix L'ORÉAL PARIS Produits capillaires sélectionnés" width="220" />
+
+- [ ] **Latté infusé à froid ou torréfaction foncée à protéine brüst** — **29,99 $**
+  - 📍 **Magasin:** Costco
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/423340807/1780941030/extra_large.jpg" alt="Preuve prix Latté infusé à froid ou torréfaction foncée à protéine brüst" width="220" />
+
+- [ ] **MARINADES CORONATION** — **2,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/425011971/1782188111/extra_large.jpg" alt="Preuve prix MARINADES CORONATION" width="220" />
+
+- [ ] **PÊCHES À CHAIR JAUNE, 1 KG** — **1,48 $/lb**
+  - 📍 **Magasin:** Maxi
+  - ⚖️ **Échelle:** Équivaut à 3,26 $/kg.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/425032169/1782147756/extra_large.jpg" alt="Preuve prix PÊCHES À CHAIR JAUNE, 1 KG" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 ## 🧼 Maison et entretien
 
@@ -407,12 +491,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424401502/1781765790/extra_large.jpg" alt="Preuve prix DÉTERGENT POUR LA VAISSELLE PALMOLIVE" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Nettoyant pour salle de bain Scrubbing Bubbles** — **4,49 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567301/1781921011/extra_large.jpg" alt="Preuve prix Nettoyant pour salle de bain Scrubbing Bubbles" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **PAPIER HYGIÉNIQUE, 15=30 ROULEAUX OU ESSUIE-TOUT TIGER TOWEL, 3=6 ROULEAUX ROYALE** — **6,88 $**
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
@@ -421,6 +508,7 @@ cssclasses:
 
 ## 💊 Santé et pharmacie
 
+<<<<<<< HEAD
 - [ ] **Dentifrice Colgate** — **1,69 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -428,30 +516,49 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567292/1781921018/extra_large.jpg" alt="Preuve prix Dentifrice Colgate" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **L'ORÉAL PARIS, Produits de maquillage sélectionnés** — **9,99 $**
   - 📍 **Magasin:** Familiprix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424056882/1781593874/extra_large.jpg" alt="Preuve prix L'ORÉAL PARIS, Produits de maquillage sélectionnés" width="220" />
 
+<<<<<<< HEAD
 - [ ] **FROMAGE TOMME LES DÉPENDANCES** — **5,79 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 57,90 $/kg.
+=======
+- [ ] **FROMAGE TOMME LES DÉPENDANCES** — **5,79 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424434969/1781940502/extra_large.jpg" alt="Preuve prix FROMAGE TOMME LES DÉPENDANCES" width="220" />
 
 
 ## 🥖 Boulangerie
 
+<<<<<<< HEAD
 - [ ] **Tortillas Pom** — **2,99 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567280/1781921023/extra_large.jpg" alt="Preuve prix Tortillas Pom" width="220" />
+=======
+- [ ] **MUFFINS IRRÉSISTIBLE** — **5,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 6,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/424401301/1781765783/extra_large.jpg" alt="Preuve prix MUFFINS IRRÉSISTIBLE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 
 ## 🧊 Surgelés
 
+<<<<<<< HEAD
 - [ ] **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — **5,88 $**
   - 📍 **Magasin:** Maxi
   - 📊 Gagne contre Super C 13,99 $
@@ -459,6 +566,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BŒUF POUR FONDUE CHINOISE SURGELÉ COMPLIMENTS** — **6,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -480,6 +589,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424051399/1781568160/extra_large.jpg" alt="Preuve prix GAUFRES OU CRÊPES SURGELÉES KELLOGG'S EGGO" width="220" />
 
+<<<<<<< HEAD
 
 ## 🍪 Collations et boissons
 
@@ -492,6 +602,16 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/425379560/1782322250/extra_large.jpg" alt="Preuve prix CROUSTILLES LAY'S" width="220" />
 
+=======
+- [ ] **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — **5,88 $**
+  - 📍 **Magasin:** Maxi
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
+
+
+## 🍪 Collations et boissons
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BOISSON SPORTIVE GATORADE** — **6,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -499,6 +619,16 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424402097/1782139857/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **CROUSTILLES LAY'S** — **2,47 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/425379560/1782322250/extra_large.jpg" alt="Preuve prix CROUSTILLES LAY'S" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **THÉ GLACÉ FUZE** — **3,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -513,12 +643,21 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424434995/1782156870/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE GAZÉIFIÉE MONTELLIER" width="220" />
 
+<<<<<<< HEAD
 - [ ] **Biscuits Christie** — **2,33 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - ✅ **Pourquoi:** Environ 50 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567123/1781921008/extra_large.jpg" alt="Preuve prix Biscuits Christie" width="220" />
+=======
+- [ ] **Bonbons Selection** — **7,00 $**
+  - 📍 **Magasin:** Super C
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 38 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - [ ] **EAU DE SOURCE NATURELLE NAYA** — **2,99 $**
   - 📍 **Magasin:** IGA
@@ -526,6 +665,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424434858/1781940505/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE NAYA" width="220" />
 
+<<<<<<< HEAD
 - [ ] **RÉGLISSE TWIZZLERS HERSHEY'S** — **2,99 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -534,6 +674,8 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/424567325/1781921013/extra_large.jpg" alt="Preuve prix RÉGLISSE TWIZZLERS HERSHEY'S" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BISCUITS CÉLÉBRATION LECLERC** — **2,47 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.

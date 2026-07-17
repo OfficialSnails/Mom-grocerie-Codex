@@ -26,11 +26,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BOEUF HACHÉ MAIGRE**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 5,74 $/lb
   - Échelle: Équivaut à 12,65 $/kg.
   - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
   - 📊 Gagne contre Super C 8,99 $
   - 🏅 Pourquoi ça gagne: 3,25 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 5,74 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425071365/1782176464/extra_large.jpg" alt="Preuve prix BOEUF HACHÉ MAIGRE" width="220" />
 
@@ -54,6 +60,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🥫 Section: Garde-manger et autres
   - Prix: 3,99 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - 📊 Gagne contre Super C 4,49 $
   - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
@@ -76,6 +83,28 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/424401327/1781765781/extra_large.jpg" alt="Preuve prix OIGNONS JAUNES VIDALIA" width="220" />
+=======
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424401475/1781765789/extra_large.jpg" alt="Preuve prix MAYONNAISE HELLMANN'S" width="220" />
+
+- **CALMARS CROUSTILLANTS IRRÉSISTIBLE**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 7,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 9,99 $
+  - 🏅 Pourquoi ça gagne: 2,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424401380/1781765776/extra_large.jpg" alt="Preuve prix CALMARS CROUSTILLANTS IRRÉSISTIBLE" width="220" />
+
+- **MUFFINS IRRÉSISTIBLE**
+  - 🥖 Section: Boulangerie
+  - Prix: 5,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Super C 6,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424401301/1781765783/extra_large.jpg" alt="Preuve prix MUFFINS IRRÉSISTIBLE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - **BAVETTE DE BŒUF IRRESISTIBLE**
   - 🥩 Section: Viandes et poissons
@@ -108,7 +137,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Maxi
+<<<<<<< HEAD
 > [!info] 8 produits retenus
+=======
+> [!info] 9 produits retenus
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 📍 909 boul. Firestone, Joliette
 
 - **CÉRÉALES GENERAL MILLS**
@@ -126,6 +159,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425032163/1782147749/extra_large.jpg" alt="Preuve prix MANGUES ATAULFO" width="220" />
 
+<<<<<<< HEAD
 - **PIZZA RESTO PIZZ OU MIKES, 520-871 G**
   - 🧊 Section: Surgelés
   - Prix: 5,88 $
@@ -134,6 +168,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **FROMAGE LA VACHE QUI RIT 133 G OU DIPPERS 140 G**
   - 🥛 Section: Produits laitiers et oeufs
   - Prix: 2,88 $
@@ -171,6 +207,22 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425032156/1782147744/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE, 15=30 ROULEAUX OU ESSUIE-TOUT TIGER TOWEL, 3=6 ROULEAUX ROYALE" width="220" />
 
+<<<<<<< HEAD
+=======
+- **PÊCHES À CHAIR JAUNE, 1 KG**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 1,48 $/lb
+  - Échelle: Équivaut à 3,26 $/kg.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425032169/1782147756/extra_large.jpg" alt="Preuve prix PÊCHES À CHAIR JAUNE, 1 KG" width="220" />
+
+- **PIZZA RESTO PIZZ OU MIKES, 520-871 G**
+  - 🧊 Section: Surgelés
+  - Prix: 5,88 $
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 ---
 
 ## 🏬 IGA
@@ -182,8 +234,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Prix: 2,47 $
   - Échelle: Format à vérifier sur la photo.
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+<<<<<<< HEAD
   - 📊 Gagne contre Super C 9,00 $
   - 🏅 Pourquoi ça gagne: 6,53 $ moins cher que le prochain meilleur prix
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425379560/1782322250/extra_large.jpg" alt="Preuve prix CROUSTILLES LAY'S" width="220" />
 
@@ -306,8 +361,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **FROMAGE TOMME LES DÉPENDANCES**
   - 💊 Section: Santé et pharmacie
+<<<<<<< HEAD
   - Prix: 5,79 $/100g
   - Échelle: Équivaut à 57,90 $/kg.
+=======
+  - Prix: 5,79 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/424434969/1781940502/extra_large.jpg" alt="Preuve prix FROMAGE TOMME LES DÉPENDANCES" width="220" />
 
@@ -321,6 +381,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Super C
+<<<<<<< HEAD
 > [!info] 16 produits retenus
 > 📍 1445 boul. Firestone, Joliette
 
@@ -448,11 +509,36 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/424567301/1781921011/extra_large.jpg" alt="Preuve prix Nettoyant pour salle de bain Scrubbing Bubbles" width="220" />
+=======
+> [!info] 2 produits retenus
+> 📍 1445 boul. Firestone, Joliette
+
+- **Bonbons Selection**
+  - 🍪 Section: Collations et boissons
+  - Prix: 7,00 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 38 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+
+- **Smoked meat style Montréal Irrésistible Artisan**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 12,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Metro 13,99 $
+  - 🏅 Pourquoi ça gagne: 1,00 $ moins cher que le prochain meilleur prix
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg" alt="Preuve prix Smoked meat style Montréal Irrésistible Artisan" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 ---
 
 ## 🏬 BoniChoix
+<<<<<<< HEAD
 > [!info] 9 produits retenus
+=======
+> [!info] 10 produits retenus
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 📍 773 rue de Lanaudière, Joliette
 
 - **MOUCHOIRS DE PAPIER COMPLIMENTS**
@@ -465,8 +551,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **CERISES ROUGES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Environ 53 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425353127/1782302889/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
@@ -511,6 +602,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/425011951/1782188100/extra_large.jpg" alt="Preuve prix JUS DE FRUIT OU SMOOTHIE RÉFRIGÉRÉS OASIS" width="220" />
 
+<<<<<<< HEAD
+=======
+- **MARINADES CORONATION**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/425011971/1782188111/extra_large.jpg" alt="Preuve prix MARINADES CORONATION" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **PEPPERONI CASERTA TRANCHÉ ROMA**
   - 🥩 Section: Viandes et poissons
   - Prix: 6,99 $
@@ -599,7 +700,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Familiprix
+<<<<<<< HEAD
 > [!info] 5 produits retenus
+=======
+> [!info] 6 produits retenus
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 📍 Joliette
 
 - **L'ORÉAL PARIS, Produits de maquillage sélectionnés**
@@ -616,6 +721,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/424054041/1781593852/extra_large.jpg" alt="Preuve prix DAWN, Détergent à vaisselle liquide, 431 ml à 502 ml" width="220" />
 
+<<<<<<< HEAD
+=======
+- **L'ORÉAL PARIS Produits capillaires sélectionnés**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 10,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/424054114/1781593865/extra_large.jpg" alt="Preuve prix L'ORÉAL PARIS Produits capillaires sélectionnés" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **MONTELLIER Eau de source naturelle gazéifiée**
   - 🍪 Section: Collations et boissons
   - Prix: 5,99 $
@@ -640,7 +755,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Costco
+<<<<<<< HEAD
 > [!info] 4 produits retenus
+=======
+> [!info] 5 produits retenus
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - **Appareil à iontophorèse Dermadry Total pour la transpiration excessive**
   - 🥫 Section: Garde-manger et autres
@@ -669,3 +788,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/423340757/1780941026/extra_large.jpg" alt="Preuve prix Débardeur de sport Tuff Athletics pour femmes" width="220" />
+<<<<<<< HEAD
+=======
+
+- **Latté infusé à froid ou torréfaction foncée à protéine brüst**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 29,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/423340807/1780941030/extra_large.jpg" alt="Preuve prix Latté infusé à froid ou torréfaction foncée à protéine brüst" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b

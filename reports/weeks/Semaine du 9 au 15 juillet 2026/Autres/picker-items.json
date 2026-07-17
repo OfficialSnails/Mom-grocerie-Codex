@@ -4,7 +4,11 @@
     "item_name": "CERISES ROUGES",
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition",
+<<<<<<< HEAD
     "price": "1,97 $/lb",
+=======
+    "price": "1,97 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -100,7 +104,11 @@
     "item_name": "RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "2,59 $/100g",
+=======
+    "price": "2,59 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -120,6 +128,7 @@
     "category": "Viandes et poissons"
   },
   {
+<<<<<<< HEAD
     "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
     "item_name": "PEPPERONI ROMA",
     "store_id": "bonichoix-joliette",
@@ -128,11 +137,17 @@
     "category": "Viandes et poissons"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-09::iga-joliette::jambon fume mere michel",
     "item_name": "JAMBON FUMÉ MÈRE MICHEL",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "3,19 $/100g",
+=======
+    "price": "3,19 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -140,7 +155,11 @@
     "item_name": "RÔTI D'ÉPAULE DE PORC FRAIS",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "1,97 $/lb",
+=======
+    "price": "1,97 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -148,7 +167,19 @@
     "item_name": "POULET ENTIER FRAIS",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "2,79 $/lb",
+=======
+    "price": "2,79 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-07-09::bonichoix-joliette::pepperoni roma",
+    "item_name": "PEPPERONI ROMA",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "1,79 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -244,7 +275,11 @@
     "item_name": "FILET DE TRUITE",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "8,99 $/lb",
+=======
+    "price": "8,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -252,7 +287,11 @@
     "item_name": "NECTARINES JAUNES OU PÊCHES JAUNES",
     "store_id": "intermarche-joliette",
     "store_name": "L'Inter-Marché",
+<<<<<<< HEAD
     "price": "2,99 $/lb",
+=======
+    "price": "2,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -292,7 +331,11 @@
     "item_name": "PRUNES NOIRES OU ROUGES |",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "3,99 $/kg",
+=======
+    "price": "3,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -300,7 +343,11 @@
     "item_name": "BLANCHE DU PACIFIQUE",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "0,34 $/lb",
+=======
+    "price": "0,34 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -324,7 +371,11 @@
     "item_name": "GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "8,99 $/lb",
+=======
+    "price": "8,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -340,7 +391,11 @@
     "item_name": "GOURGANES",
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition",
+<<<<<<< HEAD
     "price": "2,99 $/lb",
+=======
+    "price": "2,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -440,6 +495,17 @@
     "category": "Surgelés"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-09::bonichoix-joliette::boisson sportive gatorade",
+    "item_name": "BOISSON SPORTIVE GATORADE",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "6,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-09::iga-joliette::croustilles ruffles",
     "item_name": "CROUSTILLES RUFFLES",
     "store_id": "iga-joliette",
@@ -456,6 +522,17 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-09::maxi-joliette::biscuits christie",
+    "item_name": "BISCUITS CHRISTIE",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "2,79 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-09::iga-joliette::boisson a base d'eau petillante bubly",
     "item_name": "BOISSON À BASE D'EAU PÉTILLANTE BUBLY",
     "store_id": "iga-joliette",

@@ -28,19 +28,34 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427034573/1783731754/extra_large.jpg" alt="Preuve prix MANGUES ROUGES" width="220" />
 
+<<<<<<< HEAD
 - [ ] **RAISINS VERTS SANS PÉPINS** — **1,97 $/lb**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 4,34 $/kg.
+=======
+- [ ] **RAISINS VERTS SANS PÉPINS** — **1,97 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426950557/1783975679/extra_large.jpg" alt="Preuve prix RAISINS VERTS SANS PÉPINS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **COURONNE DE BROCOLI** — **1,44 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 3,17 $/kg.
   - ✅ **Pourquoi:** Environ 37 % moins cher que le prix habituel.
   - 📊 Gagne contre Maxi 2,49 $
   - 🏅 Pourquoi ça gagne: 1,05 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **COURONNE DE BROCOLI** — **1,44 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Environ 37 % moins cher que le prix habituel.
+  - 📊 Gagne contre Maxi 2,49 $
+  - 🏅 Pourquoi ça gagne: 1,05 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080658/1783895006/extra_large.jpg" alt="Preuve prix COURONNE DE BROCOLI" width="220" />
 
@@ -126,9 +141,15 @@ cssclasses:
 
 ## 🥩 Viandes et poissons
 
+<<<<<<< HEAD
 - [ ] **BIFTECKS FRANÇAIS OU TOURNEDOS** — **6,88 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 15,17 $/kg.
+=======
+- [ ] **BIFTECKS FRANÇAIS OU TOURNEDOS** — **6,88 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - ✅ **Pourquoi:** Environ 43 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080669/1783895013/extra_large.jpg" alt="Preuve prix BIFTECKS FRANÇAIS OU TOURNEDOS" width="220" />
@@ -147,6 +168,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426763120/1783482973/extra_large.jpg" alt="Preuve prix SAUCISSES FUMÉES LESTERS" width="220" />
 
+<<<<<<< HEAD
 - [ ] **CUISSES DE POULET FRAIS** — **1,99 $/lb**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 4,39 $/kg.
@@ -172,6 +194,33 @@ cssclasses:
   - ⚖️ **Échelle:** Équivaut à 25,90 $/kg.
   - 📊 Gagne contre BoniChoix 11,75 $
   - 🏅 Pourquoi ça gagne: 9,16 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **CUISSES DE POULET FRAIS** — **1,99 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 3,49 $
+  - 🏅 Pourquoi ça gagne: 1,50 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426950547/1783975672/extra_large.jpg" alt="Preuve prix CUISSES DE POULET FRAIS" width="220" />
+
+- [ ] **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD** — **4,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426950922/1783755622/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
+
+- [ ] **BAVETTE DE BŒUF MARINÉE TOP GOURMET** — **15,99 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426950560/1783975681/extra_large.jpg" alt="Preuve prix BAVETTE DE BŒUF MARINÉE TOP GOURMET" width="220" />
+
+- [ ] **JAMBON FUMÉ COMPLIMENTS** — **2,59 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 11,75 $
+  - 🏅 Pourquoi ça gagne: 9,16 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426833406/1783558361/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ COMPLIMENTS" width="220" />
 
@@ -181,6 +230,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426950550/1783975674/extra_large.jpg" alt="Preuve prix BACON TRANCHÉ OLYMEL" width="220" />
 
+<<<<<<< HEAD
 - [ ] **BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE** — **12,99 $/lb**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Équivaut à 28,64 $/kg.
@@ -192,6 +242,13 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080672/1783895005/extra_large.jpg" alt="Preuve prix PISTACHES RÔTIES SALÉES IRRÉSISTIBLE" width="220" />
+=======
+- [ ] **BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE** — **12,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426763161/1783482976/extra_large.jpg" alt="Preuve prix BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - [ ] **POITRINES DE POULET AVEC DOS ET PEAU** — **3,44 $/lb**
   - 📍 **Magasin:** Maxi
@@ -199,15 +256,30 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427541218/1784124439/extra_large.jpg" alt="Preuve prix POITRINES DE POULET AVEC DOS ET PEAU" width="220" />
 
+<<<<<<< HEAD
+=======
+- [ ] **POULET HACHÉ EXTRA MAIGRE PRIME MAPLE LEAF** — **7,00 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/427080681/1783895011/extra_large.jpg" alt="Preuve prix POULET HACHÉ EXTRA MAIGRE PRIME MAPLE LEAF" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **SAUCISSES FRAÎCHES** — **4,88 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080670/1783895013/extra_large.jpg" alt="Preuve prix SAUCISSES FRAÎCHES" width="220" />
 
+<<<<<<< HEAD
 - [ ] **TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL** — **4,99 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 11,00 $/kg.
+=======
+- [ ] **TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL** — **4,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080684/1783895013/extra_large.jpg" alt="Preuve prix TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL" width="220" />
 
@@ -221,11 +293,19 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427080663/1783895009/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOP YOPLAIT" width="220" />
 
+<<<<<<< HEAD
 - [ ] **FROMAGE TRANCHÉ SAPUTO** — **2,79 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 27,90 $/kg.
   - 📊 Gagne contre BoniChoix 6,99 $
   - 🏅 Pourquoi ça gagne: 4,20 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **FROMAGE TRANCHÉ SAPUTO** — **2,79 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,20 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 🧾 Autres prix vus: BoniChoix 6,99 $ · Marchés Tradition 6,99 $
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426950917/1783755619/extra_large.jpg" alt="Preuve prix FROMAGE TRANCHÉ SAPUTO" width="220" />
@@ -245,18 +325,27 @@ cssclasses:
 
 ## 🥫 Garde-manger et autres
 
+<<<<<<< HEAD
 - [ ] **VIANDE FUMÉE FUMOIRS GOSSELIN** — **3,49 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 34,90 $/kg.
+=======
+- [ ] **VIANDE FUMÉE FUMOIRS GOSSELIN** — **3,49 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426950927/1783755625/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE FUMOIRS GOSSELIN" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PÂTÉ PLAISIRS GASTRONOMIQUES** — **4,50 $**
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/427034597/1783731755/extra_large.jpg" alt="Preuve prix PÂTÉ PLAISIRS GASTRONOMIQUES" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **MIEL SELECTION** — **4,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -380,6 +469,16 @@ cssclasses:
 
 ## 🍪 Collations et boissons
 
+<<<<<<< HEAD
+=======
+- [ ] **BOISSON SPORTIVE GATORADE** — **6,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/427080872/1783895010/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **THÉ GLACÉ FUZE** — **3,99 $**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -390,10 +489,22 @@ cssclasses:
 - [ ] **Bonbons Selection** — **4,69 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+<<<<<<< HEAD
   - ✅ **Pourquoi:** Environ 45 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426890773/1783561139/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
 
+=======
+  - ✅ **Pourquoi:** Environ 44 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426890773/1783561139/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+
+- [ ] **BISCUITS CHRISTIE** — **2,79 $**
+  - 📍 **Magasin:** Maxi
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/427034822/1783731759/extra_large.jpg" alt="Preuve prix BISCUITS CHRISTIE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BARRE ÉNERGÉTIQUE CLIF BAR** — **1,99 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.

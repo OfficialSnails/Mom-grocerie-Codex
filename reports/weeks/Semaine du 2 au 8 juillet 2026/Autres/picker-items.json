@@ -36,7 +36,11 @@
     "item_name": "CERISES ROUGES",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "1,97 $/lb",
+=======
+    "price": "1,97 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -48,6 +52,17 @@
     "category": "Fruits et légumes"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-02::metro-joliette::tomates rouges de serre",
+    "item_name": "TOMATES ROUGES DE SERRE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "1,44 $",
+    "category": "Fruits et légumes"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-02::tradition-joliette::boisson gazeuse compliments",
     "item_name": "BOISSON GAZEUSE COMPLIMENTS",
     "store_id": "tradition-joliette",
@@ -68,7 +83,11 @@
     "item_name": "CERISES COLOSSALES",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "2,99 $/lb",
+=======
+    "price": "2,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -132,7 +151,11 @@
     "item_name": "COURGETTES VERTES",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "2,49 $/lb",
+=======
+    "price": "2,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -148,7 +171,11 @@
     "item_name": "RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "2,59 $/100g",
+=======
+    "price": "2,59 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -156,7 +183,11 @@
     "item_name": "ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "4,49 $/100g",
+=======
+    "price": "4,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -172,7 +203,11 @@
     "item_name": "FILETS DE PORC FRAIS",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "3,99 $/lb",
+=======
+    "price": "3,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -180,7 +215,11 @@
     "item_name": "PAIN DE VIANDE SIMILI-POULET",
     "store_id": "intermarche-joliette",
     "store_name": "L'Inter-Marché",
+<<<<<<< HEAD
     "price": "0,99 $/lb",
+=======
+    "price": "0,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -196,7 +235,11 @@
     "item_name": "POULET ENTIER FRAIS CATEGORIE A, MOINS DE, 2 KG",
     "store_id": "intermarche-joliette",
     "store_name": "L'Inter-Marché",
+<<<<<<< HEAD
     "price": "3,99 $/lb",
+=======
+    "price": "3,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -260,7 +303,11 @@
     "item_name": "KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "7,49 $/lb",
+=======
+    "price": "7,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -292,7 +339,11 @@
     "item_name": "FROMAGE OKA AGROPUR",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "3,99 $/100g",
+=======
+    "price": "3,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Produits laitiers et oeufs"
   },
   {
@@ -324,7 +375,11 @@
     "item_name": "VIANDE FUMÉE FUMOIRS GOSSELIN",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "3,49 $/100g",
+=======
+    "price": "3,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -528,6 +583,7 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
     "id": "2026-07-02::superc-joliette::bonbons selection",
     "item_name": "Bonbons Selection",
     "store_id": "superc-joliette",
@@ -536,6 +592,8 @@
     "category": "Collations et boissons"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-02::iga-joliette::the glace fuze",
     "item_name": "THÉ GLACÉ FUZE",
     "store_id": "iga-joliette",
@@ -544,6 +602,17 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-02::superc-joliette::bonbons selection",
+    "item_name": "Bonbons Selection",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "4,69 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-02::metro-joliette::biscuits pattes d'ours dare",
     "item_name": "BISCUITS PATTES D'OURS DARE",
     "store_id": "metro-joliette",

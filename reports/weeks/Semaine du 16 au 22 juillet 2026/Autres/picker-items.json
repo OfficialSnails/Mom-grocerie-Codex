@@ -12,7 +12,11 @@
     "item_name": "RAISINS VERTS SANS PÉPINS",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "1,97 $/lb",
+=======
+    "price": "1,97 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -20,7 +24,11 @@
     "item_name": "COURONNE DE BROCOLI",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "1,44 $/lb",
+=======
+    "price": "1,44 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -132,7 +140,11 @@
     "item_name": "BIFTECKS FRANÇAIS OU TOURNEDOS",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "6,88 $/lb",
+=======
+    "price": "6,88 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -156,7 +168,11 @@
     "item_name": "CUISSES DE POULET FRAIS",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "1,99 $/lb",
+=======
+    "price": "1,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -164,7 +180,11 @@
     "item_name": "ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "4,49 $/lb",
+=======
+    "price": "4,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -172,7 +192,11 @@
     "item_name": "BAVETTE DE BŒUF MARINÉE TOP GOURMET",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "15,99 $/lb",
+=======
+    "price": "15,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -180,7 +204,11 @@
     "item_name": "JAMBON FUMÉ COMPLIMENTS",
     "store_id": "tradition-joliette",
     "store_name": "Marchés Tradition",
+<<<<<<< HEAD
     "price": "2,59 $/100g",
+=======
+    "price": "2,59 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -196,6 +224,7 @@
     "item_name": "BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "12,99 $/lb",
     "category": "Viandes et poissons"
   },
@@ -205,6 +234,9 @@
     "store_id": "metro-joliette",
     "store_name": "Metro",
     "price": "17,99 $",
+=======
+    "price": "12,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -216,6 +248,17 @@
     "category": "Viandes et poissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-16::metro-joliette::poulet hache extra maigre prime maple leaf",
+    "item_name": "POULET HACHÉ EXTRA MAIGRE PRIME MAPLE LEAF",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "7,00 $",
+    "category": "Viandes et poissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-16::metro-joliette::saucisses fraiches",
     "item_name": "SAUCISSES FRAÎCHES",
     "store_id": "metro-joliette",
@@ -228,7 +271,11 @@
     "item_name": "TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "4,99 $/lb",
+=======
+    "price": "4,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -244,7 +291,11 @@
     "item_name": "FROMAGE TRANCHÉ SAPUTO",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "2,79 $/100g",
+=======
+    "price": "2,79 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Produits laitiers et oeufs"
   },
   {
@@ -268,6 +319,7 @@
     "item_name": "VIANDE FUMÉE FUMOIRS GOSSELIN",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "3,49 $/100g",
     "category": "Garde-manger et autres"
   },
@@ -277,6 +329,9 @@
     "store_id": "maxi-joliette",
     "store_name": "Maxi",
     "price": "4,50 $",
+=======
+    "price": "3,49 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -424,6 +479,17 @@
     "category": "Surgelés"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-16::metro-joliette::boisson sportive gatorade",
+    "item_name": "BOISSON SPORTIVE GATORADE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "6,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-16::metro-joliette::the glace fuze",
     "item_name": "THÉ GLACÉ FUZE",
     "store_id": "metro-joliette",
@@ -440,6 +506,17 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-07-16::maxi-joliette::biscuits christie",
+    "item_name": "BISCUITS CHRISTIE",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "2,79 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-07-16::iga-joliette::barre energetique clif bar",
     "item_name": "BARRE ÉNERGÉTIQUE CLIF BAR",
     "store_id": "iga-joliette",

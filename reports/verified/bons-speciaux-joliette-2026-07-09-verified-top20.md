@@ -26,7 +26,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 
 **4.** 🟢 **FRAISES** — 2,77 $
 > 🏆 Choix gagnant: moins cher que IGA 2,97 $
+<<<<<<< HEAD
 > *Environ 61 % moins cher que le prix habituel.*
+=======
+> *Environ 62 % moins cher que le prix habituel.*
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426408918/1783165074/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
@@ -64,20 +68,32 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/426634335/1783445328/extra_large.jpg" alt="Preuve prix COURGETTES VERTES OU JAUNES" width="220" />
 > Texte source: COURGETTES VERTES OU JAUNES | GREEN OR YELLOW ZUCCHINI SQUASHES
 
+<<<<<<< HEAD
 **10.** ❓ **FILET DE TRUITE** — 8,99 $/lb
+=======
+**10.** ❓ **FILET DE TRUITE** — 8,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Maxi 10,00 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg" alt="Preuve prix FILET DE TRUITE" width="220" />
 > Texte source: FILET DE TRUITE | TROUT FILLET
 
+<<<<<<< HEAD
 **11.** ❓ **PRUNES NOIRES OU ROUGES |** — 3,99 $/kg
+=======
+**11.** ❓ **PRUNES NOIRES OU ROUGES |** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Maxi 1,99 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg" alt="Preuve prix PRUNES NOIRES OU ROUGES |" width="220" />
 
+<<<<<<< HEAD
 **12.** ❓ **BLANCHE DU PACIFIQUE** — 0,34 $/lb
+=======
+**12.** ❓ **BLANCHE DU PACIFIQUE** — 0,34 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426419442/1783165073/extra_large.jpg" alt="Preuve prix BLANCHE DU PACIFIQUE" width="220" />
@@ -99,7 +115,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/426408930/1783165067/extra_large.jpg" alt="Preuve prix TARTINADE NUTELLA NUTELLA" width="220" />
 > Texte source: TARTINADE NUTELLA NUTELLA | NUTELLA SPREAD
 
+<<<<<<< HEAD
 **16.** ❓ **SAUVAGE DE L'ATLANTIQUE** — 0,74 $/lb
+=======
+**16.** ❓ **SAUVAGE DE L'ATLANTIQUE** — 0,74 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426408953/1783165072/extra_large.jpg" alt="Preuve prix SAUVAGE DE L'ATLANTIQUE" width="220" />
@@ -107,38 +127,69 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## Maxi
 📍 909 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 **1.** ❓ **TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS** — 3,00 $
+=======
+**1.** 🟢 **BISCUITS CHRISTIE** — 2,79 $
+> *Environ 40 % moins cher que le prix habituel.*
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg" alt="Preuve prix BISCUITS CHRISTIE" width="220" />
+> Texte source: BISCUITS CHRISTIE | COOKIES, 251-303 G
+
+**2.** ❓ **TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS** — 3,00 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Inter-Marché 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298436/1783036886/extra_large.jpg" alt="Preuve prix TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS" width="220" />
 > Texte source: TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS | LUNCH KITS OR STACKERS, 75-120 G
 
+<<<<<<< HEAD
 **2.** ❓ **CROUSTILLES OU GRIGNOTINES YUM YUM** — 2,88 $
+=======
+**3.** ❓ **CROUSTILLES OU GRIGNOTINES YUM YUM** — 2,88 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Inter-Marché 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298082/1783036613/extra_large.jpg" alt="Preuve prix CROUSTILLES OU GRIGNOTINES YUM YUM" width="220" />
 > Texte source: CROUSTILLES OU GRIGNOTINES YUM YUM | CHIPS OR SNACKS, 170-300 G
 
+<<<<<<< HEAD
 **3.** ❓ **HUILE D'OLIVE GALLO** — 8,99 $
+=======
+**4.** ❓ **HUILE D'OLIVE GALLO** — 8,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Inter-Marché 9,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298416/1783036889/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE GALLO" width="220" />
 > Texte source: HUILE D'OLIVE GALLO | OLIVE OIL, 1 L
 
+<<<<<<< HEAD
 **4.** ❓ **PRUNES NOIRES OU NECTARINES JAUNES** — 1,99 $/lb
+=======
+**5.** ❓ **PRUNES NOIRES OU NECTARINES JAUNES** — 1,99 $/lb
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298387/1783036891/extra_large.jpg" alt="Preuve prix PRUNES NOIRES OU NECTARINES JAUNES" width="220" />
 
+<<<<<<< HEAD
 **5.** ❓ **PILONS DE POULET** — 1,99 $/lb
+=======
+**6.** ❓ **PILONS DE POULET** — 1,99 $/lb
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298389/1783036892/extra_large.jpg" alt="Preuve prix PILONS DE POULET" width="220" />
 
+<<<<<<< HEAD
 **6.** ❓ **BAVETTE DE BŒUF HOUSTON, 225 G** — 7,88 $
+=======
+**7.** ❓ **BAVETTE DE BŒUF HOUSTON, 225 G** — 7,88 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426298384/1783036889/extra_large.jpg" alt="Preuve prix BAVETTE DE BŒUF HOUSTON, 225 G" width="220" />
@@ -152,7 +203,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426321606/1783077222/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
 
+<<<<<<< HEAD
 **2.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $/100g
+=======
+**2.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -170,12 +225,20 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426321602/1783077218/extra_large.jpg" alt="Preuve prix BIFTECK DE HAUT DE SURLONGE" width="220" />
 
+<<<<<<< HEAD
 **5.** 🔵 **RÔTI D'ÉPAULE DE PORC FRAIS** — 1,97 $/lb
+=======
+**5.** 🔵 **RÔTI D'ÉPAULE DE PORC FRAIS** — 1,97 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426321599/1783077215/extra_large.jpg" alt="Preuve prix RÔTI D'ÉPAULE DE PORC FRAIS" width="220" />
 
+<<<<<<< HEAD
 **6.** 🔵 **JAMBON FUMÉ MÈRE MICHEL** — 3,19 $/100g
+=======
+**6.** 🔵 **JAMBON FUMÉ MÈRE MICHEL** — 3,19 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Marchés Tradition 15,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -236,7 +299,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📍 1445 boul. Firestone, Joliette
 
 **1.** 🟢 **Bonbons Selection** — 4,69 $
+<<<<<<< HEAD
 > *Environ 49 % moins cher que le prix habituel.*
+=======
+> *Environ 47 % moins cher que le prix habituel.*
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
@@ -245,76 +312,138 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## BoniChoix
 📍 773 rue de Lanaudière, Joliette
 
+<<<<<<< HEAD
 **1.** 🔵 **BLEUETS** — 2,44 $
+=======
+**1.** ✅ **BOISSON SPORTIVE GATORADE** — 6,99 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
+
+**2.** 🔵 **BLEUETS** — 2,44 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que IGA 4,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472544/1783350763/extra_large.jpg" alt="Preuve prix BLEUETS" width="220" />
 
+<<<<<<< HEAD
 **2.** 🔵 **TRANCHES DE FROMAGE COMPLIMENTS** — 5,49 $
+=======
+**3.** 🔵 **TRANCHES DE FROMAGE COMPLIMENTS** — 5,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472633/1783350773/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **3.** 🔵 **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
+=======
+**4.** 🔵 **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472545/1783350763/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
 
+<<<<<<< HEAD
 **4.** 🔵 **POULET ENTIER FRAIS** — 2,79 $/lb
+=======
+**5.** 🔵 **POULET ENTIER FRAIS** — 2,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS" width="220" />
 
+<<<<<<< HEAD
 **5.** 🔵 **MOUTARDE PRÉPARÉE FRENCH'S** — 1,99 $
+=======
+**6.** 🔵 **MOUTARDE PRÉPARÉE FRENCH'S** — 1,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472632/1783350773/extra_large.jpg" alt="Preuve prix MOUTARDE PRÉPARÉE FRENCH'S" width="220" />
 
+<<<<<<< HEAD
 **6.** 🔵 **PIZZA POCHETTES SURGELÉES McCAIN** — 3,99 $
+=======
+**7.** 🔵 **PIZZA POCHETTES SURGELÉES McCAIN** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472636/1783350775/extra_large.jpg" alt="Preuve prix PIZZA POCHETTES SURGELÉES McCAIN" width="220" />
 
+<<<<<<< HEAD
 **7.** 🔵 **PEPPERONI ROMA** — 1,79 $/lb
 > 🏆 Choix gagnant: moins cher que Marchés Tradition 1,79 $/100g
+=======
+**8.** 🔵 **PEPPERONI ROMA** — 1,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg" alt="Preuve prix PEPPERONI ROMA" width="220" />
 
+<<<<<<< HEAD
 **8.** ❓ **TORTILLAS (10 ou 12 po) POM (6 à 10)** — 4,49 $
+=======
+**9.** ❓ **TORTILLAS (10 ou 12 po) POM (6 à 10)** — 4,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Marchés Tradition 4,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472592/1783350773/extra_large.jpg" alt="Preuve prix TORTILLAS (10 ou 12 po) POM (6 à 10)" width="220" />
 
+<<<<<<< HEAD
 **9.** ❓ **COLLATION SCHNEIDERS** — 4,49 $
+=======
+**10.** ❓ **COLLATION SCHNEIDERS** — 4,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Marchés Tradition 4,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472560/1783350766/extra_large.jpg" alt="Preuve prix COLLATION SCHNEIDERS" width="220" />
 
+<<<<<<< HEAD
 **10.** ❓ **JEUNES ÉPINARDS, MÉLANGE PRINTEMPS OU ROQUETTE** — 2,99 $
+=======
+**11.** ❓ **JEUNES ÉPINARDS, MÉLANGE PRINTEMPS OU ROQUETTE** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472543/1783350762/extra_large.jpg" alt="Preuve prix JEUNES ÉPINARDS, MÉLANGE PRINTEMPS OU ROQUETTE" width="220" />
 
+<<<<<<< HEAD
 **11.** ❓ **SANDWICH C'EST PRÊT!** — 3,99 $
+=======
+**12.** ❓ **SANDWICH C'EST PRÊT!** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472571/1783350759/extra_large.jpg" alt="Preuve prix SANDWICH C'EST PRÊT!" width="220" />
 
+<<<<<<< HEAD
 **12.** ❓ **GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER** — 8,99 $/lb
+=======
+**13.** ❓ **GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER** — 8,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472553/1783350761/extra_large.jpg" alt="Preuve prix GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER" width="220" />
 
+<<<<<<< HEAD
 **13.** ❓ **HUILE DE CANOLA OU HUILE VÉGÉTALE COMPLIMENTS** — 8,99 $
+=======
+**14.** ❓ **HUILE DE CANOLA OU HUILE VÉGÉTALE COMPLIMENTS** — 8,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472603/1783350765/extra_large.jpg" alt="Preuve prix HUILE DE CANOLA OU HUILE VÉGÉTALE COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **14.** ❓ **ÉCRAN SOLAIRE COPPERTONE** — 12,49 $
+=======
+**15.** ❓ **ÉCRAN SOLAIRE COPPERTONE** — 12,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426472619/1783350766/extra_large.jpg" alt="Preuve prix ÉCRAN SOLAIRE COPPERTONE" width="220" />
@@ -322,7 +451,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## L'Inter-Marché
 📍 Joliette
 
+<<<<<<< HEAD
 **1.** ❓ **NECTARINES JAUNES OU PÊCHES JAUNES** — 2,99 $/lb
+=======
+**1.** ❓ **NECTARINES JAUNES OU PÊCHES JAUNES** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que IGA 6,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -346,7 +479,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426243155/1782974297/extra_large.jpg" alt="Preuve prix PLAT D'ACCOMPAGNEMENT KNORR SIDEKICKS" width="220" />
 
+<<<<<<< HEAD
 **2.** ✅ **CERISES ROUGES** — 1,97 $/lb
+=======
+**2.** ✅ **CERISES ROUGES** — 1,97 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que BoniChoix 3,99 $
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -374,7 +511,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426243243/1782974311/extra_large.jpg" alt="Preuve prix PIZZA POCHETTES SURGELÉES McCAIN" width="220" />
 
+<<<<<<< HEAD
 **7.** 🔵 **PEPPERONI ROMA** — 1,79 $/100g
+=======
+**7.** 🔵 **PEPPERONI ROMA** — 1,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426243078/1782974304/extra_large.jpg" alt="Preuve prix PEPPERONI ROMA" width="220" />
@@ -396,7 +537,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426243056/1782974295/extra_large.jpg" alt="Preuve prix BACON COUPE DE CHOIX" width="220" />
 
+<<<<<<< HEAD
 **11.** ❓ **GOURGANES** — 2,99 $/lb
+=======
+**11.** ❓ **GOURGANES** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/426243142/1782974299/extra_large.jpg" alt="Preuve prix GOURGANES" width="220" />
@@ -452,5 +597,9 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/426486799/1783356452/extra_large.jpg" alt="Preuve prix ZOA - Boisson énergisante mixte aux trois saveurs, 355 mL paquet de 18" width="220" />
 
 ---
+<<<<<<< HEAD
 📊 75 produits retenus pour achat réel
+=======
+📊 77 produits retenus pour achat réel
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 *Liste finale vérifiée générée le 9 juillet 2026.*

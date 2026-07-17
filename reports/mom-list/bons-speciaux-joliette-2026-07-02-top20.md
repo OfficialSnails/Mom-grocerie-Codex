@@ -5,18 +5,33 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 ## Metro
 📍 180 rue Beaudry N, Joliette
 
+<<<<<<< HEAD
 **1.** ✅ **RÔTI DE POITRINE DE POULET MAPLE LODGE** — 2,49 $ · économie ~6,77 $
+=======
+**1.** ✅ **RÔTI DE POITRINE DE POULET MAPLE LODGE** — 2,49 $ · économie ~6,56 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: RÔTI DE POITRINE DE POULET MAPLE LODGE | MAPLE LODGE CHICKEN BREAST ROAST · [circulaire: Quebec](https://f.wishabi.net/page_items/425871721/1782618721/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871721/1782618721/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET MAPLE LODGE" width="220" />
 
+<<<<<<< HEAD
 **2.** 🟢 **BOISSON ÉNERGISANTE REDBULL** — 2,99 $ · économie ~4,63 $
+=======
+**2.** 🟢 **SAUCE ST-HUBERT** — 1,49 $ · économie ~1,38 $
+> *Environ 48 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Quebec](https://f.wishabi.net/page_items/425871555/1782618718/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871555/1782618718/extra_large.jpg" alt="Preuve prix SAUCE ST-HUBERT" width="220" />
+
+**3.** 🟢 **BOISSON ÉNERGISANTE REDBULL** — 2,99 $ · économie ~4,63 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 61 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: BOISSON ÉNERGISANTE REDBULL | REDBULL ENERGY DRINK · [circulaire: Quebec](https://f.wishabi.net/page_items/425871737/1782618713/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871737/1782618713/extra_large.jpg" alt="Preuve prix BOISSON ÉNERGISANTE REDBULL" width="220" />
 
+<<<<<<< HEAD
 **3.** 🟢 **SAUCE ST-HUBERT** — 1,49 $ · économie ~1,25 $
 > *Environ 46 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Quebec](https://f.wishabi.net/page_items/425871555/1782618718/extra_large.jpg)
@@ -28,6 +43,12 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: BONBONS SELECTION | SELECTION CANDIES · [circulaire: Quebec](https://f.wishabi.net/page_items/425871805/1782618719/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871805/1782618719/extra_large.jpg" alt="Preuve prix BONBONS SELECTION" width="220" />
+=======
+**4.** 🔵 **TOMATES ROUGES DE SERRE** — 1,44 $ · économie ~1,83 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: TOMATES ROUGES DE SERRE | HOTHOUSE RED TOMATOES · [circulaire: Quebec](https://f.wishabi.net/page_items/425871543/1782618711/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871543/1782618711/extra_large.jpg" alt="Preuve prix TOMATES ROUGES DE SERRE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 **5.** 🔵 **FILETS DE PORC FRAIS** — 3,99 $ · économie ~1,98 $
 > 🏆 Meilleur prix vs IGA · 2,50 $ moins cher
@@ -40,79 +61,137 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871579/1782618710/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
 
+<<<<<<< HEAD
 **7.** 🔵 **CERISES COLOSSALES** — 2,99 $ · économie ~2,66 $
+=======
+**7.** 🔵 **BONBONS SELECTION** — 5,00 $ · économie ~5,40 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: BONBONS SELECTION | SELECTION CANDIES · [circulaire: Quebec](https://f.wishabi.net/page_items/425871805/1782618719/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871805/1782618719/extra_large.jpg" alt="Preuve prix BONBONS SELECTION" width="220" />
+
+**8.** 🔵 **CERISES COLOSSALES** — 2,99 $ · économie ~2,66 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: CERISES COLOSSALES | COLOSSAL CHERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/425871624/1782618714/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871624/1782618714/extra_large.jpg" alt="Preuve prix CERISES COLOSSALES" width="220" />
 
+<<<<<<< HEAD
 **8.** 🔵 **CRÈME GLACEE IRRESISTIBLE** — 3,99 $ · économie ~0,67 $
+=======
+**9.** 🔵 **CRÈME GLACEE IRRESISTIBLE** — 3,99 $ · économie ~0,75 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs Super C · 1,00 $ moins cher
 > *Réduction trop faible pour être considérée comme un vrai bon spécial.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: CRÈME GLACEE IRRESISTIBLE | IRRÉSISTIBLE ICE CREAM · [circulaire: Quebec](https://f.wishabi.net/page_items/425871551/1782618716/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871551/1782618716/extra_large.jpg" alt="Preuve prix CRÈME GLACEE IRRESISTIBLE" width="220" />
 
+<<<<<<< HEAD
 **9.** 🔵 **CROUSTILLES YUM YUM** — 2,49 $ · économie ~1,25 $
+=======
+**10.** 🔵 **CROUSTILLES YUM YUM** — 2,49 $ · économie ~1,25 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs IGA · 0,50 $ moins cher
 > *Ce produit était moins cher récemment (1,97 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Quebec](https://f.wishabi.net/page_items/425871582/1782618713/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871582/1782618713/extra_large.jpg" alt="Preuve prix CROUSTILLES YUM YUM" width="220" />
 
+<<<<<<< HEAD
 **10.** 🔵 **COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE** — 9,00 $ · économie ~2,79 $
+=======
+**11.** 🔵 **COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE** — 9,00 $ · économie ~2,57 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs Super C · 1,00 $ moins cher
 > *Ce produit était moins cher récemment (5,99 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN PACIFIC WHITE SHRIMP RING · [circulaire: Quebec](https://f.wishabi.net/page_items/425871671/1782618713/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871671/1782618713/extra_large.jpg" alt="Preuve prix COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE" width="220" />
 
+<<<<<<< HEAD
 **11.** 🔵 **FRAISES** — 4,99 $ · économie ~2,38 $
+=======
+**12.** 🔵 **FRAISES** — 4,99 $ · économie ~2,48 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs Inter-Marché · 5,01 $ moins cher
 > *Ce produit était moins cher récemment (2,97 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: FRAISES | STRAWBERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/425871625/1782618715/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871625/1782618715/extra_large.jpg" alt="Preuve prix FRAISES" width="220" />
 
+<<<<<<< HEAD
 **12.** ❓ **BIFTECK DE FLANC DE BŒUF STEAKHOUSE METROGO!** — 12,99 $ · 7% de rabais
+=======
+**13.** ❓ **BIFTECK DE FLANC DE BŒUF STEAKHOUSE METROGO!** — 12,99 $ · 7% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: BIFTECK DE FLANC DE BŒUF STEAKHOUSE METROGO! | METROGO! STEAKHOUSE FLAVOUR BEEF FLANK STEAK · [circulaire: Quebec](https://f.wishabi.net/page_items/425871657/1782618720/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871657/1782618720/extra_large.jpg" alt="Preuve prix BIFTECK DE FLANC DE BŒUF STEAKHOUSE METROGO!" width="220" />
 
+<<<<<<< HEAD
 **13.** ❓ **RELISH VERTE SUCRÉE SELECTION** — 0,99 $ · 45% de rabais
+=======
+**14.** ❓ **RELISH VERTE SUCRÉE SELECTION** — 0,99 $ · 45% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: RELISH VERTE SUCRÉE SELECTION | SELECTION SWEET GREEN RELISH · [circulaire: Quebec](https://f.wishabi.net/page_items/425871549/1782618715/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871549/1782618715/extra_large.jpg" alt="Preuve prix RELISH VERTE SUCRÉE SELECTION" width="220" />
 
+<<<<<<< HEAD
 **14.** ❓ **CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES** — 9,99 $ · 47% de rabais
+=======
+**15.** ❓ **CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES** — 9,99 $ · 47% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES | PLAISIRS GASTRONOMIQUES COOKED PORK BACK RIBS · [circulaire: Quebec](https://f.wishabi.net/page_items/425871552/1782618716/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871552/1782618716/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES" width="220" />
 
+<<<<<<< HEAD
 **15.** ❓ **FROMAGE TREMPETTE LA VACHE QUI RIT** — 3,79 $ · 28% de rabais
+=======
+**16.** ❓ **FROMAGE TREMPETTE LA VACHE QUI RIT** — 3,79 $ · 28% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Quebec](https://f.wishabi.net/page_items/425871780/1782618722/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871780/1782618722/extra_large.jpg" alt="Preuve prix FROMAGE TREMPETTE LA VACHE QUI RIT" width="220" />
 
+<<<<<<< HEAD
 **16.** ❓ **10 - 12 CAPSULES K-CUP®** — 13,99 $ · 10% de rabais
+=======
+**17.** ❓ **10 - 12 CAPSULES K-CUP®** — 13,99 $ · 10% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Quebec](https://f.wishabi.net/page_items/425871826/1782618713/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871826/1782618713/extra_large.jpg" alt="Preuve prix 10 - 12 CAPSULES K-CUP®" width="220" />
 
+<<<<<<< HEAD
 **17.** ❓ **CORIANDRE, ANETH OU MENTHE** — 1,99 $ · 20% de rabais
+=======
+**18.** ❓ **CORIANDRE, ANETH OU MENTHE** — 1,99 $ · 20% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: CORIANDRE, ANETH OU MENTHE | CILANTRO, DILL OR MINT · [circulaire: Quebec](https://f.wishabi.net/page_items/425871621/1782618712/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871621/1782618712/extra_large.jpg" alt="Preuve prix CORIANDRE, ANETH OU MENTHE" width="220" />
 
+<<<<<<< HEAD
 **18.** ❓ **BOISSON EARTH'S OWN AUX AMANDES, À L'AVOINE OU AU SOYA** — 2,99 $ · 19% de rabais
+=======
+**19.** ❓ **BOISSON EARTH'S OWN AUX AMANDES, À L'AVOINE OU AU SOYA** — 2,99 $ · 19% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: BOISSON EARTH'S OWN AUX AMANDES, À L'AVOINE OU AU SOYA | EARTH'S OWN ALMOND, OAT OR SOY BEVERAGE · [circulaire: Quebec](https://f.wishabi.net/page_items/425871570/1782618717/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871570/1782618717/extra_large.jpg" alt="Preuve prix BOISSON EARTH'S OWN AUX AMANDES, À L'AVOINE OU AU SOYA" width="220" />
 
+<<<<<<< HEAD
 **19.** ❓ **COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY** — 3,99 $ · 27% de rabais
+=======
+**20.** ❓ **COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY** — 3,99 $ · 27% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY | OCEAN SPRAY CRANBERRY COCKTAIL OR JUICE · [circulaire: Quebec](https://f.wishabi.net/page_items/425871580/1782618711/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871580/1782618711/extra_large.jpg" alt="Preuve prix COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY" width="220" />
 
+<<<<<<< HEAD
 **20.** ❓ **AILES DE POULET PINTY'S** — 16,99 $ · 15% de rabais
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: AILES DE POULET PINTY'S | PINTY'S FROZEN CHICKEN WINGS · [circulaire: Quebec](https://f.wishabi.net/page_items/425871651/1782618716/extra_large.jpg)
 📸 Preuve du prix
@@ -122,6 +201,12 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📍 909 boul. Firestone, Joliette
 
 **1.** ✅ **TOMATES RAISINS DÉLICES DU MARCHÉ, 283 G** — 1,99 $ · économie ~3,01 $
+=======
+## Maxi
+📍 909 boul. Firestone, Joliette
+
+**1.** ✅ **TOMATES RAISINS DÉLICES DU MARCHÉ, 283 G** — 1,99 $ · économie ~2,97 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Weekly Flyer - Valid Thursday, July 2 - Wednesday, July 8](https://f.wishabi.net/page_items/425743296/1782520788/extra_large.jpg)
 📸 Preuve du prix
@@ -139,7 +224,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425743290/1782520783/extra_large.jpg" alt="Preuve prix COURONNE DE BROCOLI" width="220" />
 
+<<<<<<< HEAD
 **4.** 🔵 **LAITUE ICEBERG** — 1,47 $ · économie ~8,02 $
+=======
+**4.** 🔵 **LAITUE ICEBERG** — 1,47 $ · économie ~8,12 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs IGA · 0,50 $ moins cher
 > *Ce produit était moins cher récemment (0,97 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Weekly Flyer - Valid Thursday, July 2 - Wednesday, July 8](https://f.wishabi.net/page_items/425743295/1782520787/extra_large.jpg)
@@ -233,13 +322,21 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425545530/1782349730/extra_large.jpg" alt="Preuve prix FRIANDISES NESTLÉ" width="220" />
 
+<<<<<<< HEAD
 **3.** ✅ **BEURRE LACTANTIA** — 2,99 $ · économie ~8,97 $
+=======
+**3.** ✅ **BEURRE LACTANTIA** — 2,99 $ · économie ~9,10 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/425298971/1782349720/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298971/1782349720/extra_large.jpg" alt="Preuve prix BEURRE LACTANTIA" width="220" />
 
+<<<<<<< HEAD
 **4.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $ · économie ~6,67 $
+=======
+**4.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $ · économie ~6,46 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/425298880/1782349713/extra_large.jpg)
 📸 Preuve du prix
@@ -251,7 +348,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298885/1782349718/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
 
+<<<<<<< HEAD
 **6.** 🟢 **SAUMON ÉMIÉTTÉ CLOVER LEAF** — 1,99 $ · économie ~15,77 $
+=======
+**6.** 🟢 **SAUMON ÉMIÉTTÉ CLOVER LEAF** — 1,99 $ · économie ~15,92 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 89 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/425545200/1782349735/extra_large.jpg)
 📸 Preuve du prix
@@ -285,7 +386,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298808/1782349719/extra_large.jpg" alt="Preuve prix SAUCISSES FUMÉES ENROBÉES DE PÂTE SURGELÉES POGO" width="220" />
 
+<<<<<<< HEAD
 **12.** 🔵 **FILETS DE SAUMON ATLANTIQUE FRAIS** — 9,77 $ · économie ~7,99 $
+=======
+**12.** 🔵 **FILETS DE SAUMON ATLANTIQUE FRAIS** — 9,77 $ · économie ~8,14 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs BoniChoix, Marchés Tradition · 7,22 $ moins cher
 > *Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/425298752/1782349711/extra_large.jpg)
@@ -306,7 +411,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298974/1782349722/extra_large.jpg" alt="Preuve prix CAFÉ EN GRAINS OU MOULU BIOLOGIQUES ET ÉQUITABLES KICKING HORSE" width="220" />
 
+<<<<<<< HEAD
 **15.** 🔵 **YOGOURT PROBIOTIQUE ACTIVIA** — 5,49 $ · économie ~3,55 $
+=======
+**15.** 🔵 **YOGOURT PROBIOTIQUE ACTIVIA** — 5,49 $ · économie ~3,60 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs BoniChoix · 0,50 $ moins cher
 > *Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/425545173/1782349717/extra_large.jpg)
@@ -345,11 +454,19 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 ## Super C
 📍 1445 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 **1.** 🟢 **Bonbons Selection** — 7,00 $ · économie ~4,25 $
 > *Environ 38 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: bonbons Selection | Selection candies · [circulaire: Circulaire](https://f.wishabi.net/page_items/425747998/1782499509/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425747998/1782499509/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+=======
+**1.** 🔵 **Bonbons Selection** — 4,69 $ · économie ~5,71 $
+> 🏆 Meilleur prix vs Metro · 0,31 $ moins cher
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: bonbons Selection | Selection candies · [circulaire: Circulaire](https://f.wishabi.net/page_items/425748000/1782499511/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425748000/1782499511/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 **2.** 🔵 **Ketchup aux tomates Selection** — 3,59 $
 > 🏆 Meilleur prix vs Metro · 0,40 $ moins cher
@@ -383,25 +500,45 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425473157/1782379288/extra_large.jpg" alt="Preuve prix Sauce Irrésistible" width="220" />
 
+<<<<<<< HEAD
 **8.** ❓ **Muffins Irrésistible** — 6,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: muffins Irrésistible | Irrésistible muffins · [circulaire: Circulaire](https://f.wishabi.net/page_items/425473201/1782379276/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425473201/1782379276/extra_large.jpg" alt="Preuve prix Muffins Irrésistible" width="220" />
 
 **9.** ❓ **Prosciutto Irrésistible Artisan** — 10,00 $
+=======
+**8.** ❓ **Prosciutto Irrésistible Artisan** — 10,00 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: prosciutto Irrésistible Artisan | Irrésistible Artisan prosciutto · [circulaire: Circulaire](https://f.wishabi.net/page_items/425473194/1782379282/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425473194/1782379282/extra_large.jpg" alt="Preuve prix Prosciutto Irrésistible Artisan" width="220" />
 
+<<<<<<< HEAD
 **10.** ❓ **Tarte au citron et meringue Selection** — 6,49 $
+=======
+**9.** ❓ **Tarte au citron et meringue Selection** — 6,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: tarte au citron et meringue Selection | Selection frozen lemon meringue pie · [circulaire: Circulaire](https://f.wishabi.net/page_items/425473210/1782379281/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425473210/1782379281/extra_large.jpg" alt="Preuve prix Tarte au citron et meringue Selection" width="220" />
 
+<<<<<<< HEAD
 ## BoniChoix
 📍 773 rue de Lanaudière, Joliette
 
 **1.** ✅ **YOGOURT À BOIRE YOPLAIT YOP** — 0,97 $ · économie ~8,52 $
+=======
+**10.** ❓ **Gâteau au fromage Irrésistible** — 16,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: gâteau au fromage Irrésistible | Irrésistible frozen cheesecake · [circulaire: Circulaire](https://f.wishabi.net/page_items/425473207/1782379280/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425473207/1782379280/extra_large.jpg" alt="Preuve prix Gâteau au fromage Irrésistible" width="220" />
+
+## BoniChoix
+📍 773 rue de Lanaudière, Joliette
+
+**1.** ✅ **YOGOURT À BOIRE YOPLAIT YOP** — 0,97 $ · économie ~8,62 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/425296674/1782290844/extra_large.jpg)
 📸 Preuve du prix
@@ -425,7 +562,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425296714/1782290847/extra_large.jpg" alt="Preuve prix JUS D'ORANGE REFRIGÉRÉ COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **5.** 🔵 **PAINS À BURGER BRIOCHÉS COMPLIMENTS** — 4,79 $ · économie ~3,71 $
+=======
+**5.** 🔵 **PAINS À BURGER BRIOCHÉS COMPLIMENTS** — 4,79 $ · économie ~3,72 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Meilleur prix vs Marchés Tradition · 0,20 $ moins cher
 > *Ce produit était moins cher récemment (2,29 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/425296695/1782290852/extra_large.jpg)
@@ -514,7 +655,11 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 ## L'Inter-Marché
 📍 Joliette
 
+<<<<<<< HEAD
 **1.** 🔵 **PAIN DE VIANDE SIMILI-POULET** — 0,99 $ · économie ~7,51 $
+=======
+**1.** 🔵 **PAIN DE VIANDE SIMILI-POULET** — 0,99 $ · économie ~7,52 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · texte brut: PAIN DE VIANDE SIMILI-POULET | MOCK CHICKEN MEAT LOAF · [circulaire: Weekly Flyer - Valid Thursday, July 2 - Wednesday, July 8](https://f.wishabi.net/page_items/425646173/1782447135/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425646173/1782447135/extra_large.jpg" alt="Preuve prix PAIN DE VIANDE SIMILI-POULET" width="220" />
@@ -575,13 +720,21 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 ## Marchés Tradition
 📍 Joliette
 
+<<<<<<< HEAD
 **1.** ✅ **YOGOURT À BOIRE YOPLAIT YOP** — 0,97 $ · économie ~8,52 $
+=======
+**1.** ✅ **YOGOURT À BOIRE YOPLAIT YOP** — 0,97 $ · économie ~8,62 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec](https://f.wishabi.net/page_items/425379055/1782385950/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425379055/1782385950/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOPLAIT YOP" width="220" />
 
+<<<<<<< HEAD
 **2.** ✅ **BEURRE LACTANTIA** — 2,99 $ · économie ~8,97 $
+=======
+**2.** ✅ **BEURRE LACTANTIA** — 2,99 $ · économie ~9,10 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-02 au 2026-07-08 · [circulaire: Québec](https://f.wishabi.net/page_items/425379144/1782385970/extra_large.jpg)
 📸 Preuve du prix

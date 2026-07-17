@@ -3682,6 +3682,7 @@ Prix habituel : ~6,74 $  ·  meilleur vu : 3,00 $
 
 ---
 
+<<<<<<< HEAD
 ## 🛒 Super C — 134 spéciaux (11 bons + 123 à surveiller)
 
 **Dentifrice Colgate** — 1,69 $  ·  ✅ Excellent spécial
@@ -4494,6 +4495,383 @@ Prix habituel : ~3,27 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: JAMBON FUMÉ FORÊT NOIRE SELECTION | SELECTION BLACK FOREST SMOKED HAM · [circulaire: Circulaire](https://f.wishabi.net/page_items/424567351/1782151637/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424567351/1782151637/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ FORÊT NOIRE SELECTION" width="220" />
+=======
+## 🛒 Super C — 62 spéciaux (1 bon + 61 à surveiller)
+
+**Bonbons Selection** — 7,00 $  ·  🟢 Très bon prix
+Prix habituel : ~11,25 $  ·  meilleur vu : 7,00 $
+*Environ 38 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: bonbons Selection | Selection candies · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+
+*— Autres spéciaux (pas encore dans la base de prix) —*
+**Sélection Sparkling Water** — 5,79 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Sélection Sparkling Water | Selection sparkling water · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662744/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662744/1782083401/extra_large.jpg" alt="Preuve prix Sélection Sparkling Water" width="220" />
+
+**Cornets gaufrés Irrésistible** — 5,19 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: cornets gaufrés Irrésistible | Irrésistible sugar cones for ice cream · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662785/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662785/1782083400/extra_large.jpg" alt="Preuve prix Cornets gaufrés Irrésistible" width="220" />
+
+**Sauce BBQ Irrésistible** — 2,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: sauce BBQ Irrésistible | Irrésistible BBQ sauce · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662756/1782083410/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662756/1782083410/extra_large.jpg" alt="Preuve prix Sauce BBQ Irrésistible" width="220" />
+
+**Fruits ou noix enrobés de chocolat Irrésistible** — 7,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: fruits ou noix enrobés de chocolat Irrésistible | Irrésistible chocolate- covered fruits or nuts · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662760/1782083412/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662760/1782083412/extra_large.jpg" alt="Preuve prix Fruits ou noix enrobés de chocolat Irrésistible" width="220" />
+
+**Mélange tropical Irrésistible** — 9,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Mélange tropical Irrésistible | Irrésistible tropical mix · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662742/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662742/1782083400/extra_large.jpg" alt="Preuve prix Mélange tropical Irrésistible" width="220" />
+
+**Ketchup aux tomates Selection** — 3,59 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: ketchup aux tomates Selection | Selection tomato ketchup · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662737/1782083409/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662737/1782083409/extra_large.jpg" alt="Preuve prix Ketchup aux tomates Selection" width="220" />
+
+**Maïs à éclater au micro-ondes Selection** — 2,79 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: maïs à éclater au micro-ondes Selection | Selection microwave popping corn · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662740/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662740/1782083399/extra_large.jpg" alt="Preuve prix Maïs à éclater au micro-ondes Selection" width="220" />
+
+**Mayonnaise Selection** — 4,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: mayonnaise Selection | Selection mayonnaise · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662762/1782083414/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662762/1782083414/extra_large.jpg" alt="Preuve prix Mayonnaise Selection" width="220" />
+
+**Chocolat suisse Irrésistible** — 2,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: chocolat suisse Irrésistible | Irrésistible swiss chocolate · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662764/1782083415/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662764/1782083415/extra_large.jpg" alt="Preuve prix Chocolat suisse Irrésistible" width="220" />
+
+**MOUTARDE PRÉPARÉE SELECTION** — 2,49 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MOUTARDE PRÉPARÉE SELECTION | SELECTION PREPARED MUSTARD · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662735/1782083407/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662735/1782083407/extra_large.jpg" alt="Preuve prix MOUTARDE PRÉPARÉE SELECTION" width="220" />
+
+**AMANDES ENROBÉES DE CHOCOLAT, PACANES NATURELLES OU NOIX DE GRENOBLE MOITIÉS ET MORCEAUX IRRESISTIBLE** — 8,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · libellé circulaire groupé · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662741/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662741/1782083399/extra_large.jpg" alt="Preuve prix AMANDES ENROBÉES DE CHOCOLAT, PACANES NATURELLES OU NOIX DE GRENOBLE MOITIÉS ET MORCEAUX IRRESISTIBLE" width="220" />
+
+**Prosciutto irresistible Artisan** — 10,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: prosciutto irresistible Artisan | Irrésistible Artisan prosciutto · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662776/1782083405/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662776/1782083405/extra_large.jpg" alt="Preuve prix Prosciutto irresistible Artisan" width="220" />
+
+**Baguette française Première Moisson** — 2,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: baguette française Première Moisson | Première Moisson french baguette · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662779/1782083407/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662779/1782083407/extra_large.jpg" alt="Preuve prix Baguette française Première Moisson" width="220" />
+
+**Brochettes de crevettes assaisonnées Irrésistible** — 12,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: brochettes de crevettes assaisonnées Irrésistible | Irrésistible seasoned shrimp skewers · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662736/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662736/1782083408/extra_large.jpg" alt="Preuve prix Brochettes de crevettes assaisonnées Irrésistible" width="220" />
+
+**Crème sure Selection** — 3,39 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: crème sure Selection | Selection sour cream · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662754/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662754/1782083408/extra_large.jpg" alt="Preuve prix Crème sure Selection" width="220" />
+
+**Amuse-gueule Selection** — 2,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: amuse-gueule Selection | Selection snacks · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662761/1782083413/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662761/1782083413/extra_large.jpg" alt="Preuve prix Amuse-gueule Selection" width="220" />
+
+**Gâteau au fromage Irrésistible** — 16,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: gâteau au fromage Irrésistible | Irrésistible frozen cheesecake · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662789/1782083402/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662789/1782083402/extra_large.jpg" alt="Preuve prix Gâteau au fromage Irrésistible" width="220" />
+
+**Mini gâteaux Irrésistible** — 10,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: mini gâteaux Irrésistible | Irrésistible frozen mini cakes · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662790/1782083403/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662790/1782083403/extra_large.jpg" alt="Preuve prix Mini gâteaux Irrésistible" width="220" />
+
+**Salami avec prosciutto classique Irrésistible** — 8,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: salami avec prosciutto classique Irrésistible | Irrésistible classic prosciutto salami · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662780/1782083407/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662780/1782083407/extra_large.jpg" alt="Preuve prix Salami avec prosciutto classique Irrésistible" width="220" />
+
+**Sauce Irrésistible** — 3,69 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Sauce Irrésistible | Irrésistible sauce · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662739/1782083410/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662739/1782083410/extra_large.jpg" alt="Preuve prix Sauce Irrésistible" width="220" />
+
+**Croustilles tortilla Mieux-être Naturalia** — 3,69 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: croustilles tortilla Mieux-être Naturalia | Life Smart Naturalia tortilla chips · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662750/1782083405/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662750/1782083405/extra_large.jpg" alt="Preuve prix Croustilles tortilla Mieux-être Naturalia" width="220" />
+
+**Mini éclairs Irrésistible** — 11,49 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: mini éclairs Irrésistible | Irrésistible frozen mini éclairs · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662786/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662786/1782083401/extra_large.jpg" alt="Preuve prix Mini éclairs Irrésistible" width="220" />
+
+**Bocconcini cocktail Irrésistible** — 8,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: bocconcini cocktail Irrésistible | Irrésistible cocktail bocconcini · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662768/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662768/1782083400/extra_large.jpg" alt="Preuve prix Bocconcini cocktail Irrésistible" width="220" />
+
+**Boisson gazeuse Selection** — 11,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: boisson gazeuse Selection | Selection soft drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662721/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662721/1782083399/extra_large.jpg" alt="Preuve prix Boisson gazeuse Selection" width="220" />
+
+**MORTADELLE IRRÉSISTIBLE ARTISAN** — 8,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MORTADELLE IRRÉSISTIBLE ARTISAN | IRRÉSISTIBLE ARTISAN MORTADELLA · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662781/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662781/1782083408/extra_large.jpg" alt="Preuve prix MORTADELLE IRRÉSISTIBLE ARTISAN" width="220" />
+
+**IRRESISTIBLE CAPICOLLO** — 8,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662782/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662782/1782083408/extra_large.jpg" alt="Preuve prix IRRESISTIBLE CAPICOLLO" width="220" />
+
+**Fromage en tranches Selection** — 4,59 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Fromage en tranches Selection | Selection sliced cheese · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662738/1782083410/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662738/1782083410/extra_large.jpg" alt="Preuve prix Fromage en tranches Selection" width="220" />
+
+**Millefeuille à la costarde** — 6,69 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Millefeuille à la costarde | custard millefeuille · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662791/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662791/1782083404/extra_large.jpg" alt="Preuve prix Millefeuille à la costarde" width="220" />
+
+**Smoked meat style Montréal Irrésistible Artisan** — 12,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Smoked meat style Montréal Irrésistible Artisan | Irrésistible Artisan Montreal-style smoked meat · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg" alt="Preuve prix Smoked meat style Montréal Irrésistible Artisan" width="220" />
+
+**Croustilles de cornichons tempura Irrésistible |** — 5,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: croustilles de cornichons tempura Irrésistible | · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662769/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662769/1782083401/extra_large.jpg" alt="Preuve prix Croustilles de cornichons tempura Irrésistible |" width="220" />
+
+**FEUILLETÉS AU FROMAGE MIEL ET PIMENT** — 6,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: FEUILLETÉS AU FROMAGE MIEL ET PIMENT | IRRÉSISTIBLE CHEESE BITES · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662765/1782083398/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662765/1782083398/extra_large.jpg" alt="Preuve prix FEUILLETÉS AU FROMAGE MIEL ET PIMENT" width="220" />
+
+**BURGERS DE BOEUF IRRÉSISTIBLE** — 17,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: BURGERS DE BOEUF IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN BEEF BURGERS · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662730/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662730/1782083404/extra_large.jpg" alt="Preuve prix BURGERS DE BOEUF IRRÉSISTIBLE" width="220" />
+
+**Bavette de boeuf Irresistible** — 11,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: bavette de boeuf Irresistible | Inseparable beef flap meat · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662724/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662724/1782083399/extra_large.jpg" alt="Preuve prix Bavette de boeuf Irresistible" width="220" />
+
+**Bouchées de poulet au miel épicé et bacon Irrésistible** — 10,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: bouchées de poulet au miel épicé et bacon Irrésistible | Irrésistible chicken bites · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662767/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662767/1782083400/extra_large.jpg" alt="Preuve prix Bouchées de poulet au miel épicé et bacon Irrésistible" width="220" />
+
+**Saucisses fumées au poulet Selection** — 4,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: saucisses fumées au poulet Selection | Selection chicken wieners · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662733/1782083406/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662733/1782083406/extra_large.jpg" alt="Preuve prix Saucisses fumées au poulet Selection" width="220" />
+
+**Crevettes papillons géantes all et fines herbes Irresistible** — 11,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: crevettes papillons géantes all et fines herbes Irresistible | Irrésistible jumbo garlic and herb butterfield shrimp · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662727/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662727/1782083401/extra_large.jpg" alt="Preuve prix Crevettes papillons géantes all et fines herbes Irresistible" width="220" />
+
+**Pavés de thon Irrésistible** — 8,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: pavés de thon Irrésistible | Irrésistible frozen raw tuna steaks · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662728/1782083402/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662728/1782083402/extra_large.jpg" alt="Preuve prix Pavés de thon Irrésistible" width="220" />
+
+**Eau de source naturelle Selection** — 3,75 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: eau de source naturelle Selection | Selection natural spring water · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662753/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662753/1782083408/extra_large.jpg" alt="Preuve prix Eau de source naturelle Selection" width="220" />
+
+**Croutons Irresistible** — 3,49 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Croutons Irresistible | Irrésistible croutons · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662751/1782083406/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662751/1782083406/extra_large.jpg" alt="Preuve prix Croutons Irresistible" width="220" />
+
+**Eau de source gazéifiée Selection** — 1,29 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Eau de source gazéifiée Selection | Selection carbonated spring water · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662752/1782083407/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662752/1782083407/extra_large.jpg" alt="Preuve prix Eau de source gazéifiée Selection" width="220" />
+
+**Herbes Irrésistible** — 2,79 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: herbes Irrésistible | Irrésistible herbs · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662749/1782083405/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662749/1782083405/extra_large.jpg" alt="Preuve prix Herbes Irrésistible" width="220" />
+
+**Mieux-être Naturalia** — 2,69 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Mieux-être Naturalia | Selection salad dressing · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662758/1782083411/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662758/1782083411/extra_large.jpg" alt="Preuve prix Mieux-être Naturalia" width="220" />
+
+**Calmars croustillants Irrésistible** — 9,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: calmars croustillants Irrésistible | Irrésistible crispy calamari · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662766/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662766/1782083399/extra_large.jpg" alt="Preuve prix Calmars croustillants Irrésistible" width="220" />
+
+**Demi-couronne de crevettes blanches du Pacifique Irrésistible** — 18,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: demi-couronne de crevettes blanches du Pacifique Irrésistible | Irrésistible frozen Pacific white shrimp · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662774/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662774/1782083404/extra_large.jpg" alt="Preuve prix Demi-couronne de crevettes blanches du Pacifique Irrésistible" width="220" />
+
+**CREVETTES TEMPURA IRRÉSISTIBLE** — 9,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: CREVETTES TEMPURA IRRÉSISTIBLE | IRRÉSISTIBLE TEMPURA SHRIMP · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662773/1782083403/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662773/1782083403/extra_large.jpg" alt="Preuve prix CREVETTES TEMPURA IRRÉSISTIBLE" width="220" />
+
+**Trempette Irrésistible** — 3,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: trempette Irrésistible | Irrésistible dip · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662777/1782083405/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662777/1782083405/extra_large.jpg" alt="Preuve prix Trempette Irrésistible" width="220" />
+
+**Saucisson sec Irresistible Artisan** — 10,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: saucisson sec Irresistible Artisan | Irrésistible Artisan dry sausage · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662778/1782083406/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662778/1782083406/extra_large.jpg" alt="Preuve prix Saucisson sec Irresistible Artisan" width="220" />
+
+**MUFFINS IRRÉSISTIBLE** — 6,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MUFFINS IRRÉSISTIBLE | IRRÉSISTIBLE MUFFINS · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662783/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662783/1782083399/extra_large.jpg" alt="Preuve prix MUFFINS IRRÉSISTIBLE" width="220" />
+
+**Tarte au citron et meringue Selection** — 6,49 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: tarte au citron et meringue Selection | Selection frozen lemon meringue pie · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662792/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662792/1782083404/extra_large.jpg" alt="Preuve prix Tarte au citron et meringue Selection" width="220" />
+
+**Cornets sucrés Irrésistible** — 3,49 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: cornets sucrés Irrésistible | Irrésistible sugar cones · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662784/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662784/1782083399/extra_large.jpg" alt="Preuve prix Cornets sucrés Irrésistible" width="220" />
+
+**Friandises glacées Irresistible** — 10,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: friandises glacées Irresistible | Irrésistible frozen treats · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662787/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662787/1782083401/extra_large.jpg" alt="Preuve prix Friandises glacées Irresistible" width="220" />
+
+**FRANÇAISES GLACES SELECTION** — 7,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662788/1782083402/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662788/1782083402/extra_large.jpg" alt="Preuve prix FRANÇAISES GLACES SELECTION" width="220" />
+
+**LE COÛT DE COEUR DES DENTS SUCRÉES** — 5,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662795/1782083406/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662795/1782083406/extra_large.jpg" alt="Preuve prix LE COÛT DE COEUR DES DENTS SUCRÉES" width="220" />
+
+**Limonade ou thé glacé réfrigéré Irrésistible** — 2,39 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Limonade ou thé glacé réfrigéré Irrésistible | Irrésistible refrigerated lemonade or iced tea · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662745/1782083402/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662745/1782083402/extra_large.jpg" alt="Preuve prix Limonade ou thé glacé réfrigéré Irrésistible" width="220" />
+
+**Saucisses fumées Selection** — 6,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: saucisses fumées Selection | Selection wieners · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662725/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662725/1782083400/extra_large.jpg" alt="Preuve prix Saucisses fumées Selection" width="220" />
+
+**BOUCHÉES FARCIES AU FROMAGE À LA CRÈME JALAPENO IRRÉSISTIBLE** — 7,99 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662775/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662775/1782083404/extra_large.jpg" alt="Preuve prix BOUCHÉES FARCIES AU FROMAGE À LA CRÈME JALAPENO IRRÉSISTIBLE" width="220" />
+
+**Burgers de bœuf quart de livre Selection** — 25,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: burgers de bœuf quart de livre Selection | Selection quarter pound beef burgers · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662732/1782083405/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662732/1782083405/extra_large.jpg" alt="Preuve prix Burgers de bœuf quart de livre Selection" width="220" />
+
+**SAUCISSES SELECTION** — 10,00 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: SAUCISSES SELECTION | SELECTION SAUSAGES · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662720/1782083399/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662720/1782083399/extra_large.jpg" alt="Preuve prix SAUCISSES SELECTION" width="220" />
+
+**Fromage tranché Irresistible** — 6,79 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Fromage tranché Irresistible | Irrésistible sliced cheese · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662726/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662726/1782083401/extra_large.jpg" alt="Preuve prix Fromage tranché Irresistible" width="220" />
+
+**SERVIETTES DE TABLE SELECTION ECO** — 6,19 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: SERVIETTES DE TABLE SELECTION ECO | SELECTION ECO TABLE NAPKINS · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662743/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662743/1782083401/extra_large.jpg" alt="Preuve prix SERVIETTES DE TABLE SELECTION ECO" width="220" />
+
+**Salsa Selection** — 2,77 $  ·  ❓ Historique insuffisant
+*Prix clair, mais pas assez d'historique pour comparer.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: salsa Selection | Selection salsa · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662755/1782083409/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662755/1782083409/extra_large.jpg" alt="Preuve prix Salsa Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 
 ---
@@ -7776,6 +8154,7 @@ Prix habituel : ~14,39 $  ·  meilleur vu : 10,99 $
 - **FRAISES** (BoniChoix) · 5,99 $ · était à 2,97 $ récemment → Attendre
 - **CRÈME SURE SEALTEST** (BoniChoix) · 3,99 $ · était à 3,49 $ récemment → Attendre
 - **BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS** (BoniChoix) · 18,99 $ · était à 18,99 $ récemment → Faux rabais
+<<<<<<< HEAD
 - **Concombre sans pépins** (Super C) · 0,88 $ · était à 0,79 $ récemment → Attendre
 - **Noix de Grenoble moitiés et morceaux Irrésistible** (Super C) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
 - **Arachides Irrésistible** (Super C) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
@@ -7851,6 +8230,58 @@ Prix habituel : ~14,39 $  ·  meilleur vu : 10,99 $
 - **Café moulu Maxwell House** (Super C) · 14,97 $ · était à 2,99 $ récemment → Attendre
 - **Laitue Iceberg** (Super C) · 2,99 $ · était à 0,97 $ récemment → Attendre
 - **Pepperoni tranché Selection** (Super C) · 12,00 $ · était à 4,99 $ récemment → Attendre
+=======
+- **PAINS DE SAVON, 3X106 G, SOINS CAPILLAIRES OU NETTOYANT POUR LE CORPS, 325-355 ML OU DÉODORANT, 45-74 G DOVE** (Maxi) · 5,00 $ · était à 2,29 $ récemment → Attendre
+- **FRIANDISES MAYNARDS** (Maxi) · 4,50 $ · était à 2,25 $ récemment → Attendre
+- **CERISES** (Maxi) · 1,98 $/lb · était à 2,98 $ récemment → Attendre
+- **FRUITS DEL MONTE 796 ML OU BOL DE SAUMON SAUVAGE GOLD SEAL 160 G** (Maxi) · 3,88 $ · était à 2,99 $ récemment → Attendre
+- **CRÉMEUR OU COLORANT À CAFÉ SANS PRODUITS LAITIERS SILK, 890 ML** (Maxi) · 5,50 $ · était à 0,97 $ récemment → Attendre
+- **PAINS À SOUS-MARINS MRS DUNSTER'S** (Maxi) · 3,88 $ · était à 2,29 $ récemment → Attendre
+- **SAUMON STEELHEAD FUMÉ DOM, PRÉTRANCHÉ, 50 G, CREVETTES CRUES, 51/70 PAR LB OU CUITES, 61/90 PAR LB, 160 G OU DARNE DE THON ALBACORE GO 92 G OU SURIMI SEAQUEST® 227 G OU GRATIN DE FRUITS DE MER PÊCHE DU JOUR 150 G** (Maxi) · 3,88 $ · était à 2,99 $ récemment → Attendre
+- **PURÉE DE POMME 6X100 G, RAISINS SECS GÉANTS 196 G OU COLLATIONS AUX FRUITS À PRESSER 360 G PCMD BIOLOGIQUE** (Maxi) · 3,50 $ · était à 1,97 $ récemment → Attendre
+- **LAIT GLACÉ SANS NOM®, 1,65 L** (Maxi) · 4,00 $ · était à 0,97 $ récemment → Attendre
+- **PÂTES FRAÎCHES EN EMBALLAGE DOUBLE 450/500 G OU SAUCE POUR PÂTES 600 ML OLIVIERI** (Maxi) · 5,88 $ · était à 1,00 $ récemment → Attendre
+- **CAFÉ MOULU STEFANO** (Maxi) · 12,99 $ · était à 2,99 $ récemment → Attendre
+- **SAUCE BBQ KRAFT** (Maxi) · 2,50 $ · était à 1,97 $ récemment → Attendre
+- **YOGOURT GLACÉ OU SORBET CHAPMAN'S** (Maxi) · 5,50 $ · était à 1,99 $ récemment → Attendre
+- **BOISSONS FRUITOPIA OU MINUTE MAID OU THÉ GLACÉ PEACE TEA** (Maxi) · 2,88 $ · était à 1,49 $ récemment → Attendre
+- **TARTARE 130 G, PASTRAMI 100 G OU SAUMON FUMÉ MIEL ET POIVRE OU DOUBLEMENT FUMÉ 140 G JONATHAN GARNIER** (Maxi) · 9,00 $ · était à 2,99 $ récemment → Attendre
+- **RAISINS ROUGES SANS PÉPINS PC** (Maxi) · 3,88 $/lb · était à 1,97 $ récemment → Attendre
+- **TOMATES RAISINS MIGNONNETTES PC** (Maxi) · 5,88 $ · était à 1,97 $ récemment → Attendre
+- **CROISSANTS AU BEURRE DÉLICES DU MARCHÉ** (Maxi) · 5,00 $ · était à 2,99 $ récemment → Attendre
+- **FRITES, RONDELLES D'OIGNON, QUARTIERS OU GALETTES DE POMMES DE TERRE LES FERMES CAVENDISH, 1-2,25 KG** (Maxi) · 7,88 $ · était à 0,97 $ récemment → Attendre
+- **FRAISES** (Maxi) · 4,88 $ · était à 2,97 $ récemment → Attendre
+- **JUS D'ORANGE, THÉ VERT OU LIMONADE PC, 1,36 L** (Maxi) · 3,88 $ · était à 1,49 $ récemment → Attendre
+- **VINAIGRETTE KRAFT** (Maxi) · 2,25 $ · était à 2,25 $ récemment → Pas assez bon
+- **TOMATES LA CERISE SAVOURA** (Maxi) · 2,00 $ · était à 2,00 $ récemment → Faux rabais
+- **CAPSULES DE CAFÉ VAN HOUTTE, 30 UN.** (Maxi) · 22,88 $ · était à 2,99 $ récemment → Attendre
+- **CRÈME GLACÉE BAR LAITIER PC** (Maxi) · 5,00 $ · était à 0,97 $ récemment → Attendre
+- **TARTINADE TRADITIONNELLE LACTANTIA 227/427 G OU LAIT AU CHOCOLAT QUÉBON OU SEALTEST, 1 L** (Maxi) · 1,88 $ · était à 0,97 $ récemment → Attendre
+- **LAIT SANS LACTOSE NATREL** (Maxi) · 5,75 $ · était à 0,97 $ récemment → Attendre
+- **BURGERS 678 G OU SIMILI-BOEUF HACHÉ À BASE DE PLANTES 908 G BEYOND MEAT** (Maxi) · 17,88 $ · était à 5,49 $ récemment → Attendre
+- **PAIN BRIOCHE PC, 400 G** (Maxi) · 5,50 $ · était à 2,29 $ récemment → Attendre
+- **POMMES PINK LADY** (Maxi) · 2,00 $/lb · était à 0,97 $ récemment → Attendre
+- **CÉRÉALES FORMAT JUMBO KELLOGG'S** (Maxi) · 9,88 $ · était à 9,50 $ récemment → Faux rabais
+- **POMMES DE TERRE LA GABRIELLE OU LA RAPHAËLLE, 2 LB** (Maxi) · 3,49 $ · était à 0,97 $ récemment → Attendre
+- **GÂTEAU PAUSE-CAFÉ DÉLICES DU MARCHÉMC, 750 G** (Maxi) · 5,00 $ · était à 2,99 $ récemment → Attendre
+- **YOGOURT GREC OÎKOS, 4X100 G OU POUDING KOZY SHACK, 624-678 G** (Maxi) · 3,88 $ · était à 1,99 $ récemment → Attendre
+- **CHARCUTERIES TRANCHÉES OLYMEL** (Maxi) · 7,88 $ · était à 6,00 $ récemment → Attendre
+- **Craquelins Cheez-It** (Maxi) · 2,48 $ · était à 1,97 $ récemment → Attendre
+- **FILET DE PORC MIEL ET AIL OLYMEL** (Maxi) · 10,00 $ · était à 1,75 $ récemment → Attendre
+- **CRÈME SURE SEALTEST** (Maxi) · 2,88 $ · était à 3,49 $ récemment → Pas assez bon
+- **PAINS AUX RAISINS À LA CANNELLE SUNMAID** (Maxi) · 4,88 $ · était à 1,97 $ récemment → Attendre
+- **YOGOURT CLASSIQUE, 650 G, MÉDITERRANÉE, 500 G LIBERTÉ OU PROTÉINES SOURCE, 650 G** (Maxi) · 3,88 $ · était à 1,99 $ récemment → Attendre
+- **YOGOURT OU KÉFIR RIVIERA, 500/600 g - 4x120 g ou 946 mL** (Maxi) · 5,99 $ · était à 1,99 $ récemment → Attendre
+- **PRÉPARATION POUR NOUVEAU-NÉ À BASE DE LAIT NIURISS, 0 À 12 MOIS 700 G** (Maxi) · 34,99 $ · était à 0,97 $ récemment → Attendre
+- **LATTE GLACÉ MAXWELL HOUSE** (Maxi) · 6,99 $ · était à 2,99 $ récemment → Attendre
+- **CAPSULES DE CAFÉ MCCAFÉ** (Maxi) · 23,99 $ · était à 2,99 $ récemment → Attendre
+- **CAFÉ MOULU 631-900 G OU CAPSULES 30 UN. MAXWELL HOUSE** (Maxi) · 15,99 $ · était à 2,99 $ récemment → Attendre
+- **PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA** (Maxi) · 4,00 $ · était à 3,97 $ récemment → Pas assez bon
+- **BEURRE D'ARACHIDE KRAFT** (Maxi) · 5,97 $ · était à 2,99 $ récemment → Attendre
+- **ASPERGES** (Maxi) · 3,88 $/lb · était à 2,99 $ récemment → Attendre
+- **PÂTES PRIMO, 700/750 G** (Maxi) · 1,38 $ · était à 1,00 $ récemment → Attendre
+- **VENTE 88 COEURS DE LAITUE ROMAINE, 3 UN.** (Maxi) · 2,48 $ · était à 0,97 $ récemment → Attendre
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **RÔTI DE LONGE DE PORC À L'ANCIENNE COMPLIMENTS** (IGA) · 3,59 $ · était à 1,75 $ récemment → Attendre
 - **BIÈRE HEINEKEN** (IGA) · 23,99 $ · était à 19,99 $ récemment → Attendre
 - **HUMMUS FONTAINE SANTÉ** (IGA) · 4,49 $ · était à 4,49 $ récemment → Pas assez bon
@@ -8033,6 +8464,7 @@ Prix habituel : ~14,39 $  ·  meilleur vu : 10,99 $
 - **POULET CRAPAUDINE FRAIS RICARDO** (Marchés Tradition) · 6,49 $ · était à 6,49 $ récemment → Attendre
 - **BOISSON AU CAFÉ STARBUCKS** (Marchés Tradition) · 3,49 $ · était à 2,99 $ récemment → Attendre
 - **FILET DE PORC FRAIS MARINÉ DU BRETON** (Marchés Tradition) · 10,99 $ · était à 1,75 $ récemment → Attendre
+<<<<<<< HEAD
 - **PAINS DE SAVON, 3X106 G, SOINS CAPILLAIRES OU NETTOYANT POUR LE CORPS, 325-355 ML OU DÉODORANT, 45-74 G DOVE** (Maxi) · 5,00 $ · était à 2,29 $ récemment → Attendre
 - **FRIANDISES MAYNARDS** (Maxi) · 4,50 $ · était à 2,25 $ récemment → Attendre
 - **CERISES** (Maxi) · 1,98 $/lb · était à 2,98 $ récemment → Attendre
@@ -8083,6 +8515,19 @@ Prix habituel : ~14,39 $  ·  meilleur vu : 10,99 $
 - **ASPERGES** (Maxi) · 3,88 $/lb · était à 2,99 $ récemment → Attendre
 - **PÂTES PRIMO, 700/750 G** (Maxi) · 1,38 $ · était à 1,00 $ récemment → Attendre
 - **VENTE 88 COEURS DE LAITUE ROMAINE, 3 UN.** (Maxi) · 2,48 $ · était à 0,97 $ récemment → Attendre
+=======
+- **Crème glacée Irrésistible** (Super C) · 4,99 $ · était à 3,99 $ récemment → Attendre
+- **Pains à hamburger Irrésistible** (Super C) · 3,99 $ · était à 2,29 $ récemment → Attendre
+- **Friandises glacées Selection** (Super C) · 7,99 $ · était à 6,99 $ récemment → Attendre
+- **Couronne de crevettes blanches du Pacifique Irrésistible** (Super C) · 12,00 $ · était à 5,99 $ récemment → Attendre
+- **COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE** (Super C) · 10,00 $ · était à 5,99 $ récemment → Attendre
+- **Bière désalcoolisée Selection** (Super C) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
+- **Poitrine de poulet marinée Irrésistible** (Super C) · 5,99 $ · était à 2,49 $ récemment → Attendre
+- **Pains à hamburger ou à hot-dog Selection** (Super C) · 2,99 $ · était à 2,29 $ récemment → Attendre
+- **Brochettes de poitrine de poulet assaisonnées souvlaki Irrésistible** (Super C) · 13,99 $ · était à 2,49 $ récemment → Attendre
+- **FILET DE PORC ASSAISONNÉ** (Super C) · 7,99 $ · était à 1,75 $ récemment → Attendre
+- **Côtes de dos de porc cuites Irrésistible** (Super C) · 14,99 $ · était à 8,77 $ récemment → Attendre
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **KRAFT Beurre d'arachide crémeux** (Familiprix) · 4,99 $ · était à 2,99 $ récemment → Attendre
 - **REGAL Chocolat au lait, 50 g** (Familiprix) · 3,99 $ · était à 0,97 $ récemment → Attendre
 - **Similac 360 Total Care préparation pour nourrissons à base de lait enrichie de fer Étape 2 - 584g** (Familiprix) · 39,99 $ · était à 0,97 $ récemment → Attendre
@@ -8096,7 +8541,11 @@ Prix habituel : ~14,39 $  ·  meilleur vu : 10,99 $
 
 ---
 
+<<<<<<< HEAD
 📊 Metro : 5/196  ·  Maxi : 3/178  ·  IGA : 11/234  ·  Super C : 11/134  ·  BoniChoix : 7/76  ·  Inter-Marché : 1/100  ·  Marchés Tradition : 7/84  ·  Familiprix : 1/165  ·  Costco : 0/94
+=======
+📊 Metro : 5/196  ·  Maxi : 3/178  ·  IGA : 11/234  ·  Super C : 1/62  ·  BoniChoix : 7/76  ·  Inter-Marché : 1/100  ·  Marchés Tradition : 7/84  ·  Familiprix : 1/165  ·  Costco : 0/94
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 *(confirmés bons / total spéciaux)*
 
 *Rapport du 25 juin 2026 — bons-speciaux v1.0*

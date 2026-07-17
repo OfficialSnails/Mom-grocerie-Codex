@@ -13,9 +13,23 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Metro
+<<<<<<< HEAD
 > [!info] 13 produits retenus
 > 📍 180 rue Beaudry N, Joliette
 
+=======
+> [!info] 14 produits retenus
+> 📍 180 rue Beaudry N, Joliette
+
+- **BOISSON SPORTIVE GATORADE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 6,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/427080872/1783895010/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **YOGOURT À BOIRE YOP YOPLAIT**
   - 🥛 Section: Produits laitiers et oeufs
   - Prix: 0,97 $
@@ -26,11 +40,19 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **COURONNE DE BROCOLI**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 1,44 $/lb
   - Échelle: Équivaut à 3,17 $/kg.
   - Pourquoi: Environ 37 % moins cher que le prix habituel.
   - 📊 Gagne contre Maxi 2,49 $
   - 🏅 Pourquoi ça gagne: 1,05 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 1,44 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Environ 37 % moins cher que le prix habituel.
+  - 📊 Gagne contre Maxi 2,49 $
+  - 🏅 Pourquoi ça gagne: 1,05 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080658/1783895006/extra_large.jpg" alt="Preuve prix COURONNE DE BROCOLI" width="220" />
 
@@ -44,8 +66,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BIFTECKS FRANÇAIS OU TOURNEDOS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 6,88 $/lb
   - Échelle: Équivaut à 15,17 $/kg.
+=======
+  - Prix: 6,88 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Environ 43 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080669/1783895013/extra_large.jpg" alt="Preuve prix BIFTECKS FRANÇAIS OU TOURNEDOS" width="220" />
@@ -87,6 +114,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080704/1783895005/extra_large.jpg" alt="Preuve prix FRUIT DU DRAGON (PITAHAYA)" width="220" />
 
+<<<<<<< HEAD
 - **PISTACHES RÔTIES SALÉES IRRÉSISTIBLE**
   - 🥩 Section: Viandes et poissons
   - Prix: 17,99 $
@@ -94,6 +122,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080672/1783895005/extra_large.jpg" alt="Preuve prix PISTACHES RÔTIES SALÉES IRRÉSISTIBLE" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **PLATEAU DE FRUITS OU DE LÉGUMES**
   - 🥬 Section: Fruits et légumes
   - Prix: 11,99 $
@@ -101,6 +131,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080676/1783895008/extra_large.jpg" alt="Preuve prix PLATEAU DE FRUITS OU DE LÉGUMES" width="220" />
 
+<<<<<<< HEAD
+=======
+- **POULET HACHÉ EXTRA MAIGRE PRIME MAPLE LEAF**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 7,00 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/427080681/1783895011/extra_large.jpg" alt="Preuve prix POULET HACHÉ EXTRA MAIGRE PRIME MAPLE LEAF" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **SAUCISSES FRAÎCHES**
   - 🥩 Section: Viandes et poissons
   - Prix: 4,88 $
@@ -110,8 +150,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 4,99 $/lb
   - Échelle: Équivaut à 11,00 $/kg.
+=======
+  - Prix: 4,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427080684/1783895013/extra_large.jpg" alt="Preuve prix TIER DE FLANC DE PORC DÉSOSSÉ OLYMEL" width="220" />
 
@@ -135,6 +180,15 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427034587/1783731762/extra_large.jpg" alt="Preuve prix CONCOMBRES ANGLAIS" width="220" />
 
+<<<<<<< HEAD
+=======
+- **BISCUITS CHRISTIE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,79 $
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/427034822/1783731759/extra_large.jpg" alt="Preuve prix BISCUITS CHRISTIE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **BLEUETS, 340 G**
   - 🥬 Section: Fruits et légumes
   - Prix: 1,99 $
@@ -147,12 +201,15 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427034789/1783731753/extra_large.jpg" alt="Preuve prix FRIANDISES MAYNARDS" width="220" />
 
+<<<<<<< HEAD
 - **PÂTÉ PLAISIRS GASTRONOMIQUES**
   - 🥫 Section: Garde-manger et autres
   - Prix: 4,50 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/427034597/1783731755/extra_large.jpg" alt="Preuve prix PÂTÉ PLAISIRS GASTRONOMIQUES" width="220" />
 
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **CÉLERI**
   - 🥬 Section: Fruits et légumes
   - Prix: 2,99 $
@@ -200,43 +257,72 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **RAISINS VERTS SANS PÉPINS**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 1,97 $/lb
   - Échelle: Équivaut à 4,34 $/kg.
+=======
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950557/1783975679/extra_large.jpg" alt="Preuve prix RAISINS VERTS SANS PÉPINS" width="220" />
 
 - **VIANDE FUMÉE FUMOIRS GOSSELIN**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 3,49 $/100g
   - Échelle: Équivaut à 34,90 $/kg.
+=======
+  - Prix: 3,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950927/1783755625/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE FUMOIRS GOSSELIN" width="220" />
 
 - **FROMAGE TRANCHÉ SAPUTO**
   - 🥛 Section: Produits laitiers et oeufs
+<<<<<<< HEAD
   - Prix: 2,79 $/100g
   - Échelle: Équivaut à 27,90 $/kg.
   - 📊 Gagne contre BoniChoix 6,99 $
   - 🏅 Pourquoi ça gagne: 4,20 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 2,79 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,20 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 🧾 Autres prix vus: BoniChoix 6,99 $ · Marchés Tradition 6,99 $
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950917/1783755619/extra_large.jpg" alt="Preuve prix FROMAGE TRANCHÉ SAPUTO" width="220" />
 
 - **CUISSES DE POULET FRAIS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 1,99 $/lb
   - Échelle: Équivaut à 4,39 $/kg.
   - 📊 Gagne contre BoniChoix 3,49 $
   - 🏅 Pourquoi ça gagne: 1,50 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 1,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 3,49 $
+  - 🏅 Pourquoi ça gagne: 1,50 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950547/1783975672/extra_large.jpg" alt="Preuve prix CUISSES DE POULET FRAIS" width="220" />
 
 - **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 4,49 $/lb
   - Échelle: Équivaut à 9,90 $/kg.
+=======
+  - Prix: 4,49 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950922/1783755622/extra_large.jpg" alt="Preuve prix ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD" width="220" />
 
@@ -256,8 +342,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BAVETTE DE BŒUF MARINÉE TOP GOURMET**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 15,99 $/lb
   - Échelle: Équivaut à 35,25 $/kg.
+=======
+  - Prix: 15,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426950560/1783975681/extra_large.jpg" alt="Preuve prix BAVETTE DE BŒUF MARINÉE TOP GOURMET" width="220" />
 
@@ -329,7 +420,11 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🍪 Section: Collations et boissons
   - Prix: 4,69 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - Pourquoi: Environ 45 % moins cher que le prix habituel.
+=======
+  - Pourquoi: Environ 44 % moins cher que le prix habituel.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426890773/1783561139/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
 
@@ -366,8 +461,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 12,99 $/lb
   - Échelle: Équivaut à 28,64 $/kg.
+=======
+  - Prix: 12,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426763161/1783482976/extra_large.jpg" alt="Preuve prix BROCHETTES DE POULET FRAIS AVEC LÉGUMES C'EST PRÊT! À CUIRE" width="220" />
 
@@ -428,10 +528,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **JAMBON FUMÉ COMPLIMENTS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 2,59 $/100g
   - Échelle: Équivaut à 25,90 $/kg.
   - 📊 Gagne contre BoniChoix 11,75 $
   - 🏅 Pourquoi ça gagne: 9,16 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 2,59 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre BoniChoix 11,75 $
+  - 🏅 Pourquoi ça gagne: 9,16 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426833406/1783558361/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ COMPLIMENTS" width="220" />
 

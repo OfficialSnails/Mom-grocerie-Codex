@@ -22,12 +22,21 @@ cssclasses:
 
 ## 🥬 Fruits et légumes
 
+<<<<<<< HEAD
 - [ ] **CERISES ROUGES** — **1,97 $/lb**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Équivaut à 4,34 $/kg.
   - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📊 Gagne contre BoniChoix 3,99 $
   - 🏅 Pourquoi ça gagne: 2,02 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **CERISES ROUGES** — **1,97 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📊 Gagne contre BoniChoix 3,99 $
+  - 🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
 
@@ -110,9 +119,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426409075/1783165075/extra_large.jpg" alt="Preuve prix BOLOGNE OLYMEL" width="220" />
 
+<<<<<<< HEAD
 - [ ] **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — **2,59 $/100g**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Équivaut à 25,90 $/kg.
+=======
+- [ ] **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — **2,59 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - ✅ **Pourquoi:** Très bon prix, proche du meilleur prix des 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426321987/1783077216/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS" width="220" />
@@ -131,6 +146,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426408919/1783165075/extra_large.jpg" alt="Preuve prix COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PEPPERONI ROMA** — **1,79 $/lb**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Équivaut à 3,95 $/kg.
@@ -159,6 +175,34 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS" width="220" />
 
+=======
+- [ ] **JAMBON FUMÉ MÈRE MICHEL** — **3,19 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 15,99 $
+  - 🏅 Pourquoi ça gagne: 12,80 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ MÈRE MICHEL" width="220" />
+
+- [ ] **RÔTI D'ÉPAULE DE PORC FRAIS** — **1,97 $**
+  - 📍 **Magasin:** IGA
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426321599/1783077215/extra_large.jpg" alt="Preuve prix RÔTI D'ÉPAULE DE PORC FRAIS" width="220" />
+
+- [ ] **POULET ENTIER FRAIS** — **2,79 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS" width="220" />
+
+- [ ] **PEPPERONI ROMA** — **1,79 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg" alt="Preuve prix PEPPERONI ROMA" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BACON COUPE DE CHOIX** — **2,99 $**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -236,6 +280,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426409113/1783165069/extra_large.jpg" alt="Preuve prix RIZ INSTANTANÉ MINUTE RICE" width="220" />
 
+<<<<<<< HEAD
 - [ ] **FILET DE TRUITE** — **8,99 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 19,82 $/kg.
@@ -249,6 +294,21 @@ cssclasses:
   - ⚖️ **Échelle:** Équivaut à 6,59 $/kg.
   - 📊 Gagne contre IGA 6,99 $
   - 🏅 Pourquoi ça gagne: 4,00 $/kg moins cher que le prochain meilleur prix
+=======
+- [ ] **FILET DE TRUITE** — **8,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Maxi 10,00 $/lb
+  - 🏅 Pourquoi ça gagne: 13,06 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg" alt="Preuve prix FILET DE TRUITE" width="220" />
+
+- [ ] **NECTARINES JAUNES OU PÊCHES JAUNES** — **2,99 $**
+  - 📍 **Magasin:** L'Inter-Marché
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,00 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg" alt="Preuve prix NECTARINES JAUNES OU PÊCHES JAUNES" width="220" />
 
@@ -282,6 +342,7 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426472592/1783350773/extra_large.jpg" alt="Preuve prix TORTILLAS (10 ou 12 po) POM (6 à 10)" width="220" />
 
+<<<<<<< HEAD
 - [ ] **PRUNES NOIRES OU ROUGES |** — **3,99 $/kg**
   - 📍 **Magasin:** Metro
   - 📊 Gagne contre Maxi 1,99 $/lb
@@ -292,6 +353,19 @@ cssclasses:
 - [ ] **BLANCHE DU PACIFIQUE** — **0,34 $/lb**
   - 📍 **Magasin:** Metro
   - ⚖️ **Échelle:** Équivaut à 0,75 $/kg.
+=======
+- [ ] **PRUNES NOIRES OU ROUGES |** — **3,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📊 Gagne contre Maxi 1,99 $/lb
+  - 🏅 Pourquoi ça gagne: 0,40 $ moins cher que le prochain meilleur prix
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg" alt="Preuve prix PRUNES NOIRES OU ROUGES |" width="220" />
+
+- [ ] **BLANCHE DU PACIFIQUE** — **0,34 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426419442/1783165073/extra_large.jpg" alt="Preuve prix BLANCHE DU PACIFIQUE" width="220" />
 
@@ -307,9 +381,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426425781/1783212464/extra_large.jpg" alt="Preuve prix DOVE Selected products" width="220" />
 
+<<<<<<< HEAD
 - [ ] **GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER** — **8,99 $/lb**
   - 📍 **Magasin:** BoniChoix
   - ⚖️ **Échelle:** Équivaut à 19,82 $/kg.
+=======
+- [ ] **GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER** — **8,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426472553/1783350761/extra_large.jpg" alt="Preuve prix GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER" width="220" />
 
@@ -319,9 +399,15 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426425903/1783212477/extra_large.jpg" alt="Preuve prix Garnier Olia coloration cheveux permanente optimisée par l'huile #6.0 Châtain Clair" width="220" />
 
+<<<<<<< HEAD
 - [ ] **GOURGANES** — **2,99 $/lb**
   - 📍 **Magasin:** Marchés Tradition
   - ⚖️ **Échelle:** Équivaut à 6,59 $/kg.
+=======
+- [ ] **GOURGANES** — **2,99 $**
+  - 📍 **Magasin:** Marchés Tradition
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426243142/1782974299/extra_large.jpg" alt="Preuve prix GOURGANES" width="220" />
 
@@ -410,6 +496,16 @@ cssclasses:
 
 ## 🍪 Collations et boissons
 
+<<<<<<< HEAD
+=======
+- [ ] **BOISSON SPORTIVE GATORADE** — **6,99 $**
+  - 📍 **Magasin:** BoniChoix
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **CROUSTILLES RUFFLES** — **2,69 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -420,10 +516,23 @@ cssclasses:
 - [ ] **Bonbons Selection** — **4,69 $**
   - 📍 **Magasin:** Super C
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
+<<<<<<< HEAD
   - ✅ **Pourquoi:** Environ 49 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
 
+=======
+  - ✅ **Pourquoi:** Environ 47 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+
+- [ ] **BISCUITS CHRISTIE** — **2,79 $**
+  - 📍 **Magasin:** Maxi
+  - ✅ **Pourquoi:** Environ 40 % moins cher que le prix habituel.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg" alt="Preuve prix BISCUITS CHRISTIE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - [ ] **BOISSON À BASE D'EAU PÉTILLANTE BUBLY** — **3,49 $**
   - 📍 **Magasin:** IGA
   - ⚖️ **Échelle:** Format à vérifier sur la photo.

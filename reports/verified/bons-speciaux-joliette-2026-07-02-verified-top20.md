@@ -12,13 +12,24 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/425871721/1782618721/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET MAPLE LODGE" width="220" />
 > Texte source: RÔTI DE POITRINE DE POULET MAPLE LODGE | MAPLE LODGE CHICKEN BREAST ROAST
 
+<<<<<<< HEAD
 **2.** 🟢 **BOISSON ÉNERGISANTE REDBULL** — 2,99 $
+=======
+**2.** 🟢 **SAUCE ST-HUBERT** — 1,49 $
+> *Environ 48 % moins cher que le prix habituel.*
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871555/1782618718/extra_large.jpg" alt="Preuve prix SAUCE ST-HUBERT" width="220" />
+
+**3.** 🟢 **BOISSON ÉNERGISANTE REDBULL** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 61 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871737/1782618713/extra_large.jpg" alt="Preuve prix BOISSON ÉNERGISANTE REDBULL" width="220" />
 > Texte source: BOISSON ÉNERGISANTE REDBULL | REDBULL ENERGY DRINK
 
+<<<<<<< HEAD
 **3.** 🟢 **SAUCE ST-HUBERT** — 1,49 $
 > *Environ 46 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -33,6 +44,15 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 > Texte source: BONBONS SELECTION | SELECTION CANDIES
 
 **5.** 🔵 **FILETS DE PORC FRAIS** — 3,99 $/lb
+=======
+**4.** 🔵 **TOMATES ROUGES DE SERRE** — 1,44 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871543/1782618711/extra_large.jpg" alt="Preuve prix TOMATES ROUGES DE SERRE" width="220" />
+> Texte source: TOMATES ROUGES DE SERRE | HOTHOUSE RED TOMATOES
+
+**5.** 🔵 **FILETS DE PORC FRAIS** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que IGA 6,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -44,64 +64,110 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/425871579/1782618710/extra_large.jpg" alt="Preuve prix BISCUITS PATTES D'OURS DARE" width="220" />
 > Texte source: BISCUITS PATTES D'OURS DARE | DARE BEAR PAWS COOKIES
 
+<<<<<<< HEAD
 **7.** 🔵 **CERISES COLOSSALES** — 2,99 $/lb
+=======
+**7.** 🔵 **BONBONS SELECTION** — 5,00 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425871805/1782618719/extra_large.jpg" alt="Preuve prix BONBONS SELECTION" width="220" />
+> Texte source: BONBONS SELECTION | SELECTION CANDIES
+
+**8.** 🔵 **CERISES COLOSSALES** — 2,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871624/1782618714/extra_large.jpg" alt="Preuve prix CERISES COLOSSALES" width="220" />
 > Texte source: CERISES COLOSSALES | COLOSSAL CHERRIES
 
+<<<<<<< HEAD
 **8.** ❓ **BIFTECK DE CONTRE-FILET** — 10,99 $
+=======
+**9.** ❓ **BIFTECK DE CONTRE-FILET** — 10,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Inter-Marché 14,00 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871556/1782618719/extra_large.jpg" alt="Preuve prix BIFTECK DE CONTRE-FILET" width="220" />
 > Texte source: BIFTECK DE CONTRE-FILET | STRIP LOIN STEAK
 
+<<<<<<< HEAD
 **9.** ❓ **BOCCONCINI COCKTAIL IRRÉSISTIBLE** — 6,49 $
+=======
+**10.** ❓ **BOCCONCINI COCKTAIL IRRÉSISTIBLE** — 6,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Super C 8,00 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871723/1782618723/extra_large.jpg" alt="Preuve prix BOCCONCINI COCKTAIL IRRÉSISTIBLE" width="220" />
 > Texte source: BOCCONCINI COCKTAIL IRRÉSISTIBLE | IRRÉSISTIBLE COCKTAIL BOCCONCINI
 
+<<<<<<< HEAD
 **10.** ❓ **EAU DE SOURCE NATURELLE SELECTION** — 1,79 $
+=======
+**11.** ❓ **EAU DE SOURCE NATURELLE SELECTION** — 1,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Super C 3,75 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871812/1782618723/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE SELECTION" width="220" />
 > Texte source: EAU DE SOURCE NATURELLE SELECTION | SELECTION NATURAL SPRING WATER
 
+<<<<<<< HEAD
 **11.** ❓ **CRÈME SURE SELECTION** — 2,49 $
+=======
+**12.** ❓ **CRÈME SURE SELECTION** — 2,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Super C 3,39 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871821/1782618730/extra_large.jpg" alt="Preuve prix CRÈME SURE SELECTION" width="220" />
 > Texte source: CRÈME SURE SELECTION | SELECTION SOUR CREAM
 
+<<<<<<< HEAD
 **12.** ❓ **RELISH VERTE SUCRÉE SELECTION** — 0,99 $
+=======
+**13.** ❓ **RELISH VERTE SUCRÉE SELECTION** — 0,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871549/1782618715/extra_large.jpg" alt="Preuve prix RELISH VERTE SUCRÉE SELECTION" width="220" />
 > Texte source: RELISH VERTE SUCRÉE SELECTION | SELECTION SWEET GREEN RELISH
 
+<<<<<<< HEAD
 **13.** ❓ **CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES** — 9,99 $
+=======
+**14.** ❓ **CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES** — 9,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871552/1782618716/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES" width="220" />
 > Texte source: CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES | PLAISIRS GASTRONOMIQUES COOKED PORK BACK RIBS
 
+<<<<<<< HEAD
 **14.** ❓ **FROMAGE TREMPETTE LA VACHE QUI RIT** — 3,79 $
+=======
+**15.** ❓ **FROMAGE TREMPETTE LA VACHE QUI RIT** — 3,79 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871780/1782618722/extra_large.jpg" alt="Preuve prix FROMAGE TREMPETTE LA VACHE QUI RIT" width="220" />
 
+<<<<<<< HEAD
 **15.** ❓ **COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY** — 3,99 $
+=======
+**16.** ❓ **COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871580/1782618711/extra_large.jpg" alt="Preuve prix COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY" width="220" />
 > Texte source: COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY | OCEAN SPRAY CRANBERRY COCKTAIL OR JUICE
 
+<<<<<<< HEAD
 **16.** ❓ **FLOCONS OU BÂTONNETS DE GOBERGE À SAVEUR DE CRABE SELECTION** — 3,49 $
+=======
+**17.** ❓ **FLOCONS OU BÂTONNETS DE GOBERGE À SAVEUR DE CRABE SELECTION** — 3,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425871667/1782618711/extra_large.jpg" alt="Preuve prix FLOCONS OU BÂTONNETS DE GOBERGE À SAVEUR DE CRABE SELECTION" width="220" />
@@ -165,7 +231,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## IGA
 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
+<<<<<<< HEAD
 **1.** ✅ **VIANDE FUMÉE FUMOIRS GOSSELIN** — 3,49 $/100g
+=======
+**1.** ✅ **VIANDE FUMÉE FUMOIRS GOSSELIN** — 3,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -183,13 +253,21 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298971/1782349720/extra_large.jpg" alt="Preuve prix BEURRE LACTANTIA" width="220" />
 
+<<<<<<< HEAD
 **4.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $/100g
+=======
+**4.** ✅ **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS** — 2,59 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298880/1782349713/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **5.** 🟢 **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD** — 4,49 $/100g
+=======
+**5.** 🟢 **ROSETTE DE LYON OU CHORIZO LE SAUCIFLARD** — 4,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 43 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -201,13 +279,21 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425545200/1782349735/extra_large.jpg" alt="Preuve prix SAUMON ÉMIÉTTÉ CLOVER LEAF" width="220" />
 
+<<<<<<< HEAD
 **7.** 🟢 **CERISES ROUGES** — 1,97 $/lb
+=======
+**7.** 🟢 **CERISES ROUGES** — 1,97 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 64 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425298756/1782349714/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
 
+<<<<<<< HEAD
 **8.** 🟢 **FROMAGE OKA AGROPUR** — 3,99 $/100g
+=======
+**8.** 🟢 **FROMAGE OKA AGROPUR** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Environ 43 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -269,11 +355,19 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## Super C
 📍 1445 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 **1.** 🟢 **Bonbons Selection** — 7,00 $
 > *Environ 38 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425747998/1782499509/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+=======
+**1.** 🔵 **Bonbons Selection** — 4,69 $
+> 🏆 Choix gagnant: moins cher que Metro 5,00 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/425748000/1782499511/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Texte source: bonbons Selection | Selection candies
 
 **2.** ❓ **Ketchup aux tomates Selection** — 3,59 $
@@ -319,7 +413,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425296727/1782290848/extra_large.jpg" alt="Preuve prix BURGERS DE POULET SURGELÉS COMPLIMENTS" width="220" />
 
+<<<<<<< HEAD
 **7.** ❓ **COURGETTES VERTES** — 2,49 $/lb
+=======
+**7.** ❓ **COURGETTES VERTES** — 2,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425296720/1782290843/extra_large.jpg" alt="Preuve prix COURGETTES VERTES" width="220" />
@@ -329,7 +427,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425296736/1782290856/extra_large.jpg" alt="Preuve prix BAVETTE DÉPAULE DE PORC FRAIS C'EST PRÊT! À CUIRE" width="220" />
 
+<<<<<<< HEAD
 **9.** ❓ **KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE** — 7,49 $/lb
+=======
+**9.** ❓ **KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE** — 7,49 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425296735/1782290855/extra_large.jpg" alt="Preuve prix KEFTAS DE PORC FRAIS ASSAISONNÉS LES PRÊTS-À-CUIRE" width="220" />
@@ -337,7 +439,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## L'Inter-Marché
 📍 Joliette
 
+<<<<<<< HEAD
 **1.** 🔵 **PAIN DE VIANDE SIMILI-POULET** — 0,99 $/lb
+=======
+**1.** 🔵 **PAIN DE VIANDE SIMILI-POULET** — 0,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425646173/1782447135/extra_large.jpg" alt="Preuve prix PAIN DE VIANDE SIMILI-POULET" width="220" />
@@ -357,7 +463,11 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/425646156/1782447136/extra_large.jpg" alt="Preuve prix AVOCATS, CHAQUE" width="220" />
 > Texte source: AVOCATS, CHAQUE | AVOCADOS
 
+<<<<<<< HEAD
 **4.** ❓ **POULET ENTIER FRAIS CATEGORIE A, MOINS DE, 2 KG** — 3,99 $/lb
+=======
+**4.** ❓ **POULET ENTIER FRAIS CATEGORIE A, MOINS DE, 2 KG** — 3,99 $
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > 🏆 Choix gagnant: moins cher que Metro 4,49 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -497,5 +607,9 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/423340759/1780941025/extra_large.jpg" alt="Preuve prix Appareil à iontophorèse Dermadry Total pour la transpiration excessive" width="220" />
 
 ---
+<<<<<<< HEAD
 📊 82 produits retenus pour achat réel
+=======
+📊 83 produits retenus pour achat réel
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 *Liste finale vérifiée générée le 2 juillet 2026.*

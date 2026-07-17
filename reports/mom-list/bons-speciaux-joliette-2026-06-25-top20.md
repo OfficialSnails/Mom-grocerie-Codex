@@ -12,7 +12,10 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 <img src="https://f.wishabi.net/page_items/424402097/1782139857/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
 
 **2.** ✅ **BOEUF HACHÉ MAIGRE** — 5,74 $ · économie ~1,66 $
+<<<<<<< HEAD
 > 🏆 Meilleur prix vs Super C · 3,25 $ moins cher
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: BOEUF HACHÉ MAIGRE | LEAN GROUND BEEF · [circulaire: Quebec](https://f.wishabi.net/page_items/425071365/1782176464/extra_large.jpg)
 📸 Preuve du prix
@@ -31,11 +34,15 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 <img src="https://f.wishabi.net/page_items/424401298/1781765781/extra_large.jpg" alt="Preuve prix FROMAGE RÂPÉ SELECTION" width="220" />
 
 **5.** 🔵 **MAYONNAISE HELLMANN'S** — 3,99 $ · économie ~1,67 $
+<<<<<<< HEAD
 > 🏆 Meilleur prix vs Super C · 0,50 $ moins cher
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MAYONNAISE HELLMANN'S | HELLMANN'S MAYONNAISE · [circulaire: Quebec](https://f.wishabi.net/page_items/424401475/1781765789/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401475/1781765789/extra_large.jpg" alt="Preuve prix MAYONNAISE HELLMANN'S" width="220" />
 
+<<<<<<< HEAD
 **6.** 🔵 **CRETONS NOREL** — 4,99 $ · économie ~0,69 $
 > 🏆 Meilleur prix vs Super C · 1,00 $ moins cher
 > *Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.*
@@ -44,75 +51,138 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 <img src="https://f.wishabi.net/page_items/424401426/1782139834/extra_large.jpg" alt="Preuve prix CRETONS NOREL" width="220" />
 
 **7.** ❓ **POIVRONS DE SERRE DE COULEURS VARIÉES** — 5,99 $ · 14% de rabais
+=======
+**6.** ❓ **POIVRONS DE SERRE DE COULEURS VARIÉES** — 5,99 $ · 14% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: POIVRONS DE SERRE DE COULEURS VARIÉES | HOT-HOUSE ASSORTED COLORS PEPPERS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401325/1781765779/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401325/1781765779/extra_large.jpg" alt="Preuve prix POIVRONS DE SERRE DE COULEURS VARIÉES" width="220" />
 
+<<<<<<< HEAD
 **8.** ❓ **SAUCISSES FARCIES** — 9,99 $ · 9% de rabais
+=======
+**7.** ❓ **SAUCISSES FARCIES** — 9,99 $ · 9% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: SAUCISSES FARCIES | JUICY JUMBOS SCHNEIDERS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401370/1781765782/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401370/1781765782/extra_large.jpg" alt="Preuve prix SAUCISSES FARCIES" width="220" />
 
+<<<<<<< HEAD
 **9.** ❓ **DEMI PORTION DE CÔTES LEVÉES** — 9,99 $ · 9% de rabais
+=======
+**8.** ❓ **DEMI PORTION DE CÔTES LEVÉES** — 9,99 $ · 9% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: DEMI PORTION DE CÔTES LEVÉES | HALF PORTION OF RIBS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401448/1781765781/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401448/1781765781/extra_large.jpg" alt="Preuve prix DEMI PORTION DE CÔTES LEVÉES" width="220" />
 
+<<<<<<< HEAD
 **10.** ❓ **MINI BEIGNES** — 7,99 $ · 6% de rabais
+=======
+**9.** ❓ **MINI BEIGNES** — 7,99 $ · 6% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MINI BEIGNES | MINI DONUTS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401413/1781765782/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401413/1781765782/extra_large.jpg" alt="Preuve prix MINI BEIGNES" width="220" />
 
+<<<<<<< HEAD
 **11.** ❓ **REPAS DE 8 AILES DE POULET** — 11,49 $ · 4% de rabais
+=======
+**10.** ❓ **REPAS DE 8 AILES DE POULET** — 11,49 $ · 4% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: REPAS DE 8 AILES DE POULET | 8 CHICKEN WINGS MEAL · [circulaire: Quebec](https://f.wishabi.net/page_items/424401441/1781765776/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401441/1781765776/extra_large.jpg" alt="Preuve prix REPAS DE 8 AILES DE POULET" width="220" />
 
+<<<<<<< HEAD
 **12.** ❓ **DÉTERGENT POUR LA VAISSELLE PALMOLIVE** — 2,99 $ · 25% de rabais
+=======
+**11.** ❓ **DÉTERGENT POUR LA VAISSELLE PALMOLIVE** — 2,99 $ · 25% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Quebec](https://f.wishabi.net/page_items/424401502/1781765790/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401502/1781765790/extra_large.jpg" alt="Preuve prix DÉTERGENT POUR LA VAISSELLE PALMOLIVE" width="220" />
 
+<<<<<<< HEAD
 **13.** ❓ **CHANDELLE 3 MÈCHES GLADE** — 9,99 $ · 23% de rabais
+=======
+**12.** ❓ **CHANDELLE 3 MÈCHES GLADE** — 9,99 $ · 23% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: CHANDELLE 3 MÈCHES GLADE | GLADE 3 WICK CANDLE · [circulaire: Quebec](https://f.wishabi.net/page_items/424401491/1781765781/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401491/1781765781/extra_large.jpg" alt="Preuve prix CHANDELLE 3 MÈCHES GLADE" width="220" />
 
+<<<<<<< HEAD
 **14.** ❓ **MÉDAILLON DE PÉTONCLE** — 1,79 $ · 10% de rabais
+=======
+**13.** ❓ **MÉDAILLON DE PÉTONCLE** — 1,79 $ · 10% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: MÉDAILLON DE PÉTONCLE | SCALLOP MEDALLION · [circulaire: Quebec](https://f.wishabi.net/page_items/424401384/1781765779/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401384/1781765779/extra_large.jpg" alt="Preuve prix MÉDAILLON DE PÉTONCLE" width="220" />
 
+<<<<<<< HEAD
 **15.** ❓ **BURRITO AU POULET ET FROMAGE** — 7,99 $ · 11% de rabais
+=======
+**14.** ❓ **BURRITO AU POULET ET FROMAGE** — 7,99 $ · 11% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: BURRITO AU POULET ET FROMAGE | CHICKEN AND CHEESE BURRITO · [circulaire: Quebec](https://f.wishabi.net/page_items/424401447/1781765780/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401447/1781765780/extra_large.jpg" alt="Preuve prix BURRITO AU POULET ET FROMAGE" width="220" />
 
+<<<<<<< HEAD
 **16.** ❓ **HUILE D'OLIVE EXTRA VIERGE GALLO** — 7,99 $ · 20% de rabais
+=======
+**15.** ❓ **HUILE D'OLIVE EXTRA VIERGE GALLO** — 7,99 $ · 20% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: HUILE D'OLIVE EXTRA VIERGE GALLO | GALLO EXTRA VIRGIN OLIVE OIL · [circulaire: Quebec](https://f.wishabi.net/page_items/424402146/1781765791/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424402146/1781765791/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE GALLO" width="220" />
 
+<<<<<<< HEAD
 **17.** ❓ **FRIANDISES CHOCOLATÉES MARS, M&M** — 5,99 $ · 20% de rabais
+=======
+**16.** ❓ **FRIANDISES CHOCOLATÉES MARS, M&M** — 5,99 $ · 20% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: FRIANDISES CHOCOLATÉES MARS, M&M | MARS, M&M CHOCOLATE TREATS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401468/1781765784/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401468/1781765784/extra_large.jpg" alt="Preuve prix FRIANDISES CHOCOLATÉES MARS, M&M" width="220" />
 
+<<<<<<< HEAD
 **18.** ❓ **CREVETTES ASSAISONNÉES** — 14,99 $ · 17% de rabais
+=======
+**17.** ❓ **CREVETTES ASSAISONNÉES** — 14,99 $ · 17% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: CREVETTES ASSAISONNÉES | SEASONED SHRIMPS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401391/1781765784/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401391/1781765784/extra_large.jpg" alt="Preuve prix CREVETTES ASSAISONNÉES" width="220" />
 
+<<<<<<< HEAD
 **19.** ❓ **TARTINADE NOISETTES- CHOCOLAT SELECTION** — 6,99 $ · 13% de rabais
+=======
+**18.** ❓ **TARTINADE NOISETTES- CHOCOLAT SELECTION** — 6,99 $ · 13% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: TARTINADE NOISETTES- CHOCOLAT SELECTION | SELECTION HAZELNUT CHOCOLATE SPREAD · [circulaire: Quebec](https://f.wishabi.net/page_items/424401476/1781765789/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401476/1781765789/extra_large.jpg" alt="Preuve prix TARTINADE NOISETTES- CHOCOLAT SELECTION" width="220" />
 
+<<<<<<< HEAD
 **20.** ❓ **SALADE DE CHOU COLORÉE DOLE** — 2,99 $ · 25% de rabais
+=======
+**19.** ❓ **SALADE DE CHOU COLORÉE DOLE** — 2,99 $ · 25% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: SALADE DE CHOU COLORÉE DOLE | DOLE COLOURFUL COLESLAW · [circulaire: Quebec](https://f.wishabi.net/page_items/424401331/1781765784/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/424401331/1781765784/extra_large.jpg" alt="Preuve prix SALADE DE CHOU COLORÉE DOLE" width="220" />
 
+<<<<<<< HEAD
+=======
+**20.** ❓ **BEIGNETS** — 3,49 $ · 13% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: BEIGNETS | DONUTS · [circulaire: Quebec](https://f.wishabi.net/page_items/424401414/1781765782/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424401414/1781765782/extra_large.jpg" alt="Preuve prix BEIGNETS" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 ## Maxi
 📍 909 boul. Firestone, Joliette
 
@@ -183,9 +253,13 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425032152/1782147741/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE NAYA, 28X500 ML OU ESKA, 24X500 ML" width="220" />
 
+<<<<<<< HEAD
 **12.** 🔵 **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — 5,88 $ · 41% de rabais
 > 🏆 Meilleur prix vs Super C · 8,11 $ moins cher
 > *Pas assez d'historique pour confirmer si c'est un vrai bon spécial.*
+=======
+**12.** ❓ **PIZZA RESTO PIZZ OU MIKES, 520-871 G** — 5,88 $ · 41% de rabais
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Weekly Flyer - Valid Thursday, June 25 - Wednesday, July 1](https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425032154/1782147742/extra_large.jpg" alt="Preuve prix PIZZA RESTO PIZZ OU MIKES, 520-871 G" width="220" />
@@ -224,7 +298,10 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
 **1.** ✅ **CROUSTILLES LAY'S** — 2,47 $ · économie ~4,09 $
+<<<<<<< HEAD
 > 🏆 Meilleur prix vs Super C · 6,53 $ moins cher
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Québec – Circulaire Hebdomadaire](https://f.wishabi.net/page_items/425379560/1782322250/extra_large.jpg)
 📸 Preuve du prix
@@ -339,6 +416,7 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 ## Super C
 📍 1445 boul. Firestone, Joliette
 
+<<<<<<< HEAD
 **1.** ✅ **Dentifrice Colgate** — 1,69 $ · économie ~1,96 $
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: dentifrice Colgate | Colgate toothpaste · [circulaire: Circulaire](https://f.wishabi.net/page_items/424567292/1781921018/extra_large.jpg)
@@ -458,6 +536,67 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 > Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: BOUILLON MIEUX-ÊTRE | LIFE SMART BROTH · [circulaire: Circulaire](https://f.wishabi.net/page_items/425113193/1782219283/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/425113193/1782219283/extra_large.jpg" alt="Preuve prix BOUILLON MIEUX-ÊTRE" width="220" />
+=======
+**1.** 🟢 **Bonbons Selection** — 7,00 $ · économie ~4,25 $
+> *Environ 38 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: bonbons Selection | Selection candies · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662746/1782083403/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
+
+**2.** 🔵 **Crème sure Selection** — 3,39 $
+> 🏆 Meilleur prix vs Metro · 0,10 $ moins cher
+> *Pas assez d'historique pour confirmer si c'est un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: crème sure Selection | Selection sour cream · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662754/1782083408/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662754/1782083408/extra_large.jpg" alt="Preuve prix Crème sure Selection" width="220" />
+
+**3.** ❓ **Millefeuille à la costarde** — 6,69 $ · 4% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Millefeuille à la costarde | custard millefeuille · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662791/1782083404/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662791/1782083404/extra_large.jpg" alt="Preuve prix Millefeuille à la costarde" width="220" />
+
+**4.** 🔵 **Smoked meat style Montréal Irrésistible Artisan** — 12,99 $ · 13% de rabais
+> 🏆 Meilleur prix vs Metro · 1,00 $ moins cher
+> *Pas assez d'historique pour confirmer si c'est un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Smoked meat style Montréal Irrésistible Artisan | Irrésistible Artisan Montreal-style smoked meat · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662757/1782083410/extra_large.jpg" alt="Preuve prix Smoked meat style Montréal Irrésistible Artisan" width="220" />
+
+**5.** ❓ **Pavés de thon Irrésistible** — 8,99 $ · 10% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: pavés de thon Irrésistible | Irrésistible frozen raw tuna steaks · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662728/1782083402/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662728/1782083402/extra_large.jpg" alt="Preuve prix Pavés de thon Irrésistible" width="220" />
+
+**6.** ❓ **LE COÛT DE COEUR DES DENTS SUCRÉES** — 5,99 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662795/1782083406/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662795/1782083406/extra_large.jpg" alt="Preuve prix LE COÛT DE COEUR DES DENTS SUCRÉES" width="220" />
+
+**7.** ❓ **Sélection Sparkling Water** — 5,79 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Sélection Sparkling Water | Selection sparkling water · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662744/1782083401/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662744/1782083401/extra_large.jpg" alt="Preuve prix Sélection Sparkling Water" width="220" />
+
+**8.** ❓ **Cornets gaufrés Irrésistible** — 5,19 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: cornets gaufrés Irrésistible | Irrésistible sugar cones for ice cream · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662785/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662785/1782083400/extra_large.jpg" alt="Preuve prix Cornets gaufrés Irrésistible" width="220" />
+
+**9.** ❓ **Fruits ou noix enrobés de chocolat Irrésistible** — 7,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: fruits ou noix enrobés de chocolat Irrésistible | Irrésistible chocolate- covered fruits or nuts · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662760/1782083412/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662760/1782083412/extra_large.jpg" alt="Preuve prix Fruits ou noix enrobés de chocolat Irrésistible" width="220" />
+
+**10.** ❓ **Mélange tropical Irrésistible** — 9,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: Mélange tropical Irrésistible | Irrésistible tropical mix · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662742/1782083400/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662742/1782083400/extra_large.jpg" alt="Preuve prix Mélange tropical Irrésistible" width="220" />
+
+**11.** ❓ **Ketchup aux tomates Selection** — 3,59 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-06-25 au 2026-07-01 · texte brut: ketchup aux tomates Selection | Selection tomato ketchup · [circulaire: Circulaire](https://f.wishabi.net/page_items/424662737/1782083409/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/424662737/1782083409/extra_large.jpg" alt="Preuve prix Ketchup aux tomates Selection" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 ## BoniChoix
 📍 773 rue de Lanaudière, Joliette
@@ -932,5 +1071,9 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 <img src="https://f.wishabi.net/page_items/423340821/1780941027/extra_large.jpg" alt="Preuve prix Vinaigrette italienne Olive Garden" width="220" />
 
 ---
+<<<<<<< HEAD
 📊 166 spéciaux · Metro : 20 · Maxi : 20 · IGA : 20 · Super C : 20 · BoniChoix : 20 · Inter-Marché : 20 · Marchés Tradition : 20 · Familiprix : 20 · Costco : 20
+=======
+📊 157 spéciaux · Metro : 20 · Maxi : 20 · IGA : 20 · Super C : 20 · BoniChoix : 20 · Inter-Marché : 20 · Marchés Tradition : 20 · Familiprix : 20 · Costco : 20
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 *Généré le 25 juin 2026*

@@ -12,7 +12,11 @@
     "item_name": "CERISES ROUGES",
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
+<<<<<<< HEAD
     "price": "2,99 $/lb",
+=======
+    "price": "2,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Fruits et légumes"
   },
   {
@@ -32,6 +36,7 @@
     "category": "Fruits et légumes"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::cerises",
     "item_name": "Cerises",
     "store_id": "superc-joliette",
@@ -48,6 +53,8 @@
     "category": "Fruits et légumes"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::tradition-joliette::tranches de fromage compliments",
     "item_name": "TRANCHES DE FROMAGE COMPLIMENTS",
     "store_id": "tradition-joliette",
@@ -72,6 +79,7 @@
     "category": "Fruits et légumes"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::tomates rouges de serre",
     "item_name": "Tomates rouges de serre",
     "store_id": "superc-joliette",
@@ -88,6 +96,8 @@
     "category": "Fruits et légumes"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::bonichoix-joliette::salade hachee taylor farms",
     "item_name": "SALADE HACHÉE TAYLOR FARMS",
     "store_id": "bonichoix-joliette",
@@ -96,6 +106,7 @@
     "category": "Fruits et légumes"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::metro-joliette::oignons jaunes vidalia",
     "item_name": "OIGNONS JAUNES VIDALIA",
     "store_id": "metro-joliette",
@@ -104,6 +115,8 @@
     "category": "Fruits et légumes"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::iga-joliette::carrousel de crudites ou de fruits c'est pret!",
     "item_name": "CARROUSEL DE CRUDITÉS OU DE FRUITS C'EST PRÊT!",
     "store_id": "iga-joliette",
@@ -148,6 +161,7 @@
     "item_name": "BOEUF HACHÉ MAIGRE",
     "store_id": "metro-joliette",
     "store_name": "Metro",
+<<<<<<< HEAD
     "price": "5,74 $/lb",
     "category": "Viandes et poissons"
   },
@@ -157,6 +171,9 @@
     "store_id": "superc-joliette",
     "store_name": "Super C",
     "price": "2,49 $",
+=======
+    "price": "5,74 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Viandes et poissons"
   },
   {
@@ -176,6 +193,17 @@
     "category": "Viandes et poissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-06-25::superc-joliette::smoked meat style montreal irresistible artisan",
+    "item_name": "Smoked meat style Montréal Irrésistible Artisan",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "12,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::bonichoix-joliette::bacon tranche mere michel",
     "item_name": "BACON TRANCHÉ MÈRE MICHEL",
     "store_id": "bonichoix-joliette",
@@ -192,6 +220,7 @@
     "category": "Viandes et poissons"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::bifteck de cotes aaa",
     "item_name": "Bifteck de côtes AAA",
     "store_id": "superc-joliette",
@@ -208,6 +237,8 @@
     "category": "Viandes et poissons"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::bonichoix-joliette::pepperoni caserta tranche roma",
     "item_name": "PEPPERONI CASERTA TRANCHÉ ROMA",
     "store_id": "bonichoix-joliette",
@@ -280,6 +311,7 @@
     "category": "Garde-manger et autres"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::melange a soupe knorr",
     "item_name": "Mélange à soupe Knorr",
     "store_id": "superc-joliette",
@@ -304,6 +336,8 @@
     "category": "Garde-manger et autres"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::metro-joliette::mayonnaise hellmann's",
     "item_name": "MAYONNAISE HELLMANN'S",
     "store_id": "metro-joliette",
@@ -328,11 +362,19 @@
     "category": "Garde-manger et autres"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::metro-joliette::pepsi, ‑up",
     "item_name": "PEPSI, 7‑UP",
     "store_id": "metro-joliette",
     "store_name": "Metro",
     "price": "4,49 $",
+=======
+    "id": "2026-06-25::metro-joliette::calmars croustillants irresistible",
+    "item_name": "CALMARS CROUSTILLANTS IRRÉSISTIBLE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "7,99 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Garde-manger et autres"
   },
   {
@@ -376,6 +418,7 @@
     "category": "Garde-manger et autres"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::bouillon mieux-etre",
     "item_name": "BOUILLON MIEUX-ÊTRE",
     "store_id": "superc-joliette",
@@ -384,6 +427,8 @@
     "category": "Garde-manger et autres"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::costco-quebec::couverture d'exterieur portable below zero",
     "item_name": "Couverture d'extérieur portable Below Zero",
     "store_id": "costco-quebec",
@@ -408,6 +453,41 @@
     "category": "Garde-manger et autres"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-06-25::familiprix-joliette::l'oreal paris produits capillaires selectionnes",
+    "item_name": "L'ORÉAL PARIS Produits capillaires sélectionnés",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "10,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-06-25::costco-quebec::latte infuse a froid ou torrefaction foncee a proteine brust",
+    "item_name": "Latté infusé à froid ou torréfaction foncée à protéine brüst",
+    "store_id": "costco-quebec",
+    "store_name": "Costco",
+    "price": "29,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-06-25::bonichoix-joliette::marinades coronation",
+    "item_name": "MARINADES CORONATION",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "2,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-06-25::maxi-joliette::peches a chair jaune,",
+    "item_name": "PÊCHES À CHAIR JAUNE, 1 KG",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "1,48 $/lb",
+    "category": "Garde-manger et autres"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::bonichoix-joliette::mouchoirs de papier compliments",
     "item_name": "MOUCHOIRS DE PAPIER COMPLIMENTS",
     "store_id": "bonichoix-joliette",
@@ -432,6 +512,7 @@
     "category": "Maison et entretien"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::nettoyant pour salle de bain scrubbing bubbles",
     "item_name": "Nettoyant pour salle de bain Scrubbing Bubbles",
     "store_id": "superc-joliette",
@@ -440,6 +521,8 @@
     "category": "Maison et entretien"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::maxi-joliette::papier hygienique, = rouleaux ou essuie-tout tiger towel, = rouleaux royale",
     "item_name": "PAPIER HYGIÉNIQUE, 15=30 ROULEAUX OU ESSUIE-TOUT TIGER TOWEL, 3=6 ROULEAUX ROYALE",
     "store_id": "maxi-joliette",
@@ -448,6 +531,7 @@
     "category": "Maison et entretien"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::dentifrice colgate",
     "item_name": "Dentifrice Colgate",
     "store_id": "superc-joliette",
@@ -456,6 +540,8 @@
     "category": "Santé et pharmacie"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::familiprix-joliette::l'oreal paris, produits de maquillage selectionnes",
     "item_name": "L'ORÉAL PARIS, Produits de maquillage sélectionnés",
     "store_id": "familiprix-joliette",
@@ -468,6 +554,7 @@
     "item_name": "FROMAGE TOMME LES DÉPENDANCES",
     "store_id": "iga-joliette",
     "store_name": "IGA",
+<<<<<<< HEAD
     "price": "5,79 $/100g",
     "category": "Santé et pharmacie"
   },
@@ -488,6 +575,20 @@
     "category": "Surgelés"
   },
   {
+=======
+    "price": "5,79 $",
+    "category": "Santé et pharmacie"
+  },
+  {
+    "id": "2026-06-25::metro-joliette::muffins irresistible",
+    "item_name": "MUFFINS IRRÉSISTIBLE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "5,99 $",
+    "category": "Boulangerie"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::iga-joliette::bœuf pour fondue chinoise surgele compliments",
     "item_name": "BŒUF POUR FONDUE CHINOISE SURGELÉ COMPLIMENTS",
     "store_id": "iga-joliette",
@@ -512,12 +613,21 @@
     "category": "Surgelés"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::iga-joliette::croustilles lay's",
     "item_name": "CROUSTILLES LAY'S",
     "store_id": "iga-joliette",
     "store_name": "IGA",
     "price": "2,47 $",
     "category": "Collations et boissons"
+=======
+    "id": "2026-06-25::maxi-joliette::pizza resto pizz ou mikes, -",
+    "item_name": "PIZZA RESTO PIZZ OU MIKES, 520-871 G",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "5,88 $",
+    "category": "Surgelés"
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   },
   {
     "id": "2026-06-25::metro-joliette::boisson sportive gatorade",
@@ -528,6 +638,17 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "2026-06-25::iga-joliette::croustilles lay's",
+    "item_name": "CROUSTILLES LAY'S",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,47 $",
+    "category": "Collations et boissons"
+  },
+  {
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::iga-joliette::the glace fuze",
     "item_name": "THÉ GLACÉ FUZE",
     "store_id": "iga-joliette",
@@ -544,11 +665,19 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::biscuits christie",
     "item_name": "Biscuits Christie",
     "store_id": "superc-joliette",
     "store_name": "Super C",
     "price": "2,33 $",
+=======
+    "id": "2026-06-25::superc-joliette::bonbons selection",
+    "item_name": "Bonbons Selection",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "7,00 $",
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "category": "Collations et boissons"
   },
   {
@@ -560,6 +689,7 @@
     "category": "Collations et boissons"
   },
   {
+<<<<<<< HEAD
     "id": "2026-06-25::superc-joliette::reglisse twizzlers hershey's",
     "item_name": "RÉGLISSE TWIZZLERS HERSHEY'S",
     "store_id": "superc-joliette",
@@ -568,6 +698,8 @@
     "category": "Collations et boissons"
   },
   {
+=======
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
     "id": "2026-06-25::metro-joliette::biscuits celebration leclerc",
     "item_name": "BISCUITS CÉLÉBRATION LECLERC",
     "store_id": "metro-joliette",

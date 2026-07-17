@@ -72,10 +72,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **FILET DE TRUITE**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 8,99 $/lb
   - Échelle: Équivaut à 19,82 $/kg.
   - 📊 Gagne contre Maxi 10,00 $/lb
   - 🏅 Pourquoi ça gagne: 13,06 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 8,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Maxi 10,00 $/lb
+  - 🏅 Pourquoi ça gagne: 13,06 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426408920/1783165075/extra_large.jpg" alt="Preuve prix FILET DE TRUITE" width="220" />
 
@@ -90,16 +97,28 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **PRUNES NOIRES OU ROUGES |**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 3,99 $/kg
   - 📊 Gagne contre Maxi 1,99 $/lb
   - 🏅 Pourquoi ça gagne: 0,40 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 3,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Maxi 1,99 $/lb
+  - 🏅 Pourquoi ça gagne: 0,40 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426408967/1783165072/extra_large.jpg" alt="Preuve prix PRUNES NOIRES OU ROUGES |" width="220" />
 
 - **BLANCHE DU PACIFIQUE**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 0,34 $/lb
   - Échelle: Équivaut à 0,75 $/kg.
+=======
+  - Prix: 0,34 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426419442/1783165073/extra_large.jpg" alt="Preuve prix BLANCHE DU PACIFIQUE" width="220" />
 
@@ -113,9 +132,22 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Maxi
+<<<<<<< HEAD
 > [!info] 6 produits retenus
 > 📍 909 boul. Firestone, Joliette
 
+=======
+> [!info] 7 produits retenus
+> 📍 909 boul. Firestone, Joliette
+
+- **BISCUITS CHRISTIE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 2,79 $
+  - Pourquoi: Environ 40 % moins cher que le prix habituel.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/426298311/1783036613/extra_large.jpg" alt="Preuve prix BISCUITS CHRISTIE" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **CROUSTILLES OU GRIGNOTINES YUM YUM**
   - 🍪 Section: Collations et boissons
   - Prix: 2,88 $
@@ -176,8 +208,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 2,59 $/100g
   - Échelle: Équivaut à 25,90 $/kg.
+=======
+  - Prix: 2,59 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426321987/1783077216/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET FUMÉ COMPLIMENTS" width="220" />
@@ -200,17 +237,29 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **JAMBON FUMÉ MÈRE MICHEL**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 3,19 $/100g
   - Échelle: Équivaut à 31,90 $/kg.
   - 📊 Gagne contre Marchés Tradition 15,99 $
   - 🏅 Pourquoi ça gagne: 12,80 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 3,19 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre Marchés Tradition 15,99 $
+  - 🏅 Pourquoi ça gagne: 12,80 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426321979/1783077225/extra_large.jpg" alt="Preuve prix JAMBON FUMÉ MÈRE MICHEL" width="220" />
 
 - **RÔTI D'ÉPAULE DE PORC FRAIS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 1,97 $/lb
   - Échelle: Équivaut à 4,34 $/kg.
+=======
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426321599/1783077215/extra_large.jpg" alt="Preuve prix RÔTI D'ÉPAULE DE PORC FRAIS" width="220" />
 
@@ -289,13 +338,18 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🍪 Section: Collations et boissons
   - Prix: 4,69 $
   - Échelle: Format à vérifier sur la photo.
+<<<<<<< HEAD
   - Pourquoi: Environ 49 % moins cher que le prix habituel.
+=======
+  - Pourquoi: Environ 47 % moins cher que le prix habituel.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426301809/1783037061/extra_large.jpg" alt="Preuve prix Bonbons Selection" width="220" />
 
 ---
 
 ## 🏬 BoniChoix
+<<<<<<< HEAD
 > [!info] 11 produits retenus
 > 📍 773 rue de Lanaudière, Joliette
 
@@ -307,6 +361,18 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - 🏅 Pourquoi ça gagne: 13,95 $/kg moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg" alt="Preuve prix PEPPERONI ROMA" width="220" />
+=======
+> [!info] 12 produits retenus
+> 📍 773 rue de Lanaudière, Joliette
+
+- **BOISSON SPORTIVE GATORADE**
+  - 🍪 Section: Collations et boissons
+  - Prix: 6,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/426472594/1783350774/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 
 - **BLEUETS**
   - 🥬 Section: Fruits et légumes
@@ -326,8 +392,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **POULET ENTIER FRAIS**
   - 🥩 Section: Viandes et poissons
+<<<<<<< HEAD
   - Prix: 2,79 $/lb
   - Échelle: Équivaut à 6,15 $/kg.
+=======
+  - Prix: 2,79 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426472542/1783350761/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS" width="220" />
 
@@ -338,6 +409,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426472632/1783350773/extra_large.jpg" alt="Preuve prix MOUTARDE PRÉPARÉE FRENCH'S" width="220" />
 
+<<<<<<< HEAD
+=======
+- **PEPPERONI ROMA**
+  - 🥩 Section: Viandes et poissons
+  - Prix: 1,79 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/426472581/1783350766/extra_large.jpg" alt="Preuve prix PEPPERONI ROMA" width="220" />
+
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
 - **COLLATION SCHNEIDERS**
   - 🍪 Section: Collations et boissons
   - Prix: 4,49 $
@@ -365,8 +446,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 8,99 $/lb
   - Échelle: Équivaut à 19,82 $/kg.
+=======
+  - Prix: 8,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426472553/1783350761/extra_large.jpg" alt="Preuve prix GALETTES D'ÉPAULE DE BDE BŒŒUF HACHÉ MI-MAIGRE STERLING SILVER" width="220" />
 
@@ -392,10 +478,17 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **NECTARINES JAUNES OU PÊCHES JAUNES**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
   - 📊 Gagne contre IGA 6,99 $
   - 🏅 Pourquoi ça gagne: 4,00 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+  - 📊 Gagne contre IGA 6,99 $
+  - 🏅 Pourquoi ça gagne: 4,00 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426356785/1783110166/extra_large.jpg" alt="Preuve prix NECTARINES JAUNES OU PÊCHES JAUNES" width="220" />
 
@@ -426,11 +519,19 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **CERISES ROUGES**
   - 🥬 Section: Fruits et légumes
+<<<<<<< HEAD
   - Prix: 1,97 $/lb
   - Échelle: Équivaut à 4,34 $/kg.
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📊 Gagne contre BoniChoix 3,99 $
   - 🏅 Pourquoi ça gagne: 2,02 $/kg moins cher que le prochain meilleur prix
+=======
+  - Prix: 1,97 $
+  - Échelle: Format à vérifier sur la photo.
+  - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
+  - 📊 Gagne contre BoniChoix 3,99 $
+  - 🏅 Pourquoi ça gagne: 2,02 $ moins cher que le prochain meilleur prix
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426243061/1782974299/extra_large.jpg" alt="Preuve prix CERISES ROUGES" width="220" />
 
@@ -483,8 +584,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **GOURGANES**
   - 🥫 Section: Garde-manger et autres
+<<<<<<< HEAD
   - Prix: 2,99 $/lb
   - Échelle: Équivaut à 6,59 $/kg.
+=======
+  - Prix: 2,99 $
+  - Échelle: Format à vérifier sur la photo.
+>>>>>>> 12cf0a4a1f0c825792c1dc78862e86d405ce4a3b
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/426243142/1782974299/extra_large.jpg" alt="Preuve prix GOURGANES" width="220" />
 
