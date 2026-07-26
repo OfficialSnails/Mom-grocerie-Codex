@@ -721,6 +721,7 @@ describe('weekly shopper-facing reports', () => {
       ['Colorant à café', 'epicerie', 'colorant cafe', 'pantry'],
       ['Sauce tomate', 'epicerie', 'sauce tomate', 'pantry'],
       ['Fruit O-Long collations', 'epicerie', 'fruit o-long collations', 'snacks-drinks'],
+      ['RÉGAL AUX POMMES, 6 X 100 ML OU COLLATIONS À PRESSER, 4 X 90 G', 'epicerie', 'regal aux pommes collations a presser', 'produce'],
       ["BARQUETTE DE LÉGUMES C'EST PRÊT! À CUIRE", 'epicerie', 'barquette de legumes cest pret a cuire', 'produce'],
       ["CARROUSEL DE FRUITS C'EST PRÊT!", 'epicerie', 'carrousel de fruits cest pret', 'produce'],
       ["CARROUSEL DE FRUITS OU DE LÉGUMES C'EST PRÊT!", 'epicerie', 'carrousel de fruits ou de legumes cest pret', 'produce'],
@@ -746,6 +747,13 @@ describe('weekly shopper-facing reports', () => {
       item_name: 'MAÏS EN ÉPIS DEUX COULEURS',
       normalized_name: 'mais en epis deux couleurs',
       source_raw_name: 'MAÏS EN ÉPIS DEUX COULEURS | PEACHES AND CREAM CORN ON THE COB',
+      category: 'epicerie',
+    })).toBe('produce');
+
+    expect(classifyShopperCategory({
+      ...baseDeal,
+      item_name: 'RÉGAL AUX POMMES, 6 X 100 ML OU COLLATIONS AUX À PRESSER, 4 X 90 G',
+      source_raw_name: 'RÉGAL AUX POMMES, 6 X 100 ML OU COLLATIONS AUX À PRESSER, 4 X 90 G | APPLE TREAT OR SQUEEZE FRUIT SNACKS',
       category: 'epicerie',
     })).toBe('produce');
 

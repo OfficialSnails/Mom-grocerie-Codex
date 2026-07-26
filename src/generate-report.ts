@@ -351,6 +351,8 @@ const PRODUCE_NAME_KEYWORDS = [
   'barquette de légumes', 'barquette de legumes',
   'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
   'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
+  'régal aux pommes', 'regal aux pommes',
+  'collation à presser', 'collation a presser', 'collations à presser', 'collations a presser',
   'maïs en épi', 'mais en epi', 'maïs en épis', 'mais en epis', 'maïs sucré', 'mais sucre',
   'chou-fleur', 'chou fleur', 'brocoli', 'broccoli',
 ];
@@ -371,6 +373,8 @@ const STRONG_PRODUCE_QA_KEYWORDS = [
   'barquette de légumes', 'barquette de legumes',
   'plateau de légumes', 'plateau de legumes', 'plateau de fruits',
   'carrousel de fruits', 'carrousel de fruits ou de légumes', 'carrousel de fruits ou de legumes',
+  'régal aux pommes', 'regal aux pommes',
+  'collation à presser', 'collation a presser', 'collations à presser', 'collations a presser',
   'chou-fleur', 'chou fleur', 'brocoli', 'broccoli',
 ];
 
@@ -480,8 +484,23 @@ function isProduceFalsePositive(value: string): boolean {
   return includesAny(value, PRODUCE_FALSE_POSITIVE_KEYWORDS);
 }
 
+function isFruitPouchProduce(value: string): boolean {
+  if (includesAny(value, [
+    'régal aux pommes', 'regal aux pommes',
+    'collations aux pommes', 'sauce aux pommes',
+    'collation à presser', 'collation a presser',
+    'collations à presser', 'collations a presser',
+    'apple treat',
+  ])) {
+    return true;
+  }
+
+  return value.includes('squeeze fruit snacks') &&
+    ['apple', 'pomme', 'fruit bowl', 'bol de fruit', 'bols de fruit'].some(keyword => value.includes(keyword));
+}
+
 function isProduceName(value: string): boolean {
-  return !isProduceFalsePositive(value) && includesAny(value, PRODUCE_NAME_KEYWORDS);
+  return (isFruitPouchProduce(value) || !isProduceFalsePositive(value)) && includesAny(value, PRODUCE_NAME_KEYWORDS);
 }
 
 function isHouseholdItem(deal: ScoredDeal): boolean {
@@ -546,7 +565,7 @@ export function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | n
 
   if (
     !tomatoPantryItem &&
-    !isProduceFalsePositive(name) &&
+    (isFruitPouchProduce(name) || !isProduceFalsePositive(name)) &&
     includesAny(name, STRONG_PRODUCE_QA_KEYWORDS)
   ) return 'produce';
 
