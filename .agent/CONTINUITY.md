@@ -2,7 +2,7 @@
 
 ## Snapshot
 Goal: Generate and publish the weekly Quebec grocery data.
-Now: Week `Semaine du 23 au 29 juillet 2026` is generated, QA-validated, locally verified, and deployed to Cloudflare Pages.
+Now: Week `Semaine du 30 juillet au 5 août 2026` is generated, QA-validated, locally verified, and deployed to Cloudflare Pages.
 Next: Commit/push generated artifacts if the user wants the repo history updated.
 Open questions: None.
 
@@ -26,6 +26,11 @@ Done:
 - 2026-07-22T13:35-04:00 [CODE] Fixed a category-QA blocker by teaching `classifyShopperCategory` to keep apple pouch / squeeze-fruit flyer products in produce even when raw English text contains `fruit snacks`. Evidence: `src/generate-report.ts`, `tests/report-generation.test.ts`.
 - 2026-07-22T13:36-04:00 [TOOL] Rebuilt week `23 au 29 juillet 2026` after the classifier fix; category QA then passed with 0 high-confidence errors and 9 ambiguous frozen-item review cases. Evidence: `reports/qa/category-review-semaine-du-23-au-29-juillet-2026.md`.
 - 2026-07-22T13:37-04:00 [TOOL] Deployed `website/` with `npm run deploy:cloudflare`; deploy URL `https://b087d092.bons-speciaux-joliette.pages.dev` and repeated cache-busted reads from production `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` now serve `semaine-du-23-au-29-juillet-2026` first.
+- 2026-07-29T13:02-04:00 [USER] Wednesday automation should target the upcoming Thursday-to-Wednesday flyer cycle when live flyers are already available; for this run that means `2026-07-30 -> 2026-08-05`.
+- 2026-07-29T13:32-04:00 [TOOL] Ran `BONS_SPECIAUX_RUN_DATE=2026-07-30T12:00:00-04:00 npm run weekly`; live Flipp/Wishabi flyers overlapped `2026-07-30 -> 2026-08-05`, Costco overlapped through `2026-08-02`, 18 dated CSV rows were skipped as out-of-range supplements, and the pipeline generated week `30 juillet au 5 août 2026` with 89 bons prix and 1479 total produits. Evidence: `reports/weeks/Semaine du 30 juillet au 5 août 2026/`, `website/data/weeks/semaine-du-30-juillet-au-5-aout-2026/week.json`.
+- 2026-07-29T13:35-04:00 [TOOL] Validation passed for week `30 juillet au 5 août 2026`: `npm test` 117/117, `node --check website/app.js`, `npm run qa:pantry`, `npm run qa:categories` with 0 high-confidence errors and 7 ambiguous frozen-item review cases. Evidence: `reports/qa/category-review-semaine-du-30-juillet-au-5-aout-2026.md`.
+- 2026-07-29T13:36-04:00 [TOOL] Local browser verification via Playwright against `http://localhost:4187/` showed `Semaine du 30 juillet au 5 août 2026 · 89 bons prix`, both `Bons prix` and `Tous les produits`, and local `data/weeks/index.json` returned `semaine-du-30-juillet-au-5-aout-2026` first. Evidence: `output/playwright/local-week-2026-07-30.png`.
+- 2026-07-29T13:37-04:00 [TOOL] Deployed `website/` with `npm run deploy:cloudflare`; deploy URL `https://18010510.bons-speciaux-joliette.pages.dev`. Production `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` stabilized across 5 cache-busted reads with `semaine-du-30-juillet-au-5-aout-2026` first. Evidence: `npm run deploy:cloudflare`, repeated `curl` checks.
 
 In progress:
 - None.
@@ -37,6 +42,9 @@ Blocked:
 Relevant files:
 - `src/generate-report.ts`
 - `tests/report-generation.test.ts`
+- `website/data/weeks/semaine-du-30-juillet-au-5-aout-2026/week.json`
+- `reports/weeks/Semaine du 30 juillet au 5 août 2026/`
+- `reports/qa/category-review-semaine-du-30-juillet-au-5-aout-2026.md`
 - `website/data/weeks/index.json`
 - `website/data/weeks/semaine-du-23-au-29-juillet-2026/week.json`
 - `reports/weeks/Semaine du 23 au 29 juillet 2026/`
@@ -53,6 +61,12 @@ Relevant files:
 - `npm run qa:categories`: passed, 0 high-confidence errors, 9 ambiguous review items, report at `reports/qa/category-review-semaine-du-23-au-29-juillet-2026.md`.
 - Local verification: Chrome DevTools snapshot of `http://localhost:4187/` showed week button `Semaine du 23 au 29 juillet 2026 · 87 bons prix`, selected week `Liste d'épicerie — 23 au 29 juillet 2026`, and `curl http://localhost:4187/data/weeks/index.json` returned latest week `23 au 29 juillet 2026`.
 - Live verification: repeated cache-busted reads from `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returned latest week `23 au 29 juillet 2026`.
+- `npm test`: 117/117 passed for the July 29, 2026 run targeting `30 juillet au 5 août 2026`.
+- `node --check website/app.js`: passed.
+- `npm run qa:pantry`: passed, no high-confidence suspicious pantry items in `website/data/weeks/semaine-du-30-juillet-au-5-aout-2026/week.json`.
+- `npm run qa:categories`: passed, 0 high-confidence errors, 7 ambiguous review items, report at `reports/qa/category-review-semaine-du-30-juillet-au-5-aout-2026.md`.
+- Local verification: Playwright check of `http://localhost:4187/` showed week card `Semaine du 30 juillet au 5 août 2026 · 89 bons prix`, active week `Liste d'épicerie — 30 juillet au 5 août 2026`, both top-level modes, and local `curl http://localhost:4187/data/weeks/index.json` returned latest week `30 juillet au 5 août 2026`.
+- Live verification: deploy URL `https://18010510.bons-speciaux-joliette.pages.dev/data/weeks/index.json` and 5 repeated cache-busted reads from `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returned latest week `30 juillet au 5 août 2026`.
 
 ## Follow ups
 - Commit/push generated files if desired; no commit was created by Codex in this run.
