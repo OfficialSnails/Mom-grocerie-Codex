@@ -6,107 +6,127 @@
 
 ---
 
-## 🛒 Metro — 187 spéciaux (15 bons + 172 à surveiller)
+## 🛒 Metro — 150 spéciaux (18 bons + 132 à surveiller)
 
 **BEURRE SELECTION** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~10,43 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~10,26 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BEURRE SELECTION | SELECTION BUTTER · [circulaire: Quebec](https://f.wishabi.net/page_items/428501054/1784848562/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501054/1784848562/extra_large.jpg" alt="Preuve prix BEURRE SELECTION" width="220" />
 
 **BEURRE À L'AIL IRRÉSISTIBLE |IRRÉSISTIBLE GARLIC BUTTER** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~10,43 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~10,26 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Quebec](https://f.wishabi.net/page_items/428501088/1784848561/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501088/1784848561/extra_large.jpg" alt="Preuve prix BEURRE À L'AIL IRRÉSISTIBLE |IRRÉSISTIBLE GARLIC BUTTER" width="220" />
 
-**CÔTELETTES DE PORC FRAIS DÉSOSSÉES** — 2,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~6,73 $  ·  meilleur vu : 1,75 $
-*Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÔTELETTES DE PORC FRAIS DÉSOSSÉES | FRESH BONELESS PORK CHOPS · [circulaire: Quebec](https://f.wishabi.net/page_items/428781113/1785187300/extra_large.jpg)
+**LAITUE ROMAINE, FEUILLES VERTES OU ROUGES** — 0,88 $  ·  ✅ Excellent spécial
+Prix habituel : ~9,54 $  ·  meilleur vu : 0,88 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: LAITUE ROMAINE, FEUILLES VERTES OU ROUGES | ROMAINE, GREEN OR RED LEAF LETTUCE · [circulaire: Quebec](https://f.wishabi.net/page_items/428781100/1785187293/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781113/1785187300/extra_large.jpg" alt="Preuve prix CÔTELETTES DE PORC FRAIS DÉSOSSÉES" width="220" />
+<img src="https://f.wishabi.net/page_items/428781100/1785187293/extra_large.jpg" alt="Preuve prix LAITUE ROMAINE, FEUILLES VERTES OU ROUGES" width="220" />
+
+**AVOCAT** — 0,88 $  ·  ✅ Excellent spécial
+Prix habituel : ~2,26 $  ·  meilleur vu : 0,88 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: AVOCAT | AVOCADO · [circulaire: Quebec](https://f.wishabi.net/page_items/428781098/1785187291/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781098/1785187291/extra_large.jpg" alt="Preuve prix AVOCAT" width="220" />
+
+**PARMIGIANO REGGIANO IRRÉSISTIBLE** — 4,49 $  ·  ✅ Excellent spécial
+Prix habituel : ~9,66 $  ·  meilleur vu : 4,49 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PARMIGIANO REGGIANO IRRÉSISTIBLE | IRRÉSISTIBLE PARMIGIANO REGGIANO CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500978/1784848554/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428500978/1784848554/extra_large.jpg" alt="Preuve prix PARMIGIANO REGGIANO IRRÉSISTIBLE" width="220" />
+
+**CHOU-FLEUR** — 1,75 $  ·  🟢 Très bon prix
+Prix habituel : ~3,42 $  ·  meilleur vu : 1,75 $
+*Environ 49 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHOU-FLEUR | CAULIFLOWER · [circulaire: Quebec](https://f.wishabi.net/page_items/428781097/1785187291/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781097/1785187291/extra_large.jpg" alt="Preuve prix CHOU-FLEUR" width="220" />
+
+**FRAMBOISES** — 1,88 $  ·  🟢 Très bon prix
+Prix habituel : ~3,52 $  ·  meilleur vu : 1,88 $
+*Environ 47 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRAMBOISES | RASPBERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428781107/1785187297/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781107/1785187297/extra_large.jpg" alt="Preuve prix FRAMBOISES" width="220" />
+
+**SALADE** — 1,79 $  ·  🟢 Très bon prix
+Prix habituel : ~3,79 $  ·  meilleur vu : 1,79 $
+*Environ 53 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SALADE | SALAD · [circulaire: Quebec](https://f.wishabi.net/page_items/428500997/1785120965/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428500997/1785120965/extra_large.jpg" alt="Preuve prix SALADE" width="220" />
+
+**ARACHIDES IRRESISTIBLE** — 3,77 $  ·  🟢 Très bon prix
+Prix habituel : ~6,67 $  ·  meilleur vu : 3,77 $
+*Environ 44 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: ARACHIDES IRRESISTIBLE | IRRÉSISTIBLE PEANUTS · [circulaire: Quebec](https://f.wishabi.net/page_items/428781101/1785187293/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781101/1785187293/extra_large.jpg" alt="Preuve prix ARACHIDES IRRESISTIBLE" width="220" />
 
 **COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE** — 5,99 $  ·  🟢 Très bon prix
-Prix habituel : ~11,66 $  ·  meilleur vu : 5,99 $
-*Environ 49 % moins cher que le prix habituel.*
+Prix habituel : ~11,23 $  ·  meilleur vu : 5,99 $
+*Environ 47 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-01 · texte brut: COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE | IRRÉSISTIBLE PACIFIC WHITE SHRIMP RING · [circulaire: Quebec](https://f.wishabi.net/page_items/428781105/1785187295/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428781105/1785187295/extra_large.jpg" alt="Preuve prix COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE" width="220" />
 
 **GÂTERIES POUR CHATS TEMPTATIONS WHISKAS** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~5,59 $  ·  meilleur vu : 2,99 $
-*Environ 47 % moins cher que le prix habituel.*
+Prix habituel : ~5,16 $  ·  meilleur vu : 2,99 $
+*Environ 42 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GÂTERIES POUR CHATS TEMPTATIONS WHISKAS | WHISKAS TEMPTATIONS CAT TREATS · [circulaire: Quebec](https://f.wishabi.net/page_items/428501089/1784848561/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501089/1784848561/extra_large.jpg" alt="Preuve prix GÂTERIES POUR CHATS TEMPTATIONS WHISKAS" width="220" />
 
-**FRAMBOISES** — 1,88 $  ·  🟢 Très bon prix
-Prix habituel : ~3,69 $  ·  meilleur vu : 1,99 $
-*Environ 49 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRAMBOISES | RASPBERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428781107/1785187297/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781107/1785187297/extra_large.jpg" alt="Preuve prix FRAMBOISES" width="220" />
-
-**LAITUE ROMAINE, FEUILLES VERTES OU ROUGES** — 0,88 $  ·  🟢 Très bon prix
-Prix habituel : ~9,93 $  ·  meilleur vu : 0,97 $
-*Environ 91 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: LAITUE ROMAINE, FEUILLES VERTES OU ROUGES | ROMAINE, GREEN OR RED LEAF LETTUCE · [circulaire: Quebec](https://f.wishabi.net/page_items/428781100/1785187293/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781100/1785187293/extra_large.jpg" alt="Preuve prix LAITUE ROMAINE, FEUILLES VERTES OU ROUGES" width="220" />
-
-**CHOU-FLEUR** — 1,75 $  ·  🟢 Très bon prix
-Prix habituel : ~3,65 $  ·  meilleur vu : 1,99 $
-*Environ 52 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHOU-FLEUR | CAULIFLOWER · [circulaire: Quebec](https://f.wishabi.net/page_items/428781097/1785187291/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781097/1785187291/extra_large.jpg" alt="Preuve prix CHOU-FLEUR" width="220" />
-
 **BONBONS SELECTION** — 4,00 $  ·  🟢 Très bon prix
-Prix habituel : ~8,01 $  ·  meilleur vu : 4,69 $
-*Environ 50 % moins cher que le prix habituel.*
+Prix habituel : ~7,56 $  ·  meilleur vu : 4,00 $
+*Environ 47 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BONBONS SELECTION | SELECTION CANDIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428501029/1784848565/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501029/1784848565/extra_large.jpg" alt="Preuve prix BONBONS SELECTION" width="220" />
 
-**SALADE** — 1,79 $  ·  🟢 Très bon prix
-Prix habituel : ~4,04 $  ·  meilleur vu : 2,19 $
-*Environ 56 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SALADE | SALAD · [circulaire: Quebec](https://f.wishabi.net/page_items/428500997/1785120965/extra_large.jpg)
+**GAUFRES SELECTION** — 2,69 $
+Prix habituel : ~5,56 $  ·  meilleur vu : 2,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GAUFRES SELECTION | SELECTION WAFFLES · [circulaire: Quebec](https://f.wishabi.net/page_items/428501082/1784848557/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500997/1785120965/extra_large.jpg" alt="Preuve prix SALADE" width="220" />
+<img src="https://f.wishabi.net/page_items/428501082/1784848557/extra_large.jpg" alt="Preuve prix GAUFRES SELECTION" width="220" />
+
+**PORTIONS DE POULET PANÉES STYLE PUB JANES** — 7,99 $
+Prix habituel : ~11,32 $  ·  meilleur vu : 7,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PORTIONS DE POULET PANÉES STYLE PUB JANES | JANES FROZEN PUB STYLE BREADED CHICKEN PORTIONS · [circulaire: Quebec](https://f.wishabi.net/page_items/428781108/1785187297/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781108/1785187297/extra_large.jpg" alt="Preuve prix PORTIONS DE POULET PANÉES STYLE PUB JANES" width="220" />
+
+**FRIANDISES GLACÉES DRUMSTICK** — 3,94 $
+Prix habituel : ~6,30 $  ·  meilleur vu : 3,94 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRIANDISES GLACÉES DRUMSTICK | NESTLÉ FROZEN DESSERT · [circulaire: Quebec](https://f.wishabi.net/page_items/428781103/1785187294/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428781103/1785187294/extra_large.jpg" alt="Preuve prix FRIANDISES GLACÉES DRUMSTICK" width="220" />
 
 **CONFITURE BONNE MAMAN** — 5,99 $
-Prix habituel : ~8,99 $  ·  meilleur vu : 5,49 $
+Prix habituel : ~8,49 $  ·  meilleur vu : 5,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CONFITURE BONNE MAMAN | BONNE MAMAN JAM · [circulaire: Quebec](https://f.wishabi.net/page_items/428500807/1784848549/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500807/1784848549/extra_large.jpg" alt="Preuve prix CONFITURE BONNE MAMAN" width="220" />
 
-**BIÈRE ARCHIBALD, BRASSEUR DE MONTRÉAL, UNIBROUE** — 21,99 $
-Prix habituel : ~32,99 $  ·  meilleur vu : 21,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BIÈRE ARCHIBALD, BRASSEUR DE MONTRÉAL, UNIBROUE | BEER · [circulaire: Quebec](https://f.wishabi.net/page_items/428500836/1784848550/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500836/1784848550/extra_large.jpg" alt="Preuve prix BIÈRE ARCHIBALD, BRASSEUR DE MONTRÉAL, UNIBROUE" width="220" />
-
 **CRAQUELINS GOLDFISH PEPPERIDGE FARM** — 2,49 $
-Prix habituel : ~4,08 $  ·  meilleur vu : 2,49 $
+Prix habituel : ~3,85 $  ·  meilleur vu : 2,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CRAQUELINS GOLDFISH PEPPERIDGE FARM | PEPPERIDGE FARM GOLDFISH CRACKERS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500835/1784848549/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500835/1784848549/extra_large.jpg" alt="Preuve prix CRAQUELINS GOLDFISH PEPPERIDGE FARM" width="220" />
 
 **PAPIER HYGIÉNIQUE CASHMERE** — 4,99 $
-Prix habituel : ~7,30 $  ·  meilleur vu : 4,99 $
+Prix habituel : ~7,10 $  ·  meilleur vu : 4,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PAPIER HYGIÉNIQUE CASHMERE | CASHMERE BATHROOM TISSUE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500838/1784848551/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500838/1784848551/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE CASHMERE" width="220" />
-
-**AVOCAT** — 0,88 $
-Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: AVOCAT | AVOCADO · [circulaire: Quebec](https://f.wishabi.net/page_items/428781098/1785187291/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781098/1785187291/extra_large.jpg" alt="Preuve prix AVOCAT" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
 **JAMBON BLANC ALPINA** — 4,19 $  ·  ❓ Historique insuffisant
@@ -145,23 +165,11 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428781106/1785187296/extra_large.jpg" alt="Preuve prix PIZZA GUSTO ITALIANO IRRÉSISTIBLE" width="220" />
 
-**FRIANDISES GLACÉES DRUMSTICK** — 3,94 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRIANDISES GLACÉES DRUMSTICK | NESTLÉ FROZEN DESSERT · [circulaire: Quebec](https://f.wishabi.net/page_items/428781103/1785187294/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781103/1785187294/extra_large.jpg" alt="Preuve prix FRIANDISES GLACÉES DRUMSTICK" width="220" />
-
 **BIÈRE LABATT BUD LIGHT, MOLSON COORS LIGHT** — 34,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BIÈRE LABATT BUD LIGHT, MOLSON COORS LIGHT | BEER · [circulaire: Quebec](https://f.wishabi.net/page_items/428500834/1784848548/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500834/1784848548/extra_large.jpg" alt="Preuve prix BIÈRE LABATT BUD LIGHT, MOLSON COORS LIGHT" width="220" />
-
-**CHOU NAPPA** — 1,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHOU NAPPA | NAPPA CABBAGE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500871/1784848553/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500871/1784848553/extra_large.jpg" alt="Preuve prix CHOU NAPPA" width="220" />
 
 **SMOKED MEAT DE PORC FUMOIRS GOSSELIN** — 14,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -175,41 +183,11 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500941/1784848556/extra_large.jpg" alt="Preuve prix HUÎTRE MALPÈQUE STANDARD" width="220" />
 
-**TARTARE GRIZZLY** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TARTARE GRIZZLY | GRIZZLY TARTARE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500942/1784848557/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500942/1784848557/extra_large.jpg" alt="Preuve prix TARTARE GRIZZLY" width="220" />
-
-**PARMIGIANO REGGIANO IRRÉSISTIBLE** — 4,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PARMIGIANO REGGIANO IRRÉSISTIBLE | IRRÉSISTIBLE PARMIGIANO REGGIANO CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500978/1784848554/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500978/1784848554/extra_large.jpg" alt="Preuve prix PARMIGIANO REGGIANO IRRÉSISTIBLE" width="220" />
-
-**PORTIONS DE POULET PANÉES STYLE PUB JANES** — 7,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PORTIONS DE POULET PANÉES STYLE PUB JANES | JANES FROZEN PUB STYLE BREADED CHICKEN PORTIONS · [circulaire: Quebec](https://f.wishabi.net/page_items/428781108/1785187297/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428781108/1785187297/extra_large.jpg" alt="Preuve prix PORTIONS DE POULET PANÉES STYLE PUB JANES" width="220" />
-
-**CITRON** — 0,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CITRON | LEMON · [circulaire: Quebec](https://f.wishabi.net/page_items/428500870/1784848553/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500870/1784848553/extra_large.jpg" alt="Preuve prix CITRON" width="220" />
-
 **BUDWEISER OU BUD LIGHT** — 45,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Quebec](https://f.wishabi.net/page_items/428501124/1784848555/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501124/1784848555/extra_large.jpg" alt="Preuve prix BUDWEISER OU BUD LIGHT" width="220" />
-
-**TARTE SELECTION** — 6,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TARTE SELECTION | SELECTION PIE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500819/1784848557/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500819/1784848557/extra_large.jpg" alt="Preuve prix TARTE SELECTION" width="220" />
 
 **ÉMINCÉ DE JAMBON MAPLE LEAF NATURAL SELECTIONS** — 6,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -234,18 +212,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Quebec](https://f.wishabi.net/page_items/428500953/1784848563/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500953/1784848563/extra_large.jpg" alt="Preuve prix CREVETTES MARINÉES À L'ALL" width="220" />
-
-**VIANDE FRAÎCHE À FONDUE** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: VIANDE FRAÎCHE À FONDUE | FRESH FONDUE MEAT · [circulaire: Quebec](https://f.wishabi.net/page_items/428500907/1784848556/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500907/1784848556/extra_large.jpg" alt="Preuve prix VIANDE FRAÎCHE À FONDUE" width="220" />
-
-**POINTE DE GÂTEAU** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: POINTE DE GÂTEAU | CAKE WEDGE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500958/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500958/1784848552/extra_large.jpg" alt="Preuve prix POINTE DE GÂTEAU" width="220" />
 
 **DUMPLINGS SHAKER** — 9,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -277,12 +243,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500959/1784848552/extra_large.jpg" alt="Preuve prix MINI-GÂTEAU K POUR KATRINE" width="220" />
 
-**BAGUETTE** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BAGUETTE | BAGUETTE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500967/1784848557/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500967/1784848557/extra_large.jpg" alt="Preuve prix BAGUETTE" width="220" />
-
 **THÉ GLACÉ PURE LEAF** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: THÉ GLACÉ PURE LEAF | PURE LEAF ICED TEA · [circulaire: Quebec](https://f.wishabi.net/page_items/428500813/1784848553/extra_large.jpg)
@@ -306,12 +266,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MÉLANGE À SAUCE BÂTON ROUGE | SAUCE MIX · [circulaire: Quebec](https://f.wishabi.net/page_items/428501005/1784848551/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501005/1784848551/extra_large.jpg" alt="Preuve prix MÉLANGE À SAUCE BÂTON ROUGE" width="220" />
-
-**CROUSTILLES TORTILLA TOSTITOS** — 8,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CROUSTILLES TORTILLA TOSTITOS | TOSTITOS TORTILLA CHIPS · [circulaire: Quebec](https://f.wishabi.net/page_items/428501024/1784848562/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501024/1784848562/extra_large.jpg" alt="Preuve prix CROUSTILLES TORTILLA TOSTITOS" width="220" />
 
 **GOÛTER AU PUDDING KOZY SHACK** — 4,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -367,41 +321,11 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500888/1784848556/extra_large.jpg" alt="Preuve prix CHOU-FLEUR BIOLOGIQUE" width="220" />
 
-**PAPIER D'ALUMINIUM SELECTION** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PAPIER D'ALUMINIUM SELECTION | SELECTION ALUMINUM FOIL · [circulaire: Quebec](https://f.wishabi.net/page_items/428501077/1784848554/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501077/1784848554/extra_large.jpg" alt="Preuve prix PAPIER D'ALUMINIUM SELECTION" width="220" />
-
 **SAUCISSES VÉGÉTARIENNES MIEUX-ÊTRE** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAUCISSES VÉGÉTARIENNES MIEUX-ÊTRE | LIFE SMART VEGETARIAN SAUSAGES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500855/1785120897/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500855/1785120897/extra_large.jpg" alt="Preuve prix SAUCISSES VÉGÉTARIENNES MIEUX-ÊTRE" width="220" />
-
-**CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE** — 17,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE | BÂTON ROUGE COOKED BBQ PORK BACK RIBS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500919/1784848555/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500919/1784848555/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE" width="220" />
-
-**FILET DE TRUITE FUMÉ À FROID ARTISANAL** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FILET DE TRUITE FUMÉ À FROID ARTISANAL | ARTISANAL COLD SMOKED TROUT FILLET · [circulaire: Quebec](https://f.wishabi.net/page_items/428500937/1784848554/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500937/1784848554/extra_large.jpg" alt="Preuve prix FILET DE TRUITE FUMÉ À FROID ARTISANAL" width="220" />
-
-**BAVETTE DE BOEUF** — 24,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BAVETTE DE BOEUF | BEEF FLAP MEAT · [circulaire: Quebec](https://f.wishabi.net/page_items/428500900/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500900/1784848552/extra_large.jpg" alt="Preuve prix BAVETTE DE BOEUF" width="220" />
-
-**FLOCONS DE GOBERGE À SAVEUR DE CRABE** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FLOCONS DE GOBERGE À SAVEUR DE CRABE | CRAB FLAVOURED POLLOCK FLAKES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500934/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500934/1784848552/extra_large.jpg" alt="Preuve prix FLOCONS DE GOBERGE À SAVEUR DE CRABE" width="220" />
 
 **MINI-CAROTTES COUPÉES PELÉES** — 1,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -427,12 +351,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500945/1784848559/extra_large.jpg" alt="Preuve prix CHAIR DE HOMARD CUITE ÉMINCÉE" width="220" />
 
-**PÂTISSERIES INDIVIDUELLES** — 9,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PÂTISSERIES INDIVIDUELLES | INDIVIDUAL PASTRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500963/1784848555/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500963/1784848555/extra_large.jpg" alt="Preuve prix PÂTISSERIES INDIVIDUELLES" width="220" />
-
 **GINGEMBRE FRAIS BIOLOGIQUE** — 2,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GINGEMBRE FRAIS BIOLOGIQUE | FRESH ORGANIC GINGER · [circulaire: Quebec](https://f.wishabi.net/page_items/428500880/1784848551/extra_large.jpg)
@@ -444,18 +362,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Quebec](https://f.wishabi.net/page_items/428781109/1785187298/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428781109/1785187298/extra_large.jpg" alt="Preuve prix BIÈRE CORONA EXTRA, STELLA ARTOIS, HEINEKEN, SAPPORO BEER" width="220" />
-
-**GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE** — 10,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE | IRRÉSISTIBLE GARLIC-FINE HERBS LARGE SHRIMP · [circulaire: Quebec](https://f.wishabi.net/page_items/428500929/1784848549/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500929/1784848549/extra_large.jpg" alt="Preuve prix GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE" width="220" />
-
-**MINI BISCUITS** — 4,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MINI BISCUITS | MINI COOKIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500961/1784848554/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500961/1784848554/extra_large.jpg" alt="Preuve prix MINI BISCUITS" width="220" />
 
 **ROSETTES DE BOEUF** — 10,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -493,12 +399,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500982/1784848556/extra_large.jpg" alt="Preuve prix HUMMUS ADONIS" width="220" />
 
-**CRÈME GLACÉE SANS LACTOSE NATREL** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CRÈME GLACÉE SANS LACTOSE NATREL | NATREL LACTOSE FREE ICE CREAM · [circulaire: Quebec](https://f.wishabi.net/page_items/428501034/1784848551/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501034/1784848551/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE SANS LACTOSE NATREL" width="220" />
-
 **POITRINE DE DINDE FUMÉE SELECTION** — 3,19 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: POITRINE DE DINDE FUMÉE SELECTION | SELECTION SMOKED TURKEY BREAST · [circulaire: Quebec](https://f.wishabi.net/page_items/428500980/1784848555/extra_large.jpg)
@@ -510,18 +410,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: EAU PÉTILLANTE FRUITÉE SELECTION | SELECTION FRUITY SPARKLING WATER · [circulaire: Quebec](https://f.wishabi.net/page_items/428501037/1784848553/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501037/1784848553/extra_large.jpg" alt="Preuve prix EAU PÉTILLANTE FRUITÉE SELECTION" width="220" />
-
-**CÉRÉALES BIOLOGIQUES NATURE'S PATH** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÉRÉALES BIOLOGIQUES NATURE'S PATH | NATURE'S PATH ORGANIC CEREAL · [circulaire: Quebec](https://f.wishabi.net/page_items/428501039/1784848554/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501039/1784848554/extra_large.jpg" alt="Preuve prix CÉRÉALES BIOLOGIQUES NATURE'S PATH" width="220" />
-
-**FROMAGE CLASSIQUE BERGERON** — 8,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FROMAGE CLASSIQUE BERGERON | BERGERON CLASSIC CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500974/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500974/1784848552/extra_large.jpg" alt="Preuve prix FROMAGE CLASSIQUE BERGERON" width="220" />
 
 **SAUCE À SALADE MIRACLE WHIP** — 5,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -547,12 +435,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501072/1784848551/extra_large.jpg" alt="Preuve prix PÉPITES DE CHOCOLAT SELECTION" width="220" />
 
-**GAUFRES SELECTION** — 2,69 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GAUFRES SELECTION | SELECTION WAFFLES · [circulaire: Quebec](https://f.wishabi.net/page_items/428501082/1784848557/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501082/1784848557/extra_large.jpg" alt="Preuve prix GAUFRES SELECTION" width="220" />
-
 **SOUS-MARIN** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SOUS-MARIN | SUBMARINE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500992/1785120963/extra_large.jpg)
@@ -565,18 +447,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501052/1784848561/extra_large.jpg" alt="Preuve prix SNACK PACK PUDDING EN COUPE" width="220" />
 
-**JUS DE POMME ROUGEMONT** — 5,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: JUS DE POMME ROUGEMONT | ROUGEMONT APPLE JUICE · [circulaire: Quebec](https://f.wishabi.net/page_items/428501027/1784848564/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501027/1784848564/extra_large.jpg" alt="Preuve prix JUS DE POMME ROUGEMONT" width="220" />
-
-**JUS OU COCKTAIL SELECTION** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: JUS OU COCKTAIL SELECTION | SELECTION COCKTAIL OR JUICE · [circulaire: Quebec](https://f.wishabi.net/page_items/428501074/1784848553/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501074/1784848553/extra_large.jpg" alt="Preuve prix JUS OU COCKTAIL SELECTION" width="220" />
-
 **CRAQUELINS À L'EAU IRRÉSISTIBLE** — 2,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CRAQUELINS À L'EAU IRRÉSISTIBLE | IRRÉSISTIBLE CRACKERS · [circulaire: Quebec](https://f.wishabi.net/page_items/428501095/1784848564/extra_large.jpg)
@@ -588,12 +458,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: NOURRITURE POUR CHATS IAMS PROACTIVE HEALTH | IAMS PROACTIVE HEALTH CAT FOOD · [circulaire: Quebec](https://f.wishabi.net/page_items/428501075/1784848553/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501075/1784848553/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHATS IAMS PROACTIVE HEALTH" width="220" />
-
-**SAUCE CHILI HEINZ** — 6,29 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAUCE CHILI HEINZ | HEINZ CHILI SAUCE · [circulaire: Quebec](https://f.wishabi.net/page_items/428501087/1784848560/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501087/1784848560/extra_large.jpg" alt="Preuve prix SAUCE CHILI HEINZ" width="220" />
 
 **BOISSON NON ALCOOLISÉE ATYPIQUE** — 15,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -624,18 +488,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: REPAS SAUCISSES ITALIENNES | ITALIAN SAUSAGE MEAL · [circulaire: Quebec](https://f.wishabi.net/page_items/428500987/1785120962/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500987/1785120962/extra_large.jpg" alt="Preuve prix REPAS SAUCISSES ITALIENNES" width="220" />
-
-**COCKTAIL DE LÉGUMES GARDEN COCKTAIL** — 2,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: COCKTAIL DE LÉGUMES GARDEN COCKTAIL | GARDEN COCKTAIL VEGETABLE COCKTAIL · [circulaire: Quebec](https://f.wishabi.net/page_items/428501047/1784848558/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501047/1784848558/extra_large.jpg" alt="Preuve prix COCKTAIL DE LÉGUMES GARDEN COCKTAIL" width="220" />
-
-**BOISSON GAZEUSE 1642** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOISSON GAZEUSE 1642 | 1642 SOFT DRINK · [circulaire: Quebec](https://f.wishabi.net/page_items/428501102/1784848551/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501102/1784848551/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE 1642" width="220" />
 
 **BOISSON SANS ALCOOL WHITE CLAW ZERO** — 7,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -672,18 +524,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CIDRE À SAVEUR DE SANGRIA LACROIX | LACROIX CIDER · [circulaire: Quebec](https://f.wishabi.net/page_items/428501101/1784848550/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501101/1784848550/extra_large.jpg" alt="Preuve prix CIDRE À SAVEUR DE SANGRIA LACROIX" width="220" />
-
-**FRITES SELECTION** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRITES SELECTION | SELECTION FRENCH FRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/428501093/1784848563/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501093/1784848563/extra_large.jpg" alt="Preuve prix FRITES SELECTION" width="220" />
-
-**FILETS DE TILAPIA FRAIS** — 10,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FILETS DE TILAPIA FRAIS | FRESH TILAPIA FILLETS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500951/1784848562/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500951/1784848562/extra_large.jpg" alt="Preuve prix FILETS DE TILAPIA FRAIS" width="220" />
 
 **CROUSTILLES TORTILLA TOSTITOS, DORITOS** — 6,29 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -769,23 +609,11 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500825/1785120837/extra_large.jpg" alt="Preuve prix BLEUETS ENROBÉS DE CHOCOLAT CHOCOLATERIE DES PÈRES" width="220" />
 
-**NIDS D'OIGNONS ET CREVETTES IRRÉSISTIBLE** — 8,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: NIDS D'OIGNONS ET CREVETTES IRRÉSISTIBLE | IRRÉSISTIBLE SHRIMP & ONION NESTS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500932/1784848551/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500932/1784848551/extra_large.jpg" alt="Preuve prix NIDS D'OIGNONS ET CREVETTES IRRÉSISTIBLE" width="220" />
-
 **COURGETTES VERTES BIOLOGIQUES** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: COURGETTES VERTES BIOLOGIQUES | ORGANIC GREEN ZUCCHINIS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500892/1784848558/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500892/1784848558/extra_large.jpg" alt="Preuve prix COURGETTES VERTES BIOLOGIQUES" width="220" />
-
-**LIME** — 0,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Quebec](https://f.wishabi.net/page_items/428500879/1784848551/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500879/1784848551/extra_large.jpg" alt="Preuve prix LIME" width="220" />
 
 **BOISSON DE MALT TWISTED TEA** — 23,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -810,12 +638,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TRANCHES VÉGÉ GUSTA | GUSTA VEGGIE SLICES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500857/1785120898/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500857/1785120898/extra_large.jpg" alt="Preuve prix TRANCHES VÉGÉ GUSTA" width="220" />
-
-**TOMATES HEIRLOOM** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TOMATES HEIRLOOM | HEIRLOOM TOMATOES · [circulaire: Quebec](https://f.wishabi.net/page_items/428500869/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500869/1784848552/extra_large.jpg" alt="Preuve prix TOMATES HEIRLOOM" width="220" />
 
 **BETTERAVES EN BOTTE ROUGES OU DORÉES** — 3,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -913,12 +735,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500971/1784848550/extra_large.jpg" alt="Preuve prix FROMAGE HALOUMI LE BÉDOUIN" width="220" />
 
-**FROMAGE OKA ORIGINAL** — 4,19 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FROMAGE OKA ORIGINAL | OKA ORIGINAL CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500979/1784848555/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500979/1784848555/extra_large.jpg" alt="Preuve prix FROMAGE OKA ORIGINAL" width="220" />
-
 **JAMBON FORÊT NOIRE IRRÉSISTIBLE ARTISAN** — 3,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: JAMBON FORÊT NOIRE IRRÉSISTIBLE ARTISAN | IRRÉSISTIBLE ARTISAN BLACK FOREST HAM · [circulaire: Quebec](https://f.wishabi.net/page_items/428500975/1784848552/extra_large.jpg)
@@ -930,18 +746,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: RILLETTES FAÇON LE MANS PREMIÈRE MOISSON | PREMIÈRE MOISSON RILLETTES LE MANS STYLE · [circulaire: Quebec](https://f.wishabi.net/page_items/428500983/1784848557/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500983/1784848557/extra_large.jpg" alt="Preuve prix RILLETTES FAÇON LE MANS PREMIÈRE MOISSON" width="220" />
-
-**BRUSCHETTA PLAISIRS GASTRONOMIQUES** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BRUSCHETTA PLAISIRS GASTRONOMIQUES | PLAISIRS GASTRONOMIQUES BRUSCHETTA · [circulaire: Quebec](https://f.wishabi.net/page_items/428500984/1784848557/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500984/1784848557/extra_large.jpg" alt="Preuve prix BRUSCHETTA PLAISIRS GASTRONOMIQUES" width="220" />
-
-**CÉRÉALES POUR BÉBÉS GERBER** — 5,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÉRÉALES POUR BÉBÉS GERBER | GERBER BABY CEREAL · [circulaire: Quebec](https://f.wishabi.net/page_items/428501033/1784848551/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501033/1784848551/extra_large.jpg" alt="Preuve prix CÉRÉALES POUR BÉBÉS GERBER" width="220" />
 
 **WRAP** — 6,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -997,12 +801,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501007/1784848553/extra_large.jpg" alt="Preuve prix COCKTAIL OU JUS DE CANNEBERGES OCEAN SPRAY" width="220" />
 
-**RIZ BASMATI SELECTION** — 4,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: RIZ BASMATI SELECTION | SELECTION BASMATI RICE · [circulaire: Quebec](https://f.wishabi.net/page_items/428501006/1784848552/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501006/1784848552/extra_large.jpg" alt="Preuve prix RIZ BASMATI SELECTION" width="220" />
-
 **SAUCE ASIATIQUE VH** — 4,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAUCE ASIATIQUE VH | VH CHINESE SAUCE · [circulaire: Quebec](https://f.wishabi.net/page_items/428501012/1784848556/extra_large.jpg)
@@ -1050,18 +848,6 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FRUITS EN COUPE SELECTION, MIEUX‑ÊTRE | SELECTION FRUIT CUPS · [circulaire: Quebec](https://f.wishabi.net/page_items/428501070/1784848550/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428501070/1784848550/extra_large.jpg" alt="Preuve prix FRUITS EN COUPE SELECTION, MIEUX‑ÊTRE" width="220" />
-
-**DÉTERGENT POUR LA VAISSELLE SELECTION** — 2,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: DÉTERGENT POUR LA VAISSELLE SELECTION | SELECTION DISHWASHING DETERGENT · [circulaire: Quebec](https://f.wishabi.net/page_items/428501084/1784848559/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501084/1784848559/extra_large.jpg" alt="Preuve prix DÉTERGENT POUR LA VAISSELLE SELECTION" width="220" />
-
-**RELISH SELECTION** — 1,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: RELISH SELECTION | SELECTION RELISH · [circulaire: Quebec](https://f.wishabi.net/page_items/428501085/1784848559/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428501085/1784848559/extra_large.jpg" alt="Preuve prix RELISH SELECTION" width="220" />
 
 **VIN SMOKY BAY** — 14,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -1135,93 +921,72 @@ Prix habituel : ~2,49 $  ·  meilleur vu : 1,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428500854/1785120897/extra_large.jpg" alt="Preuve prix TOFU BIOLOGIQUE SOYKEI" width="220" />
 
-**SAMOSAS VÉGÉTARIENS** — 7,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAMOSAS VÉGÉTARIENS | SAMOSAS · [circulaire: Quebec](https://f.wishabi.net/page_items/428500988/1785120962/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428500988/1785120962/extra_large.jpg" alt="Preuve prix SAMOSAS VÉGÉTARIENS" width="220" />
-
 
 ---
 
-## 🛒 Maxi — 136 spéciaux (11 bons + 125 à surveiller)
+## 🛒 Maxi — 118 spéciaux (9 bons + 109 à surveiller)
 
-**PÂTES SANS NOM®, 900 G** — 0,99 $  ·  ✅ À acheter en extra
-Prix habituel : ~4,94 $  ·  meilleur vu : 1,00 $
+**SAUCE POUR PÂTES PC, 410/600 ML** — 0,50 $  ·  ✅ À acheter en extra
+Prix habituel : ~4,83 $  ·  meilleur vu : 0,50 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625641/1784941989/extra_large.jpg)
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625513/1785161954/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625641/1784941989/extra_large.jpg" alt="Preuve prix PÂTES SANS NOM®, 900 G" width="220" />
+<img src="https://f.wishabi.net/page_items/428625513/1785161954/extra_large.jpg" alt="Preuve prix SAUCE POUR PÂTES PC, 410/600 ML" width="220" />
+
+**KIWIS** — 1,00 $  ·  ✅ Excellent spécial
+Prix habituel : ~5,79 $  ·  meilleur vu : 1,00 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625344/1784941741/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428625344/1784941741/extra_large.jpg" alt="Preuve prix KIWIS" width="220" />
 
 **JUS MINUTE MAID OU MÉLANGE DE JUS FRUITOPIA, 1 L** — 1,50 $  ·  ✅ Excellent spécial
-Prix habituel : ~5,17 $  ·  meilleur vu : 1,49 $
+Prix habituel : ~5,20 $  ·  meilleur vu : 1,49 $
 *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625469/1784941756/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625469/1784941756/extra_large.jpg" alt="Preuve prix JUS MINUTE MAID OU MÉLANGE DE JUS FRUITOPIA, 1 L" width="220" />
 
 **CRÈME SURE SEALTEST, 500 ML OU YOGOURT SOURCE, 630 G** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~7,88 $  ·  meilleur vu : 0,99 $
-*Environ 62 % moins cher que le prix habituel.*
+Prix habituel : ~7,71 $  ·  meilleur vu : 0,99 $
+*Environ 61 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625748/1784941987/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625748/1784941987/extra_large.jpg" alt="Preuve prix CRÈME SURE SEALTEST, 500 ML OU YOGOURT SOURCE, 630 G" width="220" />
 
+**MAÏS SUCRÉ DEUX COULEURS** — 0,25 $  ·  🟢 Très bon prix
+Prix habituel : ~0,45 $  ·  meilleur vu : 0,25 $
+*Environ 44 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625631/1784941984/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428625631/1784941984/extra_large.jpg" alt="Preuve prix MAÏS SUCRÉ DEUX COULEURS" width="220" />
+
+**CHARCUTERIES TRANCHÉES OLYMEL** — 4,00 $  ·  🟢 Très bon prix
+Prix habituel : ~6,74 $  ·  meilleur vu : 4,00 $
+*Environ 41 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHARCUTERIES TRANCHÉES OLYMEL | SLICED DELI MEAT, 150/175 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625752/1784941990/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428625752/1784941990/extra_large.jpg" alt="Preuve prix CHARCUTERIES TRANCHÉES OLYMEL" width="220" />
+
 **Couronne de brocoli** — 1,50 $
-Prix habituel : ~2,29 $  ·  meilleur vu : 1,44 $
+Prix habituel : ~2,31 $  ·  meilleur vu : 1,44 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: couronne de brocoli · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625632/1784941984/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625632/1784941984/extra_large.jpg" alt="Preuve prix Couronne de brocoli" width="220" />
 
 **PETITS GÂTEAUX VACHON** — 4,00 $
-Prix habituel : ~5,93 $  ·  meilleur vu : 2,67 $
+Prix habituel : ~5,61 $  ·  meilleur vu : 2,67 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PETITS GÂTEAUX VACHON | SNACK CAKES, 252-336 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625396/1784941754/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625396/1784941754/extra_large.jpg" alt="Preuve prix PETITS GÂTEAUX VACHON" width="220" />
 
-**SAUCE POUR PÂTES PC, 410/600 ML** — 0,50 $
-Prix habituel : ~4,94 $  ·  meilleur vu : 1,00 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625513/1785161954/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625513/1785161954/extra_large.jpg" alt="Preuve prix SAUCE POUR PÂTES PC, 410/600 ML" width="220" />
-
-**CHARCUTERIES TRANCHÉES OLYMEL** — 4,00 $
-Prix habituel : ~7,13 $  ·  meilleur vu : 6,00 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHARCUTERIES TRANCHÉES OLYMEL | SLICED DELI MEAT, 150/175 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625752/1784941990/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625752/1784941990/extra_large.jpg" alt="Preuve prix CHARCUTERIES TRANCHÉES OLYMEL" width="220" />
-
-**MELON D'EAU ENTIER SANS PÉPINS, 9 lb** — 3,97 $
-Prix habituel : ~5,25 $  ·  meilleur vu : 3,77 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625628/1784941982/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625628/1784941982/extra_large.jpg" alt="Preuve prix MELON D'EAU ENTIER SANS PÉPINS, 9 lb" width="220" />
-
 **BOUILLON CAMPBELL'S** — 1,79 $
-Prix habituel : ~2,42 $  ·  meilleur vu : 1,67 $
+Prix habituel : ~2,38 $  ·  meilleur vu : 1,67 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOUILLON CAMPBELL'S | BROTH, 250/900 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625453/1784941745/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625453/1784941745/extra_large.jpg" alt="Preuve prix BOUILLON CAMPBELL'S" width="220" />
 
-**KIWIS** — 1,00 $
-Prix habituel : ~6,37 $  ·  meilleur vu : 4,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625344/1784941741/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625344/1784941741/extra_large.jpg" alt="Preuve prix KIWIS" width="220" />
-
-**MAÏS SUCRÉ DEUX COULEURS** — 0,25 $
-Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625631/1784941984/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625631/1784941984/extra_large.jpg" alt="Preuve prix MAÏS SUCRÉ DEUX COULEURS" width="220" />
-
 *— Autres spéciaux (pas encore dans la base de prix) —*
-**KITS DE SALADE HACHÉE PC** — 6,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: KITS DE SALADE HACHÉE PC | CHOPPED SALAD KITS, 285-396 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625346/1784941743/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625346/1784941743/extra_large.jpg" alt="Preuve prix KITS DE SALADE HACHÉE PC" width="220" />
-
 **CROUSTILLES RUFFLES, 180-200 G** — 4,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625369/1784941744/extra_large.jpg)
@@ -1324,12 +1089,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625450/1784941742/extra_large.jpg" alt="Preuve prix CROUSTILLE DE TORTILLA DORITOS 210/235 G OU GRIGNOTINES CHEETOS 180-285 G" width="220" />
 
-**BARRES DE DESSERT GLACÉ MELONA, 560 ML** — 5,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625433/1784941749/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625433/1784941749/extra_large.jpg" alt="Preuve prix BARRES DE DESSERT GLACÉ MELONA, 560 ML" width="220" />
-
 **PAPIER HYGIÉNIQUE PC, 30=100 ROULEAUX** — 2,50 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625514/1785161954/extra_large.jpg)
@@ -1384,12 +1143,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625647/1784941743/extra_large.jpg" alt="Preuve prix Barres de chocolat Cadbury" width="220" />
 
-**CRAQUELINS PRETZEL CRISPS SNACK FACTORY** — 5,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CRAQUELINS PRETZEL CRISPS SNACK FACTORY | CRACKERS, 200 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625390/1784941749/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625390/1784941749/extra_large.jpg" alt="Preuve prix CRAQUELINS PRETZEL CRISPS SNACK FACTORY" width="220" />
-
 **SACS DE CONSERVATION ZIPLOC, 10-90 UN.** — 4,50 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625470/1784941757/extra_large.jpg)
@@ -1432,12 +1185,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625418/1784941754/extra_large.jpg" alt="Preuve prix SAUCISSES FUMÉES DE POULET MAPLE LODGE FARMS OU ZAHIBA HALAL, 450 G" width="220" />
 
-**RADIS EN BOTTE** — 1,25 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: RADIS EN BOTTE | BUNCHED RADISH · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625354/1784941748/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625354/1784941748/extra_large.jpg" alt="Preuve prix RADIS EN BOTTE" width="220" />
-
 **BÂTONS GLACÉS JUMBO MR. FREEZE** — 15,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BÂTONS GLACÉS JUMBO MR. FREEZE | JUMBO FREEZE POP, 60X150 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625444/1784941758/extra_large.jpg)
@@ -1455,12 +1202,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625449/1784941742/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625449/1784941742/extra_large.jpg" alt="Preuve prix POUDRE À GELÉE JELL-O, 9,1-85 G" width="220" />
-
-**SAUCE BBQ DIANA OU BULL'S-EYE** — 3,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAUCE BBQ DIANA OU BULL'S-EYE | BBQ SAUCE, 425-500 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625498/1784941747/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625498/1784941747/extra_large.jpg" alt="Preuve prix SAUCE BBQ DIANA OU BULL'S-EYE" width="220" />
 
 **CÔTES DE DOS DE PORC BÂTON ROUGE, LOU'S OU MONTANA'S, 395-450 g** — 10,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -1485,12 +1226,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TARTE ST-DONAT | PIE, 500-650 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625394/1784941752/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625394/1784941752/extra_large.jpg" alt="Preuve prix TARTE ST-DONAT" width="220" />
-
-**MANDARINES DÉLICES DU MARCHÉ** — 3,77 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MANDARINES DÉLICES DU MARCHÉ | MANDARINS, sac de 1,5 lb · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625361/1784941754/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625361/1784941754/extra_large.jpg" alt="Preuve prix MANDARINES DÉLICES DU MARCHÉ" width="220" />
 
 **BARRES DE CHOCOLAT NESTLÉ, 33-60 G OU FRIANDISES CARNABY SWEET, 125 G** — 1,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -1558,12 +1293,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625754/1784941992/extra_large.jpg" alt="Preuve prix DRUMSTICK OU FRIANDISES GLACÉES NESTLÉ, 4 UN." width="220" />
 
-**BOISSONS GAZEUSES PEPSI, 12X355 ML** — 8,25 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625366/1784941741/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625366/1784941741/extra_large.jpg" alt="Preuve prix BOISSONS GAZEUSES PEPSI, 12X355 ML" width="220" />
-
 **BOISSONS GAZEUSES COKE OU PEPSI, 24X355 ML** — 13,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625757/1784941994/extra_large.jpg)
@@ -1588,12 +1317,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625420/1784941755/extra_large.jpg" alt="Preuve prix RÔTI DE BAS DE PALETTE DE BOEUF DÉSOSSÉ" width="220" />
 
-**COURGETTE VERTE OU JAUNE** — 1,50 $/lb  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: COURGETTE VERTE OU JAUNE | GREEN OR YELLOW ZUCCHINI · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625349/1784941745/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625349/1784941745/extra_large.jpg" alt="Preuve prix COURGETTE VERTE OU JAUNE" width="220" />
-
 **MARGARINE BECEL, 637/800 g** — 6,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625742/1784941982/extra_large.jpg)
@@ -1606,23 +1329,11 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625636/1784941986/extra_large.jpg" alt="Preuve prix BŒUF HACHÉ MAIGRE, 450 G" width="220" />
 
-**FILET DE TILAPIA** — 10,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FILET DE TILAPIA | TILAPIA FILLET, 350 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625417/1784941753/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625417/1784941753/extra_large.jpg" alt="Preuve prix FILET DE TILAPIA" width="220" />
-
 **DÉTERGENT LIQUIDE À LESSIVE 4,25/4,55 L OU FLINGS, 42/48 UN. OU PERLES, 598/680 G OU ASSOUPLISSANT EN FEUILLES, 240 UN. GAIN** — 12,88 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625625/1784941980/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625625/1784941980/extra_large.jpg" alt="Preuve prix DÉTERGENT LIQUIDE À LESSIVE 4,25/4,55 L OU FLINGS, 42/48 UN. OU PERLES, 598/680 G OU ASSOUPLISSANT EN FEUILLES, 240 UN. GAIN" width="220" />
-
-**BARRES FIBRE 1, 125 G OU GRANOLA, PROTÉINE OU BISCUITS VAL NATURE, 148-210 G** — 3,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · texte brut: BARRES FIBRE 1, 125 G OU GRANOLA, PROTÉINE OU BISCUITS VAL NATURE, 148-210 G | BISCUITS, GRANOLA OR PROTEIN BAR · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625652/1784941747/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625652/1784941747/extra_large.jpg" alt="Preuve prix BARRES FIBRE 1, 125 G OU GRANOLA, PROTÉINE OU BISCUITS VAL NATURE, 148-210 G" width="220" />
 
 **HARICOTS VERTS OU JAUNES** — 2,00 $/lb  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -1696,23 +1407,11 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625635/1784941986/extra_large.jpg" alt="Preuve prix POITRINES DE POULET, 3 un." width="220" />
 
-**MÉDAILLON DE FILET MIGNON DE BOEUF HOUSTON, 170 g** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625638/1784941988/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625638/1784941988/extra_large.jpg" alt="Preuve prix MÉDAILLON DE FILET MIGNON DE BOEUF HOUSTON, 170 g" width="220" />
-
 **FILETS DE POISSON POÊLÉ OU EN PÂTE HIGH LINER, 425-540 g** — 10,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625749/1784941988/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625749/1784941988/extra_large.jpg" alt="Preuve prix FILETS DE POISSON POÊLÉ OU EN PÂTE HIGH LINER, 425-540 g" width="220" />
-
-**CROUSTILLES LAY'S, 177-235 G** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625753/1784941991/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625753/1784941991/extra_large.jpg" alt="Preuve prix CROUSTILLES LAY'S, 177-235 G" width="220" />
 
 **COCKTAIL DE LÉGUMES V8, 6X156 ML** — 2,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -1822,24 +1521,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625348/1784941744/extra_large.jpg" alt="Preuve prix CHAMPIGNONS ENTIERS BLANC PC" width="220" />
 
-**RAGOÛT DE BOULETTES CORDON BLEU, 410 G** — 3,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625428/1784941746/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625428/1784941746/extra_large.jpg" alt="Preuve prix RAGOÛT DE BOULETTES CORDON BLEU, 410 G" width="220" />
-
-**MANGUE ROUGE** — 1,50 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MANGUE ROUGE | RED MANGO, · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625358/1784941751/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625358/1784941751/extra_large.jpg" alt="Preuve prix MANGUE ROUGE" width="220" />
-
-**TROUSSES DE REPAS 260-420 G OU SAUCE CRÉMEUSE 354 ML TACO BELL** — 4,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TROUSSES DE REPAS 260-420 G OU SAUCE CRÉMEUSE 354 ML TACO BELL | DINNER KITS OR CREAMY SAUCE · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625495/1784941745/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625495/1784941745/extra_large.jpg" alt="Preuve prix TROUSSES DE REPAS 260-420 G OU SAUCE CRÉMEUSE 354 ML TACO BELL" width="220" />
-
 **THÉ GLACÉ FUZE OU PEACE TEA, 12x341 mL** — 7,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625651/1784941747/extra_large.jpg)
@@ -1924,12 +1605,6 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428625372/1784941746/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE NAYA, 28X500 ML" width="220" />
 
-**BIÈRE BUDWEISER, BUD LIGHT, ALEXANDER KEITH'S, LABATT 50 OU BLEUE, MICHELOB ULTRA, COORS LIGHT OU ORIGINAL, MILLER LITE, MOLSON DRY, EXPORT OU ULTRA, SLEEMAN CLEAR 2.0 OU DRAUGHT, 24x341/355 mL** — 72,98 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625758/1784941995/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428625758/1784941995/extra_large.jpg" alt="Preuve prix BIÈRE BUDWEISER, BUD LIGHT, ALEXANDER KEITH'S, LABATT 50 OU BLEUE, MICHELOB ULTRA, COORS LIGHT OU ORIGINAL, MILLER LITE, MOLSON DRY, EXPORT OU ULTRA, SLEEMAN CLEAR 2.0 OU DRAUGHT, 24x341/355 mL" width="220" />
-
 **CREVETTES BLANCHES CRUES DU PACIFIQUE À DÉCORTICATION ÉCLAIR SEAQUEST, 16-20/LB, 300 G** — 8,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428625405/1784941743/extra_large.jpg)
@@ -1969,116 +1644,144 @@ Prix habituel : ~0,50 $  ·  meilleur vu : 0,50 $
 
 ---
 
-## 🛒 IGA — 207 spéciaux (17 bons + 190 à surveiller)
+## 🛒 IGA — 179 spéciaux (21 bons + 158 à surveiller)
 
 **ROULÉ AU SAUMON FUMÉ C'EST PRÊT!** — 3,00 $  ·  ✅ À acheter en extra
-Prix habituel : ~16,54 $  ·  meilleur vu : 2,99 $
+Prix habituel : ~18,53 $  ·  meilleur vu : 2,99 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441640/1784789235/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441640/1784789235/extra_large.jpg" alt="Preuve prix ROULÉ AU SAUMON FUMÉ C'EST PRÊT!" width="220" />
 
 **PLAT D'ACCOMPAGNEMENT KNORR SIDEKICKS** — 1,65 $  ·  ✅ Excellent spécial
-Prix habituel : ~4,12 $  ·  meilleur vu : 1,65 $
+Prix habituel : ~3,81 $  ·  meilleur vu : 1,65 $
 *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441483/1784789227/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441483/1784789227/extra_large.jpg" alt="Preuve prix PLAT D'ACCOMPAGNEMENT KNORR SIDEKICKS" width="220" />
 
+**REPAS SURGELÉ KRAFT KD DELUXE** — 3,99 $  ·  ✅ Excellent spécial
+Prix habituel : ~8,00 $  ·  meilleur vu : 3,99 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519552/1784789243/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428519552/1784789243/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ KRAFT KD DELUXE" width="220" />
+
+**FRIANDISES SKITTLES** — 2,49 $  ·  ✅ Excellent spécial
+Prix habituel : ~5,49 $  ·  meilleur vu : 2,49 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441539/1784789227/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428441539/1784789227/extra_large.jpg" alt="Preuve prix FRIANDISES SKITTLES" width="220" />
+
+**REPAS SURGELÉ CRAVE** — 3,99 $  ·  ✅ Excellent spécial
+Prix habituel : ~8,00 $  ·  meilleur vu : 3,99 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441492/1784789232/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428441492/1784789232/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ CRAVE" width="220" />
+
+**PAPIER HYGIÉNIQUE COMPLIMENTS** — 7,99 $  ·  ✅ Excellent spécial
+Prix habituel : ~17,61 $  ·  meilleur vu : 7,99 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428494099/1784789243/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428494099/1784789243/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE COMPLIMENTS" width="220" />
+
 **YOGOURT LIBERTÉ CLASSIQUE** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~7,88 $  ·  meilleur vu : 0,99 $
-*Environ 62 % moins cher que le prix habituel.*
+Prix habituel : ~7,71 $  ·  meilleur vu : 0,99 $
+*Environ 61 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519553/1784789244/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428519553/1784789244/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ CLASSIQUE" width="220" />
 
 **YOGOURT LIBERTÉ MÉDITERRANÉE** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~7,88 $  ·  meilleur vu : 0,99 $
-*Environ 62 % moins cher que le prix habituel.*
+Prix habituel : ~7,71 $  ·  meilleur vu : 0,99 $
+*Environ 61 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441493/1784789233/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441493/1784789233/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ MÉDITERRANÉE" width="220" />
 
 **CŒURS DE ROMAINE** — 2,00 $  ·  🟢 Très bon prix
-Prix habituel : ~3,57 $  ·  meilleur vu : 1,97 $
-*Environ 44 % moins cher que le prix habituel.*
+Prix habituel : ~3,42 $  ·  meilleur vu : 1,97 $
+*Environ 42 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484220/1784789231/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484220/1784789231/extra_large.jpg" alt="Preuve prix CŒURS DE ROMAINE" width="220" />
 
-**FRIANDISES SKITTLES** — 2,49 $  ·  🟢 Très bon prix
-Prix habituel : ~6,49 $  ·  meilleur vu : 2,99 $
-*Environ 62 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441539/1784789227/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441539/1784789227/extra_large.jpg" alt="Preuve prix FRIANDISES SKITTLES" width="220" />
-
-**CHIPS TORTILLA TOSTITOS** — 3,33 $  ·  🟢 Très bon prix
-Prix habituel : ~6,26 $  ·  meilleur vu : 3,77 $
-*Environ 47 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441481/1784789225/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441481/1784789225/extra_large.jpg" alt="Preuve prix CHIPS TORTILLA TOSTITOS" width="220" />
-
-**FROMAGE RÂPÉ P'TIT QUÉBEC** — 5,47 $
-Prix habituel : ~8,85 $  ·  meilleur vu : 5,47 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484231/1784789239/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484231/1784789239/extra_large.jpg" alt="Preuve prix FROMAGE RÂPÉ P'TIT QUÉBEC" width="220" />
-
-**CANTALOUP** — 2,47 $
-Prix habituel : ~3,69 $  ·  meilleur vu : 1,77 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484222/1784789232/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484222/1784789232/extra_large.jpg" alt="Preuve prix CANTALOUP" width="220" />
-
-**POITRINES DE POULET FRAIS DÉSOSSÉES EXCELDOR** — 5,99 $
-Prix habituel : ~8,84 $  ·  meilleur vu : 5,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484221/1784789232/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484221/1784789232/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES EXCELDOR" width="220" />
-
-**CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
-Prix habituel : ~5,63 $  ·  meilleur vu : 3,87 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519545/1784789239/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428519545/1784789239/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
-
-**PAPIER HYGIÉNIQUE COMPLIMENTS** — 7,99 $
-Prix habituel : ~18,98 $  ·  meilleur vu : 12,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428494099/1784789243/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428494099/1784789243/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE COMPLIMENTS" width="220" />
-
-**CÉLERI** — 1,99 $
-Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
+**CÉLERI** — 1,99 $  ·  🟢 Très bon prix
+Prix habituel : ~3,54 $  ·  meilleur vu : 1,99 $
+*Environ 44 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484265/1784789230/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484265/1784789230/extra_large.jpg" alt="Preuve prix CÉLERI" width="220" />
 
-**POIRES BARTLETT** — 2,49 $
-Prix habituel : ~3,50 $  ·  meilleur vu : 2,49 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484275/1784789237/extra_large.jpg)
+**CHIPS TORTILLA TOSTITOS** — 3,33 $  ·  🟢 Très bon prix
+Prix habituel : ~5,53 $  ·  meilleur vu : 3,33 $
+*Environ 40 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441481/1784789225/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484275/1784789237/extra_large.jpg" alt="Preuve prix POIRES BARTLETT" width="220" />
+<img src="https://f.wishabi.net/page_items/428441481/1784789225/extra_large.jpg" alt="Preuve prix CHIPS TORTILLA TOSTITOS" width="220" />
+
+**CANTALOUP** — 2,47 $
+Prix habituel : ~3,66 $  ·  meilleur vu : 1,77 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484222/1784789232/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428484222/1784789232/extra_large.jpg" alt="Preuve prix CANTALOUP" width="220" />
+
+**CRÈME GLACÉE CHAPMAN'S** — 4,99 $
+Prix habituel : ~27,99 $  ·  meilleur vu : 4,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441555/1784789237/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428441555/1784789237/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE CHAPMAN'S" width="220" />
+
+**CRÈME GLACÉE SANS LACTOSE NATREL** — 2,99 $
+Prix habituel : ~4,16 $  ·  meilleur vu : 2,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441971/1784789240/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428441971/1784789240/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE SANS LACTOSE NATREL" width="220" />
+
+**CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,87 $
+Prix habituel : ~5,57 $  ·  meilleur vu : 3,87 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519545/1784789239/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428519545/1784789239/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
+
+**FROMAGE RÂPÉ P'TIT QUÉBEC** — 5,47 $
+Prix habituel : ~8,28 $  ·  meilleur vu : 5,47 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484231/1784789239/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428484231/1784789239/extra_large.jpg" alt="Preuve prix FROMAGE RÂPÉ P'TIT QUÉBEC" width="220" />
+
+**VIN BLANC OU ROUGE SMOKY BAY** — 12,49 $
+Prix habituel : ~19,66 $  ·  meilleur vu : 12,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519555/1784789245/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428519555/1784789245/extra_large.jpg" alt="Preuve prix VIN BLANC OU ROUGE SMOKY BAY" width="220" />
 
 **MOUTARDE PRÉPARÉE FRENCH'S** — 1,99 $
-Prix habituel : ~2,62 $  ·  meilleur vu : 1,99 $
+Prix habituel : ~2,60 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441698/1784789233/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441698/1784789233/extra_large.jpg" alt="Preuve prix MOUTARDE PRÉPARÉE FRENCH'S" width="220" />
 
 **BIÈRE SLEEMAN CLEAR 2.0** — 31,17 $
-Prix habituel : ~42,88 $  ·  meilleur vu : 32,43 $
+Prix habituel : ~40,93 $  ·  meilleur vu : 31,17 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519558/1784789247/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428519558/1784789247/extra_large.jpg" alt="Preuve prix BIÈRE SLEEMAN CLEAR 2.0" width="220" />
 
-**CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE** — 9,99 $
-Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484228/1784789236/extra_large.jpg)
+**LIMES BIOLOGIQUES** — 2,77 $
+Prix habituel : ~3,66 $  ·  meilleur vu : 2,77 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428584931/1784857171/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484228/1784789236/extra_large.jpg" alt="Preuve prix CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE" width="220" />
+<img src="https://f.wishabi.net/page_items/428584931/1784857171/extra_large.jpg" alt="Preuve prix LIMES BIOLOGIQUES" width="220" />
+
+**POITRINES DE POULET FRAIS DÉSOSSÉES EXCELDOR** — 5,99 $
+Prix habituel : ~8,37 $  ·  meilleur vu : 5,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484221/1784789232/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428484221/1784789232/extra_large.jpg" alt="Preuve prix POITRINES DE POULET FRAIS DÉSOSSÉES EXCELDOR" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
 **MÉLANGE À SAUCE THE KEG** — 4,98 $  ·  ❓ Historique insuffisant
@@ -2117,23 +1820,11 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484283/1784789243/extra_large.jpg" alt="Preuve prix CONCOMBRES POUR MARINER" width="220" />
 
-**BŒUF POUR FONDUE CHINOISE STERLING SILVER** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441904/1784789238/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441904/1784789238/extra_large.jpg" alt="Preuve prix BŒUF POUR FONDUE CHINOISE STERLING SILVER" width="220" />
-
 **REPAS FAMILIAL PRÉPARÉ FRAIS RICARDO** — 24,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441636/1784789232/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441636/1784789232/extra_large.jpg" alt="Preuve prix REPAS FAMILIAL PRÉPARÉ FRAIS RICARDO" width="220" />
-
-**PÉTONCLES SURGELÉS BLUE TIDE** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441631/1784789229/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441631/1784789229/extra_large.jpg" alt="Preuve prix PÉTONCLES SURGELÉS BLUE TIDE" width="220" />
 
 **BÂTONNETS, BURGERS, FILETS DE POISSON PANÉS, CREVETTES PAPILLON OU PAPILLON OU POPCORN SURGELÉS HIGH LINER** — 9,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2158,12 +1849,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428494774/1784789244/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428494774/1784789244/extra_large.jpg" alt="Preuve prix JUS DE FRUITS OU LIMONADE RÉFRIGÉRÉES SIMPLY" width="220" />
-
-**CRÈME GLACÉE CHAPMAN'S** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441555/1784789237/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441555/1784789237/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE CHAPMAN'S" width="220" />
 
 **BIÈRE MOOSEHEAD LAGER** — 35,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2195,23 +1880,11 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428494097/1784789242/extra_large.jpg" alt="Preuve prix NOIX DE CAJOU COMPLIMENTS" width="220" />
 
-**CRÈME GLACÉE SANS LACTOSE NATREL** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441971/1784789240/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441971/1784789240/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE SANS LACTOSE NATREL" width="220" />
-
 **TISANE EN SACHETS TAZO** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441965/1784789237/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441965/1784789237/extra_large.jpg" alt="Preuve prix TISANE EN SACHETS TAZO" width="220" />
-
-**VEAU HACHÉ MAIGRE** — 4,88 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484226/1784789235/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428484226/1784789235/extra_large.jpg" alt="Preuve prix VEAU HACHÉ MAIGRE" width="220" />
 
 **COURGETTES MIXTES OU VERTES** — 2,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2224,12 +1897,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441486/1784789229/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441486/1784789229/extra_large.jpg" alt="Preuve prix ENSEMBLE À REPAS TACO BELL (260 à 420 g) SAUCE OU SAUCE CRÉMEUSE TACO BELL (207 ou 354 mL) OU TREMPETTE TACO BELL (425 ou 445 g)" width="220" />
-
-**REPAS SURGELÉ KRAFT KD DELUXE** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519552/1784789243/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428519552/1784789243/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ KRAFT KD DELUXE" width="220" />
 
 **FLOCONS D'AVOINE BIOLOGIQUE MOULIN ABENAKIS** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2321,29 +1988,11 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441676/1784789235/extra_large.jpg" alt="Preuve prix FROMAGE LE MÉNESTREL OU LE FOU DU ROY LES FROMAGIERS DE LA TABLE RONDE" width="220" />
 
-**WRAP C'EST PRÊT!** — 7,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428463519/1784789243/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428463519/1784789243/extra_large.jpg" alt="Preuve prix WRAP C'EST PRÊT!" width="220" />
-
-**COLLAGÈNE MARIN LANDISH** — 29,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441753/1784789235/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441753/1784789235/extra_large.jpg" alt="Preuve prix COLLAGÈNE MARIN LANDISH" width="220" />
-
 **POULET OU PORC POUR FONDUE CHINOISE SURGELÉS COMPLIMENTS** — 7,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484363/1784789230/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484363/1784789230/extra_large.jpg" alt="Preuve prix POULET OU PORC POUR FONDUE CHINOISE SURGELÉS COMPLIMENTS" width="220" />
-
-**JUS DE TOMATE COMPLIMENTS** — 1,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441563/1784789230/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441563/1784789230/extra_large.jpg" alt="Preuve prix JUS DE TOMATE COMPLIMENTS" width="220" />
 
 **VIN BLANC VALLE DELLA ROSA** — 14,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2411,12 +2060,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428520011/1784789238/extra_large.jpg" alt="Preuve prix VIN BLANC, ROSÉ OU ROUGE MARQUIS DE MÉRICOURT" width="220" />
 
-**CHIPS TORTILLA DORITOS** — 3,33 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519544/1784789238/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428519544/1784789238/extra_large.jpg" alt="Preuve prix CHIPS TORTILLA DORITOS" width="220" />
-
 **NOURRTURE POUR CHATS WHISKAS PERFECT PORTIONS** — 1,29 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441725/1784789235/extra_large.jpg)
@@ -2434,12 +2077,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441677/1784789236/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441677/1784789236/extra_large.jpg" alt="Preuve prix TARTE AUX BLEUETS SAUVAGES DÉLICES DU LAC-SAINT-JEAN" width="220" />
-
-**GÂTERIES POUR CHATS WHISKAS** — 7,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441730/1784789238/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441730/1784789238/extra_large.jpg" alt="Preuve prix GÂTERIES POUR CHATS WHISKAS" width="220" />
 
 **FLOCONS DE VIANDE MAPLE LEAF** — 1,65 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2519,12 +2156,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441553/1784789236/extra_large.jpg" alt="Preuve prix BARRES DE CRÈME GLACÉE MAGNUM" width="220" />
 
-**POUDRE POUR GELÉE JELL-O** — 5,98 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428494608/1784789245/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428494608/1784789245/extra_large.jpg" alt="Preuve prix POUDRE POUR GELÉE JELL-O" width="220" />
-
 **VIN BLANC SI BEAU SI BIO** — 13,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428494613/1784789247/extra_large.jpg)
@@ -2536,12 +2167,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441537/1784789225/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441537/1784789225/extra_large.jpg" alt="Preuve prix BIÈRE LA BITTT À TIBI ULTRA LAGER, IPA" width="220" />
-
-**FROMAGE SIR OU LADY LAURIER D'ARTHABASKA, CENDRÉ DE LUNE, LA SAUVAGINE OU PAILLOT DE CHÈVRE ALEXIS DE PORTNEUF** — 8,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441674/1784789234/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441674/1784789234/extra_large.jpg" alt="Preuve prix FROMAGE SIR OU LADY LAURIER D'ARTHABASKA, CENDRÉ DE LUNE, LA SAUVAGINE OU PAILLOT DE CHÈVRE ALEXIS DE PORTNEUF" width="220" />
 
 **BOISSON À L'EAU ENRICHIE DE NUTRIMENTS GLACÉAU** — 6,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2578,12 +2203,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484279/1784789240/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484279/1784789240/extra_large.jpg" alt="Preuve prix PLANTE ASTROLOGIQUE Anthurium" width="220" />
-
-**ESSUIE-TOUT COMPLIMENTS** — 23,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441569/1784789235/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441569/1784789235/extra_large.jpg" alt="Preuve prix ESSUIE-TOUT COMPLIMENTS" width="220" />
 
 **PIZZA STYLE NEW YORK FRAÎCHE (16 po) C'EST PRÊT!** — 19,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2657,12 +2276,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441719/1784789232/extra_large.jpg" alt="Preuve prix LOTION ALOÈS COMPLIMENTS" width="220" />
 
-**COQUILLE SAINT-JACQUES SURGELÉE RICARDO** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441634/1784789231/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441634/1784789231/extra_large.jpg" alt="Preuve prix COQUILLE SAINT-JACQUES SURGELÉE RICARDO" width="220" />
-
 **POULET ENTIER FRAIS MAPLE LEAF PRIME** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441893/1784789232/extra_large.jpg)
@@ -2692,12 +2305,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441749/1784789232/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441749/1784789232/extra_large.jpg" alt="Preuve prix BISCUIT PROTÉINÉ LENNY & LARRY'S" width="220" />
-
-**THÉ GLACÉ NESTEA** — 4,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441534/1784789238/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441534/1784789238/extra_large.jpg" alt="Preuve prix THÉ GLACÉ NESTEA" width="220" />
 
 **HUMMUS COMPLIMENTS** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2734,12 +2341,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428520012/1784789239/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428520012/1784789239/extra_large.jpg" alt="Preuve prix VIN BLANC MARQUIS DE MÉRICOURT" width="220" />
-
-**PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441960/1784789234/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441960/1784789234/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX" width="220" />
 
 **FROMAGE CENDRÉ DES PRÉS, LE FUMEROLLE OU LE PETIT ESPRESSO FROMAGERIE AMAFAÇON** — 9,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2795,35 +2396,17 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484277/1784789239/extra_large.jpg" alt="Preuve prix MANGOUSTANS" width="220" />
 
-**TRANCHES DE FROMAGE P'TIT QUÉBEC** — 4,77 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441695/1784789232/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441695/1784789232/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE P'TIT QUÉBEC" width="220" />
-
 **BURGERS, PÉPITES, FRITES, LANIÈRES OU POULET POPCORN DE POULET PANÉS SURGELÉS FLAMINGO** — 12,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484358/1784789227/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484358/1784789227/extra_large.jpg" alt="Preuve prix BURGERS, PÉPITES, FRITES, LANIÈRES OU POULET POPCORN DE POULET PANÉS SURGELÉS FLAMINGO" width="220" />
 
-**TORTILLAS OLD EL PASO** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441687/1784789228/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441687/1784789228/extra_large.jpg" alt="Preuve prix TORTILLAS OLD EL PASO" width="220" />
-
 **MAÏS SOUFFLÉ G.H. CRETORS** — 4,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428520855/1784789243/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428520855/1784789243/extra_large.jpg" alt="Preuve prix MAÏS SOUFFLÉ G.H. CRETORS" width="220" />
-
-**REPAS SURGELÉ CRAVE** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441492/1784789232/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441492/1784789232/extra_large.jpg" alt="Preuve prix REPAS SURGELÉ CRAVE" width="220" />
 
 **BARRES PROTÉINÉES CLIF BUILDERS** — 14,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2861,35 +2444,11 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441743/1784789228/extra_large.jpg" alt="Preuve prix FORMULE PROBIOTIQUE GARDEN OF LIFE ONCE DAILY WOMEN'S" width="220" />
 
-**SOUVLAKIS DE BŒUF, DE POULET OU DE PORC MARINÉS FRAIS C'EST PRÊT! À CUIRE** — 12,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441902/1784789237/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441902/1784789237/extra_large.jpg" alt="Preuve prix SOUVLAKIS DE BŒUF, DE POULET OU DE PORC MARINÉS FRAIS C'EST PRÊT! À CUIRE" width="220" />
-
-**BIFTECK DE CONTRE-FILET** — 22,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441896/1784789234/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441896/1784789234/extra_large.jpg" alt="Preuve prix BIFTECK DE CONTRE-FILET" width="220" />
-
 **JUS DE FRUITS, COCKTAIL DE LÉGUMES OU THÉ GLACÉ OASIS** — 1,33 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441489/1784789231/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441489/1784789231/extra_large.jpg" alt="Preuve prix JUS DE FRUITS, COCKTAIL DE LÉGUMES OU THÉ GLACÉ OASIS" width="220" />
-
-**CHLOROPHYLLE LAND ART** — 24,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441748/1784789232/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441748/1784789232/extra_large.jpg" alt="Preuve prix CHLOROPHYLLE LAND ART" width="220" />
-
-**CROUSTILLES COMPLIMENTS** — 5,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441557/1784789226/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441557/1784789226/extra_large.jpg" alt="Preuve prix CROUSTILLES COMPLIMENTS" width="220" />
 
 **VIN ROUGE MARQUIS DE MÉRICOURT** — 12,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -2951,12 +2510,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441513/1784789234/extra_large.jpg" alt="Preuve prix AIL" width="220" />
 
-**PÂTÉ DE CAMPAGNE OU DE FOIE PLAISIRS GASTRONOMIQUES** — 4,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441670/1784789231/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441670/1784789231/extra_large.jpg" alt="Preuve prix PÂTÉ DE CAMPAGNE OU DE FOIE PLAISIRS GASTRONOMIQUES" width="220" />
-
 **PRÉPARATION POUR BOISSON MIO THÉ GLACÉ** — 8,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441549/1784789233/extra_large.jpg)
@@ -2999,12 +2552,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441666/1784789228/extra_large.jpg" alt="Preuve prix FROMAGE GRAND CHEDDAR 3 ANS OU BRIE DOUBLE CRÈME L'EXTRA AGROPUR OU FROMAGE HAVARTI MONSIEUR GUSTAV Crémeux" width="220" />
 
-**BARRES, CARRÉS AU RIZ OU TARTELETTES KELLOGG'S SPECIAL K** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519546/1784789240/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428519546/1784789240/extra_large.jpg" alt="Preuve prix BARRES, CARRÉS AU RIZ OU TARTELETTES KELLOGG'S SPECIAL K" width="220" />
-
 **BÂTONNETS, BURGERS, FILETS DE POISSON PANÉS, CREVETTES PAPILLON OU POPCORN SURGELÉS HIGH LINER** — 9,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441627/1784789227/extra_large.jpg)
@@ -3017,23 +2564,11 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484235/1784789241/extra_large.jpg" alt="Preuve prix BAGELS, MUFFINS ANGLAIS COMPLIMENTS" width="220" />
 
-**GRIGNOTINES YUM YUM** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428520856/1784789244/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428520856/1784789244/extra_large.jpg" alt="Preuve prix GRIGNOTINES YUM YUM" width="220" />
-
 **VIN BLANC OU ROUGE WALLAROO TRAIL** — 12,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519556/1784789246/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428519556/1784789246/extra_large.jpg" alt="Preuve prix VIN BLANC OU ROUGE WALLAROO TRAIL" width="220" />
-
-**VIN BLANC OU ROUGE SMOKY BAY** — 12,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428519555/1784789245/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428519555/1784789245/extra_large.jpg" alt="Preuve prix VIN BLANC OU ROUGE SMOKY BAY" width="220" />
 
 **TIRAMISÙ STEFANO FAITA** — 17,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3058,18 +2593,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428484261/1784789227/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484261/1784789227/extra_large.jpg" alt="Preuve prix TREMPETTE BIOLOGIQUE LITEHOUSE" width="220" />
-
-**BÂTONNETS DE FROMAGE BLACK DIAMOND** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441531/1784789236/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441531/1784789236/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE BLACK DIAMOND" width="220" />
-
-**THÉ GLACÉ RÉFRIGÉRÉ PURE LEAF** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441524/1784789231/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441524/1784789231/extra_large.jpg" alt="Preuve prix THÉ GLACÉ RÉFRIGÉRÉ PURE LEAF" width="220" />
 
 **COQUILLES À TACO TACO BELL** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3113,12 +2636,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428484361/1784789229/extra_large.jpg" alt="Preuve prix SAUCISSES FUMÉES AU POULET MAPLE LODGE FARMS" width="220" />
 
-**SALADE SUMMER FRESH** — 8,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441637/1784789233/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428441637/1784789233/extra_large.jpg" alt="Preuve prix SALADE SUMMER FRESH" width="220" />
-
 **PRODUIT DE LA MER À SAVEUR DE CRABE OU DE HOMARD CLOVER LEAF** — 3,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441633/1784789230/extra_large.jpg)
@@ -3130,12 +2647,6 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428441671/1784789232/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428441671/1784789232/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU LA VACHE QUI RIT" width="220" />
-
-**CHARCUTERIES ÉMINCÉES OU TRANCHÉES MAPLE LEAF** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec – Circulaire Hebdomadaire ](https://f.wishabi.net/page_items/428463522/1784789244/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428463522/1784789244/extra_large.jpg" alt="Preuve prix CHARCUTERIES ÉMINCÉES OU TRANCHÉES MAPLE LEAF" width="220" />
 
 **GÂTEAU SURGELÉ MICHAUD** — 17,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3224,151 +2735,163 @@ Prix habituel : ~13,32 $  ·  meilleur vu : 9,99 $
 
 ---
 
-## 🛒 Super C — 141 spéciaux (20 bons + 121 à surveiller)
-
-**BOISSON SPORTIVE GATORADE** — 5,99 $  ·  ✅ Excellent spécial
-Prix habituel : ~14,72 $  ·  meilleur vu : 5,99 $
-*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOISSON SPORTIVE GATORADE | GATORADE SPORT DRINK · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552041/1784851539/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552041/1784851539/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
-
-**PEPPERONI TRANCHÉ SELECTION** — 4,99 $  ·  ✅ Excellent spécial
-Prix habituel : ~10,24 $  ·  meilleur vu : 4,99 $
-*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PEPPERONI TRANCHÉ SELECTION | SELECTION SLICED PEPPERONI · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551892/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551892/1784851540/extra_large.jpg" alt="Preuve prix PEPPERONI TRANCHÉ SELECTION" width="220" />
-
-**Yogourt à boire Yop Yoplait** — 0,99 $  ·  ✅ Excellent spécial
-Prix habituel : ~9,93 $  ·  meilleur vu : 0,97 $
-*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: yogourt à boire Yop Yoplait | Yoplait Yop drinkable yogurt · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551901/1784851546/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551901/1784851546/extra_large.jpg" alt="Preuve prix Yogourt à boire Yop Yoplait" width="220" />
-
-**Bleuets** — 1,75 $  ·  🟢 Très bon prix
-Prix habituel : ~3,65 $  ·  meilleur vu : 1,77 $
-*Environ 52 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: bleuets | blueberries · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551929/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551929/1784851540/extra_large.jpg" alt="Preuve prix Bleuets" width="220" />
+## 🛒 Super C — 116 spéciaux (24 bons + 92 à surveiller)
 
 **Boeuf haché mi-maigre** — 4,95 $  ·  ✅ À acheter en extra
-Prix habituel : ~8,40 $  ·  meilleur vu : 4,99 $
+Prix habituel : ~8,42 $  ·  meilleur vu : 4,95 $
 *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boeuf haché mi-maigre | medium ground beef · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551935/1784851541/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551935/1784851541/extra_large.jpg" alt="Preuve prix Boeuf haché mi-maigre" width="220" />
 
-**Mangue miel (Ataulfo)** — 1,59 $  ·  🟢 Très bon prix
-Prix habituel : ~2,99 $  ·  meilleur vu : 0,98 $
-*Environ 47 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: mangue miel (Ataulfo) | honey (Ataulfo) mango · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551951/1784851537/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551951/1784851537/extra_large.jpg" alt="Preuve prix Mangue miel (Ataulfo)" width="220" />
-
-**Pâté de foie ou de campagne La Belle Bretagne** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~5,25 $  ·  meilleur vu : 2,99 $
-*Environ 43 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pâté de foie ou de campagne La Belle Bretagne | La Belle Bretagne liver or countrystyle pâté · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551974/1784851533/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551974/1784851533/extra_large.jpg" alt="Preuve prix Pâté de foie ou de campagne La Belle Bretagne" width="220" />
-
-**Biscuits Christie** — 2,33 $  ·  🟢 Très bon prix
-Prix habituel : ~4,03 $  ·  meilleur vu : 2,33 $
-*Environ 42 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: biscuits Christie | Christie cookies · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551914/1784851534/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551914/1784851534/extra_large.jpg" alt="Preuve prix Biscuits Christie" width="220" />
-
-**Boîte à lunch** — 5,00 $  ·  🟢 Très bon prix
-Prix habituel : ~11,25 $  ·  meilleur vu : 5,99 $
-*Environ 56 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boîte à lunch | lunch box · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552137/1784851535/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552137/1784851535/extra_large.jpg" alt="Preuve prix Boîte à lunch" width="220" />
-
-**Radis en feuilles** — 0,79 $  ·  🟢 Très bon prix
-Prix habituel : ~2,28 $  ·  meilleur vu : 0,99 $
-*Environ 65 % moins cher que le prix habituel.*
+**Radis en feuilles** — 0,79 $  ·  ✅ Excellent spécial
+Prix habituel : ~2,06 $  ·  meilleur vu : 0,79 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: radis en feuilles · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551908/1784851532/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551908/1784851532/extra_large.jpg" alt="Preuve prix Radis en feuilles" width="220" />
 
-**Boisson à l'avoine Earth's Own** — 2,79 $
-Prix habituel : ~4,32 $  ·  meilleur vu : 2,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson à l'avoine Earth's Own | Earth's Own oat drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552004/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552004/1784851540/extra_large.jpg" alt="Preuve prix Boisson à l'avoine Earth's Own" width="220" />
-
-**BARRES TENDRES SELECTION** — 2,49 $
-Prix habituel : ~4,74 $  ·  meilleur vu : 2,49 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BARRES TENDRES SELECTION | SELECTION CHEWY BARS · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552058/1784851535/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552058/1784851535/extra_large.jpg" alt="Preuve prix BARRES TENDRES SELECTION" width="220" />
-
-**Avocats** — 2,99 $
-Prix habituel : ~5,99 $  ·  meilleur vu : 3,97 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: avocats | avocados · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551910/1784851533/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551910/1784851533/extra_large.jpg" alt="Preuve prix Avocats" width="220" />
-
-**Jus Selection** — 1,59 $
-Prix habituel : ~6,06 $  ·  meilleur vu : 1,59 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: jus Selection | Selection juice · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552067/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552067/1784851540/extra_large.jpg" alt="Preuve prix Jus Selection" width="220" />
-
-**Boisson gazeuse Sélection** — 0,99 $
-Prix habituel : ~9,89 $  ·  meilleur vu : 1,49 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson gazeuse Sélection | Selection soft drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551896/1784851543/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551896/1784851543/extra_large.jpg" alt="Preuve prix Boisson gazeuse Sélection" width="220" />
-
-**Saucisses Selection** — 4,99 $
-Prix habituel : ~8,33 $  ·  meilleur vu : 5,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: saucisses Selection | Selection sausages · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551982/1784851538/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551982/1784851538/extra_large.jpg" alt="Preuve prix Saucisses Selection" width="220" />
-
-**Jambon fumé P'tit Caprice Lafleur** — 8,99 $
-Prix habituel : ~11,66 $  ·  meilleur vu : 6,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: jambon fumé P'tit Caprice Lafleur | Lafleur P'tit Caprice smoked ham · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551888/1784851537/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551888/1784851537/extra_large.jpg" alt="Preuve prix Jambon fumé P'tit Caprice Lafleur" width="220" />
-
-**Boisson énergisante Monster** — 2,99 $
-Prix habituel : ~9,62 $  ·  meilleur vu : 9,49 $
+**Boisson énergisante Monster** — 2,99 $  ·  ✅ Excellent spécial
+Prix habituel : ~8,29 $  ·  meilleur vu : 2,99 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson énergisante Monster | Monster energy drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551991/1784851530/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551991/1784851530/extra_large.jpg" alt="Preuve prix Boisson énergisante Monster" width="220" />
 
-**Purificateur d'air Air Wick** — 4,99 $
-Prix habituel : ~9,99 $  ·  meilleur vu : 9,99 $
+**Boîte à lunch** — 5,00 $  ·  ✅ Excellent spécial
+Prix habituel : ~10,00 $  ·  meilleur vu : 5,00 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boîte à lunch | lunch box · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552137/1784851535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552137/1784851535/extra_large.jpg" alt="Preuve prix Boîte à lunch" width="220" />
+
+**Bleuets** — 1,75 $  ·  ✅ Excellent spécial
+Prix habituel : ~3,69 $  ·  meilleur vu : 1,75 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: bleuets | blueberries · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551929/1784851540/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551929/1784851540/extra_large.jpg" alt="Preuve prix Bleuets" width="220" />
+
+**Boisson gazeuse Sélection** — 0,99 $  ·  ✅ Excellent spécial
+Prix habituel : ~8,41 $  ·  meilleur vu : 0,99 $
+*Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson gazeuse Sélection | Selection soft drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551896/1784851543/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551896/1784851543/extra_large.jpg" alt="Preuve prix Boisson gazeuse Sélection" width="220" />
+
+**PEPPERONI TRANCHÉ SELECTION** — 4,99 $  ·  🟢 Très bon prix
+Prix habituel : ~9,49 $  ·  meilleur vu : 4,99 $
+*Environ 47 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PEPPERONI TRANCHÉ SELECTION | SELECTION SLICED PEPPERONI · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551892/1784851540/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551892/1784851540/extra_large.jpg" alt="Preuve prix PEPPERONI TRANCHÉ SELECTION" width="220" />
+
+**Avocats** — 2,99 $  ·  🟢 Très bon prix
+Prix habituel : ~5,69 $  ·  meilleur vu : 2,99 $
+*Environ 48 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: avocats | avocados · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551910/1784851533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551910/1784851533/extra_large.jpg" alt="Preuve prix Avocats" width="220" />
+
+**Purificateur d'air Air Wick** — 4,99 $  ·  🟢 Très bon prix
+Prix habituel : ~8,74 $  ·  meilleur vu : 4,99 $
+*Environ 43 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: purificateur d'air Air Wick | Air Wick air freshener · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552076/1785177126/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552076/1785177126/extra_large.jpg" alt="Preuve prix Purificateur d'air Air Wick" width="220" />
 
-**CÉLERI** — 2,49 $
-Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÉLERI | CELERY · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551946/1784851534/extra_large.jpg)
+**Friandises glacées Nestlé** — 5,47 $  ·  🟢 Très bon prix
+Prix habituel : ~8,49 $  ·  meilleur vu : 5,47 $
+*Environ 36 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: friandises glacées Nestlé | Nestlé frozen treats · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552088/1785177132/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551946/1784851534/extra_large.jpg" alt="Preuve prix CÉLERI" width="220" />
+<img src="https://f.wishabi.net/page_items/428552088/1785177132/extra_large.jpg" alt="Preuve prix Friandises glacées Nestlé" width="220" />
+
+**Biscuits Christie** — 2,33 $
+Prix habituel : ~3,82 $  ·  meilleur vu : 2,33 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: biscuits Christie | Christie cookies · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551914/1784851534/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551914/1784851534/extra_large.jpg" alt="Preuve prix Biscuits Christie" width="220" />
+
+**Boisson à l'avoine Earth's Own** — 2,79 $
+Prix habituel : ~4,15 $  ·  meilleur vu : 2,79 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson à l'avoine Earth's Own | Earth's Own oat drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552004/1784851540/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552004/1784851540/extra_large.jpg" alt="Preuve prix Boisson à l'avoine Earth's Own" width="220" />
+
+**Saucisses Selection** — 4,99 $
+Prix habituel : ~7,85 $  ·  meilleur vu : 4,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: saucisses Selection | Selection sausages · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551982/1784851538/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551982/1784851538/extra_large.jpg" alt="Preuve prix Saucisses Selection" width="220" />
+
+**Mangue miel (Ataulfo)** — 1,59 $
+Prix habituel : ~2,71 $  ·  meilleur vu : 0,98 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: mangue miel (Ataulfo) | honey (Ataulfo) mango · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551951/1784851537/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551951/1784851537/extra_large.jpg" alt="Preuve prix Mangue miel (Ataulfo)" width="220" />
+
+**Tomates roses de serre** — 2,49 $
+Prix habituel : ~3,59 $  ·  meilleur vu : 2,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: tomates roses de serre | pink tomatoes · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551961/1784851542/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551961/1784851542/extra_large.jpg" alt="Preuve prix Tomates roses de serre" width="220" />
+
+**Jus Selection** — 1,59 $
+Prix habituel : ~4,75 $  ·  meilleur vu : 1,59 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: jus Selection | Selection juice · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552067/1784851540/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552067/1784851540/extra_large.jpg" alt="Preuve prix Jus Selection" width="220" />
+
+**Pita Adonis** — 0,99 $
+Prix habituel : ~1,49 $  ·  meilleur vu : 0,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pita Adonis | Adonis pita · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551897/1784851543/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551897/1784851543/extra_large.jpg" alt="Preuve prix Pita Adonis" width="220" />
+
+**Oignons verts** — 0,99 $
+Prix habituel : ~1,48 $  ·  meilleur vu : 0,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: oignons verts | green onions · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551952/1784851537/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551952/1784851537/extra_large.jpg" alt="Preuve prix Oignons verts" width="220" />
+
+**Pâté de foie ou de campagne La Belle Bretagne** — 2,99 $
+Prix habituel : ~4,79 $  ·  meilleur vu : 2,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pâté de foie ou de campagne La Belle Bretagne | La Belle Bretagne liver or countrystyle pâté · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551974/1784851533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551974/1784851533/extra_large.jpg" alt="Preuve prix Pâté de foie ou de campagne La Belle Bretagne" width="220" />
+
+**Croustilles Pringles** — 2,47 $
+Prix habituel : ~4,36 $  ·  meilleur vu : 2,47 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: croustilles Pringles | Pringles potato chips · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552033/1784851533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552033/1784851533/extra_large.jpg" alt="Preuve prix Croustilles Pringles" width="220" />
+
+**OLIVES SELECTION** — 1,99 $
+Prix habituel : ~2,66 $  ·  meilleur vu : 1,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: OLIVES SELECTION | SELECTION OLIVES · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552035/1784851535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552035/1784851535/extra_large.jpg" alt="Preuve prix OLIVES SELECTION" width="220" />
+
+**BARRES TENDRES SELECTION** — 2,49 $
+Prix habituel : ~4,29 $  ·  meilleur vu : 2,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BARRES TENDRES SELECTION | SELECTION CHEWY BARS · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552058/1784851535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552058/1784851535/extra_large.jpg" alt="Preuve prix BARRES TENDRES SELECTION" width="220" />
+
+**Chou nappa** — 1,49 $
+Prix habituel : ~2,06 $  ·  meilleur vu : 1,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: chou nappa | nappa cabbage · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552105/1784851533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428552105/1784851533/extra_large.jpg" alt="Preuve prix Chou nappa" width="220" />
+
+**PRUNES NOIRES** — 2,99 $
+Prix habituel : ~3,99 $  ·  meilleur vu : 2,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PRUNES NOIRES | NECTARINES · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551956/1784851539/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428551956/1784851539/extra_large.jpg" alt="Preuve prix PRUNES NOIRES" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
-**Sous-marin garni de viandes froides** — 4,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: sous-marin garni de viandes froides | submarine filled with cold cuts · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552135/1784851533/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552135/1784851533/extra_large.jpg" alt="Preuve prix Sous-marin garni de viandes froides" width="220" />
-
-**Pizza lève-au-four Irrésistible** — 5,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pizza lève-au-four Irrésistible | Irrésistible frozen rising crust pizza · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552028/1784851543/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552028/1784851543/extra_large.jpg" alt="Preuve prix Pizza lève-au-four Irrésistible" width="220" />
-
 **Courgettes vertes, grises ou jaunes** — 2,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: courgettes vertes, grises ou jaunes | green, grey or yellow zucchini squashes · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552113/1784851539/extra_large.jpg)
@@ -3381,35 +2904,11 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552122/1785177681/extra_large.jpg" alt="Preuve prix Calmars croustillants" width="220" />
 
-**Crevettes sauvages d'Argentine Irrésistible** — 6,88 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: crevettes sauvages d'Argentine Irrésistible | Irrésistible Argentinian wild shrimp · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551916/1784851535/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551916/1784851535/extra_large.jpg" alt="Preuve prix Crevettes sauvages d'Argentine Irrésistible" width="220" />
-
-**Bière Stella Artois, Blue Moon, Sapporo** — 35,48 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: bière Stella Artois, Blue Moon, Sapporo | beer · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551967/1785177035/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551967/1785177035/extra_large.jpg" alt="Preuve prix Bière Stella Artois, Blue Moon, Sapporo" width="220" />
-
-**Bière sans alcool Corona Cero** — 20,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: bière sans alcool Corona Cero | non-alcoholic beer · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551963/1785177032/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551963/1785177032/extra_large.jpg" alt="Preuve prix Bière sans alcool Corona Cero" width="220" />
-
 **Eau pétillante alcoolisée Coors Seltzer** — 17,11 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: eau pétillante alcoolisée Coors Seltzer | sparkling alcoholic water · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551965/1785177034/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551965/1785177034/extra_large.jpg" alt="Preuve prix Eau pétillante alcoolisée Coors Seltzer" width="220" />
-
-**Vin blanc ou rouge** — 12,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: vin blanc ou rouge | white or red wine Sélection Châtenois, Notre Vin Maison · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551996/1784851534/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551996/1784851534/extra_large.jpg" alt="Preuve prix Vin blanc ou rouge" width="220" />
 
 **Carottes ou oignons jaunes ou rutabagas** — 1,78 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3441,41 +2940,17 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552034/1784851534/extra_large.jpg" alt="Preuve prix CROUSTILLES TORTILLA TAKIS" width="220" />
 
-**OLIVES SELECTION** — 1,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: OLIVES SELECTION | SELECTION OLIVES · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552035/1784851535/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552035/1784851535/extra_large.jpg" alt="Preuve prix OLIVES SELECTION" width="220" />
-
-**Relish verte sucrée Selection** — 1,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: relish verte sucrée Selection | Selection sweet green relish · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552036/1784851536/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552036/1784851536/extra_large.jpg" alt="Preuve prix Relish verte sucrée Selection" width="220" />
-
 **Huile canola Selection végétale** — 7,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: huile canola Selection végétale | Selection canola oil · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552046/1784851543/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552046/1784851543/extra_large.jpg" alt="Preuve prix Huile canola Selection végétale" width="220" />
 
-**Bâtonnets de fromage Selection** — 6,19 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: bâtonnets de fromage Selection | Selection cheese sticks · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552050/1784851531/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552050/1784851531/extra_large.jpg" alt="Preuve prix Bâtonnets de fromage Selection" width="220" />
-
 **Feuilletés de pâte phyllo canneberges et brie Irrésistible** — 9,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: feuilletés de pâte phyllo canneberges et brie Irrésistible | Irrésistible frozen phyllo pastries · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552049/1784851531/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552049/1784851531/extra_large.jpg" alt="Preuve prix Feuilletés de pâte phyllo canneberges et brie Irrésistible" width="220" />
-
-**Pesto Irrésistible** — 4,69 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pesto Irrésistible | Irrésistible pesto · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552055/1784851534/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552055/1784851534/extra_large.jpg" alt="Preuve prix Pesto Irrésistible" width="220" />
 
 **Purée pour bébés Personnelle** — 1,69 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3524,12 +2999,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · texte brut: BETTE À CARDE ARC-EN-CIEL, ROUGE OU VERTE OU COLLARD VERT | RAINBOW, RED OR GREEN SWISS CHARD OR GREEN COLLARD · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552102/1784851531/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552102/1784851531/extra_large.jpg" alt="Preuve prix BETTE À CARDE ARC-EN-CIEL, ROUGE OU VERTE OU COLLARD VERT" width="220" />
-
-**Tomates heirloom** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: tomates heirloom | heirloom tomatoes · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552096/1784851536/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552096/1784851536/extra_large.jpg" alt="Preuve prix Tomates heirloom" width="220" />
 
 **Échalotes françaises** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3621,12 +3090,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551924/1784851538/extra_large.jpg" alt="Preuve prix Croustilles tortilla Doritos" width="220" />
 
-**MAYONNAISE HEINZ** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MAYONNAISE HEINZ | HEINZ MAYONNAISE · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552038/1784851537/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552038/1784851537/extra_large.jpg" alt="Preuve prix MAYONNAISE HEINZ" width="220" />
-
 **Sauce soya Selection** — 2,39 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: sauce soya Selection | Selection soya sauce · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552053/1784851533/extra_large.jpg)
@@ -3651,12 +3114,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551960/1784851542/extra_large.jpg" alt="Preuve prix MELON HAMI, CANARI OU SANTA CLAUS" width="220" />
 
-**Chou nappa** — 1,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: chou nappa | nappa cabbage · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552105/1784851533/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552105/1784851533/extra_large.jpg" alt="Preuve prix Chou nappa" width="220" />
-
 **Nettoyant à évier Vim** — 2,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: nettoyant à évier Vim | Vim sink cleaner · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552017/1784851535/extra_large.jpg)
@@ -3668,12 +3125,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SAUCE BBQ BACHAN'S | BACHAN'S BBQ SAUCE · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552044/1784851541/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552044/1784851541/extra_large.jpg" alt="Preuve prix SAUCE BBQ BACHAN'S" width="220" />
-
-**Boisson de soya Silk Protéines** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: boisson de soya Silk Protéines | Silk Protein soy beverage · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552007/1784851542/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552007/1784851542/extra_large.jpg" alt="Preuve prix Boisson de soya Silk Protéines" width="220" />
 
 **Craquelins Ritz mini** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3705,24 +3156,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551955/1784851539/extra_large.jpg" alt="Preuve prix Concombre moyen sans pépins" width="220" />
 
-**PRUNES NOIRES** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PRUNES NOIRES | NECTARINES · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551956/1784851539/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551956/1784851539/extra_large.jpg" alt="Preuve prix PRUNES NOIRES" width="220" />
-
-**Effiloché de porc BBQ Bâton Rouge** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: effiloché de porc BBQ Bâton Rouge | Bâton Rouge BBQ pulled pork · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552075/1785177125/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552075/1785177125/extra_large.jpg" alt="Preuve prix Effiloché de porc BBQ Bâton Rouge" width="220" />
-
-**BARRES ÉNERGÉTIQUES CLIF BAR** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BARRES ÉNERGÉTIQUES CLIF BAR | CLIF BAR ENERGY BARS · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552001/1784851538/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552001/1784851538/extra_large.jpg" alt="Preuve prix BARRES ÉNERGÉTIQUES CLIF BAR" width="220" />
-
 **Farine Robin Hood, Five Roses** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: farine Robin Hood, Five Roses | Robin Hood, Five Roses flour · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551998/1784851535/extra_large.jpg)
@@ -3752,12 +3185,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: barres sucrées et salées Val Nature | Nature Valley granola bars · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552002/1784851538/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552002/1784851538/extra_large.jpg" alt="Preuve prix Barres sucrées et salées Val Nature" width="220" />
-
-**PRÉPARATION DE FROMAGE FONDU SELECTION** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PRÉPARATION DE FROMAGE FONDU SELECTION | SELECTION PROCESS CHEESE FOOD · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552048/1784851545/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552048/1784851545/extra_large.jpg" alt="Preuve prix PRÉPARATION DE FROMAGE FONDU SELECTION" width="220" />
 
 **Bacon précuit fumé** — 15,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3801,12 +3228,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552126/1785177683/extra_large.jpg" alt="Preuve prix MÉLANGE DE LA MER" width="220" />
 
-**Moutarde jaune Selection** — 1,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: moutarde jaune Selection | Selection yellow mustard · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552056/1784851534/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552056/1784851534/extra_large.jpg" alt="Preuve prix Moutarde jaune Selection" width="220" />
-
 **SALADE CÉSAR AU POULET** — 9,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SALADE CÉSAR AU POULET | CHICKEN CAESAR SALAD · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552131/1784851531/extra_large.jpg)
@@ -3843,12 +3264,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552085/1785177131/extra_large.jpg" alt="Preuve prix Tartinade Océania" width="220" />
 
-**Friandises glacées Nestlé** — 5,47 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: friandises glacées Nestlé | Nestlé frozen treats · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552088/1785177132/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552088/1785177132/extra_large.jpg" alt="Preuve prix Friandises glacées Nestlé" width="220" />
-
 **CHOU FRISÉ VERT (KALE)** — 2,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CHOU FRISÉ VERT (KALE) | GREEN KALE · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552104/1784851533/extra_large.jpg)
@@ -3872,18 +3287,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552123/1785177681/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552123/1785177681/extra_large.jpg" alt="Preuve prix Mini pizza-bagels Irrésistible" width="220" />
-
-**SOUS-MARIN GARNI DE VIANDES FROIDES** — 5,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: SOUS-MARIN GARNI DE VIANDES FROIDES | SUBMARINE FILLED WITH COLD CUTS · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552136/1784851534/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552136/1784851534/extra_large.jpg" alt="Preuve prix SOUS-MARIN GARNI DE VIANDES FROIDES" width="220" />
-
-**Jus réfrigéré Irrésistible** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: jus réfrigéré Irrésistible | Irrésistible refrigerated juice · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551894/1784851541/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551894/1784851541/extra_large.jpg" alt="Preuve prix Jus réfrigéré Irrésistible" width="220" />
 
 **Saucisses porc et boeuf Lafleur** — 8,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3927,29 +3330,11 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551900/1784851545/extra_large.jpg" alt="Preuve prix Citron ou lime" width="220" />
 
-**Pita Adonis** — 0,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: pita Adonis | Adonis pita · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551897/1784851543/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551897/1784851543/extra_large.jpg" alt="Preuve prix Pita Adonis" width="220" />
-
 **Bière Archibald, Brasseur de Montréal, Unibroue, Boréale** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · texte brut: bière Archibald, Brasseur de Montréal, Unibroue, Boréale | beer · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551964/1785177033/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551964/1785177033/extra_large.jpg" alt="Preuve prix Bière Archibald, Brasseur de Montréal, Unibroue, Boréale" width="220" />
-
-**THON PÂLE SELECTION** — 0,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: THON PÂLE SELECTION | SELECTION LIGHT TUNA · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551899/1784851545/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551899/1784851545/extra_large.jpg" alt="Preuve prix THON PÂLE SELECTION" width="220" />
-
-**FILETS DE POISSON SELECTION** — 15,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551985/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551985/1784851540/extra_large.jpg" alt="Preuve prix FILETS DE POISSON SELECTION" width="220" />
 
 **SAUCISSES FUMÉES ENROBÉES DE PÂTE POGO** — 16,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -3968,12 +3353,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: fromage à griller haloumi Doré‑Mi | Doré-Mi haloumi grilling cheese · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551979/1784851536/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551979/1784851536/extra_large.jpg" alt="Preuve prix Fromage à griller haloumi Doré‑Mi" width="220" />
-
-**Filets de poisson Selection** — 12,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: filets de poisson Selection | Selection fish fillets · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551986/1784851540/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551986/1784851540/extra_large.jpg" alt="Preuve prix Filets de poisson Selection" width="220" />
 
 **MARINADE SAUCES & MARINADES D.G.** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4005,18 +3384,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428552118/1785177678/extra_large.jpg" alt="Preuve prix Crevettes popcorn crues" width="220" />
 
-**Vinaigrette Mag** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: vinaigrette Mag | Mag dressing · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552029/1784851531/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552029/1784851531/extra_large.jpg" alt="Preuve prix Vinaigrette Mag" width="220" />
-
-**FROMAGE ALEXIS DE PORTNEUF** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FROMAGE ALEXIS DE PORTNEUF | ALEXIS DE PORTNEUF CHEESE · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551971/1784851531/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428551971/1784851531/extra_large.jpg" alt="Preuve prix FROMAGE ALEXIS DE PORTNEUF" width="220" />
-
 **Tomates cocktail** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: tomates cocktail | cocktail tomatoes · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552099/1784851538/extra_large.jpg)
@@ -4034,12 +3401,6 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: met chinois Wong Wing | Wong Wing frozen chinese food · [circulaire: Circulaire](https://f.wishabi.net/page_items/428551981/1784851537/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428551981/1784851537/extra_large.jpg" alt="Preuve prix Met chinois Wong Wing" width="220" />
-
-**Détergent à vaisselle Palmolive** — 1,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: détergent à vaisselle Palmolive | Palmolive dishes detergent · [circulaire: Circulaire](https://f.wishabi.net/page_items/428552080/1785177128/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428552080/1785177128/extra_large.jpg" alt="Preuve prix Détergent à vaisselle Palmolive" width="220" />
 
 **Biftecks de bavette de boeuf assaisonnés Premier** — 20,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4086,55 +3447,41 @@ Prix habituel : ~3,76 $  ·  meilleur vu : 2,99 $
 
 ---
 
-## 🛒 BoniChoix — 63 spéciaux (6 bons + 57 à surveiller)
+## 🛒 BoniChoix — 41 spéciaux (5 bons + 36 à surveiller)
 
 **CÔTELETTES DE LONGE DE PORC FRAIS** — 2,49 $  ·  ✅ À acheter en extra
-Prix habituel : ~6,73 $  ·  meilleur vu : 1,75 $
+Prix habituel : ~6,64 $  ·  meilleur vu : 1,75 $
 *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016498/1784706357/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016498/1784706357/extra_large.jpg" alt="Preuve prix CÔTELETTES DE LONGE DE PORC FRAIS" width="220" />
 
 **BOISSON À BASE D'EAU PÉTILLANTE BUBLY (12 x 355 mL) OU EAU DE SOURCE NATURELLE GAZÉIFIÉE MONTELLIER (10 x 355 mL)** — 5,99 $  ·  🟢 Très bon prix
-Prix habituel : ~11,33 $  ·  meilleur vu : 5,99 $
-*Environ 47 % moins cher que le prix habituel.*
+Prix habituel : ~11,00 $  ·  meilleur vu : 5,99 $
+*Environ 46 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016556/1784706360/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016556/1784706360/extra_large.jpg" alt="Preuve prix BOISSON À BASE D'EAU PÉTILLANTE BUBLY (12 x 355 mL) OU EAU DE SOURCE NATURELLE GAZÉIFIÉE MONTELLIER (10 x 355 mL)" width="220" />
 
-**NOURRITURE POUR CHIENS PURINA ONE** — 10,99 $  ·  🟢 Très bon prix
-Prix habituel : ~24,58 $  ·  meilleur vu : 11,75 $
-*Environ 55 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016574/1784706362/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016574/1784706362/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHIENS PURINA ONE" width="220" />
-
-**PLAT D'ACCOMPAGNEMENT KNORR** — 1,65 $  ·  🟢 Très bon prix
-Prix habituel : ~3,20 $  ·  meilleur vu : 1,65 $
-*Environ 48 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016555/1784706359/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016555/1784706359/extra_large.jpg" alt="Preuve prix PLAT D'ACCOMPAGNEMENT KNORR" width="220" />
-
 **BOISSON GAZEUSE COMPLIMENTS** — 1,99 $
-Prix habituel : ~3,99 $  ·  meilleur vu : 1,99 $
+Prix habituel : ~3,83 $  ·  meilleur vu : 1,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016607/1784706365/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016607/1784706365/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE COMPLIMENTS" width="220" />
 
-**NOURRITURE POUR CHATS WHISKAS** — 9,99 $
-Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016562/1784706356/extra_large.jpg)
+**PLAT D'ACCOMPAGNEMENT KNORR** — 1,65 $
+Prix habituel : ~2,82 $  ·  meilleur vu : 1,65 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016555/1784706359/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016562/1784706356/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHATS WHISKAS" width="220" />
+<img src="https://f.wishabi.net/page_items/428016555/1784706359/extra_large.jpg" alt="Preuve prix PLAT D'ACCOMPAGNEMENT KNORR" width="220" />
+
+**NOURRITURE POUR CHIENS PURINA ONE** — 10,99 $
+Prix habituel : ~19,14 $  ·  meilleur vu : 10,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016574/1784706362/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428016574/1784706362/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHIENS PURINA ONE" width="220" />
 
 *— Autres spéciaux (pas encore dans la base de prix) —*
-**PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016583/1784706367/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016583/1784706367/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX" width="220" />
-
 **ARACHIDES, COLLATIONS DE NOIX OU MÉLANGE DE NOIX KRISPY KERNELS (145 à 200 g) OU GRIGNOTISES YUM YUM (200 à 300 g)** — 3,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016516/1784706364/extra_large.jpg)
@@ -4146,12 +3493,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016564/1784706357/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016564/1784706357/extra_large.jpg" alt="Preuve prix FRIANDISES NESTLÉ KIT KAT F1 (29 g), SWEETARTS, LIK-M-AID FUN DIP OU WONKA NERDS (40,5 à 51 g)" width="220" />
-
-**DÉTERGENT POUR LAVE-VAISSELLE FINISH POWERBALL** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016576/1784706363/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016576/1784706363/extra_large.jpg" alt="Preuve prix DÉTERGENT POUR LAVE-VAISSELLE FINISH POWERBALL" width="220" />
 
 **BOISSON À BASE D'EAU PÉTILLANTE BUBLY OU PEPSI** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4171,59 +3512,17 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016506/1784706358/extra_large.jpg" alt="Preuve prix FROMAGE BURRATINI BELLA CASARA BURRATINI" width="220" />
 
-**BISCUITS DARE WHIPPET, PATTES D'OURS** — 2,47 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016496/1784706356/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016496/1784706356/extra_large.jpg" alt="Preuve prix BISCUITS DARE WHIPPET, PATTES D'OURS" width="220" />
-
-**CROUSTILLES COMPLIMENTS** — 1,97 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016495/1784706355/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016495/1784706355/extra_large.jpg" alt="Preuve prix CROUSTILLES COMPLIMENTS" width="220" />
-
-**PÉPITES DE CHOCOLAT COMPLIMENTS** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016591/1784706356/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016591/1784706356/extra_large.jpg" alt="Preuve prix PÉPITES DE CHOCOLAT COMPLIMENTS" width="220" />
-
-**SANDWICH CROISSANT C'EST PRÊT!** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016504/1784706356/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016504/1784706356/extra_large.jpg" alt="Preuve prix SANDWICH CROISSANT C'EST PRÊT!" width="220" />
-
 **CÉRÉALES KELLOGG'S CEREAL** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016552/1784706357/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016552/1784706357/extra_large.jpg" alt="Preuve prix CÉRÉALES KELLOGG'S CEREAL" width="220" />
 
-**LIMONADE OU BOISSON AUX FRUITS RÉFRIGÉRÉES COMPLIMENTS** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016524/1784706368/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016524/1784706368/extra_large.jpg" alt="Preuve prix LIMONADE OU BOISSON AUX FRUITS RÉFRIGÉRÉES COMPLIMENTS" width="220" />
-
-**BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE** — 4,98 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016545/1784706363/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016545/1784706363/extra_large.jpg" alt="Preuve prix BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE" width="220" />
-
 **CUBES DE BŒŒUF POUR BROCHETTES** — 11,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016547/1784706364/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016547/1784706364/extra_large.jpg" alt="Preuve prix CUBES DE BŒŒUF POUR BROCHETTES" width="220" />
-
-**BOISSON SANS ALCOOL COMPLIMENTS** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016612/1784706358/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016612/1784706358/extra_large.jpg" alt="Preuve prix BOISSON SANS ALCOOL COMPLIMENTS" width="220" />
 
 **TRANCHE DE FROMAGE COMPLIMENTS** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4249,12 +3548,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016525/1784706369/extra_large.jpg" alt="Preuve prix SAUCE BARBECUE DIANA (500 mL) OU BULL'S-EYE (425 mL)" width="220" />
 
-**POUDING COMPLIMENTS** — 1,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016599/1784706361/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016599/1784706361/extra_large.jpg" alt="Preuve prix POUDING COMPLIMENTS" width="220" />
-
 **JUS DE FRUITS, COCKTAIL DE LÉGUMES OASIS, THÉ GLACÉ ARIZONA OU NECTAR DE FRUITS DEL MONTE** — 1,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016559/1784706362/extra_large.jpg)
@@ -4266,12 +3559,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016550/1784706356/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016550/1784706356/extra_large.jpg" alt="Preuve prix CHIPS TORTILLA DORITOS (210 à 280 g) OU TOSTITOS (210 à 295 g) OU COLLATIONS MULTIGRAINS SUNCHIPS (205 g)" width="220" />
-
-**BEIGNES GLACÉS COMPLIMENTS** — 2,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016517/1784706364/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016517/1784706364/extra_large.jpg" alt="Preuve prix BEIGNES GLACÉS COMPLIMENTS" width="220" />
 
 **BIÈRE BRASSEUR DE MONTRÉAL GRIFFINTOWN, BORÉALE IPA, UNIBROUE JUICY IPA OU ARCHIBALD MATANTE** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4314,12 +3601,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016502/1784706355/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016502/1784706355/extra_large.jpg" alt="Preuve prix JAMBON MAPLE LEAF MÈRE MICHEL" width="220" />
-
-**FROMAGE CAPRINY ALEXIS DE PORTNEUF** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016511/1784706361/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016511/1784706361/extra_large.jpg" alt="Preuve prix FROMAGE CAPRINY ALEXIS DE PORTNEUF" width="220" />
 
 **POISSONNERIE FILETS DE TRUITE** — 16,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4375,29 +3656,11 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016586/1784706368/extra_large.jpg" alt="Preuve prix BÂTONS GLACÉS Mr. FREEZE JUMBO (27 x 150 mL) OU FRIANDISES HERSHEY'S S'MORES (578 ou 651 g)" width="220" />
 
-**FRIANDISES HARIBO GOLDBEARS** — 9,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016584/1784706367/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016584/1784706367/extra_large.jpg" alt="Preuve prix FRIANDISES HARIBO GOLDBEARS" width="220" />
-
-**PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016587/1784706369/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016587/1784706369/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA" width="220" />
-
 **ESSUIE-TOUT COMPLIMENTS (6 MOUCHOIRS DE PAPIER COMPLIMENTS (Emballage de 6) OU PAPIER HYGIÉNIQUE COMPLIMENTS (12 roul.),** — 7,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016561/1784706355/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016561/1784706355/extra_large.jpg" alt="Preuve prix ESSUIE-TOUT COMPLIMENTS (6 MOUCHOIRS DE PAPIER COMPLIMENTS (Emballage de 6) OU PAPIER HYGIÉNIQUE COMPLIMENTS (12 roul.)," width="220" />
-
-**GLAÇAGE BETTY CROCKER FOUETTÉ, CRÉMEUX DE LUXE** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016581/1784706366/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016581/1784706366/extra_large.jpg" alt="Preuve prix GLAÇAGE BETTY CROCKER FOUETTÉ, CRÉMEUX DE LUXE" width="220" />
 
 **CONFITURE, GELÉE OU MARMELADE SMUCKER'S** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4417,24 +3680,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016570/1784706360/extra_large.jpg" alt="Preuve prix MÉLANGE POUR VINAIGRETTE ET TREMPETTE CLUB HOUSE" width="220" />
 
-**PÂTISSERIES SURGELÉES PILLSBURY** — 3,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016572/1784706361/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016572/1784706361/extra_large.jpg" alt="Preuve prix PÂTISSERIES SURGELÉES PILLSBURY" width="220" />
-
-**FROMAGE BOCCONCINI COMPLIMENTS** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016603/1784706363/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016603/1784706363/extra_large.jpg" alt="Preuve prix FROMAGE BOCCONCINI COMPLIMENTS" width="220" />
-
-**BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS** — 7,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016605/1784706364/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016605/1784706364/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS" width="220" />
-
 **LÉGUMINEUSES COMPLIMENTS LEGUMES** — 1,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016606/1784706365/extra_large.jpg)
@@ -4447,24 +3692,6 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428016594/1784706358/extra_large.jpg" alt="Preuve prix GOBERGE DE L'ALASKA À SAVEUR DE CRABE COMPLIMENTS" width="220" />
 
-**SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!** — 5,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016610/1784706357/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016610/1784706357/extra_large.jpg" alt="Preuve prix SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!" width="220" />
-
-**CLUB SANDWICH C'EST PRÊT!** — 9,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016615/1784706360/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016615/1784706360/extra_large.jpg" alt="Preuve prix CLUB SANDWICH C'EST PRÊT!" width="220" />
-
-**FROMAGE STYLE HALLOUMI COMPLIMENTS** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016608/1784706356/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428016608/1784706356/extra_large.jpg" alt="Preuve prix FROMAGE STYLE HALLOUMI COMPLIMENTS" width="220" />
-
 **CUIT EXTRA MAIGRE TRANCHÉ COMPLIMENTS** — 14,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/428016609/1784706356/extra_large.jpg)
@@ -4474,30 +3701,43 @@ Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
 
 ---
 
-## 🛒 L'Inter-Marché — 122 spéciaux (4 bons + 118 à surveiller)
-
-**BOISSONS GAZEUSES** — 2,39 $  ·  🟢 Très bon prix
-Prix habituel : ~5,33 $  ·  meilleur vu : 2,49 $
-*Environ 55 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOISSONS GAZEUSES | SOFT DRINKS · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435717/1784770578/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435717/1784770578/extra_large.jpg" alt="Preuve prix BOISSONS GAZEUSES" width="220" />
+## 🛒 L'Inter-Marché — 107 spéciaux (6 bons + 101 à surveiller)
 
 **YOGOURT EN TUBES, 448 G OU MINIGO, 6 X 60 G OU SOURCE, 630 G** — 2,99 $  ·  🟢 Très bon prix
-Prix habituel : ~7,88 $  ·  meilleur vu : 0,99 $
-*Environ 62 % moins cher que le prix habituel.*
+Prix habituel : ~7,71 $  ·  meilleur vu : 0,99 $
+*Environ 61 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · texte brut: YOGOURT EN TUBES, 448 G OU MINIGO, 6 X 60 G OU SOURCE, 630 G | YOGURT · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435810/1784770588/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435810/1784770588/extra_large.jpg" alt="Preuve prix YOGOURT EN TUBES, 448 G OU MINIGO, 6 X 60 G OU SOURCE, 630 G" width="220" />
 
+**BOISSONS GAZEUSES** — 2,39 $  ·  🟢 Très bon prix
+Prix habituel : ~4,84 $  ·  meilleur vu : 2,39 $
+*Environ 51 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOISSONS GAZEUSES | SOFT DRINKS · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435717/1784770578/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428435717/1784770578/extra_large.jpg" alt="Preuve prix BOISSONS GAZEUSES" width="220" />
+
+**NOURRITURE POUR CHATS** — 8,99 $  ·  🟢 Très bon prix
+Prix habituel : ~15,66 $  ·  meilleur vu : 5,00 $
+*Environ 43 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: NOURRITURE POUR CHATS | CAT FOOD, 1,42 - 2 KG · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435801/1784770582/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428435801/1784770582/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHATS" width="220" />
+
+**MELON D'EAU ENTIER SANS PÉPINS** — 3,99 $
+Prix habituel : ~5,81 $  ·  meilleur vu : 3,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MELON D'EAU ENTIER SANS PÉPINS | WHOLE SEEDLESS WATERMELON, ENVIRON 9 LB, CHAQUE · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435724/1784770582/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428435724/1784770582/extra_large.jpg" alt="Preuve prix MELON D'EAU ENTIER SANS PÉPINS" width="220" />
+
 **CROUSTILLES** — 1,99 $
-Prix habituel : ~2,98 $  ·  meilleur vu : 1,79 $
+Prix habituel : ~2,83 $  ·  meilleur vu : 1,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CROUSTILLES | POTATO CHIPS, 200 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435681/1784770579/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435681/1784770579/extra_large.jpg" alt="Preuve prix CROUSTILLES" width="220" />
 
 **POULET ENTIER FRAIS** — 2,99 $
-Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
+Prix habituel : ~3,79 $  ·  meilleur vu : 2,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: POULET ENTIER FRAIS | FRESH WHOLE CHICKEN · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435722/1784770580/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435722/1784770580/extra_large.jpg" alt="Preuve prix POULET ENTIER FRAIS" width="220" />
@@ -4587,12 +3827,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435865/1784770588/extra_large.jpg" alt="Preuve prix KETCHUP, 2,84 L" width="220" />
 
-**CÔTE DE FLANC DE PORC, COUPE DU CENTRE** — 3,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CÔTE DE FLANC DE PORC, COUPE DU CENTRE | PORK SIDE RIBS, CENTRE CUT · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435782/1784770587/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435782/1784770587/extra_large.jpg" alt="Preuve prix CÔTE DE FLANC DE PORC, COUPE DU CENTRE" width="220" />
-
 **BARRES DE GRANOLA TENDRES, ENROBÉES OU AUX CÉRÉALES, 120 - 300 G OU PAILLETTES SUISSES, CRAQUELINS OU BISCOTTES, 100 - 500 G** — 2,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · texte brut: BARRES DE GRANOLA TENDRES, ENROBÉES OU AUX CÉRÉALES, 120 - 300 G OU PAILLETTES SUISSES, CRAQUELINS OU BISCOTTES, 100 - 500 G | DIPPED, CHEWY OR CEREAL GRANOLA BARS OR CRACKERS, TWISTS OR STIX · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435853/1784770580/extra_large.jpg)
@@ -4623,12 +3857,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435652/1784770579/extra_large.jpg" alt="Preuve prix KETCHUP AUX TOMATES" width="220" />
 
-**NOURRITURE POUR CHATS** — 20,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: NOURRITURE POUR CHATS | CAT FOOD, 8 KG · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435693/1784770577/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435693/1784770577/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHATS" width="220" />
-
 **SACHETS REFERMABLES POUR SANDWICHS, 100 UN. OU POUR CONGÉLATION, 40 UN.** — 2,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-16 au 2026-08-12 · texte brut: SACHETS REFERMABLES POUR SANDWICHS, 100 UN. OU POUR CONGÉLATION, 40 UN. | RESEALABLE SANDWICH OR FREEZER BAGS · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435696/1784770579/extra_large.jpg)
@@ -4641,29 +3869,11 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435858/1784770583/extra_large.jpg" alt="Preuve prix SALSA, 650 ML OU ENSEMBLE À TACOS, 250 - 510 G" width="220" />
 
-**GAUFRES** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GAUFRES | WAFFLES, 16 UN., 560 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435615/1784770580/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435615/1784770580/extra_large.jpg" alt="Preuve prix GAUFRES" width="220" />
-
 **SAUCISSON ÀL'AIL 750 G OU SAUCISSES FUMÉES 900 G** — 8,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-16 au 2026-08-12 · texte brut: SAUCISSON ÀL'AIL 750 G OU SAUCISSES FUMÉES 900 G | GARLIC COIL OR SMOKED SAUSAGES · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435617/1784770581/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435617/1784770581/extra_large.jpg" alt="Preuve prix SAUCISSON ÀL'AIL 750 G OU SAUCISSES FUMÉES 900 G" width="220" />
-
-**VINAIGRE BLANC PUR** — 2,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: VINAIGRE BLANC PUR | PURE WHITE VINEGAR, 4 L · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435657/1784770583/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435657/1784770583/extra_large.jpg" alt="Preuve prix VINAIGRE BLANC PUR" width="220" />
-
-**CORNICHONS** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CORNICHONS | PICKLES, 1 L · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435660/1784770585/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435660/1784770585/extra_large.jpg" alt="Preuve prix CORNICHONS" width="220" />
 
 **FRIANDISES GLACÉES OU DESSERT GLACÉ** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4671,41 +3881,17 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435872/1784770578/extra_large.jpg" alt="Preuve prix FRIANDISES GLACÉES OU DESSERT GLACÉ" width="220" />
 
-**GÂTEAU DEEP'N DELICIOUS** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: GÂTEAU DEEP'N DELICIOUS | CAKE, 510 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435728/1784770577/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435728/1784770577/extra_large.jpg" alt="Preuve prix GÂTEAU DEEP'N DELICIOUS" width="220" />
-
 **SAUCE, 398 ML** — 1,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435731/1784770579/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435731/1784770579/extra_large.jpg" alt="Preuve prix SAUCE, 398 ML" width="220" />
 
-**MAÏS SUCRÉ BICOLORE** — 1,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MAÏS SUCRÉ BICOLORE | CORN · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435719/1784770579/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435719/1784770579/extra_large.jpg" alt="Preuve prix MAÏS SUCRÉ BICOLORE" width="220" />
-
 **CRÈME GLACÉE, 400 - 450 ML OU BARRES, 3/4 UN.| BARS OR ICE CREAM** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435800/1784770581/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435800/1784770581/extra_large.jpg" alt="Preuve prix CRÈME GLACÉE, 400 - 450 ML OU BARRES, 3/4 UN.| BARS OR ICE CREAM" width="220" />
-
-**MACARONI AU FROMAGE** — 2,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: MACARONI AU FROMAGE | MACARONI & CHEESE, 149 - 170 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435806/1784770585/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435806/1784770585/extra_large.jpg" alt="Preuve prix MACARONI AU FROMAGE" width="220" />
-
-**LIMONADE OU THÉ GLACÉ** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: LIMONADE OU THÉ GLACÉ | LEMONADE OR ICED TEA, 1,36 L · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435751/1784770579/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435751/1784770579/extra_large.jpg" alt="Preuve prix LIMONADE OU THÉ GLACÉ" width="220" />
 
 **CITRONS OU AVOCATS** — 0,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4760,12 +3946,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PAPIER HYGIÉNIQUE, 12 ROUL. DOUBLES OU ESSUIE-TOUT, 3 ROUL. | BATHROOM TISSUE OR PAPER TOWEL · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435803/1784770583/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435803/1784770583/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE, 12 ROUL. DOUBLES OU ESSUIE-TOUT, 3 ROUL." width="220" />
-
-**JAMBON CUIT** — 1,29 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: JAMBON CUIT | COOKED HAM · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435773/1784770582/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435773/1784770582/extra_large.jpg" alt="Preuve prix JAMBON CUIT" width="220" />
 
 **BROCHETTE DE BŒUF LACROIX PRÉCÉDEMMENT** — 10,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4833,12 +4013,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435852/1784770579/extra_large.jpg" alt="Preuve prix POISSON PANÉ OU EN PÂTE À FRIRE, SURGELÉ" width="220" />
 
-**AILES DE POULET** — 13,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: AILES DE POULET | CHICKEN WINGS, 908 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435627/1784770588/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435627/1784770588/extra_large.jpg" alt="Preuve prix AILES DE POULET" width="220" />
-
 **FRUITS NATURELLEMENT IMPARFAITS** — 12,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-16 au 2026-08-12 · texte brut: FRUITS NATURELLEMENT IMPARFAITS | FROZEN FRUIT, 2 KG · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435614/1784770579/extra_large.jpg)
@@ -4850,12 +4024,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-16 au 2026-08-12 · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435611/1784770576/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435611/1784770576/extra_large.jpg" alt="Preuve prix PIZZA, 350-411 G" width="220" />
-
-**BURGERS DE BŒUF** — 19,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BURGERS DE BŒUF | BEEF BURGERS, 1,36 KG · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435626/1784770588/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435626/1784770588/extra_large.jpg" alt="Preuve prix BURGERS DE BŒUF" width="220" />
 
 **GUIMAUVES, 400 G OU NOIX, 100 G, CERTAINES VARIÉTÉS** — 2,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4874,12 +4042,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-16 au 2026-08-12 · texte brut: PÂTE DE TOMATES 156 ML OU SAUCE À PIZZA 213 ML | TOMATO PASTE OR PIZZA SAUCE · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435658/1784770583/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435658/1784770583/extra_large.jpg" alt="Preuve prix PÂTE DE TOMATES 156 ML OU SAUCE À PIZZA 213 ML" width="220" />
-
-**BOUILLON** — 1,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: BOUILLON | BROTH, 900 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435648/1784770576/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435648/1784770576/extra_large.jpg" alt="Preuve prix BOUILLON" width="220" />
 
 **OLIVES, 398 ML** — 1,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -4911,23 +4073,11 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435809/1784770587/extra_large.jpg" alt="Preuve prix ENSEMBLE DE CONDIMENTS TRIO D'ÉTÉ" width="220" />
 
-**CRÈME SURE** — 3,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: CRÈME SURE | SOUR CREAM, 500 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435748/1784770577/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435748/1784770577/extra_large.jpg" alt="Preuve prix CRÈME SURE" width="220" />
-
 **TOMATES DE SERRE** — 1,79 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: TOMATES DE SERRE | GREENHOUSE TOMATOES · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435758/1784770584/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435758/1784770584/extra_large.jpg" alt="Preuve prix TOMATES DE SERRE" width="220" />
-
-**LÉGUMINEUSES** — 1,79 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: LÉGUMINEUSES | BEANS, 540 ML · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435769/1784770579/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435769/1784770579/extra_large.jpg" alt="Preuve prix LÉGUMINEUSES" width="220" />
 
 **NAVETS MARINÉS TRANCHÉS OU CORNICHONS** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5103,12 +4253,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435754/1784770581/extra_large.jpg" alt="Preuve prix CAROTTES MINIATURES" width="220" />
 
-**COEURS DE ROMAINE** — 2,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: COEURS DE ROMAINE | ROMAINE HEARTS, 3 UN. · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435761/1784770586/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435761/1784770586/extra_large.jpg" alt="Preuve prix COEURS DE ROMAINE" width="220" />
-
 **OIGNONS ROUGES** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: OIGNONS ROUGES | RED ONIONS, 3 LB · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435762/1784770587/extra_large.jpg)
@@ -5126,12 +4270,6 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: FROMAGE PARMIGIANO REGGIANO OU PECORINO ROMANO | CHEESE, 200/250 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435776/1784770584/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428435776/1784770584/extra_large.jpg" alt="Preuve prix FROMAGE PARMIGIANO REGGIANO OU PECORINO ROMANO" width="220" />
-
-**PEROGIES** — 3,29 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: PEROGIES | PEROGIES, 815/907 G · [circulaire: Weekly Flyer - Valid Thursday, July 30 - Wednesday, August 05](https://f.wishabi.net/page_items/428435861/1784770585/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428435861/1784770585/extra_large.jpg" alt="Preuve prix PEROGIES" width="220" />
 
 **CREVETTES NORDIQUES SAUVAGES CUITES, DÉCORTIQUÉES** — 10,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5214,61 +4352,54 @@ Prix habituel : ~3,81 $  ·  meilleur vu : 2,79 $
 
 ---
 
-## 🛒 Marchés Tradition — 75 spéciaux (6 bons + 69 à surveiller)
+## 🛒 Marchés Tradition — 53 spéciaux (7 bons + 46 à surveiller)
 
-**YOGOURT À BOIRE YOPLAIT YOP** — 0,99 $  ·  ✅ Excellent spécial
-Prix habituel : ~9,93 $  ·  meilleur vu : 0,97 $
+**CROUSTILLES COMPLIMENTS** — 1,47 $  ·  ✅ Excellent spécial
+Prix habituel : ~4,29 $  ·  meilleur vu : 1,47 $
 *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011949/1784706061/extra_large.jpg)
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428769410/1785269700/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011949/1784706061/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOPLAIT YOP" width="220" />
+<img src="https://f.wishabi.net/page_items/428769410/1785269700/extra_large.jpg" alt="Preuve prix CROUSTILLES COMPLIMENTS" width="220" />
 
 **EAU PÉTILLANTE COMPLIMENTS** — 0,99 $  ·  ✅ Excellent spécial
-Prix habituel : ~5,55 $  ·  meilleur vu : 0,99 $
+Prix habituel : ~5,31 $  ·  meilleur vu : 0,99 $
 *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011931/1784706072/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011931/1784706072/extra_large.jpg" alt="Preuve prix EAU PÉTILLANTE COMPLIMENTS" width="220" />
 
-**NOURRITURE POUR CHIENS PURINA ONE** — 10,99 $  ·  🟢 Très bon prix
-Prix habituel : ~24,58 $  ·  meilleur vu : 11,75 $
-*Environ 55 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011995/1784706069/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011995/1784706069/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHIENS PURINA ONE" width="220" />
-
 **BOISSON SPORTIVE GATORADE** — 4,50 $  ·  🟢 Très bon prix
-Prix habituel : ~14,72 $  ·  meilleur vu : 5,99 $
-*Environ 69 % moins cher que le prix habituel.*
+Prix habituel : ~13,26 $  ·  meilleur vu : 4,50 $
+*Environ 66 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011992/1784706067/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011992/1784706067/extra_large.jpg" alt="Preuve prix BOISSON SPORTIVE GATORADE" width="220" />
 
-**NOURRITURE POUR CHATS WHISKAS** — 9,99 $
-Prix habituel : ~14,61 $  ·  meilleur vu : 8,49 $
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011994/1784706068/extra_large.jpg)
+**NOURRITURE POUR CHIENS PURINA ONE** — 10,99 $
+Prix habituel : ~19,14 $  ·  meilleur vu : 10,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011995/1784706069/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011994/1784706068/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHATS WHISKAS" width="220" />
+<img src="https://f.wishabi.net/page_items/428011995/1784706069/extra_large.jpg" alt="Preuve prix NOURRITURE POUR CHIENS PURINA ONE" width="220" />
 
 **TRANCHES DE FROMAGE COMPLIMENTS** — 5,49 $
-Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
+Prix habituel : ~8,42 $  ·  meilleur vu : 5,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012020/1784706065/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428012020/1784706065/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
 
+**POULET FRAIS** — 2,77 $
+Prix habituel : ~3,81 $  ·  meilleur vu : 2,77 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428769408/1785269698/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428769408/1785269698/extra_large.jpg" alt="Preuve prix POULET FRAIS" width="220" />
+
+**COURGETTES VERTES OU MIXTES** — 4,00 $
+Prix habituel : ~5,33 $  ·  meilleur vu : 4,00 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011897/1784706063/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/428011897/1784706063/extra_large.jpg" alt="Preuve prix COURGETTES VERTES OU MIXTES" width="220" />
+
 *— Autres spéciaux (pas encore dans la base de prix) —*
-**BISCUITS DARE WHIPPET, PATTES D'OURS** — 2,47 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428769412/1785269701/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428769412/1785269701/extra_large.jpg" alt="Preuve prix BISCUITS DARE WHIPPET, PATTES D'OURS" width="220" />
-
-**CROUSTILLES COMPLIMENTS** — 1,47 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428769410/1785269700/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428769410/1785269700/extra_large.jpg" alt="Preuve prix CROUSTILLES COMPLIMENTS" width="220" />
-
 **JUS DE FRUITS, COCKTAIL DE LÉGUMES OASIS, THÉ GLACÉ ARIZONA, OU NECTAR DE FRUITS DEL MONTE** — 1,33 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428011941/1784706062/extra_large.jpg)
@@ -5280,18 +4411,6 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012003/1784706066/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428012003/1784706066/extra_large.jpg" alt="Preuve prix GOBERGE DE L'ALASKA À SAVEUR DE CRABE COMPLIMENTS" width="220" />
-
-**SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!** — 5,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012018/1784706064/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012018/1784706064/extra_large.jpg" alt="Preuve prix SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!" width="220" />
-
-**BOISSON SANS ALCOOL COMPLIMENTS** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012014/1784706061/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012014/1784706061/extra_large.jpg" alt="Preuve prix BOISSON SANS ALCOOL COMPLIMENTS" width="220" />
 
 **BIÈRE COORS LIGHT, SLEEMAN CLEAR 2.0 OU BUDWEISER** — 29,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5305,29 +4424,11 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011920/1784706065/extra_large.jpg" alt="Preuve prix BOLOGNE OLYMEL, LAFLEUR OU BILOPAGE" width="220" />
 
-**FILETS DE MORUE FRAÎCHE OU DéCONGELÉE** — 17,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011923/1784706067/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011923/1784706067/extra_large.jpg" alt="Preuve prix FILETS DE MORUE FRAÎCHE OU DéCONGELÉE" width="220" />
-
 **BACON LAFLEUR (375 ou 500 g) OU BACON ENTIÈREMENT CUIT LAFLEUR (65 ou 90 g)** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428769415/1785269703/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428769415/1785269703/extra_large.jpg" alt="Preuve prix BACON LAFLEUR (375 ou 500 g) OU BACON ENTIÈREMENT CUIT LAFLEUR (65 ou 90 g)" width="220" />
-
-**BARRES KASHI** — 3,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011933/1784706073/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011933/1784706073/extra_large.jpg" alt="Preuve prix BARRES KASHI" width="220" />
-
-**JAMBON CUIT EXTRA MAIGRE TRANCHÉ COMPLIMENTS** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012015/1784706062/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012015/1784706062/extra_large.jpg" alt="Preuve prix JAMBON CUIT EXTRA MAIGRE TRANCHÉ COMPLIMENTS" width="220" />
 
 **LONGES DE POISSON SAUVAGE SURGELÉES COMPLIMENTS** — 7,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5341,29 +4442,11 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428012009/1784706070/extra_large.jpg" alt="Preuve prix ESSUIE-TOUT COMPLIMENTS (6 roul.) PAPIER HYGIÉNIQUE COMPLIMENTS (12 roul.) OU MOUCHOIRS DE PAPIER COMPLIMENTS" width="220" />
 
-**FROMAGE STYLE HALLOUMI COMPLIMENTS** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012021/1784706066/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012021/1784706066/extra_large.jpg" alt="Preuve prix FROMAGE STYLE HALLOUMI COMPLIMENTS" width="220" />
-
 **CONFITURE, COMPOTE, GELÉE, MARMELADE OU TARTINADE BONNE MAMAN** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428011938/1784706060/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011938/1784706060/extra_large.jpg" alt="Preuve prix CONFITURE, COMPOTE, GELÉE, MARMELADE OU TARTINADE BONNE MAMAN" width="220" />
-
-**CLUB SANDWICH C'EST PRÊT!** — 9,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012017/1784706063/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012017/1784706063/extra_large.jpg" alt="Preuve prix CLUB SANDWICH C'EST PRÊT!" width="220" />
-
-**BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012007/1784706069/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012007/1784706069/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS" width="220" />
 
 **BOISSON ÉNERGISANTE MONSTER, REIGN, BANG OU NOS** — 2,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5371,35 +4454,17 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011984/1784706063/extra_large.jpg" alt="Preuve prix BOISSON ÉNERGISANTE MONSTER, REIGN, BANG OU NOS" width="220" />
 
-**COLLATIONS AUX FRUITS COMPLIMENTS** — 2,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012013/1784706073/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012013/1784706073/extra_large.jpg" alt="Preuve prix COLLATIONS AUX FRUITS COMPLIMENTS" width="220" />
-
 **BÂTONS GLACES Mr. FREEZE JUMBO OU POPSICLE (27 x 150 mL) OU FRIANDISES HERSHEY'S S'MORES (578 ou 651 g)** — 12,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428011957/1784706066/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011957/1784706066/extra_large.jpg" alt="Preuve prix BÂTONS GLACES Mr. FREEZE JUMBO OU POPSICLE (27 x 150 mL) OU FRIANDISES HERSHEY'S S'MORES (578 ou 651 g)" width="220" />
 
-**BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE** — 4,98 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011925/1784706068/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011925/1784706068/extra_large.jpg" alt="Preuve prix BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE" width="220" />
-
 **SALADE DE CHOU OU SALADE JARDINIÈRE COMPLIMENTS** — 2,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012006/1784706068/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428012006/1784706068/extra_large.jpg" alt="Preuve prix SALADE DE CHOU OU SALADE JARDINIÈRE COMPLIMENTS" width="220" />
-
-**CREVETTES SURGELÉES CARAVELLE** — 13,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011918/1784706064/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011918/1784706064/extra_large.jpg" alt="Preuve prix CREVETTES SURGELÉES CARAVELLE" width="220" />
 
 **SACS À COMPOSTAGE GLAD Compostage (20) OU NETTOYANT POUR CUVETTE LYSOL (946 mL) OU LINGETTES LYSOL (75)** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5431,29 +4496,11 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011985/1784706064/extra_large.jpg" alt="Preuve prix LITIÈRE AGGLOMÉRANTE POUR CHATS TIDY CATS" width="220" />
 
-**BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY, WHITE CLAW OU COORS SELTZER** — 23,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011986/1784706064/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011986/1784706064/extra_large.jpg" alt="Preuve prix BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY, WHITE CLAW OU COORS SELTZER" width="220" />
-
-**PÉPITES DE CHOCOLAT COMPLIMENTS** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011997/1784706061/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011997/1784706061/extra_large.jpg" alt="Preuve prix PÉPITES DE CHOCOLAT COMPLIMENTS" width="220" />
-
 **CAPICOLLO ROND TRANCHÉ ROMA** — 3,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011914/1784706062/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011914/1784706062/extra_large.jpg" alt="Preuve prix CAPICOLLO ROND TRANCHÉ ROMA" width="220" />
-
-**SANDWICH CROISSANT C'EST PRÊT!** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011919/1784706065/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011919/1784706065/extra_large.jpg" alt="Preuve prix SANDWICH CROISSANT C'EST PRÊT!" width="220" />
 
 **CORNETS DE GUIMAUVES McCORMICKS (165 g) OU FRIANDISES DARE (300 ou 325 g)** — 4,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5467,29 +4514,11 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011944/1784706064/extra_large.jpg" alt="Preuve prix PEPSI OU BOISSON À BASE D'EAU PÉTILLANTE BUBLY" width="220" />
 
-**FROMAGE BOCCONCINI COMPLIMENTS** — 6,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012000/1784706064/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428012000/1784706064/extra_large.jpg" alt="Preuve prix FROMAGE BOCCONCINI COMPLIMENTS" width="220" />
-
-**FROMAGE CAPRINY ALEXIS DE PORTNEUF** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011915/1784706062/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011915/1784706062/extra_large.jpg" alt="Preuve prix FROMAGE CAPRINY ALEXIS DE PORTNEUF" width="220" />
-
 **SACS COMPLIMENTS Ordures (20 à 40), Recyclage (40)** — 8,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428012004/1784706067/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428012004/1784706067/extra_large.jpg" alt="Preuve prix SACS COMPLIMENTS Ordures (20 à 40), Recyclage (40)" width="220" />
-
-**PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** — 7,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011952/1784706063/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011952/1784706063/extra_large.jpg" alt="Preuve prix PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX" width="220" />
 
 **VIN BLANC OU ROUGE WALLAROO TRAIL OU SMOKY BAY** — 12,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5509,12 +4538,6 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011958/1784706067/extra_large.jpg" alt="Preuve prix MÉLANGE À MARINADE, À SAUCE OU D'ASSAISONNEMENT FRENCH'S" width="220" />
 
-**PÂTISSERIES SURGELÉES PILLSBURY** — 3,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011959/1784706068/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011959/1784706068/extra_large.jpg" alt="Preuve prix PÂTISSERIES SURGELÉES PILLSBURY" width="220" />
-
 **POITRINES DE POULET FARCIES SURGELÉES MAPLE LEAF PRIME (568 g) LANIÈRES OU CROQUETTES DE POULET SURGELÉES MAPLE LEAF PRIME (700 g)** — 14,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428011896/1784706062/extra_large.jpg)
@@ -5532,12 +4555,6 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011988/1784706065/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011988/1784706065/extra_large.jpg" alt="Preuve prix BIÈRE BORÉALE IPA, UNIBROUE NEIPA, ARCHIBALD MATANTE OU BRASSEUR DE MONTRÉAL L'AMER IPA" width="220" />
-
-**COURGETTES VERTES OU MIXTES** — 4,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011897/1784706063/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011897/1784706063/extra_large.jpg" alt="Preuve prix COURGETTES VERTES OU MIXTES" width="220" />
 
 **QUAKER CROQUE NATURE, SQUARES, CAPITAINE CROUNCHE, LIFE CEREAL** — 3,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5611,12 +4628,6 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011964/1784706071/extra_large.jpg" alt="Preuve prix RIZ MINUTE RICE PRÊT À SERVIR (2 x 125 g) OU TILDA (250 g)" width="220" />
 
-**FRIANDISES HARIBO GOLDBEARS** — 9,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011969/1784706074/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011969/1784706074/extra_large.jpg" alt="Preuve prix FRIANDISES HARIBO GOLDBEARS" width="220" />
-
 **TREMPETTE LE GREC** — 4,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011909/1784706069/extra_large.jpg)
@@ -5634,12 +4645,6 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Québec](https://f.wishabi.net/page_items/428011963/1784706070/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428011963/1784706070/extra_large.jpg" alt="Preuve prix CASSONADE À L'ANCIENNE OU DORÉE OU SUCRE A GLACER LANTIC" width="220" />
-
-**CÔTELETTES DE LONGE D'AGNEAU ASSAISONNÉES** — 16,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Québec](https://f.wishabi.net/page_items/428011901/1784706065/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428011901/1784706065/extra_large.jpg" alt="Preuve prix CÔTELETTES DE LONGE D'AGNEAU ASSAISONNÉES" width="220" />
 
 **CONFITURE, MARMELADE OU GELÉE SMUCKER'S** — 4,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5681,16 +4686,16 @@ Prix habituel : ~8,25 $  ·  meilleur vu : 5,49 $
 
 ---
 
-## 🛒 Familiprix — 184 spéciaux (2 bons + 182 à surveiller)
+## 🛒 Familiprix — 168 spéciaux (2 bons + 166 à surveiller)
 
 **MAYBELLINE NEW YORK, Produits de maquillage sélectionnés** — 7,99 $
-Prix habituel : ~13,16 $  ·  meilleur vu : 8,99 $
+Prix habituel : ~12,42 $  ·  meilleur vu : 7,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428213067/1784698969/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428213067/1784698969/extra_large.jpg" alt="Preuve prix MAYBELLINE NEW YORK, Produits de maquillage sélectionnés" width="220" />
 
 **PRODUITS DE MAQUILLAGE SÉLECTIONNÉS** — 7,99 $
-Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
+Prix habituel : ~11,82 $  ·  meilleur vu : 7,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428213066/1784698968/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428213066/1784698968/extra_large.jpg" alt="Preuve prix PRODUITS DE MAQUILLAGE SÉLECTIONNÉS" width="220" />
@@ -5701,12 +4706,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · texte brut: essentiel Baby wipes · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001127/1784698953/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428001127/1784698953/extra_large.jpg" alt="Preuve prix Essentiel Baby wipes" width="220" />
-
-**DOVE Produits sélectionnés** — 5,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281484/1784698957/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281484/1784698957/extra_large.jpg" alt="Preuve prix DOVE Produits sélectionnés" width="220" />
 
 **Dove Soin Avancé antisudorifique en bâton Essentiels Fraîcheur 45g** — 5,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5786,18 +4785,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428281422/1784698948/extra_large.jpg" alt="Preuve prix NIVEA MEN Produits sélectionnés" width="220" />
 
-**Poise serviettes ultra longues absorption maximale 39un** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281413/1784698943/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281413/1784698943/extra_large.jpg" alt="Preuve prix Poise serviettes ultra longues absorption maximale 39un" width="220" />
-
-**Depend Fit-Flex sous-vêtements d'incontinence pour femmes Moyen 18un** — 14,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281414/1784698944/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281414/1784698944/extra_large.jpg" alt="Preuve prix Depend Fit-Flex sous-vêtements d'incontinence pour femmes Moyen 18un" width="220" />
-
 **SpongeTowels Ultra Pro rouleau essuie-tout 2 épaisseurs extra fort et absorbant 6un** — 10,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281411/1784698942/extra_large.jpg)
@@ -5869,12 +4856,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281485/1784698958/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428281485/1784698958/extra_large.jpg" alt="Preuve prix DOVE ou DOVE MEN CARE Produits sélectionnés" width="220" />
-
-**Lysol lingettes désinfectantes agrumes 75un** — 6,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001550/1784698981/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001550/1784698981/extra_large.jpg" alt="Preuve prix Lysol lingettes désinfectantes agrumes 75un" width="220" />
 
 **POUR EXTRA ET REGULIERE DAWN ou LA PARISIENNE, Produits sélectionnés** — 5,00 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -5972,12 +4953,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428001530/1784698975/extra_large.jpg" alt="Preuve prix Emergen-C supplément de vitamines et minéraux en sachets super orange 30un" width="220" />
 
-**ADRIEN GAGNON, Produits sélectionnés** — 11,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001542/1784698979/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001542/1784698979/extra_large.jpg" alt="Preuve prix ADRIEN GAGNON, Produits sélectionnés" width="220" />
-
 **Laura Secord Friandise Récolte Fruitée 200g** — 11,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001173/1784698952/extra_large.jpg)
@@ -6008,29 +4983,11 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428213059/1784698965/extra_large.jpg" alt="Preuve prix Garnier SkinActive Moisture Rescue gel-crème rafraîchissant pour peau normale à mixte 50g" width="220" />
 
-**Covergirl Clean Invisible cache-cernes #103 Ivoire Pâle 7ml** — 9,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428213070/1784698970/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428213070/1784698970/extra_large.jpg" alt="Preuve prix Covergirl Clean Invisible cache-cernes #103 Ivoire Pâle 7ml" width="220" />
-
 **Covergirl Clean Fresh Yummy gloss #600 My Strawbooty 10ml** — 9,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428213071/1784698971/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428213071/1784698971/extra_large.jpg" alt="Preuve prix Covergirl Clean Fresh Yummy gloss #600 My Strawbooty 10ml" width="220" />
-
-**Lunettes de soleil sélectionnées** — 30,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001181/1784698956/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001181/1784698956/extra_large.jpg" alt="Preuve prix Lunettes de soleil sélectionnées" width="220" />
-
-**STYLÉ Bas pour femme sélectionnés** — 21,00 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001176/1784698954/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001176/1784698954/extra_large.jpg" alt="Preuve prix STYLÉ Bas pour femme sélectionnés" width="220" />
 
 **After Bite The Itch Eraser gel anti-démangeaison soulagement rapide 20g** — 5,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6097,12 +5054,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001054/1784698951/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428001054/1784698951/extra_large.jpg" alt="Preuve prix Refresh Fusion gouttes lubrifiantes pour yeux secs 10ml" width="220" />
-
-**HydraSense gouttes pour yeux secs 10ml** — 11,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428000794/1784698948/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428000794/1784698948/extra_large.jpg" alt="Preuve prix HydraSense gouttes pour yeux secs 10ml" width="220" />
 
 **POLIDENT, Nettoyants pour prothèses dentaires sélectionnés** — 8,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6194,12 +5145,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428001532/1784698975/extra_large.jpg" alt="Preuve prix "SCOTTIES, Ultra Doux, Mouchoirs, 4 x 104 unités" width="220" />
 
-**Abreva crème de docosanol traitement des feux sauvages 2g** — 17,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001064/1784698954/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001064/1784698954/extra_large.jpg" alt="Preuve prix Abreva crème de docosanol traitement des feux sauvages 2g" width="220" />
-
 **OGX Nettoyant exfoliant** — 7,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428000944/1784698952/extra_large.jpg)
@@ -6253,18 +5198,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · libellé circulaire groupé · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281493/1784698963/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428281493/1784698963/extra_large.jpg" alt="Preuve prix Garnier SkinActive eau micellaire nettoyante tout-en-1 + hydratante pour peau sèche et sensible 400ml" width="220" />
-
-**JOHN FRIEDA Produits capillaires sélectionnés** — 9,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281498/1784698965/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281498/1784698965/extra_large.jpg" alt="Preuve prix JOHN FRIEDA Produits capillaires sélectionnés" width="220" />
-
-**SALLY HANSEN, Xtreme Wear, Vernis à ongles** — 3,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428213069/1784698970/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428213069/1784698970/extra_large.jpg" alt="Preuve prix SALLY HANSEN, Xtreme Wear, Vernis à ongles" width="220" />
 
 **PREMIÈRE RÉPONSE/FIRST RESPONSE Tests de grossesse sélectionnés** — 15,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6379,18 +5312,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281435/1784698954/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428281435/1784698954/extra_large.jpg" alt="Preuve prix Advil Liqui-Gels capsules d'ibuprofène 72un" width="220" />
-
-**Sensodyne Soins Quotidiens dentifrice blanchissant antitartre 100ml** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281487/1784698959/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281487/1784698959/extra_large.jpg" alt="Preuve prix Sensodyne Soins Quotidiens dentifrice blanchissant antitartre 100ml" width="220" />
-
-**Essentiel Culottes protectrices sélectionnées** — 12,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428281490/1784698961/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428281490/1784698961/extra_large.jpg" alt="Preuve prix Essentiel Culottes protectrices sélectionnées" width="220" />
 
 **GILLETTE Rasoirs sélectionnés** — 15,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6517,12 +5438,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001125/1784698952/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428001125/1784698952/extra_large.jpg" alt="Preuve prix AQUAPHOR Réparateur à lèvres" width="220" />
-
-**Biomedic pansements en tissu résistant 20un** — 4,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001094/1784698964/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001094/1784698964/extra_large.jpg" alt="Preuve prix Biomedic pansements en tissu résistant 20un" width="220" />
 
 **BIOMEDIC, Suppositoires à la glycérine, 24 unités** — 7,49 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6782,16 +5697,10 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428281464/1784698962/extra_large.jpg" alt="Preuve prix Coppertone Sport Écran Solaire FPS30 Vaporisateur 2x215ml" width="220" />
 
-**SKYN Condoms sélectionnés** — 15,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-30 au 2026-08-05 · [circulaire: Circulaire](https://f.wishabi.net/page_items/428001466/1784698953/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428001466/1784698953/extra_large.jpg" alt="Preuve prix SKYN Condoms sélectionnés" width="220" />
-
 
 ---
 
-## 🛒 Costco — 54 spéciaux à surveiller
+## 🛒 Costco — 43 spéciaux à surveiller
 
 **Alani Boisson Energisante Baiser orange 355 mL paquet de 12** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6804,12 +5713,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779388/1785184809/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779388/1785184809/extra_large.jpg" alt="Preuve prix Gatorade Perform - Boisson pour sportifs format club 28 x 591 ml" width="220" />
-
-**G.H. Cretors - Sac de maïs soufflé mélange Chicago de 737 g** — 8,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779428/1785184811/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779428/1785184811/extra_large.jpg" alt="Preuve prix G.H. Cretors - Sac de maïs soufflé mélange Chicago de 737 g" width="220" />
 
 **DOSE - Jus vert Yogi biologique pressé à froid, 30 × 300 mL (10,14 fl oz)** — 144,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6853,18 +5756,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779437/1785184810/extra_large.jpg" alt="Preuve prix Brookside - Chocolat noir, saveurs variées, 40 × 20 g" width="220" />
 
-**Purex - Détergent à lessive ultraconcentré eau froide, 250 charges de lavage** — 21,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779427/1785184810/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779427/1785184810/extra_large.jpg" alt="Preuve prix Purex - Détergent à lessive ultraconcentré eau froide, 250 charges de lavage" width="220" />
-
-**Leclerc - Celebration Trio, paquet de biscuit assorti, 920 g** — 12,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779439/1785184812/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779439/1785184812/extra_large.jpg" alt="Preuve prix Leclerc - Celebration Trio, paquet de biscuit assorti, 920 g" width="220" />
-
 **Bonterra - Papiers-mouchoirs 3 épaisseurs, Paquet de 36 x 150 unités** — 59,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779419/1785184805/extra_large.jpg)
@@ -6883,12 +5774,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779404/1785184812/extra_large.jpg" alt="Preuve prix Alani Nu boisson énergisante poussière d'étoile, 12 x 355 ml" width="220" />
 
-**Dawn - Powerwash vaporisatuer pour la vaisselle, 3 × 635 ml** — 16,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779413/1785184809/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779413/1785184809/extra_large.jpg" alt="Preuve prix Dawn - Powerwash vaporisatuer pour la vaisselle, 3 × 635 ml" width="220" />
-
 **Purex - Détergent à lessive ultraconcentré After the Rain, 250 charges de lavage** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779447/1785184809/extra_large.jpg)
@@ -6900,12 +5785,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779379/1785184809/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779379/1785184809/extra_large.jpg" alt="Preuve prix Tide Hygienic Clean Power PODS pacs de détergent à lessive, Original, 79 pièces" width="220" />
-
-**Craquelins Goldfish Pepperidge Farm, 1,64 kg** — 13,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779459/1785184809/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779459/1785184809/extra_large.jpg" alt="Preuve prix Craquelins Goldfish Pepperidge Farm, 1,64 kg" width="220" />
 
 **Bonterra - Papier essuie-tout de 24 rouleaux à 160 feuilles** — 49,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -6919,12 +5798,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779407/1785184805/extra_large.jpg" alt="Preuve prix Budweiser Zero - Bière sans alcool 30 × 355 ml" width="220" />
 
-**Tostitos - Salsa moyenne, 2 × 1,21 L** — 11,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779373/1785184806/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779373/1785184806/extra_large.jpg" alt="Preuve prix Tostitos - Salsa moyenne, 2 × 1,21 L" width="220" />
-
 **Alani Nu boisson énergisante glace pilée Hawaïenne 355 mL paquet de 12** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779386/1785184807/extra_large.jpg)
@@ -6936,12 +5809,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779389/1785184809/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779389/1785184809/extra_large.jpg" alt="Preuve prix Gatorade G2 - Boisson pour sportifs format Club 28 x 591 ml" width="220" />
-
-**Cashmere Premium-Papier hygiénique doux, épais, hypoallergénique et sans danger pour les fosses septiques, Paquet de 40** — 29,49 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · libellé circulaire groupé · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779371/1785184805/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779371/1785184805/extra_large.jpg" alt="Preuve prix Cashmere Premium-Papier hygiénique doux, épais, hypoallergénique et sans danger pour les fosses septiques, Paquet de 40" width="220" />
 
 **MadeGood Mornings - Coupes d'avoine biologiques cuites au four, 24 × 35 g** — 20,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -7027,12 +5894,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779384/1785184806/extra_large.jpg" alt="Preuve prix Heinz - Vraie mayonnaise, 16 L" width="220" />
 
-**Rasoir Venus GlisseSensible pour femmes, pour peau sensible** — 27,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779363/1785184805/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779363/1785184805/extra_large.jpg" alt="Preuve prix Rasoir Venus GlisseSensible pour femmes, pour peau sensible" width="220" />
-
 **Alani Nu - Variété de boisson énergisante, 355 mL paquet de 18** — 30,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779375/1785184807/extra_large.jpg)
@@ -7056,18 +5917,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779416/1785184811/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779416/1785184811/extra_large.jpg" alt="Preuve prix Heineken 0 % - Bière sans alcool 24 x 330 ml" width="220" />
-
-**Hero - Mighty Patch Original et Invisible+, paquet de 84 patchs** — 23,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779364/1785184805/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779364/1785184805/extra_large.jpg" alt="Preuve prix Hero - Mighty Patch Original et Invisible+, paquet de 84 patchs" width="220" />
-
-**Lysol Advanced - Nettoyant pour cuvettes, 4 × 946 ml** — 16,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779403/1785184811/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779403/1785184811/extra_large.jpg" alt="Preuve prix Lysol Advanced - Nettoyant pour cuvettes, 4 × 946 ml" width="220" />
 
 **Artstyle - Assiettes en papier d'été rondes de 10 po, paquet de 100** — 21,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
@@ -7099,12 +5948,6 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/428779451/1785184812/extra_large.jpg" alt="Preuve prix Pulp & Press - Nettoyant biologique premium au jus pressé à froid pendant 3 jours, 21 bouteilles" width="220" />
 
-**Terra Delyssa - Dattes dénoyautées biologiques deglet noor, 1,25 kg** — 8,99 $  ·  ❓ Historique insuffisant
-*Prix clair, mais pas assez d'historique pour comparer.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779380/1785184810/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/428779380/1785184810/extra_large.jpg" alt="Preuve prix Terra Delyssa - Dattes dénoyautées biologiques deglet noor, 1,25 kg" width="220" />
-
 **Ferrero - Nutella B-Ready, 36 × 22 g** — 20,99 $  ·  ❓ Historique insuffisant
 *Prix clair, mais pas assez d'historique pour comparer.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-07-27 au 2026-08-02 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/428779392/1785184811/extra_large.jpg)
@@ -7124,170 +5967,217 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 
 *Ces articles semblaient en spécial, mais le prix n'est pas avantageux.*
 
-- **SAUCISSES FUMÉES COMPLIMENTS** (Marchés Tradition) · 5,00 $ · était à 3,49 $ récemment → Attendre
-- **FRAMBOISES** (Marchés Tradition) · 2,77 $ · était à 3,99 $ récemment → Attendre
+- **SAUCISSES FUMÉES COMPLIMENTS** (Marchés Tradition) · 5,00 $ · était à 2,99 $ récemment → Attendre
+- **BISCUITS DARE WHIPPET, PATTES D'OURS** (Marchés Tradition) · 2,47 $ · était à 2,47 $ récemment → Faux rabais
+- **FRAMBOISES** (Marchés Tradition) · 2,77 $ · était à 1,88 $ récemment → Attendre
 - **FROMAGE COMPLIMENTS** (Marchés Tradition) · 4,88 $ · était à 4,77 $ récemment → Pas assez bon
 - **CAROTTES NANTAISES, OU NANTAISES DE COULEUR, CONCOMBRES À MARINER, POMMES DE TERRE GRELOTS JAUNES, ROUGES OU BLANCHES OU HARICOTS VERTS** (Marchés Tradition) · 1,99 $ · était à 1,77 $ récemment → Attendre
 - **BOISSON À BASE D'EAU PÉTILLANTE BUBLY (12 x 355 mL) OU EAU DE SOURCE NATURELLE GAZÉIFIÉE MONTELLIER (10 x 355 mL)** (Marchés Tradition) · 14,00 $ · était à 5,99 $ récemment → Attendre
 - **FRIANDISES POUR CHIENS PEDIGREE DENTASTIX** (Marchés Tradition) · 5,29 $ · était à 5,29 $ récemment → Faux rabais
+- **SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!** (Marchés Tradition) · 5,49 $ · était à 5,49 $ récemment → Faux rabais
 - **KETCHUP AUX TOMATES COMPLIMENTS** (Marchés Tradition) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
-- **POULET FRAIS** (Marchés Tradition) · 2,77 $ · était à 3,99 $ récemment → Pas assez bon
+- **BOISSON SANS ALCOOL COMPLIMENTS** (Marchés Tradition) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
 - **ŒUFS BLANCS COMPLIMENTS** (Marchés Tradition) · 3,97 $ · était à 3,49 $ récemment → Attendre
+- **FILETS DE MORUE FRAÎCHE OU DéCONGELÉE** (Marchés Tradition) · 17,99 $ · était à 17,99 $ récemment → Faux rabais
 - **YOGOURT LIBERTÉ GREC GREC (650 ou 750 g), MÉDITERRANÉE (900 g)** (Marchés Tradition) · 6,97 $ · était à 2,79 $ récemment → Attendre
-- **PEPPERONI TRANCHÉ MIKES** (Marchés Tradition) · 6,99 $ → Faux rabais
-- **FILET DE PORC FRAIS MARINÉ DU BRETON** (Marchés Tradition) · 10,99 $ · était à 2,88 $ récemment → Attendre
+- **PEPPERONI TRANCHÉ MIKES** (Marchés Tradition) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **FILET DE PORC FRAIS MARINÉ DU BRETON** (Marchés Tradition) · 10,99 $ · était à 2,49 $ récemment → Attendre
+- **BARRES KASHI** (Marchés Tradition) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
 - **PAINS À HAMBURGER OU À HOT-DOG COMPLIMENTS (4 à 12) BAGELS OU MUFFINS ANGLAIS COMPLIMENTS (6)** (Marchés Tradition) · 2,49 $ · était à 0,99 $ récemment → Attendre
 - **MANGUES ROUGES** (Marchés Tradition) · 8,00 $ · était à 1,50 $ récemment → Attendre
 - **CAFÉ TIM HORTONS K-CUP** (Marchés Tradition) · 26,99 $ · était à 4,99 $ récemment → Attendre
 - **BISCUITS LECLERC** (Marchés Tradition) · 3,99 $ · était à 2,47 $ récemment → Attendre
-- **RELISH TOUNDRA** (Marchés Tradition) · 3,99 $ · était à 4,29 $ récemment → Faux rabais
+- **JAMBON CUIT EXTRA MAIGRE TRANCHÉ COMPLIMENTS** (Marchés Tradition) · 14,99 $ · était à 14,99 $ récemment → Attendre
+- **RELISH TOUNDRA** (Marchés Tradition) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
 - **MUFFINS COMPLIMENTS** (Marchés Tradition) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **GÂTEAU CRUMBLE COMPLIMENTS** (Marchés Tradition) · 8,99 $ · était à 9,99 $ récemment → Pas assez bon
-- **SAUCE POUR PÂTES MIKES** (Marchés Tradition) · 5,79 $ · était à 1,25 $ récemment → Attendre
-- **SAUCE POUR PÂTES COMPLIMENTS** (Marchés Tradition) · 7,99 $ · était à 1,25 $ récemment → Attendre
+- **GÂTEAU CRUMBLE COMPLIMENTS** (Marchés Tradition) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
+- **SAUCE POUR PÂTES MIKES** (Marchés Tradition) · 5,79 $ · était à 0,50 $ récemment → Attendre
+- **FROMAGE STYLE HALLOUMI COMPLIMENTS** (Marchés Tradition) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **SAUCE POUR PÂTES COMPLIMENTS** (Marchés Tradition) · 7,99 $ · était à 0,50 $ récemment → Attendre
+- **CLUB SANDWICH C'EST PRÊT!** (Marchés Tradition) · 9,49 $ · était à 9,49 $ récemment → Faux rabais
+- **BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS** (Marchés Tradition) · 6,99 $ · était à 6,99 $ récemment → Pas assez bon
 - **JUS D'ORANGE RÉFRIGÉRÉ COMPLIMENTS** (Marchés Tradition) · 4,99 $ · était à 2,00 $ récemment → Attendre
+- **COLLATIONS AUX FRUITS COMPLIMENTS** (Marchés Tradition) · 2,49 $ · était à 2,49 $ récemment → Attendre
+- **BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE** (Marchés Tradition) · 4,98 $ · était à 4,98 $ récemment → Pas assez bon
 - **FRUITS EN COUPE DEL MONTE** (Marchés Tradition) · 7,00 $ · était à 7,00 $ récemment → Attendre
 - **MAYONNAISE HELLMANN'S** (Marchés Tradition) · 6,99 $ · était à 3,99 $ récemment → Attendre
 - **FROMAGE BURRATINI BELLA CASARA** (Marchés Tradition) · 7,49 $ · était à 7,49 $ récemment → Faux rabais
+- **CREVETTES SURGELÉES CARAVELLE** (Marchés Tradition) · 13,99 $ · était à 13,99 $ récemment → Faux rabais
 - **POMMES DE TERRE BLANCHES COMPLIMENTS** (Marchés Tradition) · 4,49 $ · était à 1,77 $ récemment → Attendre
-- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (Marchés Tradition) · 3,79 $ → Faux rabais
-- **SAUCE BBQ BENNY & CO.** (Marchés Tradition) · 5,49 $ → Faux rabais
+- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (Marchés Tradition) · 3,79 $ · était à 3,49 $ récemment → Faux rabais
+- **BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY, WHITE CLAW OU COORS SELTZER** (Marchés Tradition) · 23,99 $ · était à 23,49 $ récemment → Faux rabais
+- **SAUCE BBQ BENNY & CO.** (Marchés Tradition) · 5,49 $ · était à 4,99 $ récemment → Attendre
 - **FRIANDISES GLACÉES COMPLIMENTS** (Marchés Tradition) · 4,99 $ · était à 4,99 $ récemment → Attendre
+- **PÉPITES DE CHOCOLAT COMPLIMENTS** (Marchés Tradition) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
 - **FROMAGE FÉTA COMPLIMENTS** (Marchés Tradition) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
 - **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** (Marchés Tradition) · 5,99 $ · était à 3,87 $ récemment → Attendre
+- **SANDWICH CROISSANT C'EST PRÊT!** (Marchés Tradition) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **FROMAGE BOCCONCINI COMPLIMENTS** (Marchés Tradition) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
+- **YOGOURT À BOIRE YOPLAIT YOP** (Marchés Tradition) · 0,99 $ · était à 0,88 $ récemment → Attendre
 - **BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS** (Marchés Tradition) · 18,99 $ · était à 18,99 $ récemment → Faux rabais
+- **FROMAGE CAPRINY ALEXIS DE PORTNEUF** (Marchés Tradition) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **YOGOURT PROBIOTIQUE ACTIVIA** (Marchés Tradition) · 5,99 $ · était à 2,79 $ récemment → Attendre
-- **BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)** (Marchés Tradition) · 19,99 $ · était à 23,49 $ récemment → Pas assez bon
+- **BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)** (Marchés Tradition) · 19,99 $ · était à 19,99 $ récemment → Pas assez bon
 - **BŒUF POUR FONDUE CHINOISE SURGELÉ COMPLIMENTS** (Marchés Tradition) · 8,99 $ · était à 8,99 $ récemment → Attendre
 - **RIZ COMPLIMENTS** (Marchés Tradition) · 4,29 $ · était à 3,49 $ récemment → Attendre
+- **PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** (Marchés Tradition) · 7,49 $ · était à 6,49 $ récemment → Attendre
 - **FRIANDISES TWIZZLERS** (Marchés Tradition) · 3,49 $ · était à 2,50 $ récemment → Attendre
-- **VINAIGRETTE KRAFT** (Marchés Tradition) · 3,49 $ · était à 4,49 $ récemment → Attendre
-- **ENSEMBLE POUR PIZZA COMPLIMENTS** (Marchés Tradition) · 7,49 $ → Faux rabais
+- **VINAIGRETTE KRAFT** (Marchés Tradition) · 3,49 $ · était à 2,49 $ récemment → Attendre
+- **ENSEMBLE POUR PIZZA COMPLIMENTS** (Marchés Tradition) · 7,49 $ · était à 7,49 $ récemment → Faux rabais
 - **LANIÈRES, PÉPITES, LANGUETTES, BURGERS OU FRITES DE POITRINE DE POULET OU POULET POPCORN PANES, MÉDAILLONS OU BURGERS NON PANÉS SURGELÉS FLAMINGO** (Marchés Tradition) · 13,99 $ · était à 2,49 $ récemment → Attendre
 - **THON PÂLE OU THON PÂLE AROMATISÉ COMPLIMENTS** (Marchés Tradition) · 1,79 $ · était à 1,79 $ récemment → Faux rabais
 - **LÉGUMES SURGELÉS ARCTIC GARDENS** (Marchés Tradition) · 4,49 $ · était à 1,77 $ récemment → Attendre
+- **PÂTISSERIES SURGELÉES PILLSBURY** (Marchés Tradition) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
+- **NOURRITURE POUR CHATS WHISKAS** (Marchés Tradition) · 9,99 $ · était à 9,99 $ récemment → Pas assez bon
 - **LÉGUMES COMPLIMENTS** (Marchés Tradition) · 1,99 $ · était à 1,25 $ récemment → Attendre
 - **CROUSTILLES LAY'S** (Marchés Tradition) · 8,00 $ · était à 1,99 $ récemment → Attendre
-- **CÉLERI OU LAITUE ICEBERG** (Marchés Tradition) · 1,99 $ · était à 0,97 $ récemment → Attendre
+- **CÉLERI OU LAITUE ICEBERG** (Marchés Tradition) · 1,99 $ · était à 0,88 $ récemment → Attendre
 - **SALSA TOSTITOS** (Marchés Tradition) · 5,49 $ · était à 4,99 $ récemment → Attendre
 - **PRUNES JAUNES** (Marchés Tradition) · 6,99 $ · était à 5,99 $ récemment → Attendre
 - **PEPSI OU COCA-COLA** (Marchés Tradition) · 17,00 $ · était à 6,99 $ récemment → Attendre
 - **POMMES DE TERRE OU GALETTES DE POMMES DE TERRE FRITES SURGELÉES LES FERMES CAVENDISH** (Marchés Tradition) · 3,79 $ · était à 1,77 $ récemment → Attendre
 - **FROMAGE CHEDDAR PERRON** (Marchés Tradition) · 7,69 $ · était à 4,99 $ récemment → Attendre
-- **GAUFRES OU CRÊPES SURGELÉES KELLOGG'S EGGO** (Marchés Tradition) · 5,99 $ → Faux rabais
-- **PÂTES ALIMENTAIRES DELVERDE Nid** (Marchés Tradition) · 6,00 $ · était à 1,25 $ récemment → Attendre
-- **LAIT AU CHOCOLAT QUÉBON OU SEALTEST** (Marchés Tradition) · 2,99 $ · était à 0,97 $ récemment → Attendre
+- **GAUFRES OU CRÊPES SURGELÉES KELLOGG'S EGGO** (Marchés Tradition) · 5,99 $ · était à 5,99 $ récemment → Faux rabais
+- **PÂTES ALIMENTAIRES DELVERDE Nid** (Marchés Tradition) · 6,00 $ · était à 0,50 $ récemment → Attendre
+- **LAIT AU CHOCOLAT QUÉBON OU SEALTEST** (Marchés Tradition) · 2,99 $ · était à 0,88 $ récemment → Attendre
 - **SAUCISSES DE PORC FRAIS PRIX CLUB** (Marchés Tradition) · 15,00 $ · était à 15,00 $ récemment → Faux rabais
 - **MAÏS EN ÉPI DEUX COULEURS** (Marchés Tradition) · 3,96 $ · était à 0,99 $ récemment → Attendre
-- **DEMI-LONGE DE PORC FRAIS** (Marchés Tradition) · 4,49 $ · était à 2,88 $ récemment → Attendre
-- **TOURNEDOS DE POULET AVEC BACON SURGELES VALEUR PLUS** (Marchés Tradition) · 10,00 $ → Faux rabais
+- **DEMI-LONGE DE PORC FRAIS** (Marchés Tradition) · 4,49 $ · était à 2,49 $ récemment → Attendre
+- **TOURNEDOS DE POULET AVEC BACON SURGELES VALEUR PLUS** (Marchés Tradition) · 10,00 $ · était à 10,00 $ récemment → Faux rabais
 - **MOUTARDE PRÉPARÉE FRENCH'S** (Marchés Tradition) · 2,99 $ · était à 1,99 $ récemment → Attendre
 - **CUISSES DE POULET FRAIS** (Marchés Tradition) · 3,49 $ · était à 1,95 $ récemment → Attendre
+- **FRIANDISES HARIBO GOLDBEARS** (Marchés Tradition) · 9,49 $ · était à 9,49 $ récemment → Faux rabais
+- **CÔTELETTES DE LONGE D'AGNEAU ASSAISONNÉES** (Marchés Tradition) · 16,99 $ · était à 16,99 $ récemment → Faux rabais
 - **PAIN BIOLOGIQUE TRANCHÉ À CHACUN SON PAIN LEVAIN & BIO** (Marchés Tradition) · 6,99 $ · était à 0,99 $ récemment → Attendre
-- **BREUVAGE LAITIER SANS LACTOSE NATREL PLUS** (Marchés Tradition) · 7,99 $ · était à 0,97 $ récemment → Attendre
+- **BREUVAGE LAITIER SANS LACTOSE NATREL PLUS** (Marchés Tradition) · 7,99 $ · était à 0,88 $ récemment → Attendre
 - **CRÈME SURE SEALTEST** (Marchés Tradition) · 3,99 $ · était à 3,99 $ récemment → Attendre
 - **CROUSTILLES PRINGLES** (Marchés Tradition) · 16,49 $ · était à 2,47 $ récemment → Attendre
-- **Aubergines** (Super C) · 2,49 $ · était à 2,99 $ récemment → Pas assez bon
-- **Sandwichs assortis** (Super C) · 11,99 $ · était à 22,00 $ récemment → Pas assez bon
+- **Aubergines** (Super C) · 2,49 $ · était à 2,49 $ récemment → Pas assez bon
+- **Sandwichs assortis** (Super C) · 11,99 $ · était à 11,99 $ récemment → Pas assez bon
+- **Sous-marin garni de viandes froides** (Super C) · 4,49 $ · était à 4,49 $ récemment → Pas assez bon
+- **Pizza lève-au-four Irrésistible** (Super C) · 5,99 $ · était à 5,99 $ récemment → Faux rabais
 - **NOIX DE CAJOU ENTIÈRES RÔTIES IRRÉSISTIBLE** (Super C) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **Petits pains viennois** (Super C) · 4,99 $ · était à 0,99 $ récemment → Attendre
 - **Fromage Cracker Barrel** (Super C) · 5,97 $ · était à 5,97 $ récemment → Pas assez bon
 - **Pommes de terre blanches** (Super C) · 2,79 $ · était à 1,77 $ récemment → Attendre
-- **Oeufs blancs Selection** (Super C) · 2,97 $ · était à 2,99 $ récemment → Attendre
+- **Oeufs blancs Selection** (Super C) · 2,97 $ · était à 2,97 $ récemment → Attendre
+- **Crevettes sauvages d'Argentine Irrésistible** (Super C) · 6,88 $ · était à 6,88 $ récemment → Faux rabais
 - **Bacon Selection** (Super C) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **Bière Labatt, Molson, Sleeman** (Super C) · 73,00 $ · était à 73,00 $ récemment → Faux rabais
+- **Bière Stella Artois, Blue Moon, Sapporo** (Super C) · 35,48 $ · était à 35,48 $ récemment → Pas assez bon
+- **Bière sans alcool Corona Cero** (Super C) · 20,99 $ · était à 20,99 $ récemment → Pas assez bon
 - **POMMES HONEYCRISP** (Super C) · 2,99 $ · était à 1,77 $ récemment → Attendre
 - **Clémentines** (Super C) · 4,99 $ · était à 2,75 $ récemment → Attendre
-- **Laitue en feuilles rouges ou vertes ou laitue romaine** (Super C) · 1,99 $ · était à 0,97 $ récemment → Attendre
+- **Laitue en feuilles rouges ou vertes ou laitue romaine** (Super C) · 1,99 $ · était à 0,88 $ récemment → Attendre
 - **Petits pains kaiser** (Super C) · 2,79 $ · était à 0,99 $ récemment → Attendre
-- **Tomates roses de serre** (Super C) · 2,49 $ · était à 3,49 $ récemment → Pas assez bon
+- **Vin blanc ou rouge** (Super C) · 12,49 $ · était à 12,49 $ récemment → Pas assez bon
 - **Boisson refrigérée Tropicana** (Super C) · 2,99 $ · était à 2,00 $ récemment → Attendre
 - **Ketchup aux tomates Heinz** (Super C) · 6,97 $ · était à 4,97 $ récemment → Attendre
-- **Friandises chocolatées Nestlé** (Super C) · 4,49 $ · meilleur vu : 0,99 $ → Attendre
+- **Friandises chocolatées Nestlé** (Super C) · 4,49 $ · était à 4,49 $ récemment → Attendre
 - **Couches pour bébés Huggies** (Super C) · 24,99 $ · était à 14,99 $ récemment → Attendre
-- **Bagels style Montréal** (Super C) · 3,49 $ · était à 4,99 $ récemment → Attendre
+- **Bagels style Montréal** (Super C) · 3,49 $ · était à 3,49 $ récemment → Attendre
 - **Pain aux raisins tranché Sun-Maid** (Super C) · 3,99 $ · était à 1,75 $ récemment → Attendre
-- **Petits gâteaux Hostess** (Super C) · 2,99 $ → Pas assez bon
+- **Petits gâteaux Hostess** (Super C) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **Relish verte sucrée Selection** (Super C) · 1,49 $ · était à 0,99 $ récemment → Attendre
 - **Croûtons Grissol** (Super C) · 2,49 $ · était à 2,49 $ récemment → Faux rabais
-- **Trio de condiments Heinz** (Super C) · 4,99 $ · était à 6,99 $ récemment → Pas assez bon
+- **Trio de condiments Heinz** (Super C) · 4,99 $ · était à 4,99 $ récemment → Pas assez bon
+- **BOISSON SPORTIVE GATORADE** (Super C) · 5,99 $ · était à 4,50 $ récemment → Attendre
 - **Gaufres Eggo Kellogg's** (Super C) · 5,49 $ · était à 3,49 $ récemment → Attendre
+- **Bâtonnets de fromage Selection** (Super C) · 6,19 $ · était à 6,19 $ récemment → Pas assez bon
 - **Crème sure Selection** (Super C) · 2,99 $ · était à 2,49 $ récemment → Attendre
 - **FLOCONS DE GOBERGE À SAVEUR DE CRABE SELECTION** (Super C) · 9,99 $ · était à 8,99 $ récemment → Attendre
+- **Pesto Irrésistible** (Super C) · 4,69 $ · était à 4,49 $ récemment → Faux rabais
 - **HERBES IRRÉSISTIBLE** (Super C) · 2,79 $ · était à 2,79 $ récemment → Faux rabais
 - **Café moulu McCafé** (Super C) · 29,99 $ · était à 4,99 $ récemment → Attendre
-- **Riz Dainty** (Super C) · 6,29 $ · était à 6,49 $ récemment → Pas assez bon
+- **Riz Dainty** (Super C) · 6,29 $ · était à 6,29 $ récemment → Pas assez bon
 - **Tomates rouges en grappe** (Super C) · 2,99 $ · était à 2,99 $ récemment → Attendre
 - **TOMATES RAISINS DE SERRE** (Super C) · 3,99 $ · était à 1,75 $ récemment → Attendre
+- **Tomates heirloom** (Super C) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **Couronne de brocoli** (Super C) · 2,99 $ · était à 1,44 $ récemment → Attendre
-- **Cantaloup** (Super C) · 3,99 $ · était à 4,49 $ récemment → Faux rabais
+- **Cantaloup** (Super C) · 3,99 $ · était à 2,47 $ récemment → Attendre
 - **Pommes McIntosh** (Super C) · 4,99 $ · était à 1,77 $ récemment → Attendre
 - **Tomates Pastene** (Super C) · 1,99 $ · était à 1,99 $ récemment → Pas assez bon
 - **Céréales Kellogg's** (Super C) · 5,47 $ · était à 3,49 $ récemment → Attendre
-- **Boisson à l'avoine Earth's Own** (Super C) · 4,99 $ · était à 4,99 $ récemment → Attendre
-- **Smoothie Evive** (Super C) · 8,49 $ · était à 8,99 $ récemment → Faux rabais
+- **Boisson à l'avoine Earth's Own** (Super C) · 4,99 $ · était à 2,79 $ récemment → Attendre
+- **Smoothie Evive** (Super C) · 8,49 $ · était à 8,49 $ récemment → Faux rabais
 - **Yogourt crémeux Irrésistible** (Super C) · 5,97 $ · était à 2,79 $ récemment → Attendre
 - **NOIX DE CAJOU PLANTERS** (Super C) · 4,99 $ · était à 4,99 $ récemment → Attendre
 - **Bière sans alcool Heineken** (Super C) · 24,99 $ · était à 23,99 $ récemment → Faux rabais
 - **MELANGE DE NOIX IRRESISTIBLE** (Super C) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
-- **Pâtes alimentaires Barilla** (Super C) · 1,65 $ · était à 1,25 $ récemment → Attendre
+- **Pâtes alimentaires Barilla** (Super C) · 1,65 $ · était à 0,50 $ récemment → Attendre
 - **Mini concombres** (Super C) · 2,99 $ · était à 1,24 $ récemment → Attendre
+- **MAYONNAISE HEINZ** (Super C) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **PANIER DE POMMES DE TERRE BLANCHES GRELOTS OU PANIER DE CAROTTES NANTAISES** (Super C) · 4,99 $ · était à 1,77 $ récemment → Attendre
-- **KIWIS** (Super C) · 5,99 $ · était à 4,99 $ récemment → Attendre
+- **KIWIS** (Super C) · 5,99 $ · était à 1,00 $ récemment → Attendre
 - **Micro croissants La Petite Bretonne** (Super C) · 3,99 $ · était à 3,50 $ récemment → Attendre
 - **YOGOURT GLACEÉ CHAPMAN'S** (Super C) · 4,88 $ · était à 2,79 $ récemment → Attendre
 - **Tartinade Nutella** (Super C) · 6,99 $ · était à 5,99 $ récemment → Attendre
 - **Amuse-gueule Selection** (Super C) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
+- **Boisson de soya Silk Protéines** (Super C) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
 - **Pain belge tranché à l'ancienne Première Moisson** (Super C) · 2,99 $ · était à 0,99 $ récemment → Attendre
 - **Cerises** (Super C) · 4,99 $ · était à 4,39 $ récemment → Attendre
-- **Poudre pour gelée Jell‑O** (Super C) · 1,25 $ · était à 4,00 $ récemment → Attendre
-- **FRAMBOISES** (Super C) · 3,99 $ · était à 3,99 $ récemment → Attendre
+- **Poudre pour gelée Jell‑O** (Super C) · 1,25 $ · était à 1,25 $ récemment → Attendre
+- **Effiloché de porc BBQ Bâton Rouge** (Super C) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **FRAMBOISES** (Super C) · 3,99 $ · était à 1,88 $ récemment → Attendre
+- **BARRES ÉNERGÉTIQUES CLIF BAR** (Super C) · 14,99 $ · était à 14,99 $ récemment → Attendre
+- **PRÉPARATION DE FROMAGE FONDU SELECTION** (Super C) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **Mayonnaise Hellmann's** (Super C) · 5,95 $ · était à 3,99 $ récemment → Attendre
 - **Galettes de pommes de terre classiques Cavendish** (Super C) · 12,00 $ · était à 1,77 $ récemment → Attendre
-- **Croustilles Pringles** (Super C) · 2,47 $ · était à 2,47 $ récemment → Pas assez bon
 - **Fromage en tranches Selection** (Super C) · 4,99 $ · était à 4,44 $ récemment → Attendre
+- **Moutarde jaune Selection** (Super C) · 1,49 $ · était à 1,49 $ récemment → Pas assez bon
 - **Mélange chocolat fruits et noix ou mélange de noix Irrésistible** (Super C) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
-- **Fromage Selection** (Super C) · 3,77 $ · était à 3,99 $ récemment → Pas assez bon
+- **Fromage Selection** (Super C) · 3,77 $ · était à 3,77 $ récemment → Pas assez bon
 - **Fraises** (Super C) · 3,99 $ · était à 2,77 $ récemment → Attendre
 - **Poké bol au saumon fumé** (Super C) · 9,99 $ · était à 4,99 $ récemment → Attendre
 - **NOIX DE GRENOBLE MOITIÉS ET MORCEAUX IRRÉSISTIBLE** (Super C) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
 - **PETITS PAINS PANINI** (Super C) · 3,99 $ · était à 0,99 $ récemment → Attendre
 - **Pain belge** (Super C) · 4,99 $ · était à 0,99 $ récemment → Attendre
-- **Coeurs de laitue romaine** (Super C) · 3,99 $ · était à 0,97 $ récemment → Attendre
+- **Coeurs de laitue romaine** (Super C) · 3,99 $ · était à 0,88 $ récemment → Attendre
 - **Pains à sous-marin** (Super C) · 4,99 $ · était à 0,99 $ récemment → Attendre
 - **Petits pains Kaiser** (Super C) · 2,79 $ · était à 0,99 $ récemment → Attendre
+- **SOUS-MARIN GARNI DE VIANDES FROIDES** (Super C) · 5,99 $ · était à 4,49 $ récemment → Attendre
 - **PISTACHES IRRESISTIBLE** (Super C) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
-- **ANANAS TROPICAL GOLD** (Super C) · 3,79 $ · meilleur vu : 2,44 $ → Attendre
-- **Lait Natrel** (Super C) · 4,99 $ · était à 0,97 $ récemment → Attendre
+- **Jus réfrigéré Irrésistible** (Super C) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
+- **ANANAS TROPICAL GOLD** (Super C) · 3,79 $ · était à 3,79 $ récemment → Attendre
+- **Lait Natrel** (Super C) · 4,99 $ · était à 0,88 $ récemment → Attendre
 - **Céréales General Mills** (Super C) · 3,33 $ · était à 3,33 $ récemment → Attendre
 - **PAINS À HOT-DOG OU À HAMBURGER POM SIGNATURE** (Super C) · 3,29 $ · était à 0,99 $ récemment → Attendre
-- **Vinaigrette Kraft** (Super C) · 2,49 $ · était à 4,49 $ récemment → Pas assez bon
+- **Vinaigrette Kraft** (Super C) · 2,49 $ · était à 2,49 $ récemment → Pas assez bon
+- **Jambon fumé P'tit Caprice Lafleur** (Super C) · 8,99 $ · était à 8,99 $ récemment → Pas assez bon
 - **PAPIER HYGIÉNIQUE CASHMERE** (Super C) · 6,97 $ · était à 4,99 $ récemment → Attendre
 - **Boisson gazeuse Pepsi** (Super C) · 12,99 $ · était à 2,99 $ récemment → Attendre
 - **Capsules de café Irrésistible** (Super C) · 13,99 $ · était à 4,99 $ récemment → Attendre
 - **Yogourt grec Danone Oîkos** (Super C) · 6,99 $ · était à 2,79 $ récemment → Attendre
 - **Prunes jaunes** (Super C) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **Réglisse Twizzlers Hershey's** (Super C) · 2,99 $ → Faux rabais
-- **Chou vert** (Super C) · 0,99 $ · était à 2,18 $ récemment → Attendre
+- **Réglisse Twizzlers Hershey's** (Super C) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
+- **Yogourt à boire Yop Yoplait** (Super C) · 0,99 $ · était à 0,88 $ récemment → Attendre
+- **Chou vert** (Super C) · 0,99 $ · était à 0,99 $ récemment → Attendre
+- **THON PÂLE SELECTION** (Super C) · 0,99 $ · était à 0,99 $ récemment → Pas assez bon
 - **SAUCISSES FUMÉES LAFLEUR** (Super C) · 4,99 $ · était à 4,49 $ récemment → Attendre
-- **Oignons verts** (Super C) · 0,99 $ · était à 1,29 $ récemment → Pas assez bon
-- **POULET DE GRAIN MIEUX‑ÊTRE NATURALIA** (Super C) · 3,99 $ → Pas assez bon
+- **FILETS DE POISSON SELECTION** (Super C) · 10,00 $ · était à 12,00 $ récemment → Pas assez bon
+- **POULET DE GRAIN MIEUX‑ÊTRE NATURALIA** (Super C) · 3,99 $ · était à 3,99 $ récemment → Pas assez bon
 - **Portions de poulet panées Selection** (Super C) · 9,99 $ · était à 5,99 $ récemment → Attendre
 - **Crémier à café Natrel** (Super C) · 5,99 $ · était à 4,99 $ récemment → Attendre
 - **Croustilles Lay's** (Super C) · 9,00 $ · était à 1,99 $ récemment → Attendre
-- **SAUCE POUR PÂTES SÉLECTION DU JARDIN CATELLI** (Super C) · 1,99 $ · était à 1,25 $ récemment → Attendre
+- **CÉLERI** (Super C) · 2,49 $ · était à 1,99 $ récemment → Attendre
+- **SAUCE POUR PÂTES SÉLECTION DU JARDIN CATELLI** (Super C) · 1,99 $ · était à 0,50 $ récemment → Attendre
+- **Filets de poisson Selection** (Super C) · 12,00 $ · était à 12,00 $ récemment → Pas assez bon
 - **RAISINS ROUGES OU VERTS SANS PÉPINS** (Super C) · 3,99 $ · était à 1,75 $ récemment → Attendre
 - **Poitrines de poulet frais désossées** (Super C) · 7,49 $ · était à 5,88 $ récemment → Attendre
 - **Amandes naturelles Irrésistible** (Super C) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
 - **PETITS PAINS À SALADE** (Super C) · 3,99 $ · était à 0,99 $ récemment → Attendre
-- **GOURGANES** (Super C) · 2,49 $ · était à 2,77 $ récemment → Pas assez bon
+- **GOURGANES** (Super C) · 2,49 $ · était à 2,49 $ récemment → Pas assez bon
 - **AMANDES IRRÉSISTIBLE** (Super C) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **Portions de poisson panées Blue Water** (Super C) · 9,99 $ · était à 8,99 $ récemment → Attendre
-- **Salade Selection** (Super C) · 3,99 $ · était à 4,99 $ récemment → Pas assez bon
-- **Croustilles Kettle** (Super C) · 2,99 $ → Pas assez bon
-- **Arachides Irrésistible** (Super C) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
-- **Pacanes naturelles moitiés irrésistible** (Super C) · 10,99 $ → Faux rabais
-- **PÂTES FRAÎCHES FARCIES OLIVIERI** (Super C) · 9,99 $ · était à 1,25 $ récemment → Attendre
-- **Côtelettes de porc frais** (Super C) · 3,99 $ · était à 2,88 $ récemment → Attendre
+- **Vinaigrette Mag** (Super C) · 3,99 $ · était à 3,99 $ récemment → Attendre
+- **FROMAGE ALEXIS DE PORTNEUF** (Super C) · 6,99 $ · était à 4,99 $ récemment → Attendre
+- **Salade Selection** (Super C) · 3,99 $ · était à 3,99 $ récemment → Pas assez bon
+- **Croustilles Kettle** (Super C) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **Arachides Irrésistible** (Super C) · 6,99 $ · était à 3,77 $ récemment → Attendre
+- **Pacanes naturelles moitiés irrésistible** (Super C) · 10,99 $ · était à 10,99 $ récemment → Faux rabais
+- **PÂTES FRAÎCHES FARCIES OLIVIERI** (Super C) · 9,99 $ · était à 0,50 $ récemment → Attendre
+- **Côtelettes de porc frais** (Super C) · 3,99 $ · était à 2,49 $ récemment → Attendre
+- **Détergent à vaisselle Palmolive** (Super C) · 1,99 $ · était à 1,99 $ récemment → Pas assez bon
 - **Filet de saumon Atlantique frais** (Super C) · 11,99 $ · était à 4,99 $ récemment → Attendre
 - **FRIANDISES GLACÉES SELECTION** (Super C) · 7,99 $ · était à 4,97 $ récemment → Attendre
 - **COCKTAIL AUX LÉGUMES V8** (Super C) · 3,99 $ · était à 2,97 $ récemment → Attendre
@@ -7295,178 +6185,233 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 - **DÉTERGENT À VAISSELLE LIQUIDE** (L'Inter-Marché) · 2,49 $ · était à 2,49 $ récemment → Faux rabais
 - **BOISSON AUX POMMES OU ÀL'ORANGE** (L'Inter-Marché) · 1,29 $ · était à 1,77 $ récemment → Attendre
 - **JUS** (L'Inter-Marché) · 2,99 $ · était à 2,00 $ récemment → Attendre
+- **CÔTE DE FLANC DE PORC, COUPE DU CENTRE** (L'Inter-Marché) · 3,99 $ · était à 2,49 $ récemment → Attendre
 - **BOLOGNE** (L'Inter-Marché) · 6,49 $ · était à 1,19 $ récemment → Attendre
 - **EAU DE SOURCE NATURELLE** (L'Inter-Marché) · 5,29 $ · était à 3,99 $ récemment → Attendre
-- **LAIT GLACÉ, SURGELÉ** (L'Inter-Marché) · 8,00 $ · était à 0,97 $ récemment → Attendre
+- **LAIT GLACÉ, SURGELÉ** (L'Inter-Marché) · 8,00 $ · était à 0,88 $ récemment → Attendre
 - **FRAISES NATURELLEMENT IMPARFAITS** (L'Inter-Marché) · 4,99 $ · était à 2,77 $ récemment → Attendre
 - **PAIN** (L'Inter-Marché) · 2,79 $ · était à 0,99 $ récemment → Attendre
 - **POMMES** (L'Inter-Marché) · 6,99 $ · était à 1,77 $ récemment → Attendre
 - **MÉLANGE À CRÊPES, 905 G OU SIROP, 750 ML OU BEURRE D'ARACHIDES, 500 G** (L'Inter-Marché) · 3,29 $ · était à 2,99 $ récemment → Attendre
-- **LAIT ÉVAPORÉ, 354 ML OU ÉPICES, 6 - 250 G** (L'Inter-Marché) · 1,89 $ · était à 0,97 $ récemment → Attendre
-- **SAUCE CLASSICO** (L'Inter-Marché) · 3,29 $ · était à 5,99 $ récemment → Attendre
-- **MELON D'EAU ENTIER SANS PÉPINS** (L'Inter-Marché) · 3,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **SAUCE POUR PÂTES OU RELISH** (L'Inter-Marché) · 2,49 $ · était à 1,25 $ récemment → Attendre
+- **GAUFRES** (L'Inter-Marché) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **LAIT ÉVAPORÉ, 354 ML OU ÉPICES, 6 - 250 G** (L'Inter-Marché) · 1,89 $ · était à 0,88 $ récemment → Attendre
+- **VINAIGRE BLANC PUR** (L'Inter-Marché) · 2,79 $ · était à 2,79 $ récemment → Faux rabais
+- **CORNICHONS** (L'Inter-Marché) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **GÂTEAU DEEP'N DELICIOUS** (L'Inter-Marché) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **MAÏS SUCRÉ BICOLORE** (L'Inter-Marché) · 1,00 $ · était à 0,50 $ récemment → Attendre
+- **SAUCE CLASSICO** (L'Inter-Marché) · 3,29 $ · était à 3,29 $ récemment → Attendre
+- **SAUCE POUR PÂTES OU RELISH** (L'Inter-Marché) · 2,49 $ · était à 0,50 $ récemment → Attendre
+- **MACARONI AU FROMAGE** (L'Inter-Marché) · 2,49 $ · était à 2,49 $ récemment → Attendre
+- **LIMONADE OU THÉ GLACÉ** (L'Inter-Marché) · 2,99 $ · était à 2,99 $ récemment → Attendre
 - **RAISINS VERTS OU ROUGES SANS PÉPINS** (L'Inter-Marché) · 3,49 $ · était à 1,75 $ récemment → Attendre
 - **GÂTEAU** (L'Inter-Marché) · 5,99 $ · était à 4,99 $ récemment → Attendre
 - **PORTIONS DE THON AHI SAUVAGE OUOU DE SAUMON ROUGE** (L'Inter-Marché) · 13,99 $ · était à 4,99 $ récemment → Attendre
+- **JAMBON CUIT** (L'Inter-Marché) · 1,29 $ · était à 1,29 $ récemment → Pas assez bon
 - **CAFÉ MOULU** (L'Inter-Marché) · 15,99 $ · était à 4,99 $ récemment → Attendre
-- **CUISSES DE POULET AVEC DOS** (L'Inter-Marché) · 3,49 $ · était à 4,39 $ récemment → Pas assez bon
+- **CUISSES DE POULET AVEC DOS** (L'Inter-Marché) · 3,49 $ · était à 3,49 $ récemment → Pas assez bon
 - **SIROP POUR CAFÉ GLACÉ, 470 ML OU CHOCOLAT, 510/700 ML OU POUDRE, 540 G** (L'Inter-Marché) · 7,79 $ · était à 4,99 $ récemment → Attendre
 - **JUS D'ORANGE** (L'Inter-Marché) · 3,29 $ · était à 2,00 $ récemment → Attendre
-- **VINAIGRETTE** (L'Inter-Marché) · 2,29 $ · était à 2,99 $ récemment → Attendre
+- **AILES DE POULET** (L'Inter-Marché) · 13,99 $ · était à 13,99 $ récemment → Faux rabais
+- **BURGERS DE BŒUF** (L'Inter-Marché) · 19,99 $ · était à 19,99 $ récemment → Faux rabais
+- **BOUILLON** (L'Inter-Marché) · 1,49 $ · était à 1,49 $ récemment → Pas assez bon
+- **VINAIGRETTE** (L'Inter-Marché) · 2,29 $ · était à 2,29 $ récemment → Attendre
 - **COLORANT À CAFÉ** (L'Inter-Marché) · 3,19 $ · était à 4,99 $ récemment → Attendre
 - **TREMPETTE, 227 G OU FROMAGE À LA CRÈME, 227/250 G OU JUS D'ORANGE OU SMOOTHIE, 1,5/1,6 L** (L'Inter-Marché) · 3,99 $ · était à 2,00 $ récemment → Attendre
-- **SOUPE OU SPAGHETTIOS** (L'Inter-Marché) · 5,00 $ · était à 1,25 $ récemment → Attendre
-- **PÂTES À GRAINS ENTIERS MENU BLEU, 375 G OU PÂTES, 454 G** (L'Inter-Marché) · 5,00 $ · était à 1,25 $ récemment → Attendre
+- **SOUPE OU SPAGHETTIOS** (L'Inter-Marché) · 5,00 $ · était à 0,50 $ récemment → Attendre
+- **PÂTES À GRAINS ENTIERS MENU BLEU, 375 G OU PÂTES, 454 G** (L'Inter-Marché) · 5,00 $ · était à 0,50 $ récemment → Attendre
 - **PAINS À HAMBURGER, 12 UN. OU PAINS À HOT-DOG, 6/12 UN.** (L'Inter-Marché) · 3,29 $ · était à 0,99 $ récemment → Attendre
-- **BISCUITS** (L'Inter-Marché) · 4,99 $ · était à 10,00 $ récemment → Attendre
+- **CRÈME SURE** (L'Inter-Marché) · 3,49 $ · était à 2,49 $ récemment → Attendre
+- **BISCUITS** (L'Inter-Marché) · 4,99 $ · était à 4,99 $ récemment → Attendre
+- **LÉGUMINEUSES** (L'Inter-Marché) · 1,79 $ · était à 1,79 $ récemment → Pas assez bon
 - **MAÏS SOUFFLÉ AU BEURRE, 127 G OU ASSAISONNEMENT POUR MAÏS SOUFFLÉ, 100** (L'Inter-Marché) · 3,29 $ · était à 2,99 $ récemment → Attendre
 - **POUDING, DESSERT OU GELÉE** (L'Inter-Marché) · 5,00 $ · était à 5,00 $ récemment → Faux rabais
 - **MARGARINE, 400/454 G OU BEURRE VÉGÉTAL, 454 G** (L'Inter-Marché) · 4,49 $ · était à 2,99 $ récemment → Attendre
 - **CÉRÉALES FORMAT FAMILIAL, 475 - 778 G OU BEURRE D'ARACHIDE, 1 KG** (L'Inter-Marché) · 6,49 $ · était à 2,99 $ récemment → Attendre
-- **BREUVAGE LAITIER SANS LACTOSE, 2 L OU CHOCOLAT, 6 X 200 ML** (L'Inter-Marché) · 5,99 $ · était à 0,97 $ récemment → Attendre
+- **BREUVAGE LAITIER SANS LACTOSE, 2 L OU CHOCOLAT, 6 X 200 ML** (L'Inter-Marché) · 5,99 $ · était à 0,88 $ récemment → Attendre
 - **YOGOURT GREC** (L'Inter-Marché) · 6,49 $ · était à 2,79 $ récemment → Attendre
+- **COEURS DE ROMAINE** (L'Inter-Marché) · 2,99 $ · était à 2,47 $ récemment → Attendre
 - **ANANAS** (L'Inter-Marché) · 4,99 $ · était à 0,97 $ récemment → Attendre
+- **PEROGIES** (L'Inter-Marché) · 3,29 $ · était à 2,49 $ récemment → Attendre
 - **RAISINS SECS, 375 G OU FARINE, 2,5 KG OU SHORTENING, 454 G** (L'Inter-Marché) · 3,79 $ · était à 1,75 $ récemment → Attendre
 - **SAUCE AUX POMMES, 6 X 100 ML OU COLLATIONS AUX FRUITS, 4 X 90 G OU BOLS DE FRUIT, 4 X 107 ML** (L'Inter-Marché) · 5,00 $ · était à 1,77 $ récemment → Attendre
 - **CRISTAUX POUR BOISSON, 2,1/2,3 KG OU CAFÉ INSTANTANÉ, 340 G** (L'Inter-Marché) · 11,49 $ · était à 4,99 $ récemment → Attendre
 - **CALMARS CROUSTILLANTS, 400 G OU CREVETTES PAPILLON AVEC BEURRE À L'AIL, 300 G ARAHOVA** (Maxi) · 11,00 $ · était à 2,99 $ récemment → Attendre
+- **KITS DE SALADE HACHÉE PC** (Maxi) · 6,00 $ · était à 6,00 $ récemment → Faux rabais
 - **BEURRE D'ARACHIDE KRAFT** (Maxi) · 5,97 $ · était à 2,99 $ récemment → Attendre
 - **YOGOURT ACTIVIA, 12X100 G** (Maxi) · 6,00 $ · était à 2,79 $ récemment → Attendre
 - **CAFÉ MOULU, 631-900 G OU CAPSULES, 30 UN. MAXWELL HOUSE** (Maxi) · 15,99 $ · était à 4,99 $ récemment → Attendre
 - **BARRES DE CHOCOLAT GRAND FORMAT HERSHEY'S, 62-85 G** (Maxi) · 1,50 $ · était à 1,50 $ récemment → Faux rabais
-- **BOEUF HACHÉ MAIGRE** (Maxi) · 11,00 $ · était à 5,74 $ récemment → Attendre
-- **THON RIO MARE** (Maxi) · 6,50 $ → Faux rabais
-- **YOGOURT GREC 650/750 G, MÉDITERRANÉE 900 G LIBERTÉ OU YOPLAIT SOURCE 16X100 G** (Maxi) · 7,00 $ · était à 0,97 $ récemment → Attendre
-- **PESTO LE GRAND** (Maxi) · 6,50 $ · était à 6,99 $ récemment → Pas assez bon
+- **BOEUF HACHÉ MAIGRE** (Maxi) · 11,00 $ · était à 4,95 $ récemment → Attendre
+- **THON RIO MARE** (Maxi) · 6,50 $ · était à 6,50 $ récemment → Faux rabais
+- **YOGOURT GREC 650/750 G, MÉDITERRANÉE 900 G LIBERTÉ OU YOPLAIT SOURCE 16X100 G** (Maxi) · 7,00 $ · était à 0,88 $ récemment → Attendre
+- **PESTO LE GRAND** (Maxi) · 6,50 $ · était à 6,50 $ récemment → Pas assez bon
 - **CROISSANTS AU BEURRE DÉLICES DU MARCHÉMC** (Maxi) · 5,00 $ · était à 2,99 $ récemment → Attendre
+- **BARRES DE DESSERT GLACÉ MELONA, 560 ML** (Maxi) · 5,00 $ · était à 5,00 $ récemment → Faux rabais
 - **REHAUSSEUR DE CAFÉ INTERNATIONAL DELIGHT, 946 ML** (Maxi) · 5,00 $ · était à 4,99 $ récemment → Attendre
 - **PETITS PAINS PANINI** (Maxi) · 3,00 $ · était à 0,99 $ récemment → Attendre
 - **PAIN SOUS-MARIN POM** (Maxi) · 5,00 $ · était à 0,99 $ récemment → Attendre
 - **MINI POMMES DE TERRE ROUGES, JAUNES OU ASSORTIES LITTLE GEMS PC, 680 G** (Maxi) · 3,99 $ · était à 1,77 $ récemment → Attendre
 - **FRIANDISES MAYNARDS** (Maxi) · 2,25 $ · était à 1,50 $ récemment → Attendre
-- **BARRES CHOCO MAX, MUFFIN MAX, NÜGABAR OU GO PURE LECLERC, 140-223 G** (Maxi) · 2,50 $ → Pas assez bon
+- **BARRES CHOCO MAX, MUFFIN MAX, NÜGABAR OU GO PURE LECLERC, 140-223 G** (Maxi) · 2,50 $ · était à 2,50 $ récemment → Pas assez bon
 - **CHARCUTERIES TRANCHÉES ROYAL** (Maxi) · 6,00 $ · était à 6,00 $ récemment → Attendre
 - **TOMATES RAISINS DÉLICES DU MARCHÉ** (Maxi) · 3,00 $ · était à 1,75 $ récemment → Attendre
 - **SAUCE BBQ KRAFT** (Maxi) · 2,50 $ · était à 2,49 $ récemment → Attendre
+- **CRAQUELINS PRETZEL CRISPS SNACK FACTORY** (Maxi) · 5,00 $ · était à 5,00 $ récemment → Faux rabais
 - **SAUCE ST-HUBERT** (Maxi) · 1,79 $ · était à 1,49 $ récemment → Attendre
 - **BOISSONS DÉSALTÉRANTES GATORADE, 24X591 ML** (Maxi) · 21,50 $ · était à 21,50 $ récemment → Faux rabais
-- **BISCUITS MINI CHRISTIE** (Maxi) · 2,50 $ → Faux rabais
+- **RADIS EN BOTTE** (Maxi) · 1,25 $ · était à 1,25 $ récemment → Faux rabais
+- **BISCUITS MINI CHRISTIE** (Maxi) · 2,50 $ · était à 2,50 $ récemment → Faux rabais
+- **SAUCE BBQ DIANA OU BULL'S-EYE** (Maxi) · 3,00 $ · était à 3,00 $ récemment → Attendre
 - **FRAISES, 1 L** (Maxi) · 4,99 $ · était à 2,77 $ récemment → Attendre
-- **VINAIGRETTE RENÉE'S** (Maxi) · 4,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **CÉLERI** (Maxi) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
-- **LAIT ÉVAPORÉ CARNATION** (Maxi) · 1,79 $ · était à 0,97 $ récemment → Attendre
-- **FILET DE PORC** (Maxi) · 3,99 $/lb · était à 2,88 $ récemment → Attendre
+- **VINAIGRETTE RENÉE'S** (Maxi) · 4,99 $ · était à 4,99 $ récemment → Pas assez bon
+- **CÉLERI** (Maxi) · 2,99 $ · était à 1,99 $ récemment → Attendre
+- **MANDARINES DÉLICES DU MARCHÉ** (Maxi) · 3,77 $ · était à 3,44 $ récemment → Faux rabais
+- **LAIT ÉVAPORÉ CARNATION** (Maxi) · 1,79 $ · était à 0,88 $ récemment → Attendre
+- **FILET DE PORC** (Maxi) · 3,99 $/lb · était à 2,49 $ récemment → Attendre
 - **YOGOURT ACTIVIA** (Maxi) · 4,00 $ · était à 2,79 $ récemment → Attendre
-- **PEPPERONI TRANCHÉ ROMA** (Maxi) · 3,50 $ · était à 3,99 $ récemment → Pas assez bon
-- **CANTALOUP** (Maxi) · 3,00 $ · était à 4,49 $ récemment → Pas assez bon
+- **PEPPERONI TRANCHÉ ROMA** (Maxi) · 3,50 $ · était à 3,50 $ récemment → Pas assez bon
+- **CANTALOUP** (Maxi) · 3,00 $ · était à 2,47 $ récemment → Attendre
+- **MELON D'EAU ENTIER SANS PÉPINS, 9 lb** (Maxi) · 3,97 $ · était à 3,97 $ récemment → Pas assez bon
 - **CAPSULES DE CAFÉ VAN HOUTTE** (Maxi) · 22,99 $ · était à 4,99 $ récemment → Attendre
-- **CHOU-FLEUR** (Maxi) · 2,99 $ · était à 1,99 $ récemment → Attendre
+- **CHOU-FLEUR** (Maxi) · 2,99 $ · était à 1,75 $ récemment → Attendre
 - **FILET DE SAUMON DE L'ATLANTIQUE** (Maxi) · 9,99 $/lb · était à 4,99 $ récemment → Attendre
-- **PÂTES BARILLA, 340/410 G** (Maxi) · 2,00 $ · était à 1,25 $ récemment → Attendre
-- **PLATS CUISINÉS CRAVE 200-340 G OU PÂTES ET SAUCE AU FROMAGE DELUXE KRAFT 340 G** (Maxi) · 4,00 $ · était à 1,25 $ récemment → Attendre
+- **PÂTES BARILLA, 340/410 G** (Maxi) · 2,00 $ · était à 0,50 $ récemment → Attendre
+- **PLATS CUISINÉS CRAVE 200-340 G OU PÂTES ET SAUCE AU FROMAGE DELUXE KRAFT 340 G** (Maxi) · 4,00 $ · était à 0,50 $ récemment → Attendre
 - **BOLOGNE LAFLEUR** (Maxi) · 5,00 $ · était à 4,49 $ récemment → Attendre
+- **BOISSONS GAZEUSES PEPSI, 12X355 ML** (Maxi) · 8,25 $ · était à 7,50 $ récemment → Faux rabais
 - **CALMARS CROUSTILLANTS 400 G OU CREVETTES PAPILLON AVEC BEURRE À L'AIL 300 G ARAHOVA** (Maxi) · 11,00 $ · était à 2,99 $ récemment → Attendre
-- **BOEUF HACHÉ MAIGRE FAMILLE FONTAINE** (Maxi) · 11,00 $ · était à 5,74 $ récemment → Attendre
+- **BOEUF HACHÉ MAIGRE FAMILLE FONTAINE** (Maxi) · 11,00 $ · était à 4,95 $ récemment → Attendre
 - **POMMES DE TERRE SUPERFRIES MCCAIN, 454-800 G** (Maxi) · 2,88 $ · était à 1,77 $ récemment → Attendre
 - **COURGETTES, CORNICHONS À MARINER, PETITES POMMES DE TERRE BLANCHES, 3 L OU CAROTTES NANTAISES, BETTRAVES OU PRUNES JAUNES, 1,5 L** (Maxi) · 5,00 $ · était à 1,77 $ récemment → Attendre
+- **COURGETTE VERTE OU JAUNE** (Maxi) · 1,50 $/lb · était à 3,31 $ récemment → Faux rabais
 - **FROMAGE EN BLOC, 250 G OU TRANCHÉS, 140-170 G PC** (Maxi) · 6,00 $ · était à 4,99 $ récemment → Attendre
 - **ANANAS** (Maxi) · 4,00 $ · était à 0,97 $ récemment → Attendre
+- **FILET DE TILAPIA** (Maxi) · 10,00 $ · était à 10,00 $ récemment → Faux rabais
+- **BARRES FIBRE 1, 125 G OU GRANOLA, PROTÉINE OU BISCUITS VAL NATURE, 148-210 G** (Maxi) · 3,00 $ · était à 3,00 $ récemment → Pas assez bon
 - **JUS D'ORANGE, DE PAMPLEMOUSSE OU DE POMME TROPICANA, 1,36 L** (Maxi) · 4,99 $ · était à 2,00 $ récemment → Attendre
-- **PÂTES FRAÎCHES ZIGGY'S®** (Maxi) · 3,00 $ · était à 1,25 $ récemment → Attendre
-- **LAITUE ROMAINE** (Maxi) · 1,50 $ · était à 0,97 $ récemment → Attendre
+- **PÂTES FRAÎCHES ZIGGY'S®** (Maxi) · 3,00 $ · était à 0,50 $ récemment → Attendre
+- **PÂTES SANS NOM®, 900 G** (Maxi) · 0,99 $ · était à 0,50 $ récemment → Attendre
+- **MÉDAILLON DE FILET MIGNON DE BOEUF HOUSTON, 170 g** (Maxi) · 9,99 $ · était à 9,99 $ récemment → Pas assez bon
+- **CROUSTILLES LAY'S, 177-235 G** (Maxi) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
+- **LAITUE ROMAINE** (Maxi) · 1,50 $ · était à 0,88 $ récemment → Attendre
 - **FRITES LES FERMES CAVENDISH** (Maxi) · 3,50 $ · était à 3,50 $ récemment → Faux rabais
 - **PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA** (Maxi) · 5,00 $ · était à 3,97 $ récemment → Attendre
 - **FROMAGE BOURSIN** (Maxi) · 5,00 $ · était à 4,99 $ récemment → Pas assez bon
 - **MÉLANGE DE LA MER SEAQUEST®** (Maxi) · 5,00 $ · était à 5,00 $ récemment → Faux rabais
 - **BARBOTINE ICEE SLUSH** (Maxi) · 1,50 $ · était à 1,50 $ récemment → Faux rabais
 - **YOGOURT À BOIRE, 6X93 ML OU EN SACHETS, 4X90 G NANÖ IÖGO** (Maxi) · 3,50 $ · était à 2,79 $ récemment → Attendre
-- **SAUCE POUR PÂTES STEFANO, 635/648 ML** (Maxi) · 6,79 $ · était à 1,25 $ récemment → Attendre
-- **BISCUITS CHRISTIE** (Maxi) · 2,79 $ · était à 2,79 $ récemment → Attendre
+- **RAGOÛT DE BOULETTES CORDON BLEU, 410 G** (Maxi) · 3,00 $ · était à 3,00 $ récemment → Faux rabais
+- **SAUCE POUR PÂTES STEFANO, 635/648 ML** (Maxi) · 6,79 $ · était à 0,50 $ récemment → Attendre
+- **MANGUE ROUGE** (Maxi) · 1,50 $ · était à 1,50 $ récemment → Pas assez bon
+- **TROUSSES DE REPAS 260-420 G OU SAUCE CRÉMEUSE 354 ML TACO BELL** (Maxi) · 4,00 $ · était à 4,00 $ récemment → Faux rabais
+- **BISCUITS CHRISTIE** (Maxi) · 2,79 $ · était à 2,33 $ récemment → Attendre
 - **YOGOURT GLACÉ, 946 ML OU POPS, 4/8 UN. IÖGO** (Maxi) · 5,00 $ · était à 2,79 $ récemment → Attendre
 - **PRODUIT DE FROMAGE FONDU SINGLES KRAFT, 410 G** (Maxi) · 4,00 $ · était à 4,00 $ récemment → Faux rabais
 - **YOGOURT GREC OÎKOS** (Maxi) · 3,75 $ · était à 2,79 $ récemment → Attendre
 - **MICRO CROISSANTS LA PETITE BRETONNE** (Maxi) · 3,50 $ · était à 3,50 $ récemment → Pas assez bon
 - **GÂTEAU DÉLICES DU MARCHÉ** (Maxi) · 5,00 $ · était à 5,00 $ récemment → Faux rabais
 - **CÉRÉALES KELLOGG'S** (Maxi) · 3,50 $ · était à 3,49 $ récemment → Pas assez bon
-- **CÔTELETTES DE PORC, COMBINAISON DE COUPES** (Maxi) · 3,49 $/lb · était à 2,88 $ récemment → Attendre
+- **CÔTELETTES DE PORC, COMBINAISON DE COUPES** (Maxi) · 3,49 $/lb · était à 2,49 $ récemment → Attendre
 - **CONCOMBRES ANGLAIS** (Maxi) · 1,29 $ · était à 1,00 $ récemment → Attendre
-- **LAITUE FOLIA, 113 G OU ATTITUDE FRAÎCHE, 142 G** (Maxi) · 4,00 $ · était à 0,97 $ récemment → Attendre
+- **BIÈRE BUDWEISER, BUD LIGHT, ALEXANDER KEITH'S, LABATT 50 OU BLEUE, MICHELOB ULTRA, COORS LIGHT OU ORIGINAL, MILLER LITE, MOLSON DRY, EXPORT OU ULTRA, SLEEMAN CLEAR 2.0 OU DRAUGHT, 24x341/355 mL** (Maxi) · 72,98 $ · était à 72,98 $ récemment → Faux rabais
+- **LAITUE FOLIA, 113 G OU ATTITUDE FRAÎCHE, 142 G** (Maxi) · 4,00 $ · était à 0,88 $ récemment → Attendre
 - **SALADE ST-HUBERT** (Maxi) · 3,50 $ · était à 3,50 $ récemment → Pas assez bon
 - **POGO, 8/10 UN.** (Maxi) · 8,50 $ · était à 8,50 $ récemment → Faux rabais
-- **LAITUE GEN V, 2 UN.** (Maxi) · 3,49 $ · était à 0,97 $ récemment → Attendre
-- **Nivea lait corporel nourrissant pour peau sèche à très sèche 625ml** (Familiprix) · 8,99 $ · était à 0,97 $ récemment → Attendre
-- **Lotion ou lait corporel** (Familiprix) · 8,99 $ · était à 0,97 $ récemment → Attendre
+- **LAITUE GEN V, 2 UN.** (Maxi) · 3,49 $ · était à 0,88 $ récemment → Attendre
+- **Nivea lait corporel nourrissant pour peau sèche à très sèche 625ml** (Familiprix) · 8,99 $ · était à 0,88 $ récemment → Attendre
+- **Lotion ou lait corporel** (Familiprix) · 8,99 $ · était à 0,88 $ récemment → Attendre
+- **DOVE Produits sélectionnés** (Familiprix) · 5,49 $ · était à 5,49 $ récemment → Faux rabais
 - **Maui Moisture masque cheveux abîmés beurre de karité 340g** (Familiprix) · 8,99 $ · était à 2,99 $ récemment → Attendre
-- **Lindt Swiss Classic chocolat au lait noisettes – Tablette 100g** (Familiprix) · 10,00 $ · était à 0,97 $ récemment → Attendre
+- **Poise serviettes ultra longues absorption maximale 39un** (Familiprix) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
+- **Depend Fit-Flex sous-vêtements d'incontinence pour femmes Moyen 18un** (Familiprix) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
+- **Lindt Swiss Classic chocolat au lait noisettes – Tablette 100g** (Familiprix) · 10,00 $ · était à 0,88 $ récemment → Attendre
 - **ANNABELLE, Produits de maquillage sélectionnés** (Familiprix) · 5,99 $ · était à 4,99 $ récemment → Attendre
 - **Annabelle Produits de maquillage sélectionnés** (Familiprix) · 7,99 $ · était à 7,99 $ récemment → Attendre
-- **Nivea Lotion ou lait corporel formats sélectionnés** (Familiprix) · 8,99 $ · était à 0,97 $ récemment → Attendre
-- **COVERGIRL Produits de maquillage sélectionnés** (Familiprix) · 9,49 $ · était à 11,99 $ récemment → Pas assez bon
+- **Lysol lingettes désinfectantes agrumes 75un** (Familiprix) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **ADRIEN GAGNON, Produits sélectionnés** (Familiprix) · 11,49 $ · était à 11,49 $ récemment → Pas assez bon
+- **Nivea Lotion ou lait corporel formats sélectionnés** (Familiprix) · 8,99 $ · était à 0,88 $ récemment → Attendre
+- **Covergirl Clean Invisible cache-cernes #103 Ivoire Pâle 7ml** (Familiprix) · 9,49 $ · était à 9,49 $ récemment → Attendre
+- **COVERGIRL Produits de maquillage sélectionnés** (Familiprix) · 9,49 $ · était à 9,49 $ récemment → Pas assez bon
+- **Lunettes de soleil sélectionnées** (Familiprix) · 30,00 $ · était à 30,00 $ récemment → Faux rabais
+- **STYLÉ Bas pour femme sélectionnés** (Familiprix) · 21,00 $ · était à 21,00 $ récemment → Faux rabais
 - **ADRIEN GAGNON Produits sélectionnés** (Familiprix) · 17,99 $ · était à 11,49 $ récemment → Attendre
-- **ENERGIZER MAX, Piles alcalines sélectionnées** (Familiprix) · 9,99 $ · meilleur vu : 5,99 $ → Attendre
+- **HydraSense gouttes pour yeux secs 10ml** (Familiprix) · 11,99 $ · était à 11,99 $ récemment → Faux rabais
+- **Abreva crème de docosanol traitement des feux sauvages 2g** (Familiprix) · 17,99 $ · était à 17,99 $ récemment → Faux rabais
+- **ENERGIZER MAX, Piles alcalines sélectionnées** (Familiprix) · 9,99 $ · était à 9,99 $ récemment → Attendre
 - **Garnier Olia coloration cheveux permanente optimisée par l'huile #6.0 Châtain Clair** (Familiprix) · 12,99 $ · était à 12,99 $ récemment → Pas assez bon
 - **Nescafé Riche café instantané 170g** (Familiprix) · 6,99 $ · était à 4,99 $ récemment → Attendre
-- **Bon Départ Plus Préparation pour nourrissons à base de lait enrichie de fer 0 mois + Poudre 1.02kg** (Familiprix) · 49,99 $ · était à 0,97 $ récemment → Attendre
+- **JOHN FRIEDA Produits capillaires sélectionnés** (Familiprix) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
+- **SALLY HANSEN, Xtreme Wear, Vernis à ongles** (Familiprix) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
+- **Bon Départ Plus Préparation pour nourrissons à base de lait enrichie de fer 0 mois + Poudre 1.02kg** (Familiprix) · 49,99 $ · était à 0,88 $ récemment → Attendre
+- **Sensodyne Soins Quotidiens dentifrice blanchissant antitartre 100ml** (Familiprix) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **Essentiel Culottes protectrices sélectionnées** (Familiprix) · 12,99 $ · était à 12,99 $ récemment → Faux rabais
 - **Vaseline Intensive Care lotion avec beurre de cacao pur 600ml** (Familiprix) · 7,99 $ · était à 2,99 $ récemment → Attendre
+- **Biomedic pansements en tissu résistant 20un** (Familiprix) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **Dove Men+Care Tout le Corps déodorant vaporisateur Beurre de Karité & Cèdre 113g** (Familiprix) · 14,99 $ · était à 2,99 $ récemment → Attendre
-- **NESTLÉ, Cerelac, Céréales pour bébé, miel et blé avec lait, 400 g** (Familiprix) · 8,99 $ · était à 0,97 $ récemment → Attendre
-- **Similac Pro-Advance préparation pour nourrissons à base de lait enrichie de fer Étape 1 - 16x235ml** (Familiprix) · 60,99 $ · était à 0,97 $ récemment → Attendre
+- **NESTLÉ, Cerelac, Céréales pour bébé, miel et blé avec lait, 400 g** (Familiprix) · 8,99 $ · était à 0,88 $ récemment → Attendre
+- **Similac Pro-Advance préparation pour nourrissons à base de lait enrichie de fer Étape 1 - 16x235ml** (Familiprix) · 60,99 $ · était à 0,88 $ récemment → Attendre
 - **TROJAN Condoms sélectionnés** (Familiprix) · 21,49 $ · était à 10,49 $ récemment → Attendre
 - **AIRWICK Produits sélectionnés** (Familiprix) · 10,99 $ · était à 6,99 $ récemment → Attendre
+- **SKYN Condoms sélectionnés** (Familiprix) · 15,99 $ · était à 15,99 $ récemment → Faux rabais
 - **BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS** (IGA) · 18,99 $ · était à 18,99 $ récemment → Faux rabais
-- **FRAMBOISES BIOLOGIQUES** (IGA) · 3,77 $ · était à 4,49 $ récemment → Pas assez bon
-- **POIVRONS ASSORTIS** (IGA) · 4,77 $ → Pas assez bon
+- **FRAMBOISES BIOLOGIQUES** (IGA) · 3,77 $ · était à 3,77 $ récemment → Pas assez bon
+- **POIVRONS ASSORTIS** (IGA) · 4,77 $ · était à 4,77 $ récemment → Pas assez bon
 - **CAFÉ MOULU MAXWELL HOUSE** (IGA) · 15,97 $ · était à 4,99 $ récemment → Attendre
 - **COCA-COLA** (IGA) · 12,99 $ · était à 4,44 $ récemment → Attendre
 - **BIÈRE BUDWEISER** (IGA) · 35,48 $ · était à 21,99 $ récemment → Attendre
-- **SALADE HACHÉE TAYLOR FARMS** (IGA) · 5,99 $ · meilleur vu : 3,97 $ → Attendre
+- **SALADE HACHÉE TAYLOR FARMS** (IGA) · 5,99 $ · était à 5,99 $ récemment → Attendre
 - **MAÏS EN ÉPI DEUX COULEURS** (IGA) · 3,96 $ · était à 0,99 $ récemment → Attendre
 - **PRUNES JAUNES** (IGA) · 6,99 $ · était à 5,99 $ récemment → Attendre
 - **TOMATES RAISINS** (IGA) · 9,00 $ · était à 1,75 $ récemment → Attendre
-- **HARICOTS VERTS** (IGA) · 2,99 $ · meilleur vu : 1,44 $ → Attendre
+- **HARICOTS VERTS** (IGA) · 2,99 $ · était à 2,99 $ récemment → Attendre
 - **RAISINS VERTS SANS PÉPINS** (IGA) · 3,99 $ · était à 1,75 $ récemment → Attendre
 - **RAISINS ROUGES OU VERTS SANS PÉPINS** (IGA) · 3,99 $ · était à 1,75 $ récemment → Attendre
+- **BŒUF POUR FONDUE CHINOISE STERLING SILVER** (IGA) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
 - **PILONS DE POULET FRAIS** (IGA) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
 - **TOURNEDOS DE POITRINE DE POULET FRAIS ASSAISONNÉS OU MARINÉS C'EST PRÊT! À CUIRE** (IGA) · 13,99 $ · était à 2,49 $ récemment → Attendre
 - **BACON LAFLEUR** (IGA) · 8,99 $ · était à 5,99 $ récemment → Attendre
-- **SAUCE BBQ BENNY & CO.** (IGA) · 4,99 $ → Faux rabais
+- **PÉTONCLES SURGELÉS BLUE TIDE** (IGA) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **SAUCE BBQ BENNY & CO.** (IGA) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **BARQUETTE DE CREVETTES OU DE SAUMON AVEC LÉGUMES C'EST PRÊT! À CUIRE** (IGA) · 8,99 $ · était à 4,99 $ récemment → Attendre
 - **BARRES VAL NATURE** (IGA) · 12,99 $ · était à 2,97 $ récemment → Attendre
 - **BOISSON AUX FRUITS FRUITÉ** (IGA) · 2,49 $ · était à 2,99 $ récemment → Pas assez bon
 - **CORNICHONS STRUB'S** (IGA) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
-- **MARINADES CORONATION** (IGA) · 2,99 $ → Pas assez bon
+- **MARINADES CORONATION** (IGA) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **YOGOURT PROBIOTIQUE À BOIRE ACTIVIA** (IGA) · 5,49 $ · était à 2,79 $ récemment → Attendre
-- **SAUCISSES FUMÉES COMPLIMENTS** (IGA) · 2,99 $ · était à 3,49 $ récemment → Pas assez bon
+- **SAUCISSES FUMÉES COMPLIMENTS** (IGA) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **TRANCHES DE FROMAGE COMPLIMENTS** (IGA) · 14,99 $ · était à 5,49 $ récemment → Attendre
 - **SAUCE SOYA COMPLIMENTS** (IGA) · 2,79 $ · était à 2,79 $ récemment → Faux rabais
 - **YOGOURT À BASE DE PLANTES MAISON RIVIERA** (IGA) · 4,99 $ · était à 2,79 $ récemment → Attendre
 - **CÉRÉALES KELLOGG'S** (IGA) · 4,49 $ · était à 3,49 $ récemment → Attendre
-- **FILET DE PORC FRAIS OU CARRÉ DE LONGE DE PORC FRAIS** (IGA) · 3,99 $ · était à 2,88 $ récemment → Attendre
+- **FILET DE PORC FRAIS OU CARRÉ DE LONGE DE PORC FRAIS** (IGA) · 3,99 $ · était à 2,49 $ récemment → Attendre
+- **VEAU HACHÉ MAIGRE** (IGA) · 4,88 $ · était à 4,88 $ récemment → Pas assez bon
 - **FROMAGE P'TIT QUÉBEC** (IGA) · 5,47 $ · était à 5,47 $ récemment → Faux rabais
 - **GAUFRES, CRÊPES OU BÂTONNETS DE PAIN DORÉ SURGELÉS KELLOGG'S KELLOGG'S EGGO** (IGA) · 2,99 $ · était à 0,99 $ récemment → Attendre
 - **REHAUSSEUR DE CAFÉ INTERNATIONAL DELIGHT** (IGA) · 4,49 $ · était à 4,99 $ récemment → Attendre
-- **BIÈRE COORS LIGHT** (IGA) · 31,17 $ · était à 33,99 $ récemment → Pas assez bon
-- **KOMBUCHA BIOLOGIQUE RISE** (IGA) · 3,49 $ → Pas assez bon
+- **BIÈRE COORS LIGHT** (IGA) · 31,17 $ · était à 31,17 $ récemment → Pas assez bon
+- **KOMBUCHA BIOLOGIQUE RISE** (IGA) · 3,49 $ · était à 3,49 $ récemment → Pas assez bon
 - **FRITES SURGELÉES BÂTON ROUGE** (IGA) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **CONCOMBRES POUR MARINER, POMMES DE TERRE GRELOTS JAUNES, ROUGES OU BLANCHES** (IGA) · 2,49 $ · était à 1,77 $ récemment → Attendre
 - **CROUSTILLES LAY'S** (IGA) · 8,00 $ · était à 1,99 $ récemment → Attendre
-- **CRÈME GLACÉE LAITERIE CHAGNON (1,5 L)** (IGA) · 6,99 $ · était à 0,97 $ récemment → Attendre
-- **BIÈRE CORONA EXTRA** (IGA) · 22,99 $ · était à 30,66 $ récemment → Attendre
+- **CRÈME GLACÉE LAITERIE CHAGNON (1,5 L)** (IGA) · 6,99 $ · était à 0,88 $ récemment → Attendre
+- **BIÈRE CORONA EXTRA** (IGA) · 22,99 $ · était à 22,99 $ récemment → Attendre
 - **CROUSTILLES MISS VICKIE'S** (IGA) · 9,00 $ · était à 2,64 $ récemment → Attendre
 - **BISCUITS DARE** (IGA) · 3,49 $ · était à 2,47 $ récemment → Attendre
-- **BREUVAGE LAITIER SANS LACTOSE NATREL PLUS** (IGA) · 7,99 $ · était à 0,97 $ récemment → Attendre
-- **POULET CRAPAUDINE FRAIS RICARDO** (IGA) · 4,99 $ → Pas assez bon
+- **BREUVAGE LAITIER SANS LACTOSE NATREL PLUS** (IGA) · 7,99 $ · était à 0,88 $ récemment → Attendre
+- **POULET CRAPAUDINE FRAIS RICARDO** (IGA) · 4,99 $ · était à 4,99 $ récemment → Pas assez bon
 - **SALAMI TRANCHÉ COMPLIMENTS** (IGA) · 5,99 $ · était à 5,99 $ récemment → Attendre
 - **ÉCRAN SOLAIRE MINÉRAL HYDRATANT TANIT** (IGA) · 34,99 $ · était à 34,99 $ récemment → Faux rabais
+- **WRAP C'EST PRÊT!** (IGA) · 7,99 $ · était à 7,49 $ récemment → Faux rabais
+- **COLLAGÈNE MARIN LANDISH** (IGA) · 29,99 $ · était à 29,99 $ récemment → Faux rabais
 - **TARTINADE NUTELLA** (IGA) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (IGA) · 3,49 $ → Pas assez bon
-- **POUTINE C'EST PRÊT!** (IGA) · 4,99 $ · était à 5,99 $ récemment → Faux rabais
+- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (IGA) · 3,49 $ · était à 3,49 $ récemment → Pas assez bon
+- **POUTINE C'EST PRÊT!** (IGA) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **JUS DE TOMATE COMPLIMENTS** (IGA) · 1,79 $ · était à 1,79 $ récemment → Pas assez bon
 - **TARTINADE COMPLIMENTS** (IGA) · 8,49 $ · était à 7,99 $ récemment → Faux rabais
-- **MÉLANGE À SAUCE POUR PÂTES PACINI** (IGA) · 4,98 $ · était à 1,25 $ récemment → Attendre
-- **RÔTI DE LONGE DE PORC À L'ANCIENNE COMPLIMENTS** (IGA) · 3,59 $ · était à 2,88 $ récemment → Attendre
-- **LIMES BIOLOGIQUES** (IGA) · 2,77 $ · était à 3,99 $ récemment → Pas assez bon
-- **BOISSON POUR SPORTIFS POWERADE** (IGA) · 6,00 $ · meilleur vu : 1,49 $ → Attendre
+- **POIRES BARTLETT** (IGA) · 2,49 $ · était à 2,49 $ récemment → Pas assez bon
+- **MÉLANGE À SAUCE POUR PÂTES PACINI** (IGA) · 4,98 $ · était à 0,50 $ récemment → Attendre
+- **RÔTI DE LONGE DE PORC À L'ANCIENNE COMPLIMENTS** (IGA) · 3,59 $ · était à 2,49 $ récemment → Attendre
+- **BOISSON POUR SPORTIFS POWERADE** (IGA) · 6,00 $ · était à 6,00 $ récemment → Attendre
 - **POMMES DE TERRE GRELOTS JAUNES** (IGA) · 2,49 $ · était à 1,77 $ récemment → Attendre
 - **AILES DE POULET SURGELÉES LA CAGE** (IGA) · 13,99 $ · était à 13,99 $ récemment → Faux rabais
 - **PITAHAYA (FRUIT DU DRAGON)** (IGA) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
@@ -7476,187 +6421,249 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 - **BEURRE D'AMANDES NUTS TO YOU** (IGA) · 10,99 $ · était à 2,99 $ récemment → Attendre
 - **CÉRÉALES GENERAL MILLS** (IGA) · 5,99 $ · était à 3,33 $ récemment → Attendre
 - **VIN BLANC MORGAN HILL** (IGA) · 17,99 $ · était à 17,99 $ récemment → Faux rabais
+- **CHIPS TORTILLA DORITOS** (IGA) · 3,33 $ · était à 3,33 $ récemment → Pas assez bon
 - **BOISSON DE MALT ALCOOLISÉE COORS SELTZER** (IGA) · 22,99 $ · était à 22,99 $ récemment → Faux rabais
 - **CHARCUTERIES TRANCHÉES COMPLIMENTS** (IGA) · 4,99 $ · était à 4,99 $ récemment → Pas assez bon
-- **TORTILLAS MEJICANO** (IGA) · 4,99 $ · meilleur vu : 3,47 $ → Attendre
-- **SAUCE POUR PÂTES, À PIZZA OU PESTO CLASSICO** (IGA) · 4,99 $ · était à 1,25 $ récemment → Attendre
-- **PÊCHES** (IGA) · 4,77 $ · était à 6,99 $ récemment → Attendre
+- **TORTILLAS MEJICANO** (IGA) · 4,99 $ · était à 4,99 $ récemment → Attendre
+- **SAUCE POUR PÂTES, À PIZZA OU PESTO CLASSICO** (IGA) · 4,99 $ · était à 0,50 $ récemment → Attendre
+- **GÂTERIES POUR CHATS WHISKAS** (IGA) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
+- **PÊCHES** (IGA) · 4,77 $ · était à 4,77 $ récemment → Attendre
 - **COLLATION AUX FRUITS MOTT'S FRUITSATIONS** (IGA) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
-- **PÂTES FARCIES SURGELÉES VILLA RAVIOLI** (IGA) · 10,00 $ · était à 1,25 $ récemment → Attendre
+- **PÂTES FARCIES SURGELÉES VILLA RAVIOLI** (IGA) · 10,00 $ · était à 0,50 $ récemment → Attendre
 - **PAIN TRANCHÉ COMPLIMENTS** (IGA) · 5,49 $ · était à 0,99 $ récemment → Attendre
 - **PAINS À HAMBURGER OU À HOT DOG COMPLIMENTS** (IGA) · 1,77 $ · était à 0,99 $ récemment → Attendre
 - **PEPSI** (IGA) · 9,00 $ · était à 2,49 $ récemment → Attendre
 - **CAFÉ OU CHOCOLAT CHAUD TIM HORTONS K-CUP** (IGA) · 13,49 $ · était à 4,99 $ récemment → Attendre
-- **SAUCE POUR PÂTES BERTOLLI** (IGA) · 4,99 $ · était à 1,25 $ récemment → Attendre
-- **BREUVAGE LAITIER SANS LACTOSE NATREL** (IGA) · 5,99 $ · était à 0,97 $ récemment → Attendre
-- **FOIE DE VEAU DE LAIT FRAIS** (IGA) · 18,99 $ · était à 0,97 $ récemment → Attendre
+- **SAUCE POUR PÂTES BERTOLLI** (IGA) · 4,99 $ · était à 0,50 $ récemment → Attendre
+- **BREUVAGE LAITIER SANS LACTOSE NATREL** (IGA) · 5,99 $ · était à 0,88 $ récemment → Attendre
+- **FOIE DE VEAU DE LAIT FRAIS** (IGA) · 18,99 $ · était à 0,88 $ récemment → Attendre
 - **DENTIFRICE COLGATE** (IGA) · 7,99 $ · était à 1,00 $ récemment → Attendre
 - **PAIN ITALIEN** (IGA) · 3,49 $ · était à 0,99 $ récemment → Attendre
 - **BARQUETTE DE SAUMON AVEC LÉGUMES C'EST PRÊT! À CUIRE** (IGA) · 8,99 $ · était à 4,99 $ récemment → Attendre
+- **POUDRE POUR GELÉE JELL-O** (IGA) · 5,98 $ · était à 5,98 $ récemment → Faux rabais
 - **MÉLANGE DE TOMATES GOURMET, TOMATES CERISES OU RAISINS** (IGA) · 9,00 $ · était à 1,75 $ récemment → Attendre
 - **BEURRE COMPLIMENTS** (IGA) · 4,88 $ · était à 2,99 $ récemment → Attendre
 - **CHARCUTERIES ÉMINCÉES OLYMEL** (IGA) · 11,99 $ · était à 11,99 $ récemment → Attendre
-- **LAIT BIOLOGIQUES NATREL** (IGA) · 6,99 $ · était à 0,97 $ récemment → Attendre
-- **CÔTELETTES DE LONGE DE PORC FRAIS** (IGA) · 9,99 $ · était à 2,88 $ récemment → Attendre
-- **BOISSON DE MALT ALCOOLISÉE SVNS HARD 7-UP** (IGA) · 22,99 $ · était à 23,49 $ récemment → Faux rabais
+- **FROMAGE SIR OU LADY LAURIER D'ARTHABASKA, CENDRÉ DE LUNE, LA SAUVAGINE OU PAILLOT DE CHÈVRE ALEXIS DE PORTNEUF** (IGA) · 8,49 $ · était à 8,49 $ récemment → Faux rabais
+- **LAIT BIOLOGIQUES NATREL** (IGA) · 6,99 $ · était à 0,88 $ récemment → Attendre
+- **CÔTELETTES DE LONGE DE PORC FRAIS** (IGA) · 9,99 $ · était à 2,49 $ récemment → Attendre
+- **BOISSON DE MALT ALCOOLISÉE SVNS HARD 7-UP** (IGA) · 22,99 $ · était à 22,99 $ récemment → Faux rabais
 - **BAVETTE D'ÉPAULE DE PORC ASSAISONNÉE TOP GOURMET** (IGA) · 10,99 $ · était à 10,99 $ récemment → Faux rabais
-- **PEPPERONI TRANCHÉ ROMA** (IGA) · 3,99 $ · était à 3,99 $ récemment → Pas assez bon
-- **PERSIL FRISÉ OU ITALIEN FRAIS** (IGA) · 1,49 $ → Pas assez bon
+- **PEPPERONI TRANCHÉ ROMA** (IGA) · 3,99 $ · était à 3,50 $ récemment → Attendre
+- **PERSIL FRISÉ OU ITALIEN FRAIS** (IGA) · 1,49 $ · était à 1,49 $ récemment → Pas assez bon
 - **BEURRE D'ARACHIDE KRAFT** (IGA) · 4,97 $ · était à 2,99 $ récemment → Attendre
+- **ESSUIE-TOUT COMPLIMENTS** (IGA) · 23,99 $ · était à 23,99 $ récemment → Attendre
 - **PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA** (IGA) · 4,97 $ · était à 3,97 $ récemment → Attendre
 - **YOGOURT GREC COMPLIMENTS** (IGA) · 4,99 $ · était à 2,79 $ récemment → Attendre
 - **POMMES DE TERRE GRELOTS JAUNES, ROUGES OU BLANCHES** (IGA) · 2,49 $ · était à 1,77 $ récemment → Attendre
-- **PÂTES ALIMENTAIRES BIOLOGIQUES BIOITALIA** (IGA) · 2,69 $ · était à 1,25 $ récemment → Attendre
+- **PÂTES ALIMENTAIRES BIOLOGIQUES BIOITALIA** (IGA) · 2,69 $ · était à 0,50 $ récemment → Attendre
 - **JUS DE FRUITS MINUTE MAID** (IGA) · 4,49 $ · était à 2,00 $ récemment → Attendre
 - **JUS DE FRUITS OASIS** (IGA) · 4,49 $ · était à 4,49 $ récemment → Pas assez bon
 - **THÉ GLACÉ FUZE** (IGA) · 4,49 $ · était à 3,99 $ récemment → Attendre
 - **ESCALOPES DE POITRINE DE POULET OU DE PORC FRAIS ASSAISONNÉES C'EST PRÊT! À CUIRE** (IGA) · 11,99 $ · était à 2,49 $ récemment → Attendre
 - **BURGERS DE SAUMON SURGELÉS GRIZZLY** (IGA) · 9,99 $ · était à 4,99 $ récemment → Attendre
+- **COQUILLE SAINT-JACQUES SURGELÉE RICARDO** (IGA) · 9,99 $ · était à 9,99 $ récemment → Pas assez bon
 - **BOISSON DE MALT ALCOOLISÉE PEPITO** (IGA) · 22,99 $ · était à 7,99 $ récemment → Attendre
 - **BEURRE NATREL** (IGA) · 6,99 $ · était à 2,99 $ récemment → Attendre
-- **MÉLANGE À SAUCE POUR PÂTES KNORR** (IGA) · 4,98 $ · était à 1,25 $ récemment → Attendre
+- **MÉLANGE À SAUCE POUR PÂTES KNORR** (IGA) · 4,98 $ · était à 0,50 $ récemment → Attendre
 - **BISCUITS PATTES D'OURS DARE** (IGA) · 3,49 $ · était à 2,22 $ récemment → Attendre
 - **RÔTI D'ÉPAULE DE PORC FRAIS** (IGA) · 3,99 $ · était à 1,97 $ récemment → Attendre
-- **CRÈME GLACÉE HÄAGEN-DAZS** (IGA) · 4,94 $ · était à 4,94 $ récemment → Pas assez bon
+- **CRÈME GLACÉE HÄAGEN-DAZS** (IGA) · 4,94 $ · était à 4,94 $ récemment → Faux rabais
 - **CRÈME SURE SEALTEST** (IGA) · 3,99 $ · était à 3,99 $ récemment → Attendre
+- **THÉ GLACÉ NESTEA** (IGA) · 4,79 $ · était à 4,79 $ récemment → Attendre
 - **BOISSON DE MALT ALCOOLISÉE BEACH DAY EVERY DAY** (IGA) · 22,99 $ · était à 22,99 $ récemment → Faux rabais
 - **CAFÉ EN GRAINS OU MOULU BIOLOGIQUES ET ÉQUITABLES CAFÉ WILLIAM** (IGA) · 13,99 $ · était à 4,99 $ récemment → Attendre
+- **PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** (IGA) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
 - **TREMPETTE LA CAGE** (IGA) · 5,49 $ · était à 5,49 $ récemment → Attendre
-- **PÂTES FARCIES FRAÎCHES COMPLIMENTS** (IGA) · 9,99 $ · était à 1,25 $ récemment → Attendre
+- **PÂTES FARCIES FRAÎCHES COMPLIMENTS** (IGA) · 9,99 $ · était à 0,50 $ récemment → Attendre
 - **CAFÉ MOULU LAVAZZA** (IGA) · 6,99 $ · était à 4,99 $ récemment → Attendre
 - **FRIANDISES NESTLÉ** (IGA) · 5,49 $ · était à 1,22 $ récemment → Attendre
 - **BOISSON ÉNERGISANTE GURU** (IGA) · 6,00 $ · était à 2,49 $ récemment → Attendre
 - **PAINS PITA SANABEL** (IGA) · 2,99 $ · était à 0,99 $ récemment → Attendre
-- **SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON** (IGA) · 7,49 $ · était à 7,99 $ récemment → Pas assez bon
-- **BISCUITS LECLERC CÉLÉBRATION** (IGA) · 2,47 $ · était à 2,97 $ récemment → Pas assez bon
+- **SAUCISSES BIOLOGIQUES FRAÎCHES DU BRETON** (IGA) · 7,49 $ · était à 7,49 $ récemment → Pas assez bon
+- **BISCUITS LECLERC CÉLÉBRATION** (IGA) · 2,47 $ · était à 2,47 $ récemment → Pas assez bon
 - **BOISSON AUX FRUITS OU LIMONADE RÉFRIGÉRÉES TROPICANA** (IGA) · 4,99 $ · était à 2,00 $ récemment → Attendre
-- **SAUCE POUR PÂTES RAO'S** (IGA) · 9,99 $ · était à 1,25 $ récemment → Attendre
+- **SAUCE POUR PÂTES RAO'S** (IGA) · 9,99 $ · était à 0,50 $ récemment → Attendre
 - **CRÉMIER À CAFÉ NATREL** (IGA) · 4,99 $ · était à 4,99 $ récemment → Attendre
+- **TRANCHES DE FROMAGE P'TIT QUÉBEC** (IGA) · 4,77 $ · était à 4,77 $ récemment → Faux rabais
 - **POMMES DE TERRE BLANCHES** (IGA) · 4,99 $ · était à 1,77 $ récemment → Attendre
-- **MIEL PUR COMPLIMENTS** (IGA) · 4,99 $ → Faux rabais
-- **PÂTÉS IMPÉRIAUX SURGELÉS VALEUR PLUS** (IGA) · 10,00 $ · était à 1,25 $ récemment → Attendre
+- **MIEL PUR COMPLIMENTS** (IGA) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **TORTILLAS OLD EL PASO** (IGA) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
+- **PÂTÉS IMPÉRIAUX SURGELÉS VALEUR PLUS** (IGA) · 10,00 $ · était à 0,50 $ récemment → Attendre
 - **RÔTI DE BAS DE PALETTE DÉSOSSÉ** (IGA) · 12,99 $ · était à 11,99 $ récemment → Faux rabais
 - **CRÈME GLACÉE BEN & JERRY'S** (IGA) · 12,00 $ · était à 5,49 $ récemment → Attendre
 - **PETITS PAINS RUSTIQUES AU PAIN DORÉ** (IGA) · 4,99 $ · était à 0,99 $ récemment → Attendre
 - **FRAISES** (IGA) · 5,99 $ · était à 2,77 $ récemment → Attendre
 - **BIFTECK DE HAUT DE SURLONGE** (IGA) · 9,99 $ · était à 8,77 $ récemment → Attendre
 - **PETITS PAINS RUSTIQUES, AUX OLIVES OU CIABATTA AU PAIN DORÉ** (IGA) · 4,99 $ · était à 0,99 $ récemment → Attendre
+- **CÔTES DE DOS DE PORC FRAIS BÂTON ROUGE** (IGA) · 9,99 $ · était à 9,99 $ récemment → Pas assez bon
 - **BROCHETTES DE SAUCISSES AVEC LÉGUMES PRIX CLUB** (IGA) · 17,00 $ · était à 17,00 $ récemment → Faux rabais
-- **NETTOYANT PINE-SOL** (IGA) · 4,99 $ → Faux rabais
+- **SOUVLAKIS DE BŒUF, DE POULET OU DE PORC MARINÉS FRAIS C'EST PRÊT! À CUIRE** (IGA) · 12,99 $ · était à 12,99 $ récemment → Faux rabais
+- **BIFTECK DE CONTRE-FILET** (IGA) · 22,99 $ · était à 10,99 $ récemment → Attendre
+- **CHLOROPHYLLE LAND ART** (IGA) · 24,99 $ · était à 24,99 $ récemment → Faux rabais
+- **CROUSTILLES COMPLIMENTS** (IGA) · 5,99 $ · était à 1,47 $ récemment → Attendre
+- **NETTOYANT PINE-SOL** (IGA) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **PÂTÉ DE CAMPAGNE OU DE FOIE PLAISIRS GASTRONOMIQUES** (IGA) · 4,49 $ · était à 4,49 $ récemment → Faux rabais
 - **POMMES GRANNY SMITH** (IGA) · 2,49 $ · était à 1,77 $ récemment → Attendre
 - **FILETS DE SAUMON ATLANTIQUE FRAIS** (IGA) · 14,99 $ · était à 4,99 $ récemment → Attendre
-- **PÂTES ALIMENTAIRES CATELLI** (IGA) · 3,79 $ · était à 1,25 $ récemment → Attendre
+- **PÂTES ALIMENTAIRES CATELLI** (IGA) · 3,79 $ · était à 0,50 $ récemment → Attendre
+- **BARRES, CARRÉS AU RIZ OU TARTELETTES KELLOGG'S SPECIAL K** (IGA) · 2,99 $ · était à 2,97 $ récemment → Faux rabais
+- **GRIGNOTINES YUM YUM** (IGA) · 3,99 $ · était à 3,49 $ récemment → Attendre
 - **FILET DE TRUITE OU SAUMON FUMÉ SURGELÉS FUMOIRS GOSSELIN** (IGA) · 7,99 $ · était à 4,99 $ récemment → Attendre
 - **YOGOURT PROBIOTIQUE ACTIVIA** (IGA) · 5,49 $ · était à 2,79 $ récemment → Attendre
-- **BLEUETS** (IGA) · 5,99 $ · était à 1,77 $ récemment → Attendre
+- **BLEUETS** (IGA) · 5,99 $ · était à 1,75 $ récemment → Attendre
+- **BÂTONNETS DE FROMAGE BLACK DIAMOND** (IGA) · 9,99 $ · était à 7,99 $ récemment → Attendre
 - **CAFÉ GLACÉ STARBUCKS** (IGA) · 7,99 $ · était à 4,99 $ récemment → Attendre
+- **THÉ GLACÉ RÉFRIGÉRÉ PURE LEAF** (IGA) · 4,99 $ · était à 4,99 $ récemment → Pas assez bon
 - **MOUCHOIRS DE PAPIER COMPLIMENTS** (IGA) · 7,99 $ · était à 7,99 $ récemment → Attendre
-- **LAIT AU CHOCOLAT QUÉBON** (IGA) · 4,99 $ · était à 0,97 $ récemment → Attendre
+- **SALADE SUMMER FRESH** (IGA) · 8,99 $ · était à 8,99 $ récemment → Pas assez bon
+- **CHARCUTERIES ÉMINCÉES OU TRANCHÉES MAPLE LEAF** (IGA) · 6,99 $ · était à 6,99 $ récemment → Pas assez bon
+- **LAIT AU CHOCOLAT QUÉBON** (IGA) · 4,99 $ · était à 0,88 $ récemment → Attendre
 - **LÉGUMINEUSES PRIMO** (IGA) · 1,99 $ · était à 1,99 $ récemment → Faux rabais
 - **MAYONNAISE HELLMANN'S** (IGA) · 6,99 $ · était à 3,99 $ récemment → Attendre
-- **CRÈME QUÉBON ULTRA'CRÈME** (IGA) · 3,79 $ · était à 4,99 $ récemment → Pas assez bon
+- **CRÈME QUÉBON ULTRA'CRÈME** (IGA) · 3,79 $ · était à 3,79 $ récemment → Pas assez bon
 - **TRANCHES DE FROMAGE CRACKER BARREL** (IGA) · 4,77 $ · était à 4,77 $ récemment → Faux rabais
-- **MÉLANGE À SAUCE KNORR** (IGA) · 4,98 $ · meilleur vu : 0,99 $ → Attendre
+- **MÉLANGE À SAUCE KNORR** (IGA) · 4,98 $ · était à 4,98 $ récemment → Attendre
 - **POMMES DE TERRE EN DÉS SURGELÉES BEN & FLORENTINE** (IGA) · 4,99 $ · était à 1,77 $ récemment → Attendre
 - **Nature's Path - Granola biologique aux noix de coco et beurre de cajou, 720 g** (Costco) · 14,49 $ · était à 2,99 $ récemment → Attendre
 - **Sunchips - Collations multigrains à saveur cheddar de campagne, 645 g** (Costco) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
 - **Caffè Borbone - Café en grains 100 % Arabica, 2 × 1 kg** (Costco) · 54,99 $ · était à 4,99 $ récemment → Attendre
+- **G.H. Cretors - Sac de maïs soufflé mélange Chicago de 737 g** (Costco) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
 - **Aveeno - Lotion hydratante quotidienne, 2 x 710 mL** (Costco) · 16,99 $ · était à 16,99 $ récemment → Faux rabais
 - **Aveeno nettoyant corporel apaisant sans parfum, 3 x 532 mL** (Costco) · 24,99 $ · était à 24,99 $ récemment → Faux rabais
 - **Sensible Portions - Boite de craquelins de pain pita, 567 g** (Costco) · 8,99 $ · était à 0,99 $ récemment → Attendre
 - **Cove Soda - Assortiment de boissons sans sucre, 355 mL paquet de 24** (Costco) · 31,99 $ · était à 31,99 $ récemment → Faux rabais
+- **Purex - Détergent à lessive ultraconcentré eau froide, 250 charges de lavage** (Costco) · 21,99 $ · était à 21,99 $ récemment → Faux rabais
+- **Leclerc - Celebration Trio, paquet de biscuit assorti, 920 g** (Costco) · 12,99 $ · était à 12,99 $ récemment → Pas assez bon
 - **Caffè Borbone - Grains de café entiers Espresso Intenso, 2 × 1 kg** (Costco) · 44,99 $ · était à 4,99 $ récemment → Attendre
 - **Café Express - Boite de 500 gobelets à paroi unique 10 oz par gobelet** (Costco) · 36,99 $ · était à 4,99 $ récemment → Attendre
 - **Red Bull - Boisson énergisante , 250 mL paquet de 24** (Costco) · 44,99 $ · était à 44,99 $ récemment → Faux rabais
+- **Dawn - Powerwash vaporisatuer pour la vaisselle, 3 × 635 ml** (Costco) · 16,49 $ · était à 16,49 $ récemment → Faux rabais
 - **Café Starbucks -Capsules de café Verona, 54 godets** (Costco) · 42,99 $ · était à 4,99 $ récemment → Attendre
 - **Aveeno Nettoyant pour le corps apaise-stress 2 x 975mL** (Costco) · 24,49 $ · était à 24,49 $ récemment → Faux rabais
+- **Craquelins Goldfish Pepperidge Farm, 1,64 kg** (Costco) · 13,99 $ · était à 13,99 $ récemment → Faux rabais
 - **Finish Quantum Jet-Dry Ultra - Agent de rinçage, 374 lavages** (Costco) · 17,99 $ · était à 17,99 $ récemment → Faux rabais
+- **Tostitos - Salsa moyenne, 2 × 1,21 L** (Costco) · 11,99 $ · était à 11,99 $ récemment → Faux rabais
 - **Alani Nu - Boisson énergisante flotteur de rêve 355 mL, 12-pack** (Costco) · 21,99 $ · était à 21,99 $ récemment → Faux rabais
 - **Caffè Borbone - Grains de café entiers Crema Classica, 2 × 1 kg** (Costco) · 44,99 $ · était à 4,99 $ récemment → Attendre
 - **SANPELLEGRINO Naturali - Boissons Pétillantes Italiennes 330 mL paquet de 24** (Costco) · 23,99 $ · était à 23,99 $ récemment → Faux rabais
+- **Cashmere Premium-Papier hygiénique doux, épais, hypoallergénique et sans danger pour les fosses septiques, Paquet de 40** (Costco) · 29,49 $ · était à 29,49 $ récemment → Faux rabais
 - **Excel - Gomme sans sucre à saveurs variées, 27 × 12 morceaux** (Costco) · 18,99 $ · était à 18,99 $ récemment → Faux rabais
 - **Donut Shop – Capsules de café original, 96 godets** (Costco) · 63,99 $ · était à 4,99 $ récemment → Attendre
 - **Downy Gentle Soft + Fresh Adoucissant liquide, parfum fleur de cerisier, 150 brassées** (Costco) · 16,99 $ · était à 16,99 $ récemment → Faux rabais
 - **Lavazza - Crema e Gusto Capsules de Café Compatibles Nespresso, 100 godets** (Costco) · 41,99 $ · était à 4,99 $ récemment → Attendre
-- **Dawn Platinum pouvoir avancé détergente à vaisselle liquide, 2.66 L** (Costco) · 16,99 $ · était à 16,99 $ récemment → Pas assez bon
+- **Dawn Platinum pouvoir avancé détergente à vaisselle liquide, 2.66 L** (Costco) · 16,99 $ · était à 16,99 $ récemment → Faux rabais
 - **Del Monte - Mélange de jus orange, 6 x 960 mL** (Costco) · 12,49 $ · était à 2,00 $ récemment → Attendre
 - **Red Bull Zéro - Boisson énergisante 250 mL paquet de 24** (Costco) · 44,99 $ · était à 44,99 $ récemment → Faux rabais
 - **Finish Quantum Everyday - Détergent pour lave-vaisselle, 176 tablettes** (Costco) · 31,99 $ · était à 31,99 $ récemment → Faux rabais
 - **Aysen Filets de saumon Coho 4,54 kg (10 lb)** (Costco) · 189,99 $ · était à 4,99 $ récemment → Attendre
+- **Rasoir Venus GlisseSensible pour femmes, pour peau sensible** (Costco) · 27,99 $ · était à 27,99 $ récemment → Faux rabais
 - **Cascade Platinum Plus, 81 ActionPacs** (Costco) · 28,99 $ · était à 28,99 $ récemment → Faux rabais
 - **Bounty Plus - Essuie-tout, 12 x 91 feuilles** (Costco) · 33,49 $ · était à 33,49 $ récemment → Faux rabais
+- **Hero - Mighty Patch Original et Invisible+, paquet de 84 patchs** (Costco) · 23,99 $ · était à 23,99 $ récemment → Pas assez bon
+- **Lysol Advanced - Nettoyant pour cuvettes, 4 × 946 ml** (Costco) · 16,99 $ · était à 16,99 $ récemment → Faux rabais
 - **Gain - Détergent à lessive liquide, 4,82 l** (Costco) · 23,49 $ · était à 23,49 $ récemment → Faux rabais
 - **Alani Boisson Energisante barbotine bleue, 355 mL paquet de 12** (Costco) · 21,99 $ · était à 21,99 $ récemment → Faux rabais
 - **Lysol Advanced - Lingettes désinfectantes, 550 lingettes** (Costco) · 24,99 $ · était à 24,99 $ récemment → Faux rabais
 - **Jack Link's - Charqui de bœuf au teriyaki, 300 g** (Costco) · 15,99 $ · était à 15,99 $ récemment → Faux rabais
 - **Café instantané Nescafé, Mélange riche, 475 g** (Costco) · 15,49 $ · était à 4,99 $ récemment → Attendre
-- **ARACHIDES IRRESISTIBLE** (Metro) · 3,77 $ · était à 6,99 $ récemment → Pas assez bon
+- **Terra Delyssa - Dattes dénoyautées biologiques deglet noor, 1,25 kg** (Costco) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
+- **CÔTELETTES DE PORC FRAIS DÉSOSSÉES** (Metro) · 2,99 $ · était à 2,49 $ récemment → Attendre
 - **POITRINES DE POULET FRAIS DÉSOSSÉES** (Metro) · 5,88 $ · était à 5,88 $ récemment → Attendre
 - **CROUSTILLES LAY'S** (Metro) · 2,77 $ · était à 1,99 $ récemment → Attendre
+- **CHOU NAPPA** (Metro) · 1,99 $ · était à 1,49 $ récemment → Attendre
+- **TARTARE GRIZZLY** (Metro) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **PAINS SOUS-MARIN** (Metro) · 5,49 $ · était à 0,99 $ récemment → Attendre
-- **PÂTES ALIMENTAIRES CATELLI** (Metro) · 1,99 $ · était à 1,25 $ récemment → Attendre
-- **MÉLANGE À GÂTEAU BETTY CROCKER** (Metro) · 2,00 $ → Faux rabais
+- **PÂTES ALIMENTAIRES CATELLI** (Metro) · 1,99 $ · était à 0,50 $ récemment → Attendre
+- **CITRON** (Metro) · 0,99 $ · était à 0,99 $ récemment → Faux rabais
+- **MÉLANGE À GÂTEAU BETTY CROCKER** (Metro) · 2,00 $ · était à 2,00 $ récemment → Faux rabais
 - **POMMES DE TERRE LAVÉES BLANCHES** (Metro) · 3,99 $ · était à 1,77 $ récemment → Attendre
 - **CROISSANTS** (Metro) · 6,49 $ · était à 6,49 $ récemment → Pas assez bon
 - **SAUMON COHO FUMÉ IRRÉSISTIBLE** (Metro) · 11,99 $ · était à 4,99 $ récemment → Attendre
+- **TARTE SELECTION** (Metro) · 6,00 $ · était à 6,00 $ récemment → Pas assez bon
 - **BIÈRE LABATT BUDWEISER, MOLSON CANADIAN** (Metro) · 36,49 $ · était à 36,49 $ récemment → Faux rabais
-- **AUBERGINES** (Metro) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **AUBERGINES** (Metro) · 2,99 $ · était à 2,49 $ récemment → Attendre
 - **MINI CONCOMBRES** (Metro) · 2,99 $ · était à 1,24 $ récemment → Attendre
-- **POULET DE GRAIN MIEUX‑ÊTRE NATURALIA** (Metro) · 4,99 $ → Faux rabais
-- **BOEUF HACHÉ EXTRA-MAIGRE** (Metro) · 9,99 $ · était à 5,74 $ récemment → Attendre
-- **PÂTES FARCIES OLIVIERI** (Metro) · 5,49 $ · était à 1,25 $ récemment → Attendre
+- **POULET DE GRAIN MIEUX‑ÊTRE NATURALIA** (Metro) · 4,99 $ · était à 3,99 $ récemment → Attendre
+- **VIANDE FRAÎCHE À FONDUE** (Metro) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
+- **BOEUF HACHÉ EXTRA-MAIGRE** (Metro) · 9,99 $ · était à 4,95 $ récemment → Attendre
+- **POINTE DE GÂTEAU** (Metro) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
+- **PÂTES FARCIES OLIVIERI** (Metro) · 5,49 $ · était à 0,50 $ récemment → Attendre
+- **BAGUETTE** (Metro) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
 - **SAUCISSES FUMÉES LESTERS** (Metro) · 6,00 $ · était à 2,99 $ récemment → Attendre
 - **CAFÉ MOULU MAXWELL HOUSE** (Metro) · 15,97 $ · était à 4,99 $ récemment → Attendre
-- **JUS SELECTION** (Metro) · 3,99 $ · meilleur vu : 1,59 $ → Attendre
+- **JUS SELECTION** (Metro) · 3,99 $ · était à 1,59 $ récemment → Attendre
 - **FROMAGE À LA CRÈME PHILADELPHIA** (Metro) · 5,99 $ · était à 3,97 $ récemment → Attendre
 - **PAINS À HOT-DOG OU À HAMBURGER SELECTION** (Metro) · 6,50 $ · était à 0,99 $ récemment → Attendre
+- **CROUSTILLES TORTILLA TOSTITOS** (Metro) · 8,00 $ · était à 7,00 $ récemment → Attendre
 - **CÉRÉALES KELLOGG'S** (Metro) · 4,49 $ · était à 3,49 $ récemment → Attendre
 - **CHAMPIGNONS CAFÉ ENTIERS OU TRANCHÉS BIOLOGIQUES** (Metro) · 2,99 $ · était à 4,99 $ récemment → Attendre
 - **JAMBON FUMÉ MÈRE MICHEL** (Metro) · 15,99 $ · était à 3,19 $ récemment → Attendre
-- **PEPPERONI CASERTA ROMA** (Metro) · 2,99 $ · était à 7,49 $ récemment → Pas assez bon
+- **PEPPERONI CASERTA ROMA** (Metro) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **LÉGUMES SURGELÉS SELECTION** (Metro) · 3,69 $ · était à 1,77 $ récemment → Attendre
-- **GOURGANES** (Metro) · 4,99 $ · était à 2,77 $ récemment → Attendre
+- **GOURGANES** (Metro) · 4,99 $ · était à 2,49 $ récemment → Attendre
 - **HARICOTS VERTS OU JAUNES, COURGETTES VERTES OU JAUNES, CAROTTES NANTAISES, POMMES DE TERRE GRELOTS BLANCHES** (Metro) · 4,99 $ · était à 1,77 $ récemment → Attendre
-- **SIROP D'ÉRABLE IRRÉSISTIBLE** (Metro) · 9,99 $ · meilleur vu : 5,97 $ → Attendre
+- **PAPIER D'ALUMINIUM SELECTION** (Metro) · 3,99 $ · était à 3,99 $ récemment → Pas assez bon
+- **SIROP D'ÉRABLE IRRÉSISTIBLE** (Metro) · 9,99 $ · était à 9,99 $ récemment → Attendre
 - **FARINE SELECTION** (Metro) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
+- **CÔTES DE DOS DE PORC CUITES BBQ BÂTON ROUGE** (Metro) · 17,99 $ · était à 17,99 $ récemment → Attendre
+- **FILET DE TRUITE FUMÉ À FROID ARTISANAL** (Metro) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
+- **BAVETTE DE BOEUF** (Metro) · 24,99 $ · était à 24,99 $ récemment → Faux rabais
 - **BOLOGNE LAFLEUR** (Metro) · 6,99 $ · était à 4,49 $ récemment → Attendre
+- **FLOCONS DE GOBERGE À SAVEUR DE CRABE** (Metro) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **ASPERGES** (Metro) · 5,99 $ · était à 5,99 $ récemment → Attendre
-- **VINAIGRETTE RENÉE'S** (Metro) · 5,99 $ · était à 5,99 $ récemment → Attendre
+- **PÂTISSERIES INDIVIDUELLES** (Metro) · 9,00 $ · était à 9,00 $ récemment → Faux rabais
+- **VINAIGRETTE RENÉE'S** (Metro) · 5,99 $ · était à 4,99 $ récemment → Attendre
+- **GROSSES CREVETTES AIL ET FINES HERBES IRRÉSISTIBLE** (Metro) · 10,99 $ · était à 10,99 $ récemment → Faux rabais
 - **SAUMON FUMÉ FUMOIRS GOSSELIN** (Metro) · 10,99 $ · était à 4,99 $ récemment → Attendre
-- **LAITUE FEUILLES VERTES OU ROMAINE BIOLOGIQUE** (Metro) · 2,99 $ · était à 0,97 $ récemment → Attendre
+- **MINI BISCUITS** (Metro) · 4,49 $ · était à 4,49 $ récemment → Faux rabais
+- **LAITUE FEUILLES VERTES OU ROMAINE BIOLOGIQUE** (Metro) · 2,99 $ · était à 0,88 $ récemment → Attendre
 - **HAUTS DE CUISSES DE POULET FRAIS DÉSOSSÉS** (Metro) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
 - **CROISSANTS 100 % BEURRE** (Metro) · 5,99 $ · était à 2,99 $ récemment → Attendre
 - **FILETS DE PORC FRAIS** (Metro) · 5,99 $ · était à 3,77 $ récemment → Attendre
 - **RILLETTES DE SAUMON FUMÉ ARTISANAL** (Metro) · 4,49 $ · était à 4,99 $ récemment → Attendre
-- **JUS OASIS** (Metro) · 2,49 $ · était à 3,99 $ récemment → Attendre
+- **CRÈME GLACÉE SANS LACTOSE NATREL** (Metro) · 4,99 $ · était à 2,99 $ récemment → Attendre
+- **JUS OASIS** (Metro) · 2,49 $ · était à 2,49 $ récemment → Attendre
+- **CÉRÉALES BIOLOGIQUES NATURE'S PATH** (Metro) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **CROIFFINS** (Metro) · 4,79 $ · était à 4,79 $ récemment → Faux rabais
-- **THON RIO MARE** (Metro) · 7,49 $ · meilleur vu : 5,75 $ → Attendre
-- **LAIT FINEMENT FILTRÉ NATREL** (Metro) · 3,49 $ · était à 0,97 $ récemment → Attendre
-- **RIZ SELECTION** (Metro) · 2,49 $ → Faux rabais
+- **FROMAGE CLASSIQUE BERGERON** (Metro) · 8,49 $ · était à 8,49 $ récemment → Faux rabais
+- **THON RIO MARE** (Metro) · 7,49 $ · était à 6,50 $ récemment → Attendre
+- **LAIT FINEMENT FILTRÉ NATREL** (Metro) · 3,49 $ · était à 0,88 $ récemment → Attendre
+- **RIZ SELECTION** (Metro) · 2,49 $ · était à 2,49 $ récemment → Faux rabais
 - **SAUCE BBQ DIANA** (Metro) · 4,99 $ · était à 4,49 $ récemment → Attendre
-- **LAIT FRAPPÉ BEATRICE BFIT** (Metro) · 3,79 $ · était à 0,97 $ récemment → Attendre
-- **BOISSON SPORTIVE BEHY** (Metro) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **LAIT FRAPPÉ BEATRICE BFIT** (Metro) · 3,79 $ · était à 0,88 $ récemment → Attendre
+- **JUS DE POMME ROUGEMONT** (Metro) · 5,00 $ · était à 5,00 $ récemment → Attendre
+- **JUS OU COCKTAIL SELECTION** (Metro) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
+- **BOISSON SPORTIVE BEHY** (Metro) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
 - **COUCHES POUR BÉBÉS HUGGIES** (Metro) · 32,99 $ · était à 14,99 $ récemment → Attendre
 - **VINAIGRETTE SELECTION** (Metro) · 2,99 $ · était à 2,69 $ récemment → Attendre
+- **SAUCE CHILI HEINZ** (Metro) · 6,29 $ · était à 6,29 $ récemment → Attendre
 - **CORNICHONS FRAIS** (Metro) · 7,99 $ · était à 5,99 $ récemment → Attendre
 - **CRÈME SURE SELECTION** (Metro) · 3,49 $ · était à 2,49 $ récemment → Attendre
+- **COCKTAIL DE LÉGUMES GARDEN COCKTAIL** (Metro) · 2,49 $ · était à 2,49 $ récemment → Faux rabais
 - **COLLATION AUX POMMES MIEUX-ÊTRE** (Metro) · 2,49 $ · était à 1,77 $ récemment → Attendre
+- **BOISSON GAZEUSE 1642** (Metro) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **BIÈRE ARCHIBALD, BRASSEUR DE MONTRÉAL, UNIBROUE** (Metro) · 21,99 $ · était à 21,99 $ récemment → Pas assez bon
 - **MUFFINS** (Metro) · 5,99 $ · était à 4,99 $ récemment → Attendre
-- **SIMILI POULET GASPÉSIEN** (Metro) · 1,69 $ · était à 1,79 $ récemment → Faux rabais
+- **FRITES SELECTION** (Metro) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
+- **SIMILI POULET GASPÉSIEN** (Metro) · 1,69 $ · était à 1,69 $ récemment → Faux rabais
+- **FILETS DE TILAPIA FRAIS** (Metro) · 10,99 $ · était à 10,99 $ récemment → Faux rabais
 - **PAIN TRANCHÉ LITTLE NORTHERN BAKEHOUSE** (Metro) · 6,99 $ · était à 0,99 $ récemment → Attendre
-- **FLANC DE PORC SECRET GOURMAND** (Metro) · 8,99 $ → Faux rabais
-- **POIRES BARTLETT** (Metro) · 2,69 $ · était à 4,41 $ récemment → Pas assez bon
+- **FLANC DE PORC SECRET GOURMAND** (Metro) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
+- **POIRES BARTLETT** (Metro) · 2,69 $ · était à 2,49 $ récemment → Pas assez bon
 - **SAUCISSES LA FERNANDIÈRE** (Metro) · 5,49 $ · était à 5,49 $ récemment → Attendre
 - **EXTRA-GROS RAISINS ROUGES, VERTS OU NOIRS SANS PÉPINS** (Metro) · 3,99 $ · était à 1,75 $ récemment → Attendre
-- **SECTIONS DE CRABE DES NEIGES** (Metro) · 21,99 $ · était à 27,99 $ récemment → Pas assez bon
+- **SECTIONS DE CRABE DES NEIGES** (Metro) · 21,99 $ · était à 21,99 $ récemment → Pas assez bon
 - **CRETONS NOREL** (Metro) · 4,99 $ · était à 4,50 $ récemment → Attendre
-- **MÉLANGE OU LAITUE LES FERMES GOOD LEAF** (Metro) · 3,99 $ · était à 0,97 $ récemment → Attendre
+- **MÉLANGE OU LAITUE LES FERMES GOOD LEAF** (Metro) · 3,99 $ · était à 0,88 $ récemment → Attendre
 - **YOGOURT GREC SKOTIDAKIS** (Metro) · 6,99 $ · était à 2,79 $ récemment → Attendre
 - **KETCHUP AUX TOMATES SELECTION** (Metro) · 3,99 $ · était à 3,59 $ récemment → Attendre
-- **SAUCE POUR PÂTES SELECTION** (Metro) · 3,79 $ · était à 1,25 $ récemment → Attendre
+- **SAUCE POUR PÂTES SELECTION** (Metro) · 3,79 $ · était à 0,50 $ récemment → Attendre
 - **EAU DE SOURCE NATURELLE SELECTION** (Metro) · 3,99 $ · était à 1,79 $ récemment → Attendre
-- **BLEUETS** (Metro) · 3,99 $ · était à 1,77 $ récemment → Attendre
+- **BLEUETS** (Metro) · 3,99 $ · était à 1,75 $ récemment → Attendre
+- **NIDS D'OIGNONS ET CREVETTES IRRÉSISTIBLE** (Metro) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
 - **BIFTECKS FRANÇAIS** (Metro) · 12,99 $ · était à 6,85 $ récemment → Attendre
+- **LIME** (Metro) · 0,99 $ · était à 0,99 $ récemment → Faux rabais
 - **FRAISES BIOLOGIQUES** (Metro) · 4,99 $ · était à 2,77 $ récemment → Attendre
 - **YOGOURT MÉDITERRANÉE LIBERTÉ** (Metro) · 3,49 $ · était à 2,79 $ récemment → Attendre
 - **BACON MAPLE LEAF** (Metro) · 5,99 $ · était à 4,99 $ récemment → Attendre
@@ -7664,65 +6671,84 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 - **PAINS À HOT-DOG OU À HAMBURGER POM** (Metro) · 7,00 $ · était à 0,99 $ récemment → Attendre
 - **PAIN TRANCHÉ PREMIÈRE MOISSON** (Metro) · 6,00 $ · était à 0,99 $ récemment → Attendre
 - **BAGUETTE FRANÇAISE** (Metro) · 1,99 $ · était à 1,99 $ récemment → Pas assez bon
-- **PÂTES ALIMENTAIRES PRIMO** (Metro) · 1,99 $ · était à 1,25 $ récemment → Attendre
-- **POIVRONS VERTS** (Metro) · 3,99 $ · était à 6,99 $ récemment → Attendre
+- **PÂTES ALIMENTAIRES PRIMO** (Metro) · 1,99 $ · était à 0,50 $ récemment → Attendre
+- **POIVRONS VERTS** (Metro) · 3,99 $ · était à 3,99 $ récemment → Attendre
 - **COURONNE DE BROCOLI** (Metro) · 2,69 $ · était à 1,44 $ récemment → Attendre
-- **CANTALOUP** (Metro) · 4,99 $ · était à 4,49 $ récemment → Attendre
+- **CANTALOUP** (Metro) · 4,99 $ · était à 2,47 $ récemment → Attendre
+- **TOMATES HEIRLOOM** (Metro) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **CERISES COLOSSALES** (Metro) · 6,99 $ · était à 2,99 $ récemment → Attendre
 - **MAÏS EN ÉPIS 2 COULEURS** (Metro) · 0,59 $ · était à 0,25 $ récemment → Attendre
 - **GRENADE** (Metro) · 3,69 $ · était à 1,75 $ récemment → Attendre
 - **RAISINS ROUGES OU VERTS BIOLOGIQUES SANS PÉPINS** (Metro) · 3,99 $ · était à 1,75 $ récemment → Attendre
 - **CÔTES DE DOS DE PORC FRAIS** (Metro) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
 - **PILONS DE POULET FRAIS** (Metro) · 3,99 $ · était à 3,49 $ récemment → Attendre
-- **CÔTELETTES DE PORC BBQ ASSAISONNÉES DÉSOSSÉES** (Metro) · 3,99 $ · était à 2,88 $ récemment → Attendre
+- **CÔTELETTES DE PORC BBQ ASSAISONNÉES DÉSOSSÉES** (Metro) · 3,99 $ · était à 2,49 $ récemment → Attendre
 - **AILES DE POULET FLAMINGO** (Metro) · 14,99 $ · était à 8,99 $ récemment → Attendre
 - **TOURNEDOS DE SAUMON** (Metro) · 17,99 $ · était à 4,99 $ récemment → Attendre
 - **MOULES BLEUES FRAÎCHES CANADIAN COVE** (Metro) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
 - **PÉPITES DE SAUMON FUMÉ ARTISANAL** (Metro) · 6,49 $ · était à 4,99 $ récemment → Attendre
 - **PINCES DE HOMARD** (Metro) · 4,49 $ · était à 4,49 $ récemment → Faux rabais
-- **CREVETTES SAUVAGES D'ARGENTINE** (Metro) · 3,49 $ → Faux rabais
+- **CREVETTES SAUVAGES D'ARGENTINE** (Metro) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
 - **FILET DE SAUMON FUMÉ À CHAUD ARTISANAL** (Metro) · 6,49 $ · était à 4,99 $ récemment → Attendre
 - **GÂTEAU TIRAMISU** (Metro) · 9,99 $ · était à 9,99 $ récemment → Faux rabais
 - **CANNOLI À LA CRÈME DE RICOTTA** (Metro) · 6,99 $ · était à 2,49 $ récemment → Attendre
-- **TARTINADE PLAISIRS GASTRONOMIQUES** (Metro) · 8,99 $ → Faux rabais
+- **FROMAGE OKA ORIGINAL** (Metro) · 4,19 $ · était à 4,19 $ récemment → Faux rabais
+- **TARTINADE PLAISIRS GASTRONOMIQUES** (Metro) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
+- **BRUSCHETTA PLAISIRS GASTRONOMIQUES** (Metro) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
+- **CÉRÉALES POUR BÉBÉS GERBER** (Metro) · 5,99 $ · était à 5,99 $ récemment → Attendre
 - **CAFÉ MOULU BIOLOGIQUE KICKING HORSE** (Metro) · 10,99 $ · était à 4,99 $ récemment → Attendre
 - **COLORANT À CAFÉ COFFEE MATE** (Metro) · 5,49 $ · était à 4,99 $ récemment → Attendre
 - **BEURRE D'ARACHIDE JIF** (Metro) · 6,99 $ · était à 2,99 $ récemment → Attendre
 - **ARACHIDES PLANTERS** (Metro) · 4,99 $ · était à 4,99 $ récemment → Attendre
-- **MAIS À ÉCLATER ORVILLE** (Metro) · 5,00 $ · était à 5,99 $ récemment → Pas assez bon
-- **PÂTÉ À SANDWICH PARIS PÂTÉ** (Metro) · 2,00 $ → Faux rabais
+- **MAIS À ÉCLATER ORVILLE** (Metro) · 5,00 $ · était à 5,00 $ récemment → Pas assez bon
+- **RIZ BASMATI SELECTION** (Metro) · 4,00 $ · était à 3,49 $ récemment → Attendre
+- **PÂTÉ À SANDWICH PARIS PÂTÉ** (Metro) · 2,00 $ · était à 2,00 $ récemment → Faux rabais
 - **BOISSON ÉNERGISANTE GURU** (Metro) · 8,99 $ · était à 2,49 $ récemment → Attendre
-- **YOGOURT TUBES YOPLAIT** (Metro) · 3,49 $ · était à 0,97 $ récemment → Attendre
+- **YOGOURT TUBES YOPLAIT** (Metro) · 3,49 $ · était à 0,88 $ récemment → Attendre
 - **FROMAGE EN TRANCHES P'TIT QUÉBEC, CRACKER BARREL** (Metro) · 5,99 $ · était à 5,99 $ récemment → Attendre
-- **BÂTONS GLACÉS MR.FREEZE** (Metro) · 11,99 $ → Faux rabais
+- **BÂTONS GLACÉS MR.FREEZE** (Metro) · 11,99 $ · était à 11,99 $ récemment → Faux rabais
 - **BOISSON AU CAFÉ TREMA** (Metro) · 11,99 $ · était à 4,99 $ récemment → Attendre
 - **PAPIER HYGIÉNIQUE SELECTION** (Metro) · 7,99 $ · était à 5,99 $ récemment → Attendre
-- **SACS À ORDURES SELECTION** (Metro) · 4,99 $ · était à 5,99 $ récemment → Faux rabais
+- **DÉTERGENT POUR LA VAISSELLE SELECTION** (Metro) · 2,49 $ · était à 2,49 $ récemment → Faux rabais
+- **RELISH SELECTION** (Metro) · 1,79 $ · était à 1,79 $ récemment → Faux rabais
+- **SACS À ORDURES SELECTION** (Metro) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **FROMAGE EN BLOC SELECTION** (Metro) · 4,99 $ · était à 4,99 $ récemment → Attendre
 - **MICHELOB ULTRA** (Metro) · 34,99 $ · était à 14,00 $ récemment → Attendre
 - **MÉDAILLON DE PÉTONCLE** (Metro) · 1,79 $ · était à 1,79 $ récemment → Faux rabais
-- **SUSHIS** (Metro) · 16,99 $ · était à 19,99 $ récemment → Attendre
-- **OEUFS POULES EN LIBERTÉ, OMÉGA-3 MIEUX-ÊTRE NATURALIA** (Metro) · 4,99 $ · était à 2,99 $ récemment → Attendre
+- **SUSHIS** (Metro) · 16,99 $ · était à 16,99 $ récemment → Attendre
+- **SAMOSAS VÉGÉTARIENS** (Metro) · 7,99 $ · était à 7,99 $ récemment → Faux rabais
+- **OEUFS POULES EN LIBERTÉ, OMÉGA-3 MIEUX-ÊTRE NATURALIA** (Metro) · 4,99 $ · était à 2,97 $ récemment → Attendre
 - **FRIANDISES GLACÉES COMPLIMENTS** (BoniChoix) · 4,99 $ · était à 4,99 $ récemment → Attendre
 - **VIANDE DE PORC FUMÉE FUMOIRS GOSSELIN** (BoniChoix) · 15,99 $ · était à 11,99 $ récemment → Attendre
+- **PRODUIT DE FROMAGE FONDU BOIVIN LE PETIT CRÉMEUX** (BoniChoix) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
 - **POMMES DE TERRE OU GALETTES DE POMMES DE TERRE FRITES SURGELÉES LES FERMES CAVENDISH** (BoniChoix) · 3,79 $ · était à 1,77 $ récemment → Attendre
 - **PRUNES JAUNES** (BoniChoix) · 7,99 $ · était à 5,99 $ récemment → Attendre
+- **DÉTERGENT POUR LAVE-VAISSELLE FINISH POWERBALL** (BoniChoix) · 14,99 $ · était à 14,99 $ récemment → Pas assez bon
 - **FROMAGE COMPLIMENTS** (BoniChoix) · 4,88 $ · était à 4,77 $ récemment → Pas assez bon
-- **LAIT AU CHOCOLAT QUÉBON OU SEALTEST** (BoniChoix) · 5,99 $ · était à 0,97 $ récemment → Attendre
-- **CÉRÉALES QUAKER** (BoniChoix) · 3,99 $ · était à 4,49 $ récemment → Faux rabais
+- **BISCUITS DARE WHIPPET, PATTES D'OURS** (BoniChoix) · 2,47 $ · était à 2,47 $ récemment → Faux rabais
+- **CROUSTILLES COMPLIMENTS** (BoniChoix) · 1,97 $ · était à 1,47 $ récemment → Attendre
+- **LAIT AU CHOCOLAT QUÉBON OU SEALTEST** (BoniChoix) · 5,99 $ · était à 0,88 $ récemment → Attendre
+- **CÉRÉALES QUAKER** (BoniChoix) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
 - **SOUPE CAMPBELL'S** (BoniChoix) · 3,00 $ · était à 3,00 $ récemment → Pas assez bon
+- **PÉPITES DE CHOCOLAT COMPLIMENTS** (BoniChoix) · 14,99 $ · était à 14,99 $ récemment → Faux rabais
 - **YOGOURT LIBERTÉ GREC (650 ou 750 g), MÉDITERRANÉE (900 g)** (BoniChoix) · 6,97 $ · était à 2,79 $ récemment → Attendre
 - **PÉPITES, LANIÈRES, LANGUETTES, BURGERS OU FRITES DE POITRINE DE POULET OU POULET POPCORN PANÉS SURGELÉS FLAMINGO** (BoniChoix) · 8,99 $ · était à 2,49 $ récemment → Attendre
 - **CAROTTES NANTAISES OU NANTAISES DE COULEUR, HARICOTS VERTS, CORNICHONS POUR MARINER OU POMMES DE TERRE GRELOTS BLANCHES, JAUNES OU ROUGES** (BoniChoix) · 1,99 $ · était à 1,77 $ récemment → Attendre
-- **ENSEMBLE POUR PIZZA COMPLIMENTS** (BoniChoix) · 7,49 $ → Faux rabais
-- **SAUCISSES FUMÉES COMPLIMENTS** (BoniChoix) · 2,99 $ · était à 3,49 $ récemment → Pas assez bon
+- **SANDWICH CROISSANT C'EST PRÊT!** (BoniChoix) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
+- **ENSEMBLE POUR PIZZA COMPLIMENTS** (BoniChoix) · 7,49 $ · était à 7,49 $ récemment → Faux rabais
+- **SAUCISSES FUMÉES COMPLIMENTS** (BoniChoix) · 2,99 $ · était à 2,99 $ récemment → Pas assez bon
 - **BIÈRE BUDWEISER, COORS LIGHT OU SLEEMAN CLEAR 2.0** (BoniChoix) · 29,99 $ · était à 29,99 $ récemment → Pas assez bon
-- **SAUCE BBQ BENNY & CO.** (BoniChoix) · 5,49 $ → Faux rabais
+- **SAUCE BBQ BENNY & CO.** (BoniChoix) · 5,49 $ · était à 4,99 $ récemment → Attendre
+- **LIMONADE OU BOISSON AUX FRUITS RÉFRIGÉRÉES COMPLIMENTS** (BoniChoix) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
+- **BROCHETTES DE CREVETTES CRUES C'EST PRÊT! À CUIRE** (BoniChoix) · 4,98 $ · était à 4,98 $ récemment → Pas assez bon
+- **BOISSON SANS ALCOOL COMPLIMENTS** (BoniChoix) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **POUDING COMPLIMENTS** (BoniChoix) · 1,79 $ · était à 1,79 $ récemment → Faux rabais
 - **SALADE DE CHOU OU JARDINIÈRE COMPLIMENTS** (BoniChoix) · 2,99 $ · était à 2,99 $ récemment → Faux rabais
 - **PAIN TRANCHÉ POM (450 à 675 g) OU BON MATIN LA MIE DE L'ARTISAN (450 g)** (BoniChoix) · 3,50 $ · était à 0,99 $ récemment → Attendre
 - **TARTINADE NUTELLA** (BoniChoix) · 7,49 $ · était à 5,99 $ récemment → Attendre
-- **BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)** (BoniChoix) · 19,99 $ · était à 23,49 $ récemment → Pas assez bon
+- **BIÈRE CORONA EXTRA, HEINEKEN (12 x 330 mL) OU SAPPORO (12 x 355 mL)** (BoniChoix) · 19,99 $ · était à 19,99 $ récemment → Pas assez bon
 - **JUS D'ORANGE RÉFRIGÉRÉ COMPLIMENTS** (BoniChoix) · 4,49 $ · était à 2,00 $ récemment → Attendre
+- **BEIGNES GLACÉS COMPLIMENTS** (BoniChoix) · 2,79 $ · était à 2,79 $ récemment → Faux rabais
 - **TARTELETTES AUX FRUITS (3 po)** (BoniChoix) · 5,99 $ · était à 5,99 $ récemment → Faux rabais
 - **PAINS À HAMBURGER OU À HOT DOG COMPLIMENTS** (BoniChoix) · 2,49 $ · était à 0,99 $ récemment → Attendre
 - **CROUSTILLES PRINGLES** (BoniChoix) · 2,99 $ · était à 2,47 $ récemment → Attendre
@@ -7731,12 +6757,13 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 - **KETCHUP AUX TOMATES COMPLIMENTS** (BoniChoix) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
 - **BISCUITS DARE GOGLU, THÉ SOCIAL, PETIT BEURRE, VILLAGE** (BoniChoix) · 4,99 $ · était à 2,99 $ récemment → Attendre
 - **FROMAGE FÉTA COMPLIMENTS** (BoniChoix) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **PEPPERONI TRANCHÉ MIKES** (BoniChoix) · 6,99 $ → Faux rabais
+- **PEPPERONI TRANCHÉ MIKES** (BoniChoix) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **FROMAGE CAPRINY ALEXIS DE PORTNEUF** (BoniChoix) · 4,99 $ · était à 4,99 $ récemment → Faux rabais
 - **CÔTES LEVÉES DE DOS DE PORC FRAIS** (BoniChoix) · 8,49 $ · était à 7,99 $ récemment → Faux rabais
 - **MAÏS EN ÉPI DEUX COULEURS** (BoniChoix) · 3,96 $ · était à 0,99 $ récemment → Attendre
-- **BLEUETS** (BoniChoix) · 3,99 $ · était à 1,77 $ récemment → Attendre
+- **BLEUETS** (BoniChoix) · 3,99 $ · était à 1,75 $ récemment → Attendre
 - **POULET ENTIER FRAIS** (BoniChoix) · 4,49 $ · était à 2,79 $ récemment → Attendre
-- **LAITUE ICEBERG OU CÉLERI** (BoniChoix) · 1,99 $ · était à 0,97 $ récemment → Attendre
+- **LAITUE ICEBERG OU CÉLERI** (BoniChoix) · 1,99 $ · était à 0,88 $ récemment → Attendre
 - **CREVETTES BLANCHES CUITES D'ÉQUATEUR SURGELÉES COMPLIMENTS** (BoniChoix) · 11,99 $ · était à 11,99 $ récemment → Faux rabais
 - **AVOCATS HASS** (BoniChoix) · 4,99 $ · était à 4,99 $ récemment → Attendre
 - **SOUVLAKIS DE POITRINE DE POULET FRAIS MARCANGELO** (BoniChoix) · 15,99 $ · était à 2,49 $ récemment → Attendre
@@ -7744,29 +6771,39 @@ Prix habituel : ~12,59 $  ·  meilleur vu : 8,99 $
 - **ENDUIT À CUISSON ANTIADHÉSIF PAM** (BoniChoix) · 5,99 $ · était à 4,99 $ récemment → Attendre
 - **LÉGUMES SURGELÉS ARCTIC GARDENS** (BoniChoix) · 4,49 $ · était à 1,77 $ récemment → Attendre
 - **CÉRÉALES KELLOGG'S** (BoniChoix) · 4,49 $ · était à 3,49 $ récemment → Attendre
-- **YOGOURT YOPLAIT SOURCE (630 g) OU LIBERTÉ GREC (2 x 130 g), MÉDITERRANÉE (4 x 100 g)** (BoniChoix) · 3,79 $ · était à 0,97 $ récemment → Attendre
+- **YOGOURT YOPLAIT SOURCE (630 g) OU LIBERTÉ GREC (2 x 130 g), MÉDITERRANÉE (4 x 100 g)** (BoniChoix) · 3,79 $ · était à 0,88 $ récemment → Attendre
 - **ŒUFS BLANCS COMPLIMENTS** (BoniChoix) · 3,99 $ · était à 3,49 $ récemment → Attendre
-- **BOUILLON CAMPBELL'S** (BoniChoix) · 2,49 $ · était à 1,99 $ récemment → Attendre
+- **BOUILLON CAMPBELL'S** (BoniChoix) · 2,49 $ · était à 1,79 $ récemment → Attendre
+- **FRIANDISES HARIBO GOLDBEARS** (BoniChoix) · 9,49 $ · était à 9,49 $ récemment → Faux rabais
 - **REHAUSSEUR DE CAFÉ INTERNATIONAL DELIGHT MOUSSE FROIDE** (BoniChoix) · 5,99 $ · était à 4,99 $ récemment → Attendre
-- **CÉRÉALES KASHI** (BoniChoix) · 6,99 $ → Faux rabais
+- **PIZZA SURGELÉE DR.OETKER RISTORANTE, CASA DI MAMA** (BoniChoix) · 6,49 $ · était à 6,49 $ récemment → Attendre
+- **CÉRÉALES KASHI** (BoniChoix) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
 - **RIZ PRÉCUIT MINUTE RICE** (BoniChoix) · 9,99 $ · était à 6,99 $ récemment → Attendre
+- **GLAÇAGE BETTY CROCKER FOUETTÉ, CRÉMEUX DE LUXE** (BoniChoix) · 2,99 $ · était à 2,99 $ récemment → Attendre
 - **CAFÉ TIM HORTONS K-CUP (10 ou 12), Moulu (300 g)** (BoniChoix) · 13,99 $ · était à 4,99 $ récemment → Attendre
+- **NOURRITURE POUR CHATS WHISKAS** (BoniChoix) · 9,99 $ · était à 9,99 $ récemment → Pas assez bon
+- **PÂTISSERIES SURGELÉES PILLSBURY** (BoniChoix) · 3,49 $ · était à 3,49 $ récemment → Faux rabais
+- **FROMAGE BOCCONCINI COMPLIMENTS** (BoniChoix) · 6,49 $ · était à 6,49 $ récemment → Faux rabais
 - **BŒUF POUR FONDUE CHINOISE SURGELÉ COMPLIMENTS** (BoniChoix) · 8,99 $ · était à 8,99 $ récemment → Attendre
 - **EAU DE SOURCE NATURELLE COMPLIMENTS** (BoniChoix) · 3,99 $ · était à 1,49 $ récemment → Attendre
 - **LÉGUMES COMPLIMENTS** (BoniChoix) · 1,99 $ · était à 1,25 $ récemment → Attendre
+- **BÂTONNETS DE FROMAGE OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME SURGELÉS COMPLIMENTS** (BoniChoix) · 7,99 $ · était à 6,99 $ récemment → Attendre
 - **POMMES DE TERRE BLANCHES COMPLIMENTS** (BoniChoix) · 4,49 $ · était à 1,77 $ récemment → Attendre
-- **GÂTEAU CRUMBLE COMPLIMENTS** (BoniChoix) · 8,99 $ · était à 9,99 $ récemment → Pas assez bon
+- **GÂTEAU CRUMBLE COMPLIMENTS** (BoniChoix) · 8,99 $ · était à 8,99 $ récemment → Faux rabais
 - **EAU PÉTILLANTE COMPLIMENTS** (BoniChoix) · 7,49 $ · était à 0,99 $ récemment → Attendre
 - **RIZ COMPLIMENTS** (BoniChoix) · 4,29 $ · était à 3,49 $ récemment → Attendre
 - **MUFFINS COMPLIMENTS** (BoniChoix) · 5,99 $ · était à 5,99 $ récemment → Pas assez bon
-- **SAUCE POUR PÂTES COMPLIMENTS** (BoniChoix) · 7,49 $ · était à 1,25 $ récemment → Attendre
-- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (BoniChoix) · 3,79 $ → Faux rabais
+- **SAUCE POUR PÂTES COMPLIMENTS** (BoniChoix) · 7,49 $ · était à 0,50 $ récemment → Attendre
+- **SALADE DE GOBERGE À SAVEUR DE CRABE FRAÎCHE C'EST PRÊT!** (BoniChoix) · 5,49 $ · était à 5,49 $ récemment → Faux rabais
+- **CLUB SANDWICH C'EST PRÊT!** (BoniChoix) · 9,49 $ · était à 9,49 $ récemment → Faux rabais
+- **COCKTAIL À LA CANNEBERGE COMPLIMENTS** (BoniChoix) · 3,79 $ · était à 3,49 $ récemment → Faux rabais
 - **BURGERS DE SURLONGE DE BŒUF SURGELÉS COMPLIMENTS** (BoniChoix) · 18,99 $ · était à 18,99 $ récemment → Faux rabais
-- **RELISH TOUNDRA** (BoniChoix) · 3,99 $ · était à 4,29 $ récemment → Faux rabais
+- **FROMAGE STYLE HALLOUMI COMPLIMENTS** (BoniChoix) · 6,99 $ · était à 6,99 $ récemment → Faux rabais
+- **RELISH TOUNDRA** (BoniChoix) · 3,99 $ · était à 3,99 $ récemment → Faux rabais
 
 ---
 
-📊 Metro : 15/187  ·  Maxi : 11/136  ·  IGA : 17/207  ·  Super C : 20/141  ·  BoniChoix : 6/63  ·  Inter-Marché : 4/122  ·  Marchés Tradition : 6/75  ·  Familiprix : 2/184  ·  Costco : 0/54
+📊 Metro : 18/150  ·  Maxi : 9/118  ·  IGA : 21/179  ·  Super C : 24/116  ·  BoniChoix : 5/41  ·  Inter-Marché : 6/107  ·  Marchés Tradition : 7/53  ·  Familiprix : 2/168  ·  Costco : 0/43
 *(confirmés bons / total spéciaux)*
 
 *Rapport du 30 juillet 2026 — bons-speciaux v1.0*

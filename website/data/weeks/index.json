@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-30T16:00:00.000Z",
+  "generatedAt": "2026-07-30T13:41:39.834Z",
   "weeks": [
     {
       "slug": "semaine-du-30-juillet-au-5-aout-2026",
       "folderName": "Semaine du 30 juillet au 5 août 2026",
       "title": "Liste d'épicerie — 30 juillet au 5 août 2026",
       "weekRange": "30 juillet au 5 août 2026",
-      "generatedAt": "2026-07-30T16:00:00.000Z",
-      "itemCount": 89,
+      "generatedAt": "2026-07-30T13:41:39.834Z",
+      "itemCount": 92,
       "allItemCount": 1479,
       "path": "data/weeks/semaine-du-30-juillet-au-5-aout-2026/week.json"
     },
