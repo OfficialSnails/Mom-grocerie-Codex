@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-08-06T13:45:52.463Z",
+  "generatedAt": "2026-08-13T12:52:29.263Z",
   "weeks": [
+    {
+      "slug": "semaine-du-13-au-19-aout-2026",
+      "folderName": "Semaine du 13 au 19 août 2026",
+      "title": "Liste d'épicerie — 13 au 19 août 2026",
+      "weekRange": "13 au 19 août 2026",
+      "generatedAt": "2026-08-13T12:52:29.263Z",
+      "itemCount": 70,
+      "allItemCount": 1289,
+      "path": "data/weeks/semaine-du-13-au-19-aout-2026/week.json"
+    },
     {
       "slug": "semaine-du-6-au-12-aout-2026",
       "folderName": "Semaine du 6 au 12 août 2026",
@@ -10,16 +20,6 @@
       "itemCount": 73,
       "allItemCount": 1371,
       "path": "data/weeks/semaine-du-6-au-12-aout-2026/week.json"
-    },
-    {
-      "slug": "semaine-du-30-juillet-au-5-aout-2026",
-      "folderName": "Semaine du 30 juillet au 5 août 2026",
-      "title": "Liste d'épicerie — 30 juillet au 5 août 2026",
-      "weekRange": "30 juillet au 5 août 2026",
-      "generatedAt": "2026-07-30T13:41:39.834Z",
-      "itemCount": 92,
-      "allItemCount": 1479,
-      "path": "data/weeks/semaine-du-30-juillet-au-5-aout-2026/week.json"
     }
   ]
 }
