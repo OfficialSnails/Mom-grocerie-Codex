@@ -1,0 +1,650 @@
+[
+  {
+    "id": "2026-09-24::superc-joliette::bananes",
+    "item_name": "Bananes",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,79 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::concombre sans pepins",
+    "item_name": "Concombre sans pépins",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::couronne de brocoli",
+    "item_name": "Couronne de brocoli",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::tomates des champs",
+    "item_name": "TOMATES DES CHAMPS",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "0,97 $/lb",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::poivrons",
+    "item_name": "POIVRONS",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "3,00 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::raisins",
+    "item_name": "Raisins rouges sans pépins",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "1,48 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::tomates italiennes",
+    "item_name": "Tomates italiennes",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "1,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::intermarche-joliette::tomates roma",
+    "item_name": "TOMATES ROMA",
+    "store_id": "intermarche-joliette",
+    "store_name": "L'Inter-Marché",
+    "price": "1,29 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::legumes compliments",
+    "item_name": "LEGUMES COMPLIMENTS",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "0,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::pommes de terre",
+    "item_name": "Patates douces",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "1,79 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::tranches de fromage compliments",
+    "item_name": "TRANCHES DE FROMAGE COMPLIMENTS",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "3,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::boisson gazeuse compliments",
+    "item_name": "BOISSON GAZEUSE COMPLIMENTS",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "1,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::bonichoix-joliette::huile d'olive extra vierge compliments",
+    "item_name": "HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "8,49 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::chou vert",
+    "item_name": "CHOU VERT",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "0,79 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::intermarche-joliette::courgette verte",
+    "item_name": "COURGETTE VERTE",
+    "store_id": "intermarche-joliette",
+    "store_name": "L'Inter-Marché",
+    "price": "1,49 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::avocat hass ou fruit de la passion",
+    "item_name": "Avocat Hass ou fruit de la passion",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::gateau aux carottes top dessert",
+    "item_name": "GÂTEAU AUX CAROTTES TOP DESSERT",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "9,49 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::champignons entiers blancs pc ou avocats",
+    "item_name": "CHAMPIGNONS ENTIERS BLANCS PC OU AVOCATS",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "0,68 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::compliments oranges",
+    "item_name": "COMPLIMENTS ORANGES",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "2,77 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::ensemble de salade hachee taylor farms",
+    "item_name": "ENSEMBLE DE SALADE HACHÉE TAYLOR FARMS",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "3,97 $",
+    "category": "Fruits et légumes"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::bologne",
+    "item_name": "BOLOGNE SELECTION",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "1,29 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::pepperoni tranche selection",
+    "item_name": "Pepperoni tranché Selection",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "4,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::intermarche-joliette::cotes de porc",
+    "item_name": "COMBINAISON DE LONGE DE PORC, CÔTELETTES FAUX-FILET ET DE BOUT DE CÔTE",
+    "store_id": "intermarche-joliette",
+    "store_name": "L'Inter-Marché",
+    "price": "2,49 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::couronne de crevettes blanches du pacifique irresistible",
+    "item_name": "COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "5,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::charcuteries tranchees royal",
+    "item_name": "CHARCUTERIES TRANCHÉES ROYAL",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "3,50 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::filets de porc frais",
+    "item_name": "Filets de porc frais",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "3,88 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::crevettes blanches du pacifique irresistible",
+    "item_name": "Crevettes blanches du Pacifique Irrésistible",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "7,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::pepperoni caserta roma",
+    "item_name": "PEPPERONI CASERTA ROMA",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,49 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::intermarche-joliette::saucisses",
+    "item_name": "SAUCISSES",
+    "store_id": "intermarche-joliette",
+    "store_name": "L'Inter-Marché",
+    "price": "3,50 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::cubes de boeuf a ragout desosses",
+    "item_name": "CUBES DE BOEUF À RAGOÛT DÉSOSSÉS",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "6,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::cotelettes de longe d'agneau assainees recommandees par notre boucher",
+    "item_name": "CÔTELETTES DE LONGE D'AGNEAU ASSAÎNÉES RECOMMANDÉES PAR NOTRE BOUCHER",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "16,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::noix de cajou roties irresistible ou mieux-etre",
+    "item_name": "NOIX DE CAJOU RÔTIES IRRÉSISTIBLE OU MIEUX-ÊTRE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "15,99 $",
+    "category": "Viandes et poissons"
+  },
+  {
+    "id": "2026-09-24::bonichoix-joliette::lait",
+    "item_name": "YOGOURT À BOIRE YOPLAIT YOP",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "0,97 $",
+    "category": "Produits laitiers et oeufs"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::yogourt",
+    "item_name": "YOGOURT LIBERTÉ GREC",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,49 $",
+    "category": "Produits laitiers et oeufs"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::fromage parmigiano reggiano irresistible",
+    "item_name": "FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "4,49 $",
+    "category": "Produits laitiers et oeufs"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::fromage rape selection",
+    "item_name": "FROMAGE RÂPÉ SELECTION",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "4,97 $",
+    "category": "Produits laitiers et oeufs"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::fromage boursin fromageries bel",
+    "item_name": "FROMAGE BOURSIN FROMAGERIES BEL",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "5,99 $",
+    "category": "Produits laitiers et oeufs"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::huitres malpeque standard",
+    "item_name": "HUÎTRES MALPÈQUE STANDARD",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "6,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::melange a sauce knorr",
+    "item_name": "Mélange à sauce Knorr",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::vinaigrette mag",
+    "item_name": "VINAIGRETTE MAG",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "0,69 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::sauce tomate",
+    "item_name": "Sauce tomate Selection",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "1,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::nouilles instantanees mr. noodles",
+    "item_name": "NOUILLES INSTANTANÉES MR. NOODLES",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::melange a soupe lipton",
+    "item_name": "Mélange à soupe Lipton",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "2,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::haricots verts ou jaunes",
+    "item_name": "HARICOTS VERTS OU JAUNES",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "1,44 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::rabioles blanches",
+    "item_name": "RABIOLES BLANCHES",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::beurre",
+    "item_name": "Courge potirons (buttercup)",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::feves au lard clark",
+    "item_name": "Fèves au lard Clark",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,95 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::poudre pour gelee jell-o",
+    "item_name": "POUDRE POUR GELÉE JELL-O",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::confiture bonne maman",
+    "item_name": "Confiture Bonne Maman",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "5,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::gnocchi a poeler olivieri",
+    "item_name": "GNOCCHI À POÊLER OLIVIERI",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "4,00 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::huile d'olive bertolli",
+    "item_name": "HUILE D'OLIVE BERTOLLI",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "8,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::gruau instantane quaker",
+    "item_name": "GRUAU INSTANTANÉ QUAKER",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "3,00 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::huile canola selection",
+    "item_name": "HUILE CANOLA SELECTION",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "3,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::pate a sandwich paris pate",
+    "item_name": "PÂTÉ À SANDWICH PARIS PÂTÉ",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::familiprix-joliette::tena ou tena men, produits selectionnes",
+    "item_name": "TENA ou TENA MEN, Produits sélectionnés",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "11,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::nouilles instantanees lucky koi",
+    "item_name": "Nouilles instantanées Lucky Koi",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "0,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::figues noires fraiches",
+    "item_name": "FIGUES NOIRES FRAÎCHES",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "12,99 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::essuie-tout compliments",
+    "item_name": "ESSUIE-TOUT COMPLIMENTS",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "7,99 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::bonichoix-joliette::sacs a ordures compliments",
+    "item_name": "SACS À ORDURES COMPLIMENTS",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "4,99 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::linges humides swiffer ou nettoyant swiffer",
+    "item_name": "LINGES HUMIDES SWIFFER OU NETTOYANT SWIFFER",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "7,49 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::familiprix-joliette::listerine rince-bouches selectionnes",
+    "item_name": "LISTERINE Rince-bouches sélectionnés",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "7,99 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::maxi-joliette::papier hygienique royale, = rouleaux",
+    "item_name": "PAPIER HYGIÉNIQUE ROYALE, 15=30 rouleaux",
+    "store_id": "maxi-joliette",
+    "store_name": "Maxi",
+    "price": "5,99 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::costco-quebec::protege-dessous sans tassement protection supplementaire de always",
+    "item_name": "Protège-dessous sans tassement Protection supplémentaire de Always",
+    "store_id": "costco-quebec",
+    "store_name": "Costco",
+    "price": "12,99 $",
+    "category": "Maison et entretien"
+  },
+  {
+    "id": "2026-09-24::familiprix-joliette::benadryl produits selectionnes",
+    "item_name": "BENADRYL Produits sélectionnés",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "6,99 $",
+    "category": "Santé et pharmacie"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::cereales ou substitut de repas kellogg's",
+    "item_name": "CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "3,49 $",
+    "category": "Santé et pharmacie"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::bagels style montreal",
+    "item_name": "Bagels style Montréal",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "3,49 $",
+    "category": "Boulangerie"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::beurre",
+    "item_name": "JEUNE DINDON BUTTERBALL",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "2,49 $",
+    "category": "Surgelés"
+  },
+  {
+    "id": "2026-09-24::bonichoix-joliette::pizza surgelee dr oetker",
+    "item_name": "PIZZA SURGELÉE DR OETKER",
+    "store_id": "bonichoix-joliette",
+    "store_name": "BoniChoix",
+    "price": "4,99 $",
+    "category": "Surgelés"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::pizza surgelee dr. oetker",
+    "item_name": "PIZZA SURGELÉE DR. OETKER",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "4,99 $",
+    "category": "Surgelés"
+  },
+  {
+    "id": "2026-09-24::costco-quebec::portions de poke au thon surgele dom reserve",
+    "item_name": "Portions de poké au thon surgelé DOM Reserve",
+    "store_id": "costco-quebec",
+    "store_name": "Costco",
+    "price": "14,99 $",
+    "category": "Surgelés"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::biscuits",
+    "item_name": "BISCUITS",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "2,47 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::jus oasis",
+    "item_name": "Jus Oasis",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "1,25 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::pepites de chocolat selection",
+    "item_name": "PÉPITES DE CHOCOLAT SELECTION",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "4,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::superc-joliette::petits gateaux vachon",
+    "item_name": "Petits gâteaux Vachon",
+    "store_id": "superc-joliette",
+    "store_name": "Super C",
+    "price": "3,50 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::intermarche-joliette::friandises",
+    "item_name": "FRIANDISES",
+    "store_id": "intermarche-joliette",
+    "store_name": "L'Inter-Marché",
+    "price": "3,00 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::metro-joliette::eau de source naturelle selection",
+    "item_name": "EAU DE SOURCE NATURELLE SELECTION",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "0,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::tradition-joliette::boisson aux fruits ou the glace",
+    "item_name": "BOISSON AUX FRUITS OU THÉ GLACÉ",
+    "store_id": "tradition-joliette",
+    "store_name": "Marchés Tradition",
+    "price": "2,49 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::biscuits oreo",
+    "item_name": "BISCUITS OREO",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,49 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::familiprix-joliette::hersheys, friandise, unites",
+    "item_name": "HERSHEYS, Friandise, 50 unités",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "11,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::iga-joliette::jus de fruits tradition",
+    "item_name": "JUS DE FRUITS TRADITION",
+    "store_id": "iga-joliette",
+    "store_name": "IGA",
+    "price": "2,99 $",
+    "category": "Collations et boissons"
+  },
+  {
+    "id": "2026-09-24::familiprix-joliette::nestle mini tablettes de chocolats assorties et friandises – format collation 100un",
+    "item_name": "Nestlé mini tablettes de chocolats assorties et friandises – Format Collation 100un",
+    "store_id": "familiprix-joliette",
+    "store_name": "Familiprix",
+    "price": "19,99 $",
+    "category": "Collations et boissons"
+  }
+]

@@ -1,0 +1,961 @@
+# 🛒 Spéciaux de la semaine — 24 au 30 septembre 2026
+24 septembre 2026 · Joliette et région
+Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à la circulaire ou à l'entrée manuelle.
+
+## Metro
+📍 180 rue Beaudry N, Joliette
+
+**1.** ✅ **VINAIGRETTE MAG** — 0,69 $ · économie ~1,78 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: VINAIGRETTE MAG | MAG DRESSING · [circulaire: Quebec](https://f.wishabi.net/page_items/434274433/1789999392/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274433/1789999392/extra_large.jpg" alt="Preuve prix VINAIGRETTE MAG" width="220" />
+
+**2.** ✅ **PÉPITES DE CHOCOLAT SELECTION** — 4,99 $ · économie ~6,17 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: PÉPITES DE CHOCOLAT SELECTION | SELECTION CHOCOLATE CHIPS · [circulaire: Quebec](https://f.wishabi.net/page_items/434274757/1789999430/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274757/1789999430/extra_large.jpg" alt="Preuve prix PÉPITES DE CHOCOLAT SELECTION" width="220" />
+
+**3.** ✅ **HUÎTRES MALPÈQUE STANDARD** — 6,99 $ · économie ~7,00 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HUÎTRES MALPÈQUE STANDARD | STANDARD MALPEQUE OYSTERS · [circulaire: Quebec](https://f.wishabi.net/page_items/434274382/1789717514/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274382/1789717514/extra_large.jpg" alt="Preuve prix HUÎTRES MALPÈQUE STANDARD" width="220" />
+
+**4.** ✅ **BOLOGNE SELECTION** — 1,29 $ · économie ~2,53 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Quebec](https://f.wishabi.net/page_items/434274636/1789717514/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274636/1789717514/extra_large.jpg" alt="Preuve prix BOLOGNE SELECTION" width="220" />
+
+**5.** ✅ **DEMI-LONGE DE PORC FRAIS DÉSOSSÉE** — 1,69 $ · économie ~4,77 $
+> *Très bon prix, proche du meilleur prix des 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: DEMI-LONGE DE PORC FRAIS DÉSOSSÉE | FRESH BONELESS HALF PORK LOIN ROAST · [circulaire: Quebec](https://f.wishabi.net/page_items/434274354/1789717508/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274354/1789717508/extra_large.jpg" alt="Preuve prix DEMI-LONGE DE PORC FRAIS DÉSOSSÉE" width="220" />
+
+**6.** ✅ **JEUNE DINDON BUTTERBALL** — 2,49 $ · économie ~6,47 $
+> *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: JEUNE DINDON BUTTERBALL | BUTTERBALL YOUNG FROZEN TURKEY · [circulaire: Quebec](https://f.wishabi.net/page_items/434274348/1789717504/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274348/1789717504/extra_large.jpg" alt="Preuve prix JEUNE DINDON BUTTERBALL" width="220" />
+
+**7.** 🟢 **FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE** — 4,49 $ · économie ~3,67 $
+> *Environ 45 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE | IRRÉSISTIBLE PARMIGIANO REGGIANO CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/434274637/1789717514/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274637/1789717514/extra_large.jpg" alt="Preuve prix FROMAGE PARMIGIANO REGGIANO IRRÉSISTIBLE" width="220" />
+
+**8.** 🟢 **COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE** — 5,99 $ · économie ~5,14 $
+> *Environ 46 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-26 · texte brut: COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE | IRRÉSISTIBLE PACIFIC WHITE SHRIMP RING · [circulaire: Quebec](https://f.wishabi.net/page_items/434274352/1789717507/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274352/1789717507/extra_large.jpg" alt="Preuve prix COURONNE DE CREVETTES BLANCHES DU PACIFIQUE IRRÉSISTIBLE" width="220" />
+
+**9.** 🔵 **HARICOTS VERTS OU JAUNES** — 1,44 $ · économie ~2,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HARICOTS VERTS OU JAUNES | GREEN OR WAX BEANS · [circulaire: Quebec](https://f.wishabi.net/page_items/434274357/1789717510/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274357/1789717510/extra_large.jpg" alt="Preuve prix HARICOTS VERTS OU JAUNES" width="220" />
+
+**10.** 🔵 **FROMAGE RÂPÉ SELECTION** — 4,97 $ · économie ~3,58 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FROMAGE RÂPÉ SELECTION | SELECTION SHREDDED CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/434274349/1789717505/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274349/1789717505/extra_large.jpg" alt="Preuve prix FROMAGE RÂPÉ SELECTION" width="220" />
+
+**11.** 🔵 **POUDRE POUR GELÉE JELL-O** — 0,99 $ · économie ~1,52 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: POUDRE POUR GELÉE JELL-O | JELL-O JELLY POWDER · [circulaire: Quebec](https://f.wishabi.net/page_items/434274366/1789717515/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274366/1789717515/extra_large.jpg" alt="Preuve prix POUDRE POUR GELÉE JELL-O" width="220" />
+
+**12.** 🔵 **EAU DE SOURCE NATURELLE SELECTION** — 0,99 $ · économie ~1,95 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: EAU DE SOURCE NATURELLE SELECTION | SELECTION NATURAL SPRING WATER · [circulaire: Quebec](https://f.wishabi.net/page_items/434274362/1789717513/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274362/1789717513/extra_large.jpg" alt="Preuve prix EAU DE SOURCE NATURELLE SELECTION" width="220" />
+
+**13.** 🔵 **CONFITURE BONNE MAMAN** — 5,99 $ · économie ~2,29 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: CONFITURE BONNE MAMAN | BONNE MAMAN JAM GELÉE, · [circulaire: Quebec](https://f.wishabi.net/page_items/434274390/1789999315/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274390/1789999315/extra_large.jpg" alt="Preuve prix CONFITURE BONNE MAMAN" width="220" />
+
+**14.** 🔵 **HUILE D'OLIVE BERTOLLI** — 8,99 $ · économie ~4,18 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HUILE D'OLIVE BERTOLLI | BERTOLLI OLIVE OIL · [circulaire: Quebec](https://f.wishabi.net/page_items/434274689/1789717515/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274689/1789717515/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE BERTOLLI" width="220" />
+
+**15.** 🔵 **PÂTÉ À SANDWICH PARIS PÂTÉ** — 0,99 $ · économie ~1,00 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: PÂTÉ À SANDWICH PARIS PÂTÉ | PARIS PÂTÉ SANDWICH SPREAD · [circulaire: Quebec](https://f.wishabi.net/page_items/434292794/1789717516/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434292794/1789717516/extra_large.jpg" alt="Preuve prix PÂTÉ À SANDWICH PARIS PÂTÉ" width="220" />
+
+**16.** 🔵 **HUILE CANOLA SELECTION** — 3,99 $ · économie ~7,75 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HUILE CANOLA SELECTION | SELECTION CANOLA OIL · [circulaire: Quebec](https://f.wishabi.net/page_items/434274756/1789999430/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274756/1789999430/extra_large.jpg" alt="Preuve prix HUILE CANOLA SELECTION" width="220" />
+
+**17.** 🔵 **FROMAGE ALEXIS DE PORTNEUF** — 4,99 $ · économie ~1,00 $
+> 🏆 Meilleur prix vs Super C · 2,00 $ moins cher
+> *Réduction trop faible pour être considérée comme un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FROMAGE ALEXIS DE PORTNEUF | ALEXIS DE PORTNEUF CHEESE · [circulaire: Quebec](https://f.wishabi.net/page_items/434274629/1789717509/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274629/1789717509/extra_large.jpg" alt="Preuve prix FROMAGE ALEXIS DE PORTNEUF" width="220" />
+
+**18.** 🔵 **POIRES ASIATIQUES** — 7,99 $ · économie ~2,26 $
+> 🏆 Meilleur prix vs IGA · 3,01 $ moins cher
+> *Réduction trop faible pour être considérée comme un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Quebec](https://f.wishabi.net/page_items/434274425/1789999392/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274425/1789999392/extra_large.jpg" alt="Preuve prix POIRES ASIATIQUES" width="220" />
+
+**19.** 🔵 **YOGOURT ACTIVIA DANONE** — 3,33 $ · économie ~5,53 $
+> 🏆 Meilleur prix vs Super C · 2,66 $ moins cher
+> *Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: YOGOURT ACTIVIA DANONE | DANONE ACTIVIA YOGURT · [circulaire: Quebec](https://f.wishabi.net/page_items/434274351/1789717506/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274351/1789717506/extra_large.jpg" alt="Preuve prix YOGOURT ACTIVIA DANONE" width="220" />
+
+**20.** 🔵 **PORTIONS DE POISSON PANÉES BLUE WATER** — 8,99 $
+> 🏆 Meilleur prix vs Super C · 2,00 $ moins cher
+> *Ce produit était moins cher récemment (5,99 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: PORTIONS DE POISSON PANÉES BLUE WATER | BLUE WATER BREADED FISH PORTIONS · [circulaire: Quebec](https://f.wishabi.net/page_items/434274589/1789717505/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434274589/1789717505/extra_large.jpg" alt="Preuve prix PORTIONS DE POISSON PANÉES BLUE WATER" width="220" />
+
+## Maxi
+📍 909 boul. Firestone, Joliette
+
+**1.** 🟢 **TOMATES DES CHAMPS** — 0,97 $/lb · économie ~2,89 $/kg
+> *Environ 58 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434575490/1790023042/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434575490/1790023042/extra_large.jpg" alt="Preuve prix TOMATES DES CHAMPS" width="220" />
+
+**2.** 🟢 **CHARCUTERIES TRANCHÉES ROYAL** — 3,50 $ · économie ~2,17 $
+> *Environ 38 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: CHARCUTERIES TRANCHÉES ROYAL | SLICED DELI MEAT, 175-375 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328453/1789779105/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328453/1789779105/extra_large.jpg" alt="Preuve prix CHARCUTERIES TRANCHÉES ROYAL" width="220" />
+
+**3.** 🔵 **GNOCCHI À POÊLER OLIVIERI** — 4,00 $ · économie ~2,71 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: GNOCCHI À POÊLER OLIVIERI | SKILLET GNOCCHI, 280/300 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328446/1789779100/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328446/1789779100/extra_large.jpg" alt="Preuve prix GNOCCHI À POÊLER OLIVIERI" width="220" />
+
+**4.** 🔵 **GRUAU INSTANTANÉ QUAKER** — 3,00 $ · économie ~1,08 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: GRUAU INSTANTANÉ QUAKER | INSTANT OATMEAL, 232-344 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328597/1789779101/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328597/1789779101/extra_large.jpg" alt="Preuve prix GRUAU INSTANTANÉ QUAKER" width="220" />
+
+**5.** ❓ **BOUILLON CAMPBELL'S, 250/900 ML** — 1,25 $ · 30% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328757/1789779566/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328757/1789779566/extra_large.jpg" alt="Preuve prix BOUILLON CAMPBELL'S, 250/900 ML" width="220" />
+
+**6.** ❓ **CHAMPIGNONS ENTIERS BLANCS PC OU AVOCATS** — 0,68 $ · 60% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328613/1789779563/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328613/1789779563/extra_large.jpg" alt="Preuve prix CHAMPIGNONS ENTIERS BLANCS PC OU AVOCATS" width="220" />
+
+**7.** ❓ **TOMATES SANS NOM®** — 0,75 $ · 50% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: TOMATES SANS NOM® | TOMATOES, 796 mL · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328762/1789779570/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328762/1789779570/extra_large.jpg" alt="Preuve prix TOMATES SANS NOM®" width="220" />
+
+**8.** ❓ **LÉGUMES GÉANT VERT OU POIS LE SIEUR, 341/398 mL** — 0,77 $ · 57% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328614/1789779564/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328614/1789779564/extra_large.jpg" alt="Preuve prix LÉGUMES GÉANT VERT OU POIS LE SIEUR, 341/398 mL" width="220" />
+
+**9.** ❓ **PAPIER HYGIÉNIQUE ROYALE, 15=30 rouleaux** — 5,99 $ · 52% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328751/1789779561/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328751/1789779561/extra_large.jpg" alt="Preuve prix PAPIER HYGIÉNIQUE ROYALE, 15=30 rouleaux" width="220" />
+
+**10.** ❓ **CRAQUELINS CRISPERS OU MÉLI-MÉLO** — 1,44 $ · 48% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: CRAQUELINS CRISPERS OU MÉLI-MÉLO | CRACKERS, 145 g · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328760/1789779568/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328760/1789779568/extra_large.jpg" alt="Preuve prix CRAQUELINS CRISPERS OU MÉLI-MÉLO" width="220" />
+
+**11.** ❓ **SUR LES SOINS POUR BÉBÉS AVEENO** — 7,19 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: SUR LES SOINS POUR BÉBÉS AVEENO | BABY CARE, 105-311 G, 166-975 ML OU 25 UN. · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328832/1789779103/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328832/1789779103/extra_large.jpg" alt="Preuve prix SUR LES SOINS POUR BÉBÉS AVEENO" width="220" />
+
+**12.** ❓ **EAU DE JAVEL 2,4 L OU PASTILLES 40 UN. LA PARISIENNE** — 2,00 $ · 56% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328755/1789779564/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328755/1789779564/extra_large.jpg" alt="Preuve prix EAU DE JAVEL 2,4 L OU PASTILLES 40 UN. LA PARISIENNE" width="220" />
+
+**13.** ❓ **FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND** — 6,50 $ · 13% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND | CHEESE STRINGS OR SNACKS, 252/336 g · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328982/1789779097/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328982/1789779097/extra_large.jpg" alt="Preuve prix FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND" width="220" />
+
+**14.** ❓ **VINAIGRETTE OU TREMPETTES MARZETTI, 340 G** — 4,00 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328480/1789779095/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328480/1789779095/extra_large.jpg" alt="Preuve prix VINAIGRETTE OU TREMPETTES MARZETTI, 340 G" width="220" />
+
+**15.** ❓ **PRÉPARATION POUR NOURRISSONS SIMILAC** — 34,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: PRÉPARATION POUR NOURRISSONS SIMILAC | INFANT FORMULA, 850 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328830/1789779101/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328830/1789779101/extra_large.jpg" alt="Preuve prix PRÉPARATION POUR NOURRISSONS SIMILAC" width="220" />
+
+**16.** ❓ **DENTIFRICE GUM 63-90 ML OU RINCE-BOUCHE SCOPE 1 L** — 5,00 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: DENTIFRICE GUM 63-90 ML OU RINCE-BOUCHE SCOPE 1 L | TOOTHPASTE OR MOUTHWASH · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328702/1789779096/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328702/1789779096/extra_large.jpg" alt="Preuve prix DENTIFRICE GUM 63-90 ML OU RINCE-BOUCHE SCOPE 1 L" width="220" />
+
+**17.** ❓ **NOIX OU FRUITS ENROBÉS DE CHOCOLAT PC, 250-400 G** — 7,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328731/1789779111/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328731/1789779111/extra_large.jpg" alt="Preuve prix NOIX OU FRUITS ENROBÉS DE CHOCOLAT PC, 250-400 G" width="220" />
+
+**18.** ❓ **POPPERS À GÂTEAU, 280 G OU GÂTEAU DE 6 POUCES, 400/475 G CHARLOTTE'S** — 6,00 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434328457/1789779108/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434328457/1789779108/extra_large.jpg" alt="Preuve prix POPPERS À GÂTEAU, 280 G OU GÂTEAU DE 6 POUCES, 400/475 G CHARLOTTE'S" width="220" />
+
+## IGA
+📍 17 rue Gauthier N, Notre-Dame-des-Prairies
+
+**1.** ✅ **YOGOURT LIBERTÉ GREC** — 2,49 $ · économie ~6,37 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434222925/1789700555/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434222925/1789700555/extra_large.jpg" alt="Preuve prix YOGOURT LIBERTÉ GREC" width="220" />
+
+**2.** ✅ **ESSUIE-TOUT COMPLIMENTS** — 7,99 $ · économie ~9,00 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223155/1789700550/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223155/1789700550/extra_large.jpg" alt="Preuve prix ESSUIE-TOUT COMPLIMENTS" width="220" />
+
+**3.** 🟢 **NOUILLES INSTANTANÉES MR. NOODLES** — 0,99 $ · économie ~1,30 $
+> *Environ 57 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223123/1789700562/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223123/1789700562/extra_large.jpg" alt="Preuve prix NOUILLES INSTANTANÉES MR. NOODLES" width="220" />
+
+**4.** 🟢 **LEGUMES COMPLIMENTS** — 0,99 $ · économie ~0,91 $
+> *Environ 48 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434230837/1789700558/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434230837/1789700558/extra_large.jpg" alt="Preuve prix LEGUMES COMPLIMENTS" width="220" />
+
+**5.** 🔵 **RABIOLES BLANCHES** — 2,99 $ · économie ~1,34 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434261958/1789700562/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434261958/1789700562/extra_large.jpg" alt="Preuve prix RABIOLES BLANCHES" width="220" />
+
+**6.** 🔵 **CHOU VERT** — 0,79 $ · économie ~0,53 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434261959/1789700563/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434261959/1789700563/extra_large.jpg" alt="Preuve prix CHOU VERT" width="220" />
+
+**7.** 🔵 **BOISSON GAZEUSE COMPLIMENTS** — 1,99 $ · économie ~2,00 $
+> 🏆 Meilleur prix vs BoniChoix · 5,50 $ moins cher
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223166/1789700560/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223166/1789700560/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE COMPLIMENTS" width="220" />
+
+**8.** 🔵 **PEPPERONI CASERTA ROMA** — 2,49 $ · économie ~2,40 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434254150/1789700553/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434254150/1789700553/extra_large.jpg" alt="Preuve prix PEPPERONI CASERTA ROMA" width="220" />
+
+**9.** 🔵 **COMBO DE SAUCISSES FRAÎCHES LA FERNANDIÈRE** — 6,99 $ · économie ~2,00 $
+> 🏆 Meilleur prix vs BoniChoix · 3,00 $ moins cher
+> *Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434264138/1789700567/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434264138/1789700567/extra_large.jpg" alt="Preuve prix COMBO DE SAUCISSES FRAÎCHES LA FERNANDIÈRE" width="220" />
+
+**10.** 🔵 **YOGOURT YOPLAIT** — 2,99 $ · économie ~6,23 $
+> 🏆 Meilleur prix vs Marchés Tradition · 0,50 $ moins cher
+> *Ce produit était moins cher récemment (0,97 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434230840/1789700560/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434230840/1789700560/extra_large.jpg" alt="Preuve prix YOGOURT YOPLAIT" width="220" />
+
+**11.** 🔵 **YOGOURT PROBIOTIQUE ACTIVIA** — 3,99 $ · économie ~4,87 $
+> 🏆 Meilleur prix vs Metro · 3,30 $ moins cher
+> *Ce produit était moins cher récemment (2,99 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434261904/1789700580/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434261904/1789700580/extra_large.jpg" alt="Preuve prix YOGOURT PROBIOTIQUE ACTIVIA" width="220" />
+
+**12.** 🔵 **FROMAGE RÂPÉ COMPLIMENTS** — 5,49 $ · économie ~0,70 $
+> 🏆 Meilleur prix vs BoniChoix · 0,50 $ moins cher
+> *Ce produit était moins cher récemment (4,88 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434264148/1789700574/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434264148/1789700574/extra_large.jpg" alt="Preuve prix FROMAGE RÂPÉ COMPLIMENTS" width="220" />
+
+**13.** 🔵 **TRIO DE CHARCUTERIE COMPLIMENTS** — 11,00 $ · 15% de rabais
+> 🏆 Meilleur prix vs BoniChoix, Marchés Tradition · 1,49 $ moins cher
+> *Prix très proche du prix habituel (environ 10,99 $). Pas vraiment un spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223157/1789700552/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223157/1789700552/extra_large.jpg" alt="Preuve prix TRIO DE CHARCUTERIE COMPLIMENTS" width="220" />
+
+**14.** ❓ **CREVETTES BLANCHES CRUES DE L'ÉQUATEUR SURGELÉES COMPLIMENTS** — 8,99 $ · 10% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223043/1789700550/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223043/1789700550/extra_large.jpg" alt="Preuve prix CREVETTES BLANCHES CRUES DE L'ÉQUATEUR SURGELÉES COMPLIMENTS" width="220" />
+
+**15.** ❓ **PÂTÉ DE CAMPAGNE OU PÂTÉ DE FOIE PLAISIRS GASTRONOMIQUES** — 4,49 $ · 10% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223061/1789700552/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223061/1789700552/extra_large.jpg" alt="Preuve prix PÂTÉ DE CAMPAGNE OU PÂTÉ DE FOIE PLAISIRS GASTRONOMIQUES" width="220" />
+
+**16.** ❓ **ENSEMBLE DE SALADE HACHÉE TAYLOR FARMS** — 3,97 $ · 43% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434222936/1789700552/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434222936/1789700552/extra_large.jpg" alt="Preuve prix ENSEMBLE DE SALADE HACHÉE TAYLOR FARMS" width="220" />
+
+**17.** ❓ **STRONG BONES NEW ROOTS** — 52,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223180/1789700552/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223180/1789700552/extra_large.jpg" alt="Preuve prix STRONG BONES NEW ROOTS" width="220" />
+
+**18.** ❓ **CUBE VAPEUR POUR LA DOUCHE SILKNSOAK** — 9,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223187/1789700558/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223187/1789700558/extra_large.jpg" alt="Preuve prix CUBE VAPEUR POUR LA DOUCHE SILKNSOAK" width="220" />
+
+**19.** ❓ **JUS DE FRUITS TRADITION** — 2,99 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434223001/1789700554/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434223001/1789700554/extra_large.jpg" alt="Preuve prix JUS DE FRUITS TRADITION" width="220" />
+
+**20.** ❓ **BISCUITS OREO** — 2,49 $ · 45% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire Hebdomadaire](https://f.wishabi.net/page_items/434222945/1789700558/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434222945/1789700558/extra_large.jpg" alt="Preuve prix BISCUITS OREO" width="220" />
+
+## Super C
+📍 1445 boul. Firestone, Joliette
+
+**1.** ✅ **Pepperoni tranché Selection** — 4,99 $ · économie ~5,00 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: pepperoni tranché Selection | Selection sliced pepperoni · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269576/1789997420/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269576/1789997420/extra_large.jpg" alt="Preuve prix Pepperoni tranché Selection" width="220" />
+
+**2.** ✅ **Mélange à sauce Knorr** — 0,99 $ · économie ~2,17 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: mélange à sauce Knorr | Knorr sauce mix · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269697/1789720306/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269697/1789720306/extra_large.jpg" alt="Preuve prix Mélange à sauce Knorr" width="220" />
+
+**3.** ✅ **Jus Oasis** — 1,25 $ · économie ~1,67 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: jus Oasis | Oasis juice · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269569/1789720317/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269569/1789720317/extra_large.jpg" alt="Preuve prix Jus Oasis" width="220" />
+
+**4.** ✅ **Bananes** — 0,79 $ · économie ~4,81 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: bananes | bananes importées · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269593/1789997512/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269593/1789997512/extra_large.jpg" alt="Preuve prix Bananes" width="220" />
+
+**5.** ✅ **Concombre sans pépins** — 0,99 $ · économie ~1,48 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: concombre sans pépins | seedless cucumber · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269561/1789720311/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269561/1789720311/extra_large.jpg" alt="Preuve prix Concombre sans pépins" width="220" />
+
+**6.** ✅ **Sauce tomate Selection** — 1,99 $ · économie ~12,38 $
+> *Très bon prix, proche du meilleur prix des 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: sauce tomate Selection | Selection tomato sauce · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269659/1789997671/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269659/1789997671/extra_large.jpg" alt="Preuve prix Sauce tomate Selection" width="220" />
+
+**7.** 🟢 **Tomates italiennes** — 1,99 $ · économie ~6,39 $
+> *Environ 76 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: tomates italiennes | italian tomatoes · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269616/1789720321/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269616/1789720321/extra_large.jpg" alt="Preuve prix Tomates italiennes" width="220" />
+
+**8.** 🟢 **Raisins rouges sans pépins** — 1,48 $ · économie ~3,67 $
+> *Environ 71 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: raisins rouges sans pépins | red seedless grapes · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269567/1789720316/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269567/1789720316/extra_large.jpg" alt="Preuve prix Raisins rouges sans pépins" width="220" />
+
+**9.** 🟢 **Petits gâteaux Vachon** — 3,50 $ · économie ~2,45 $
+> *Environ 41 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: petits gâteaux Vachon | Vachon snack cakes · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269713/1789720317/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269713/1789720317/extra_large.jpg" alt="Preuve prix Petits gâteaux Vachon" width="220" />
+
+**10.** 🟢 **Mélange à soupe Lipton** — 2,99 $ · économie ~2,99 $
+> *Environ 50 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: mélange à soupe Lipton | Knorr Lipton soup mix · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269592/1789997511/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269592/1789997511/extra_large.jpg" alt="Preuve prix Mélange à soupe Lipton" width="220" />
+
+**11.** 🟢 **Couronne de brocoli** — 0,99 $ · économie ~1,35 $
+> 🏆 Meilleur prix vs Metro · 1,70 $ moins cher
+> *Environ 58 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: couronne de brocoli | broccoli crown · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269562/1789720312/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269562/1789720312/extra_large.jpg" alt="Preuve prix Couronne de brocoli" width="220" />
+
+**12.** 🟢 **Patates douces** — 1,79 $ · économie ~1,23 $
+> *Environ 41 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: patates douces | sweet potatoes · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269608/1789720315/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269608/1789720315/extra_large.jpg" alt="Preuve prix Patates douces" width="220" />
+
+**13.** 🔵 **Filets de porc frais** — 3,88 $ · économie ~2,07 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: filets de porc frais | fresh pork tenderloins · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269560/1789720310/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269560/1789720310/extra_large.jpg" alt="Preuve prix Filets de porc frais" width="220" />
+
+**14.** 🔵 **Crevettes blanches du Pacifique Irrésistible** — 7,99 $ · économie ~4,27 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: crevettes blanches du Pacifique Irrésistible | Irrésistible cooked or uncooked white shrimp · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269631/1789720315/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269631/1789720315/extra_large.jpg" alt="Preuve prix Crevettes blanches du Pacifique Irrésistible" width="220" />
+
+**15.** 🔵 **Courge potirons (buttercup)** — 0,99 $ · économie ~7,97 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: courge potirons (buttercup) | buttercup squash · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269829/1789720314/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269829/1789720314/extra_large.jpg" alt="Preuve prix Courge potirons (buttercup)" width="220" />
+
+**16.** 🔵 **Fèves au lard Clark** — 0,95 $ · économie ~1,14 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: fèves au lard Clark | Clark pork and beans · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269586/1789997427/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269586/1789997427/extra_large.jpg" alt="Preuve prix Fèves au lard Clark" width="220" />
+
+**17.** 🔵 **Confiture Bonne Maman** — 5,99 $ · économie ~2,29 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: confiture Bonne Maman | Bonne Maman jam · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269716/1789720307/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269716/1789720307/extra_large.jpg" alt="Preuve prix Confiture Bonne Maman" width="220" />
+
+**18.** 🔵 **Bagels style Montréal** — 3,49 $ · économie ~1,06 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: bagels style Montréal | Montréal syle bagels · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269708/1789720314/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269708/1789720314/extra_large.jpg" alt="Preuve prix Bagels style Montréal" width="220" />
+
+**19.** 🔵 **Salade Selection** — 3,99 $ · économie ~1,01 $
+> 🏆 Meilleur prix vs Metro · 2,01 $ moins cher
+> *Réduction trop faible pour être considérée comme un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: salade Selection | Selection salad · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269669/1789997678/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269669/1789997678/extra_large.jpg" alt="Preuve prix Salade Selection" width="220" />
+
+**20.** 🔵 **Boisson à l'avoine Earth's Own** — 4,99 $
+> 🏆 Meilleur prix vs Metro · 4,89 $ moins cher
+> *Ce produit était moins cher il y a moins de 2 mois. Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: boisson à l'avoine Earth's Own | Earth's Own oat drink · [circulaire: Circulaire](https://f.wishabi.net/page_items/434269698/1789720306/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434269698/1789720306/extra_large.jpg" alt="Preuve prix Boisson à l'avoine Earth's Own" width="220" />
+
+## BoniChoix
+📍 773 rue de Lanaudière, Joliette
+
+**1.** ✅ **YOGOURT À BOIRE YOPLAIT YOP** — 0,97 $ · économie ~8,25 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948554/1789543968/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948554/1789543968/extra_large.jpg" alt="Preuve prix YOGOURT À BOIRE YOPLAIT YOP" width="220" />
+
+**2.** 🟢 **SACS À ORDURES COMPLIMENTS** — 4,99 $ · économie ~3,02 $
+> *Environ 38 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948637/1789543970/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948637/1789543970/extra_large.jpg" alt="Preuve prix SACS À ORDURES COMPLIMENTS" width="220" />
+
+**3.** 🔵 **HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS** — 8,49 $ · économie ~2,92 $
+> 🏆 Meilleur prix vs IGA · 3,50 $ moins cher
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948640/1789543972/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948640/1789543972/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS" width="220" />
+
+**4.** 🔵 **LAIT AU CHOCOLAT QUÉBON OU SEALTEST** — 2,99 $ · économie ~6,23 $
+> 🏆 Meilleur prix vs IGA · 2,00 $ moins cher
+> *Ce produit était moins cher récemment (0,97 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948623/1789543977/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948623/1789543977/extra_large.jpg" alt="Preuve prix LAIT AU CHOCOLAT QUÉBON OU SEALTEST" width="220" />
+
+**5.** 🔵 **CROÛTONS COMPLIMENTS** — 2,49 $
+> 🏆 Meilleur prix vs Marchés Tradition · 2,51 $ moins cher
+> *Prix très proche du prix habituel (environ 2,49 $). Pas vraiment un spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948642/1789543974/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948642/1789543974/extra_large.jpg" alt="Preuve prix CROÛTONS COMPLIMENTS" width="220" />
+
+**6.** 🔵 **TARTINADE COMPLIMENTS** — 7,99 $ · économie ~0,36 $
+> 🏆 Meilleur prix vs IGA, Marchés Tradition · 0,50 $ moins cher
+> *Prix très proche du prix habituel (environ 8,35 $). Pas vraiment un spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948592/1789543975/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948592/1789543975/extra_large.jpg" alt="Preuve prix TARTINADE COMPLIMENTS" width="220" />
+
+**7.** ❓ **CANNEBERGES FRAÎCHES** — 2,99 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948580/1789543981/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948580/1789543981/extra_large.jpg" alt="Preuve prix CANNEBERGES FRAÎCHES" width="220" />
+
+**8.** ❓ **PIZZA SURGELÉE DR OETKER** — 4,99 $ · 33% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948604/1789543969/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948604/1789543969/extra_large.jpg" alt="Preuve prix PIZZA SURGELÉE DR OETKER" width="220" />
+
+**9.** ❓ **SANDWICHES FARCIS C'EST PRÊT!** — 3,99 $ · 27% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948586/1789543971/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948586/1789543971/extra_large.jpg" alt="Preuve prix SANDWICHES FARCIS C'EST PRÊT!" width="220" />
+
+**10.** ❓ **FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS** — 7,99 $ · 11% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948589/1789543973/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948589/1789543973/extra_large.jpg" alt="Preuve prix FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS" width="220" />
+
+**11.** ❓ **CREVETTES CUITES SURGELÉES CARAVELLE** — 13,99 $ · 7% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948587/1789543971/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948587/1789543971/extra_large.jpg" alt="Preuve prix CREVETTES CUITES SURGELÉES CARAVELLE" width="220" />
+
+**12.** ❓ **CHOCOLATINES** — 5,49 $ · 8% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948600/1789543981/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948600/1789543981/extra_large.jpg" alt="Preuve prix CHOCOLATINES" width="220" />
+
+**13.** ❓ **BÂTONNETS DE FROMAGE SURGELÉS OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME COMPLIMENTS** — 7,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948567/1789543971/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948567/1789543971/extra_large.jpg" alt="Preuve prix BÂTONNETS DE FROMAGE SURGELÉS OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME COMPLIMENTS" width="220" />
+
+**14.** ❓ **VIANDE FUMÉE TRANCHÉE SCHWARTZ'S** — 15,99 $ · 6% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948572/1789543975/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948572/1789543975/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE TRANCHÉE SCHWARTZ'S" width="220" />
+
+**15.** ❓ **CROUSTILLES LAY'S OU RUFFLES** — 13,99 $ · 10% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948625/1789543978/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948625/1789543978/extra_large.jpg" alt="Preuve prix CROUSTILLES LAY'S OU RUFFLES" width="220" />
+
+**16.** ❓ **CÉRÉALES QUAKER CROQUE NATURE** — 3,99 $ · 39% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948621/1789543976/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948621/1789543976/extra_large.jpg" alt="Preuve prix CÉRÉALES QUAKER CROQUE NATURE" width="220" />
+
+**17.** ❓ **POUDING ET GELÉE SNACK PACK** — 2,19 $ · 31% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948628/1789543981/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948628/1789543981/extra_large.jpg" alt="Preuve prix POUDING ET GELÉE SNACK PACK" width="220" />
+
+**18.** 🔵 **MÉLANGE À SAUCE LONEY'S** — 5,99 $ · 36% de rabais
+> 🏆 Meilleur prix vs IGA · 0,50 $ moins cher
+> *Pas assez d'historique pour confirmer si c'est un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948613/1789543970/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948613/1789543970/extra_large.jpg" alt="Preuve prix MÉLANGE À SAUCE LONEY'S" width="220" />
+
+**19.** ❓ **MUFFINS SAVEURS DU FOUR** — 6,49 $ · 7% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948643/1789543974/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948643/1789543974/extra_large.jpg" alt="Preuve prix MUFFINS SAVEURS DU FOUR" width="220" />
+
+**20.** ❓ **JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN** — 6,99 $ · 13% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-10-14 · [circulaire: Circulaire de la semaine](https://f.wishabi.net/page_items/433948688/1789543978/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433948688/1789543978/extra_large.jpg" alt="Preuve prix JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN" width="220" />
+
+## L'Inter-Marché
+📍 Joliette
+
+**1.** ✅ **COMBINAISON DE LONGE DE PORC, CÔTELETTES FAUX-FILET ET DE BOUT DE CÔTE** — 2,49 $ · économie ~3,97 $
+> *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: COMBINAISON DE LONGE DE PORC, CÔTELETTES FAUX-FILET ET DE BOUT DE CÔTE | PORK LOIN COMBINATION CHOPS SIRLOIN AND RIB PORTION · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082004/1789597710/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082004/1789597710/extra_large.jpg" alt="Preuve prix COMBINAISON DE LONGE DE PORC, CÔTELETTES FAUX-FILET ET DE BOUT DE CÔTE" width="220" />
+
+**2.** 🟢 **TOMATES ROMA** — 1,29 $ · économie ~5,79 $
+> *Environ 82 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: TOMATES ROMA | TOMATOES · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082011/1789597706/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082011/1789597706/extra_large.jpg" alt="Preuve prix TOMATES ROMA" width="220" />
+
+**3.** 🔵 **COURGETTE VERTE** — 1,49 $ · économie ~2,51 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: COURGETTE VERTE | GREEN ZUCCHINI · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082024/1789597718/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082024/1789597718/extra_large.jpg" alt="Preuve prix COURGETTE VERTE" width="220" />
+
+**4.** 🔵 **SAUCISSES** — 3,50 $ · économie ~1,49 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: SAUCISSES | SAUSAGE, 375 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434081988/1789597703/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434081988/1789597703/extra_large.jpg" alt="Preuve prix SAUCISSES" width="220" />
+
+**5.** 🔵 **FRIANDISES** — 3,00 $ · économie ~1,83 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FRIANDISES | CANDY, 308 - 315 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434081989/1789597704/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434081989/1789597704/extra_large.jpg" alt="Preuve prix FRIANDISES" width="220" />
+
+**6.** 🔵 **CHOU VERT OU ROUGE** — 0,99 $
+> 🏆 Meilleur prix vs Metro, Maxi · 0,45 $ moins cher
+> *Ce produit était moins cher récemment (0,89 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: CHOU VERT OU ROUGE | GREEN OR RED CABBAGE · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082010/1789597705/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082010/1789597705/extra_large.jpg" alt="Preuve prix CHOU VERT OU ROUGE" width="220" />
+
+**7.** 🔵 **BOEUF HACHÉ MAIGRE** — 9,99 $
+> 🏆 Meilleur prix vs Maxi · 0,01 $ moins cher
+> *Ce produit était moins cher récemment (5,44 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: BOEUF HACHÉ MAIGRE | LEAN GROUND BEEF, 454 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082037/1789597711/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082037/1789597711/extra_large.jpg" alt="Preuve prix BOEUF HACHÉ MAIGRE" width="220" />
+
+**8.** ❓ **HUILE D'OLIVE EXTRA VIERGE** — 8,79 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HUILE D'OLIVE EXTRA VIERGE | OLIVE OIL, 1 L · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082075/1789597704/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082075/1789597704/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE" width="220" />
+
+**9.** ❓ **SAUCE AUX CANNEBERGES, 348 ML OU ANANAS, 398 ML** — 2,29 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: SAUCE AUX CANNEBERGES, 348 ML OU ANANAS, 398 ML | CRANBERRY SAUCE OR PINEAPPLE · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434081993/1789597704/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434081993/1789597704/extra_large.jpg" alt="Preuve prix SAUCE AUX CANNEBERGES, 348 ML OU ANANAS, 398 ML" width="220" />
+
+**10.** ❓ **FARCE STOVE TOP** — 2,29 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: FARCE STOVE TOP | STUFFING, 120 G · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434081994/1789597705/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434081994/1789597705/extra_large.jpg" alt="Preuve prix FARCE STOVE TOP" width="220" />
+
+**11.** ❓ **HORS-D'ŒUVRES** — 9,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · texte brut: HORS-D'ŒUVRES | FROZEN APPETIZERS, 454 G - 1,25 KG · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082027/1789597704/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082027/1789597704/extra_large.jpg" alt="Preuve prix HORS-D'ŒUVRES" width="220" />
+
+**12.** ❓ **BRIE, 450 G** — 9,99 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30](https://f.wishabi.net/page_items/434082039/1789597712/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434082039/1789597712/extra_large.jpg" alt="Preuve prix BRIE, 450 G" width="220" />
+
+## Marchés Tradition
+📍 Joliette
+
+**1.** ✅ **BISCUITS** — 2,47 $ · économie ~3,77 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/434239759/1790003937/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434239759/1790003937/extra_large.jpg" alt="Preuve prix BISCUITS" width="220" />
+
+**2.** 🟢 **POIVRONS** — 3,00 $ · économie ~2,25 $
+> *Environ 43 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/434239715/1790003920/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434239715/1790003920/extra_large.jpg" alt="Preuve prix POIVRONS" width="220" />
+
+**3.** 🔵 **TRANCHES DE FROMAGE COMPLIMENTS** — 3,99 $ · économie ~4,22 $
+> 🏆 Meilleur prix vs IGA · 6,50 $ moins cher
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433945975/1789542055/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433945975/1789542055/extra_large.jpg" alt="Preuve prix TRANCHES DE FROMAGE COMPLIMENTS" width="220" />
+
+**4.** 🔵 **CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S** — 3,49 $ · économie ~2,04 $
+> 🏆 Meilleur prix vs IGA · 2,50 $ moins cher
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/434239763/1790003940/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434239763/1790003940/extra_large.jpg" alt="Preuve prix CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S" width="220" />
+
+**5.** 🔵 **REPAS ASIATIQUE SURGELÉ WONG WING** — 4,99 $ · économie ~3,00 $
+> 🏆 Meilleur prix vs BoniChoix · 0,45 $ moins cher
+> *Réduction trop faible pour être considérée comme un vrai bon spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/434239712/1790003918/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/434239712/1790003918/extra_large.jpg" alt="Preuve prix REPAS ASIATIQUE SURGELÉ WONG WING" width="220" />
+
+**6.** 🔵 **FRIANDISES NESTLÉ** — 7,99 $ · 11% de rabais
+> 🏆 Meilleur prix vs IGA · 9,00 $ moins cher
+> *Ce produit était moins cher récemment (2,44 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946022/1789542061/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946022/1789542061/extra_large.jpg" alt="Preuve prix FRIANDISES NESTLÉ" width="220" />
+
+**7.** 🔵 **JUS DE FRUITS OU LIMONADE RÉFRIGÉRÉS HERITAGE 77** — 3,99 $ · 27% de rabais
+> 🏆 Meilleur prix vs BoniChoix, IGA · 0,30 $ moins cher
+> *Prix très proche du prix habituel (environ 3,99 $). Pas vraiment un spécial.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433945989/1789542053/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433945989/1789542053/extra_large.jpg" alt="Preuve prix JUS DE FRUITS OU LIMONADE RÉFRIGÉRÉS HERITAGE 77" width="220" />
+
+**8.** ❓ **SANDBWICHES OU SANDBWICHES FARCIS** — 4,49 $ · 18% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433945961/1789542046/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433945961/1789542046/extra_large.jpg" alt="Preuve prix SANDBWICHES OU SANDBWICHES FARCIS" width="220" />
+
+**9.** ❓ **CHILI RICARDO** — 9,49 $ · 5% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946058/1789542051/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946058/1789542051/extra_large.jpg" alt="Preuve prix CHILI RICARDO" width="220" />
+
+**10.** ❓ **VIANDE FUMÉE TRANCHÉE** — 14,99 $ · 6% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946056/1789542050/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946056/1789542050/extra_large.jpg" alt="Preuve prix VIANDE FUMÉE TRANCHÉE" width="220" />
+
+**11.** ❓ **COMPLIMENTS FROZEN CHEESE STICKS** — 7,44 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946063/1789542055/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946063/1789542055/extra_large.jpg" alt="Preuve prix COMPLIMENTS FROZEN CHEESE STICKS" width="220" />
+
+**12.** ❓ **LINGES HUMIDES SWIFFER OU NETTOYANT SWIFFER** — 7,49 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946039/1789542052/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946039/1789542052/extra_large.jpg" alt="Preuve prix LINGES HUMIDES SWIFFER OU NETTOYANT SWIFFER" width="220" />
+
+**13.** ❓ **MUFFINS SAVEURS DU FOUR** — 6,49 $ · 7% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946051/1789542060/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946051/1789542060/extra_large.jpg" alt="Preuve prix MUFFINS SAVEURS DU FOUR" width="220" />
+
+**14.** ❓ **CÔTELETTES DE LONGE D'AGNEAU ASSAÎNÉES RECOMMANDÉES PAR NOTRE BOUCHER** — 16,99 $ · 55% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433945997/1789542059/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433945997/1789542059/extra_large.jpg" alt="Preuve prix CÔTELETTES DE LONGE D'AGNEAU ASSAÎNÉES RECOMMANDÉES PAR NOTRE BOUCHER" width="220" />
+
+**15.** ❓ **JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN** — 6,99 $ · 13% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946081/1789542056/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946081/1789542056/extra_large.jpg" alt="Preuve prix JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN" width="220" />
+
+**16.** ❓ **CHOCOLATINES** — 5,49 $ · 8% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433945978/1789542058/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433945978/1789542058/extra_large.jpg" alt="Preuve prix CHOCOLATINES" width="220" />
+
+**17.** ❓ **RIZ JASMIN DAINTY** — 10,99 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946078/1789542054/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946078/1789542054/extra_large.jpg" alt="Preuve prix RIZ JASMIN DAINTY" width="220" />
+
+**18.** ❓ **RIZ KIMORA DAINTY** — 12,99 $ · 15% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946080/1789542056/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946080/1789542056/extra_large.jpg" alt="Preuve prix RIZ KIMORA DAINTY" width="220" />
+
+**19.** ❓ **NATREL FINEMENT FILTRÉ** — 5,99 $ · 23% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946074/1789542052/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946074/1789542052/extra_large.jpg" alt="Preuve prix NATREL FINEMENT FILTRÉ" width="220" />
+
+**20.** ❓ **PROSCIUTTO COTTO MASTRO** — 4,99 $ · 9% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Québec](https://f.wishabi.net/page_items/433946087/1789542061/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433946087/1789542061/extra_large.jpg" alt="Preuve prix PROSCIUTTO COTTO MASTRO" width="220" />
+
+## Familiprix
+📍 Joliette
+
+**1.** ✅ **BENADRYL Produits sélectionnés** — 6,99 $ · économie ~6,83 $
+> *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854558/1789532602/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854558/1789532602/extra_large.jpg" alt="Preuve prix BENADRYL Produits sélectionnés" width="220" />
+
+**2.** 🔵 **TENA ou TENA MEN, Produits sélectionnés** — 11,99 $ · économie ~4,33 $
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-26 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855070/1789532589/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855070/1789532589/extra_large.jpg" alt="Preuve prix TENA ou TENA MEN, Produits sélectionnés" width="220" />
+
+**3.** ❓ **KELLOGG'S, Minis carrés aux Rice Krispies, 40 unités** — 9,99 $ · 15% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855317/1789769220/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855317/1789769220/extra_large.jpg" alt="Preuve prix KELLOGG'S, Minis carrés aux Rice Krispies, 40 unités" width="220" />
+
+**4.** ❓ **Nestlé mini tablettes de chocolats assorties et friandises – Format Collation 100un** — 19,99 $ · 27% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855089/1789532600/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855089/1789532600/extra_large.jpg" alt="Preuve prix Nestlé mini tablettes de chocolats assorties et friandises – Format Collation 100un" width="220" />
+
+**5.** ❓ **HERSHEYS, Friandise, 50 unités** — 11,99 $ · 29% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854514/1789532595/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854514/1789532595/extra_large.jpg" alt="Preuve prix HERSHEYS, Friandise, 50 unités" width="220" />
+
+**6.** ❓ **AMOS, Bonbons en gelée 4D/4D , 50 unités** — 6,69 $ · 16% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855306/1789769215/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855306/1789769215/extra_large.jpg" alt="Preuve prix AMOS, Bonbons en gelée 4D/4D , 50 unités" width="220" />
+
+**7.** ❓ **ENFAMIL A+ Préparation pour nourrissons, liquide concentré** — 77,99 $ · 6% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854676/1789532612/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854676/1789532612/extra_large.jpg" alt="Preuve prix ENFAMIL A+ Préparation pour nourrissons, liquide concentré" width="220" />
+
+**8.** ❓ **BRANDS UNLIMITED Mega, Assortiment de bonbons** — 13,99 $ · 3% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855296/1789769209/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855296/1789769209/extra_large.jpg" alt="Preuve prix BRANDS UNLIMITED Mega, Assortiment de bonbons" width="220" />
+
+**9.** ❓ **IMPÉRIAL POPCORN, Maïs soufflé, 300 g** — 4,49 $ · 10% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855281/1789769200/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855281/1789769200/extra_large.jpg" alt="Preuve prix IMPÉRIAL POPCORN, Maïs soufflé, 300 g" width="220" />
+
+**10.** ❓ **BABY GOURMET Biologique** — 3,49 $ · 26% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854668/1789532606/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854668/1789532606/extra_large.jpg" alt="Preuve prix BABY GOURMET Biologique" width="220" />
+
+**11.** ❓ **NERDS Gummy Clusters Friandise** — 11,99 $ · 8% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855298/1789769211/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855298/1789769211/extra_large.jpg" alt="Preuve prix NERDS Gummy Clusters Friandise" width="220" />
+
+**12.** ❓ **Tena Sensitive Care serviettes absorption moyenne 20un** — 5,79 $ · 39% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854523/1789532600/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854523/1789532600/extra_large.jpg" alt="Preuve prix Tena Sensitive Care serviettes absorption moyenne 20un" width="220" />
+
+**13.** ❓ **LISTERINE Rince-bouches sélectionnés** — 7,99 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433987461/1789532612/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433987461/1789532612/extra_large.jpg" alt="Preuve prix LISTERINE Rince-bouches sélectionnés" width="220" />
+
+**14.** ❓ **Listerine Ultraclean rince-bouche antiseptique protection de l'émail menthe fraîche 1L** — 7,99 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854524/1789532601/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854524/1789532601/extra_large.jpg" alt="Preuve prix Listerine Ultraclean rince-bouche antiseptique protection de l'émail menthe fraîche 1L" width="220" />
+
+**15.** ❓ **REGAL, Suçons** — 3,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855315/1789769219/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855315/1789769219/extra_large.jpg" alt="Preuve prix REGAL, Suçons" width="220" />
+
+**16.** ❓ **LINDT, Lindor, Chocolat 204 g** — 12,99 $ · 35% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854510/1789532592/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854510/1789532592/extra_large.jpg" alt="Preuve prix LINDT, Lindor, Chocolat 204 g" width="220" />
+
+**17.** ❓ **Incognito Serviettes - Maxi Régulières 24un** — 3,79 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433987458/1789532610/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433987458/1789532610/extra_large.jpg" alt="Preuve prix Incognito Serviettes - Maxi Régulières 24un" width="220" />
+
+**18.** ❓ **Axe Apollo antisudorifique en bâton 76g** — 3,49 $ · 53% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433855080/1789532595/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433855080/1789532595/extra_large.jpg" alt="Preuve prix Axe Apollo antisudorifique en bâton 76g" width="220" />
+
+**19.** ❓ **ESSENTIEL, Mouchoirs, 6 boîtes** — 4,79 $ · 29% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854519/1789532598/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854519/1789532598/extra_large.jpg" alt="Preuve prix ESSENTIEL, Mouchoirs, 6 boîtes" width="220" />
+
+**20.** ❓ **Incognito Protège-Dessous - Longs 40un** — 3,79 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-09-24 au 2026-09-30 · [circulaire: Circulaire](https://f.wishabi.net/page_items/433854522/1789532600/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/433854522/1789532600/extra_large.jpg" alt="Preuve prix Incognito Protège-Dessous - Longs 40un" width="220" />
+
+## Costco
+
+**1.** ❓ **Détergent à lessive propreté hygiénique Power Pods de Tide** — 27,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688370/1788329534/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688370/1788329534/extra_large.jpg" alt="Preuve prix Détergent à lessive propreté hygiénique Power Pods de Tide" width="220" />
+
+**2.** ❓ **Station électrique ASI portable River 3 Plus de EcoFlow** — 249,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688403/1788329531/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688403/1788329531/extra_large.jpg" alt="Preuve prix Station électrique ASI portable River 3 Plus de EcoFlow" width="220" />
+
+**3.** ❓ **Gants Head pour homme et femme** — 14,99 $ · 21% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688412/1788329531/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688412/1788329531/extra_large.jpg" alt="Preuve prix Gants Head pour homme et femme" width="220" />
+
+**4.** ❓ **Vaporisateur de pièce Sand + Fog** — 14,99 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688365/1788329530/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688365/1788329530/extra_large.jpg" alt="Preuve prix Vaporisateur de pièce Sand + Fog" width="220" />
+
+**5.** ❓ **Portions de poké au thon surgelé DOM Reserve** — 14,99 $ · 25% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688394/1788329531/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688394/1788329531/extra_large.jpg" alt="Preuve prix Portions de poké au thon surgelé DOM Reserve" width="220" />
+
+**6.** ❓ **Électrolytes à saveur de punch aux fruits et au melon d'eau Vega** — 31,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688429/1788329533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688429/1788329533/extra_large.jpg" alt="Preuve prix Électrolytes à saveur de punch aux fruits et au melon d'eau Vega" width="220" />
+
+**7.** ❓ **Frappé protéiné Fruity Pebbles de Dymatize** — 39,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688434/1788329534/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688434/1788329534/extra_large.jpg" alt="Preuve prix Frappé protéiné Fruity Pebbles de Dymatize" width="220" />
+
+**8.** ❓ **Céréales Croque Cannelle de General Mills** — 7,99 $ · 27% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688431/1788329531/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688431/1788329531/extra_large.jpg" alt="Preuve prix Céréales Croque Cannelle de General Mills" width="220" />
+
+**9.** ❓ **Serviettes faciales sèches à usage quotidien Kirkland Signature** — 19,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688436/1788329535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688436/1788329535/extra_large.jpg" alt="Preuve prix Serviettes faciales sèches à usage quotidien Kirkland Signature" width="220" />
+
+**10.** ❓ **Veste de yoga à fermeture à glissière pleine longueur Mondetta pour femme** — 16,99 $ · 23% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688377/1788329532/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688377/1788329532/extra_large.jpg" alt="Preuve prix Veste de yoga à fermeture à glissière pleine longueur Mondetta pour femme" width="220" />
+
+**11.** ❓ **Carrés aux Rice Krispies de Kellogg's** — 9,99 $ · 26% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688387/1788329532/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688387/1788329532/extra_large.jpg" alt="Preuve prix Carrés aux Rice Krispies de Kellogg's" width="220" />
+
+**12.** ❓ **Détergent à lessive liquide original Tide** — 23,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688423/1788329534/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688423/1788329534/extra_large.jpg" alt="Preuve prix Détergent à lessive liquide original Tide" width="220" />
+
+**13.** ❓ **Protège-dessous sans tassement Protection supplémentaire de Always** — 12,99 $ · 26% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688432/1788329532/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688432/1788329532/extra_large.jpg" alt="Preuve prix Protège-dessous sans tassement Protection supplémentaire de Always" width="220" />
+
+**14.** ❓ **Poudre de vitamine C Super Orange de Emergen-C** — 24,49 $ · 23% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688439/1788329532/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688439/1788329532/extra_large.jpg" alt="Preuve prix Poudre de vitamine C Super Orange de Emergen-C" width="220" />
+
+**15.** ❓ **Gélifiés de fibre Metamucil** — 31,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688442/1788329533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688442/1788329533/extra_large.jpg" alt="Preuve prix Gélifiés de fibre Metamucil" width="220" />
+
+**16.** ❓ **Hydratant de nuit Rétinol Max de Olay** — 47,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688448/1788329533/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688448/1788329533/extra_large.jpg" alt="Preuve prix Hydratant de nuit Rétinol Max de Olay" width="220" />
+
+**17.** ❓ **Lampes torches de 2000lm de Infinity** — 23,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688455/1788329535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688455/1788329535/extra_large.jpg" alt="Preuve prix Lampes torches de 2000lm de Infinity" width="220" />
+
+**18.** ❓ **Languettes de poulet au blé entier Janes** — 12,99 $ · 21% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688467/1788329532/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688467/1788329532/extra_large.jpg" alt="Preuve prix Languettes de poulet au blé entier Janes" width="220" />
+
+**19.** ❓ **Papier hygiénique à 2 épaisseurs Premium de Cashmere ou Purex** — 21,49 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688234/1788329529/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688234/1788329529/extra_large.jpg" alt="Preuve prix Papier hygiénique à 2 épaisseurs Premium de Cashmere ou Purex" width="220" />
+
+**20.** ❓ **Assortiment de boissons énergisantes Ultra Zero de Monster** — 35,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-08-31 au 2026-09-27 · [circulaire: Circulaire](https://f.wishabi.net/page_items/432688392/1788329535/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/432688392/1788329535/extra_large.jpg" alt="Preuve prix Assortiment de boissons énergisantes Ultra Zero de Monster" width="220" />
+
+---
+📊 170 spéciaux · Metro : 20 · Maxi : 20 · IGA : 20 · Super C : 20 · BoniChoix : 20 · Inter-Marché : 20 · Marchés Tradition : 20 · Familiprix : 20 · Costco : 20
+*Généré le 24 septembre 2026*

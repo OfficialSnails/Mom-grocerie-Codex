@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-09-17T15:58:12.323Z",
+  "generatedAt": "2026-09-24T16:14:26.404Z",
   "weeks": [
+    {
+      "slug": "semaine-du-24-au-30-septembre-2026",
+      "folderName": "Semaine du 24 au 30 septembre 2026",
+      "title": "Liste d'épicerie — 24 au 30 septembre 2026",
+      "weekRange": "24 au 30 septembre 2026",
+      "generatedAt": "2026-09-24T16:14:26.404Z",
+      "itemCount": 81,
+      "allItemCount": 1490,
+      "path": "data/weeks/semaine-du-24-au-30-septembre-2026/week.json"
+    },
     {
       "slug": "semaine-du-17-au-23-septembre-2026",
       "folderName": "Semaine du 17 au 23 septembre 2026",
@@ -10,16 +20,6 @@
       "itemCount": 84,
       "allItemCount": 1465,
       "path": "data/weeks/semaine-du-17-au-23-septembre-2026/week.json"
-    },
-    {
-      "slug": "semaine-du-10-au-16-septembre-2026",
-      "folderName": "Semaine du 10 au 16 septembre 2026",
-      "title": "Liste d'épicerie — 10 au 16 septembre 2026",
-      "weekRange": "10 au 16 septembre 2026",
-      "generatedAt": "2026-09-10T15:36:14.997Z",
-      "itemCount": 75,
-      "allItemCount": 1292,
-      "path": "data/weeks/semaine-du-10-au-16-septembre-2026/week.json"
     }
   ]
 }
