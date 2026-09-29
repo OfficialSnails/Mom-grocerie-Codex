@@ -1,14 +1,24 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-09-24T16:00:00.000Z",
+=======
+  "generatedAt": "2026-09-24T16:14:26.404Z",
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
   "weeks": [
     {
       "slug": "semaine-du-24-au-30-septembre-2026",
       "folderName": "Semaine du 24 au 30 septembre 2026",
       "title": "Liste d'épicerie — 24 au 30 septembre 2026",
       "weekRange": "24 au 30 septembre 2026",
+<<<<<<< HEAD
       "generatedAt": "2026-09-24T16:00:00.000Z",
       "itemCount": 87,
       "allItemCount": 1489,
+=======
+      "generatedAt": "2026-09-24T16:14:26.404Z",
+      "itemCount": 81,
+      "allItemCount": 1490,
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
       "path": "data/weeks/semaine-du-24-au-30-septembre-2026/week.json"
     },
     {

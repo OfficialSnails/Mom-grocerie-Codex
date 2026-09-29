@@ -29556,6 +29556,188 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-17,superc-joliette,Émincé de jambon ou de poitrine de dinde Selection,Émincé de jambon ou de poitrine de dinde Selection,,,5.49,,,5.49,unknown,flipp,Circulaire
 2026-09-17,superc-joliette,Tartare La Cage,Tartare La Cage,,,9.99,,,9.99,unknown,flipp,Circulaire
 2026-09-17,superc-joliette,Cuisses de poulet portugais Plaisirs  Gastronomiques,Cuisses de poulet portugais Plaisirs  Gastronomiques,,,11.99,,,11.99,unknown,flipp,Circulaire
+<<<<<<< HEAD
+=======
+2026-09-24,maxi-joliette,"VINAIGRETTE OU TREMPETTES MARZETTI, 340 G","VINAIGRETTE OU TREMPETTES MARZETTI, 340 G",Marzetti,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PRÉPARATION POUR NOURRISSONS SIMILAC,PRÉPARATION POUR NOURRISSONS SIMILAC,Similac,,34.99,,each,34.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PURÉE DE POMMES DE TERRE IDAHOAN,pommes,Idahoan,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,DENTIFRICE GUM 63-90 ML OU RINCE-BOUCHE SCOPE 1 L,DENTIFRICE GUM 63-90 ML OU RINCE-BOUCHE SCOPE 1 L,G.U.M,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GÂTEAU DÉLICES DU MARCHÉ,GÂTEAU DÉLICES DU MARCHÉ,Délices du MarchéMC,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NOIX OU FRUITS ENROBÉS DE CHOCOLAT PC, 250-400 G","NOIX OU FRUITS ENROBÉS DE CHOCOLAT PC, 250-400 G",,,7.49,,each,7.49,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"POPPERS À GÂTEAU, 280 G OU GÂTEAU DE 6 POUCES, 400/475 G CHARLOTTE'S","POPPERS À GÂTEAU, 280 G OU GÂTEAU DE 6 POUCES, 400/475 G CHARLOTTE'S",Charlotte's,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CROISSANTS PUR BEURRE PC,beurre,PC,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,RECHARGE DE SAVON LIQUIDE POUR LES MAINS LIFEBRAND,RECHARGE DE SAVON LIQUIDE POUR LES MAINS LIFEBRAND,LIFEBRAND,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"DÉTERGENT À LESSIVE LIQUIDE, 3,46/3,9 L OU PODS TIDE OU FLINGS, 45, 57 OU 76 UN.","DÉTERGENT À LESSIVE LIQUIDE, 3,46/3,9 L OU PODS TIDE OU FLINGS, 45, 57 OU 76 UN.",Tide,,22,,each,22,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,DENTIFRICE 50-100 ML CREST OU COLGATE OU BROSSE À DENTS MANUELLE COLGATE OU ORAL-B 1 UN.,DENTIFRICE 50-100 ML CREST OU COLGATE OU BROSSE À DENTS MANUELLE COLGATE OU ORAL-B 1 UN.,Crest,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,POIRES BARTLETT,POIRES BARTLETT,BARTLETT,,2,,lb,4.41,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PAINS À PIZZA,pain,,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GELÉE DE PÉTROLE VASELINE,GELÉE DE PÉTROLE VASELINE,Vaseline,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NETTOYANT À VITRES WINDEX, 765 ML, NETTOYANT SCRUBBING BUBBLES, 946/950 ML OU FANTASTIK, 650 ML","NETTOYANT À VITRES WINDEX, 765 ML, NETTOYANT SCRUBBING BUBBLES, 946/950 ML OU FANTASTIK, 650 ML",Windex | Scrubbing Bubbles | Fantastik,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BARRES ÉNERGÉTIQUES CLIF,5x68 g","BARRES ÉNERGÉTIQUES CLIF,5x68 g",Clif,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"VAPORISATEUR POUR LE CORPS, 113 G, DÉODORANT, 76/85 G OU SOINS CAPILLAIRES 2 EN 1, 473 ML AXE","VAPORISATEUR POUR LE CORPS, 113 G, DÉODORANT, 76/85 G OU SOINS CAPILLAIRES 2 EN 1, 473 ML AXE",Axe,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PEROGIES CHEEMO, 907 G","PEROGIES CHEEMO, 907 G",Cheemo,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"COLLATIONS ORGANIQUE POUR BÉBÉS MELTIES OU MUSHIES BABY GOURMET 23 G, PURÉE DE FRUITS EN SACHETS 4X90 G/360 G OU BARRES AUX FRUITS 5X18 G GOODIES","COLLATIONS ORGANIQUE POUR BÉBÉS MELTIES OU MUSHIES BABY GOURMET 23 G, PURÉE DE FRUITS EN SACHETS 4X90 G/360 G OU BARRES AUX FRUITS 5X18 G GOODIES",,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"YOGOURT IÖGO, 2 KG",yogourt,Iögo,,9.5,,each,9.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CROISSANTS OU CHOCOLATINES DÉLICES DU MARCHÉ,CROISSANTS OU CHOCOLATINES DÉLICES DU MARCHÉ,,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SOINS CAPILLAIRES FRUCTIS GARNIER,SOINS CAPILLAIRES FRUCTIS GARNIER,Garnier,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PILONS DE POULET MAPLE LEAF PRIME,PILONS DE POULET MAPLE LEAF PRIME,Maple Leaf,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PIZZA CROÛTE MINCE OU LÈVE-AU-FOUR GIUSEPPE DR. OETKER, 480-785 g","PIZZA CROÛTE MINCE OU LÈVE-AU-FOUR GIUSEPPE DR. OETKER, 480-785 g",Dr. Oetker,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOUILLON CAMPBELL'S, 250/900 ML","BOUILLON CAMPBELL'S, 250/900 ML",Campbell's,,1.25,,each,1.25,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"VIN AMORETTI OU DOLCE VENTI ROUGE OU BLANC, 1 L","VIN AMORETTI OU DOLCE VENTI ROUGE OU BLANC, 1 L",AMORETTI,,14,,each,14,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PÂTÉ LA BELLE BRETAGNE,PÂTÉ LA BELLE BRETAGNE,LA BELLE BRETAGNE,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CHAMPIGNONS ENTIERS BLANCS PC OU AVOCATS,CHAMPIGNONS ENTIERS BLANCS PC OU AVOCATS,,,0.68,,each,0.68,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CAFÉ MOULU MAXWELL HOUSE,cafe,Maxwell House,,15.99,,each,15.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CREVETTES BLANCHES CUITES OU CRUES DU PACIFIQUE SEAQUEST OU CREVETTES SAUVAGES D'ARGENTINE 300 G OU CREVETTES SAUVAGES D'ARGENTINE AVEC SAUCE COCKTAIL 100 G,CREVETTES BLANCHES CUITES OU CRUES DU PACIFIQUE SEAQUEST OU CREVETTES SAUVAGES D'ARGENTINE 300 G OU CREVETTES SAUVAGES D'ARGENTINE AVEC SAUCE COCKTAIL 100 G,SEAQUEST®,,4.95,,each,4.95,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PRUNES NOIRES, 907 G","PRUNES NOIRES, 907 G",,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ORANGES NAVEL DÉLICES DU MARCHÉ,ORANGES NAVEL DÉLICES DU MARCHÉ,DÉLICES DU MARCHÉ,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOUILLON À FONDUE CANTON,1,1 L","BOUILLON À FONDUE CANTON,1,1 L",Canton,,3.88,,each,3.88,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"MAÏS SUCRÉS DÉLICES DU MARCHÉ, 5 UN.","MAÏS SUCRÉS DÉLICES DU MARCHÉ, 5 UN.",DÉLICES DU MARCHÉ,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PÂTES PRIMO, 700/750 G",pates,Primo,,0.96,,each,0.96,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"EAU PÉTILLANTE BUBLY, 12X355 ML OU MONTELLIER, 10X355 ML","EAU PÉTILLANTE BUBLY, 12X355 ML OU MONTELLIER, 10X355 ML",Bubly | Montellier,,6.75,,,6.75,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"ÉPONGES 2 UN OU NETTOYANT 1,2 L M.NET OU ASSAINISSEUR D'AIR 27,5 ML-230 G FEBREZE","ÉPONGES 2 UN OU NETTOYANT 1,2 L M.NET OU ASSAINISSEUR D'AIR 27,5 ML-230 G FEBREZE",,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NOURITURE SÈCHE, 1,4-1,5 KG OU FRIANDISES POUR CHATS PARTY MIX 510 G FRISKIES","NOURITURE SÈCHE, 1,4-1,5 KG OU FRIANDISES POUR CHATS PARTY MIX 510 G FRISKIES",Purina,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"JUS OU MÉLANGE DE JUS SANS NOM®, 1,75 L","JUS OU MÉLANGE DE JUS SANS NOM®, 1,75 L",sans nom®,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CRETONS GASPÉSIEN,CRETONS GASPÉSIEN,Gaspésien,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GRUAU INSTANTANÉ QUAKER,GRUAU INSTANTANÉ QUAKER,Quaker,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,FILET DE SAUMON COHO DÉCONGELÉ,saumon,,,17,,each,17,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"LAIT PROTÉINÉ SANS LACTOSE NATREL PLUS, 2 L",lait,Natrel,,7.25,,each,7.25,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"THÉ OU TISANE TWININGS OU LIPTON, 20 UN., SALADA OU RED ROSE, 70 UN.","THÉ OU TISANE TWININGS OU LIPTON, 20 UN., SALADA OU RED ROSE, 70 UN.",TWININGS | LIPTON | SALADA | RED ROSE,,3.99,,each,3.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,Collations Baby Mum Mum,Collations Baby Mum Mum,Baby Mum-Mum,,2.8,,each,2.8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOISSONS À L'EAU AROMATISÉ JAMMERS KOOL-AID, 10X180 ML","BOISSONS À L'EAU AROMATISÉ JAMMERS KOOL-AID, 10X180 ML",Kool-Aid,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CHARCUTERIES TRANCHÉES NATURAL SELECTIONS MAPLE LEAF FORMAT FAMILIAL,","CHARCUTERIES TRANCHÉES NATURAL SELECTIONS MAPLE LEAF FORMAT FAMILIAL,",Maple Leaf,,11.5,,each,11.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,TOMATES SANS NOM®,TOMATES SANS NOM®,PnP,,0.75,,each,0.75,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PÂTE DE TOMATE UNICO, 156 ML OU THON, SANS NOM® 170 G","PÂTE DE TOMATE UNICO, 156 ML OU THON, SANS NOM® 170 G",Unico | sans nom®,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SOUPE AYLMER, 284 ML","SOUPE AYLMER, 284 ML",Aylmer,,0.88,,each,0.88,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ESSOREUSE À SALADE À POMPE PC,ESSOREUSE À SALADE À POMPE PC,PC,,11.94,,each,11.94,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BISCUITS CÉLÉBRATION OU TRADITION LECLERC, 280-350 G","BISCUITS CÉLÉBRATION OU TRADITION LECLERC, 280-350 G",,,2.88,,each,2.88,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"MUFFINS PC LE DÉCADENT, 4 UN.","MUFFINS PC LE DÉCADENT, 4 UN.",PC,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PLAQUES À BISCUITS EVERYDAY ESSENTIALS, 3 un.","PLAQUES À BISCUITS EVERYDAY ESSENTIALS, 3 un.",Everyday Essentials™,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,POULET ENTIER,POULET ENTIER,,,2.99,,lb,6.59,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"GALETTES OU CROUSTILLES DE RIZ CRISPY MINIS QUAKER, 90-199 G","GALETTES OU CROUSTILLES DE RIZ CRISPY MINIS QUAKER, 90-199 G",Quaker,,2.79,,each,2.79,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"MICHE LA BAGUETTERIE, 600/800 G","MICHE LA BAGUETTERIE, 600/800 G",LA BAGUETTERIE,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"MINI-BARRES ASSORTIES ET FRIANDISES NESTLÉ, 50 un.","MINI-BARRES ASSORTIES ET FRIANDISES NESTLÉ, 50 un.",Nestle,,9.99,,each,9.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOISSONS GAZEUSES COCA-COLA OU PEPSI, 6X710 ML","BOISSONS GAZEUSES COCA-COLA OU PEPSI, 6X710 ML",COCA-COLA | PEPSI,,3.99,,,3.99,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BIÈRE BRASSEUR DE MONTRÉAL, LA BITTT À TIBI, SLEEMAN HONEY BROWN, UNIBROUE OU BORÉALE, 12X355 ML","BIÈRE BRASSEUR DE MONTRÉAL, LA BITTT À TIBI, SLEEMAN HONEY BROWN, UNIBROUE OU BORÉALE, 12X355 ML",,,20,,,20,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CÉRÉALES VECTOR KELLOGG'S,CÉRÉALES VECTOR KELLOGG'S,Kellogg's,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,MINI BEIGNES DÉLICES DU MARCHÉ,MINI BEIGNES DÉLICES DU MARCHÉ,DÉLICES DU MARCHÉ,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CÉLERI,CÉLERI,,,2.99,,each,2.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CAISSE DE 40 CANETTES DE SLEEMAN,CAISSE DE 40 CANETTES DE SLEEMAN,Sleeman,,59.99,,,59.99,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CHARCUTERIES TRANCHÉES ROYAL,CHARCUTERIES TRANCHÉES ROYAL,Royal,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NETTOYANT PINE-SOL 1,41 L, DÉTERGENT À VAISSELLE 535/650 ML OU RECHARGE POWERWASH 473 ML DAWN","NETTOYANT PINE-SOL 1,41 L, DÉTERGENT À VAISSELLE 535/650 ML OU RECHARGE POWERWASH 473 ML DAWN",PINE-SOL | DAWN,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SAUCES VH, 341-380 mL","SAUCES VH, 341-380 mL",VH,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"VOITURES HOT WHEELS, 1 UN.","VOITURES HOT WHEELS, 1 UN.",Hot Wheels,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FRIANDISES REAL FRUIT DARE OU MINI CHOCOLAT KINDER, 50/55 un.","FRIANDISES REAL FRUIT DARE OU MINI CHOCOLAT KINDER, 50/55 un.",,,12.99,,each,12.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,TOMATES DES CHAMPS,TOMATES DES CHAMPS,,,0.97,,lb,2.14,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOUILLON BOVRIL, 500 ML","BOUILLON BOVRIL, 500 ML",BOVRIL,,7,,each,7,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,COURONNE DE BROCOLI OU CHOU-FLEUR,COURONNE DE BROCOLI OU CHOU-FLEUR,,,0.95,,each,0.95,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SALADES 454 G OU SAUCE 300/450 ML ST-HUBERT OU FROMAGE LA VACHE QUI RIT 133 G,SALADES 454 G OU SAUCE 300/450 ML ST-HUBERT OU FROMAGE LA VACHE QUI RIT 133 G,ST-HUBERT | LA VACHE QUI RIT,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PROSCIUTTO SAN DANIELE, 100 G OU SALAMI MASTRO, 100-175 G","PROSCIUTTO SAN DANIELE, 100 G OU SALAMI MASTRO, 100-175 G",San Daniele,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"ROULEAUX CROUSTILLANTS CRAVE, 540 G","ROULEAUX CROUSTILLANTS CRAVE, 540 G",Crave,,9,,each,9,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CHOCOLAT KINDER SURPRISE, 100 G","CHOCOLAT KINDER SURPRISE, 100 G",Kinder,,6.99,,each,6.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FROMAGE À LA CRÈME OU TREMPETTE PHILADELPHIA, 227-280 G","FROMAGE À LA CRÈME OU TREMPETTE PHILADELPHIA, 227-280 G",PHILADELPHIA,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CRÈME GLACÉE CHAPMAN'S PREMIUM,CRÈME GLACÉE CHAPMAN'S PREMIUM,Chapman's,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,JAMBONNEAU COOK'S,JAMBONNEAU COOK'S,Cook's,,2.44,,lb,5.38,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,MANDARINES DÉLICES DU MARCHÉ,MANDARINES DÉLICES DU MARCHÉ,DÉLICES DU MARCHÉ,,6.99,,each,6.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PICHET AVEC 4 GOBELETS EVERYDAY ESSENTIALS, 5 un.","PICHET AVEC 4 GOBELETS EVERYDAY ESSENTIALS, 5 un.",Everyday Essentials™,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"LANGUETTES, PÉPITES, BURGERS, OU POPCORN DE POULET FLAMINGO, 530-680 G","LANGUETTES, PÉPITES, BURGERS, OU POPCORN DE POULET FLAMINGO, 530-680 G",Flamingo,,4.95,,each,4.95,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS,TROUSSES-REPAS OU STACKERS LUNCHMATE SCHNEIDERS,Schneiders,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SAUCE BOLOGNAISE, 1,25 L","SAUCE BOLOGNAISE, 1,25 L",,,15,,each,15,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SAUCISSES À DÎNER OU À DÉJEUNER ULTIMATE, 375/500 G","SAUCISSES À DÎNER OU À DÉJEUNER ULTIMATE, 375/500 G",,,6.49,,each,6.49,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BURGERS, SIMILI HACHÉE, SAUCISSES, FILETS DE POULET OU STEAK À BASE DE PLANTE BEYOND MEAT, 226 - 400 G","BURGERS, SIMILI HACHÉE, SAUCISSES, FILETS DE POULET OU STEAK À BASE DE PLANTE BEYOND MEAT, 226 - 400 G",Beyond Meat,,6.99,,each,6.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"LÉGUMES SURGELÉS PC, 350-750 G OU POISSON PANÉ PRISE DU JOUR, 350 G",legumes surgeles,PC | PRISE DU JOUR,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"VIN MARQUIS DE MERICOURT, 4 L","VIN MARQUIS DE MERICOURT, 4 L",Marquis De Mericourt,,40,,each,40,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,VINAIGRE BLANC PUR SANS NOM®,VINAIGRE BLANC PUR SANS NOM®,SANS NOM,,2.29,,each,2.29,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ESCALOPES DE CUISSEAU DE VEAU DE GRAIN FAMILLE FONTAINE,ESCALOPES DE CUISSEAU DE VEAU DE GRAIN FAMILLE FONTAINE,Famille Fontaine,,23.99,,lb,52.89,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,LINGETTES POUR BÉBÉ HUGGIES,LINGETTES POUR BÉBÉ HUGGIES,Huggies,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,DENTIFRICE SENSODYNE 75/100 ML OU CRÈME FORTE ADHÉRENCE POLIGRIP 40 G,DENTIFRICE SENSODYNE 75/100 ML OU CRÈME FORTE ADHÉRENCE POLIGRIP 40 G,Sensodyne,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NOIX DE CAJOU OU MÉLANGE MONTAGNARD PLANTERS, 145-200 G","NOIX DE CAJOU OU MÉLANGE MONTAGNARD PLANTERS, 145-200 G",Planters,,3.99,,each,3.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ÉCHALOTES FRANÇAISES ATTITUDE FRAÎCHE,ÉCHALOTES FRANÇAISES ATTITUDE FRAÎCHE,ATTITUDE FRAÎCHE,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,POITRINE DE POULET DÉSOSSÉES ET SANS PEAU MAPLE LEAF,poitrine de poulet,Maple Leaf,,14,,each,14,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"COCKTAIL DE CANNEBERGES OU DE LÉGUMES PC, 1,89 L","COCKTAIL DE CANNEBERGES OU DE LÉGUMES PC, 1,89 L",PC,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"AROMATISANT LIQUIDE POUR EAU PC, 48 mL","AROMATISANT LIQUIDE POUR EAU PC, 48 mL",PC,,2.75,,each,2.75,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"POUDING BELSOY, 4x125g","POUDING BELSOY, 4x125g",BELSOY,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CHOCOLAT HERSHEY'S, 160-270 G","CHOCOLAT HERSHEY'S, 160-270 G",Hershey's,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,LOTION POUR LE CORPS ST. IVES,LOTION POUR LE CORPS ST. IVES,St. Ives,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"COUCHES SWADDLERS, CRUISERS 360° OU BABY DRY MÉGA PAMPERS","COUCHES SWADDLERS, CRUISERS 360° OU BABY DRY MÉGA PAMPERS",Pampers,,34.99,,each,34.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GERBER® BABY CEREAL,GERBER® BABY CEREAL,Gerber,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SAUCES TACO BELL,SAUCES TACO BELL,Taco Bell,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BÂTONNETS DE FROMAGE MOZZARRELLA OU CÔTES DE DOS DE PORC ENTIÈREMENT CUITES ST-HUBERT, 510/680 g","BÂTONNETS DE FROMAGE MOZZARRELLA OU CÔTES DE DOS DE PORC ENTIÈREMENT CUITES ST-HUBERT, 510/680 g",ST-HUBERT,,6.95,,each,6.95,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"LÉGUMES GÉANT VERT OU POIS LE SIEUR, 341/398 mL","LÉGUMES GÉANT VERT OU POIS LE SIEUR, 341/398 mL",,,0.77,,each,0.77,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PAPIER HYGIÉNIQUE ROYALE, 15=30 rouleaux","PAPIER HYGIÉNIQUE ROYALE, 15=30 rouleaux",Royale,,5.99,,each,5.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ÉPINARDS EN BOTTE,ÉPINARDS EN BOTTE,,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"TOMATES NATURELLEMENT IMPARFAIT SANS NOM®, 2,5 LB","TOMATES NATURELLEMENT IMPARFAIT SANS NOM®, 2,5 LB",sans nom®,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CREVETTES D'ARGENTINE CRUES MARINA DEL REY,CREVETTES D'ARGENTINE CRUES MARINA DEL REY,MARINA DEL REY,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,RAISINS VERTS OU ROUGES SANS PÉPINS,raisins,,,3.99,,lb,8.8,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PULL-UPS OU SOUS-VÊTEMENTS DE NUIT GOODNITES 24-44 UN. HUGGIES,PULL-UPS OU SOUS-VÊTEMENTS DE NUIT GOODNITES 24-44 UN. HUGGIES,GOODNITES | HUGGIES,,27.99,,each,27.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CÔTELETTES DE LONGE D'AGNEAU D'AUSTRALIE,CÔTELETTES DE LONGE D'AGNEAU D'AUSTRALIE,,,13.99,,lb,30.84,kg,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"KITS DE SALADE HACHÉE PC, 285-396 G","KITS DE SALADE HACHÉE PC, 285-396 G",PC,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SALAMETTI OU CHARCUTERIE FANTINO & MONDELLO,SALAMETTI OU CHARCUTERIE FANTINO & MONDELLO,Fantino & Mondello,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,BOEUF HACHÉ MAIGRE FAMILLE FONTAINE,boeuf hache,Famille Fontaine,,10,,each,10,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CAROTTES NANTAISES,CAROTTES NANTAISES,,,2.77,,each,2.77,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BETTERAVES, OIGNONS JAUNES OU CAROTTES, SAC DE 10 LB OU RUTABAGAS, SAC DE 5 LB","BETTERAVES, OIGNONS JAUNES OU CAROTTES, SAC DE 10 LB OU RUTABAGAS, SAC DE 5 LB",DÉLICES DU MARCHÉ,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"COUCHES SWADDLERS, CRUISERS OU BABY DRY PAMPERS, GRAND FORMAT","COUCHES SWADDLERS, CRUISERS OU BABY DRY PAMPERS, GRAND FORMAT",Pampers,,28.99,,each,28.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,POIREAUX,POIREAUX,,,5.99,,each,5.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CÉRÉALES POUR BÉBÉS CERELAC NESTLÉ,CÉRÉALES POUR BÉBÉS CERELAC NESTLÉ,Nestle,,8.5,,each,8.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FROMAGE FETA, BOCCONCINI, PARMESAN, RROMANO OU ASIAGO SAPUTO","FROMAGE FETA, BOCCONCINI, PARMESAN, RROMANO OU ASIAGO SAPUTO",Saputo,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"PROTÈGE-DESSOUS, 48-72 UN., SERVIETTES, 10-46 UN. OU TAMPONS, 14-18 UN. ALWAYS OU TAMPAX","PROTÈGE-DESSOUS, 48-72 UN., SERVIETTES, 10-46 UN. OU TAMPONS, 14-18 UN. ALWAYS OU TAMPAX",ALWAYS | TAMPAX,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"ENSEMBLE À TACO TACO BELL, 260-420 G","ENSEMBLE À TACO TACO BELL, 260-420 G",Taco Bell,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CRAQUELINS CRISPERS OU MÉLI-MÉLO,CRAQUELINS CRISPERS OU MÉLI-MÉLO,,,1.44,,each,1.44,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CARRÉS RICE KRISPIES 154-176 G, POP TARTS 384 G, BARRES SPECIAL K 125 G OU NUTRI-GRAIN 295 G KELLOGG'S","CARRÉS RICE KRISPIES 154-176 G, POP TARTS 384 G, BARRES SPECIAL K 125 G OU NUTRI-GRAIN 295 G KELLOGG'S",Kellogg's,,2.88,,each,2.88,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GRIGNOTINES HUMPTY DUMPTY 250-290 G OU CROUSTILLES OU CHIPS TORTILLA OLD DUTCH 200-290 G,GRIGNOTINES HUMPTY DUMPTY 250-290 G OU CROUSTILLES OU CHIPS TORTILLA OLD DUTCH 200-290 G,Humpty Dumpty | Old Dutch,,3,,each,3,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FRIANDISES MAYNARD, 90 UN.","FRIANDISES MAYNARD, 90 UN.",Maynards,,16.99,,each,16.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FROMAGE RÂPÉ P'TIT QUÉBEC, 907 g","FROMAGE RÂPÉ P'TIT QUÉBEC, 907 g",P'Tit Quebec,,11,,each,11,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CHAUSSON-PIZZA SANS NOM®, 400 G","CHAUSSON-PIZZA SANS NOM®, 400 G",sans nom®,,3.5,,each,3.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,GNOCCHI À POÊLER OLIVIERI,GNOCCHI À POÊLER OLIVIERI,Olivieri,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,ROULEAUX OU MOUCHOIRS 6X100 FEUILLES ROYALE,ROULEAUX OU MOUCHOIRS 6X100 FEUILLES ROYALE,Royale,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"VIN WALLAROO OU SMOKY BAY ROUGE, BLANC OU ROSÉ, 1 L","VIN WALLAROO OU SMOKY BAY ROUGE, BLANC OU ROSÉ, 1 L",WALLAROO TRAIL,,10,,each,10,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CÉRÉALES FORMAT FAMILIAL POST, 525-635 G","CÉRÉALES FORMAT FAMILIAL POST, 525-635 G",Post,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CRÈME GLACÉE 414/450 ML OU BARRES 3/4 UN. HÄAGEN-DAZS,CRÈME GLACÉE 414/450 ML OU BARRES 3/4 UN. HÄAGEN-DAZS,Häagen-Dazs,,4.99,,each,4.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,RADIS OU OIGNONS VERTS EN BOUTEILLE,RADIS OU OIGNONS VERTS EN BOUTEILLE,,,1.25,,each,1.25,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SUPPLÉMENTS NUTRITIONELS PRÊTS À BOIRE ENSURE OU GLUCERNA,SUPPLÉMENTS NUTRITIONELS PRÊTS À BOIRE ENSURE OU GLUCERNA,Ensure,,11.5,,each,11.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,MINI PIZZA LE FRAISIER,MINI PIZZA LE FRAISIER,LE FRAISIER,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"JUS D'ORANGE, CONSIGNE, SMOOTHIE, MÉLANGES PAUSE SANTÉ OU BOISSON OASIS",jus d orange,,,3.44,,each,3.44,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,DARNES DE PANGASIUS,DARNES DE PANGASIUS,,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PETITES CITROUILLES,PETITES CITROUILLES,,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"ASSOUPLISSANT TEXTILE LIQUIDE 3,5 L OU EN FEUILLES 200 UN. FLEECY","ASSOUPLISSANT TEXTILE LIQUIDE 3,5 L OU EN FEUILLES 200 UN. FLEECY",Fleecy,,10,,each,10,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SOINS CAPILLAIRES PANTENE,SOINS CAPILLAIRES PANTENE,Pantene,,4.75,,each,4.75,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CÉRÉALES FORMAT JUMBO KELLOGG'S, 700 G-1,05 KG","CÉRÉALES FORMAT JUMBO KELLOGG'S, 700 G-1,05 KG",Kellogg's,,9,,each,9,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CANTALOUP, OU ANANAS,","CANTALOUP, OU ANANAS,",,,3.99,,each,3.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SAUCES CANTON, 180 ML OU TABASCO, 57 ML","SAUCES CANTON, 180 ML OU TABASCO, 57 ML",CANTON | TABASCO,,3.25,,each,3.25,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FÈVES CLARK, 398 ML OU MÉLANGE À SAUCE BÂTON ROUGE, 36/45 G","FÈVES CLARK, 398 ML OU MÉLANGE À SAUCE BÂTON ROUGE, 36/45 G",CLARK | BÂTON ROUGE,,1.5,,each,1.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"ESSUIE-TOUT PC MAX, 3-6 ROULEAUX","ESSUIE-TOUT PC MAX, 3-6 ROULEAUX",PC,,7,,each,7,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"TARTINADE LACTANTIA, 227/427 G","TARTINADE LACTANTIA, 227/427 G",Lactantia,,1.88,,each,1.88,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SUR LES SOINS POUR BÉBÉS AVEENO,SUR LES SOINS POUR BÉBÉS AVEENO,Aveeno,,7.19,,each,7.19,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,RÔTI DE LONGE DE PORC SAVEURS DU MONDE PC,cotes de porc,PC,,14,,each,14,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"EAU DE JAVEL 2,4 L OU PASTILLES 40 UN. LA PARISIENNE","EAU DE JAVEL 2,4 L OU PASTILLES 40 UN. LA PARISIENNE",La Parisienne,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-01,maxi-joliette,"CROQUETTES CUITES À LA MARMITE PC, 250 G","CROQUETTES CUITES À LA MARMITE PC, 250 G",PC,,2,,each,2,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FROMAGE HALOUMI OU À GRILLER NABULSI LE BÉDOUIN,200 G","FROMAGE HALOUMI OU À GRILLER NABULSI LE BÉDOUIN,200 G",Nabulsi Le Bédouin,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,FROMAGE EN BARRE OU RÂPÉ 300-400 G CRACKER BARREL OU MOZZARELLA POUR PIZZA P'TIT QUÉBEC 400/500 G,FROMAGE EN BARRE OU RÂPÉ 300-400 G CRACKER BARREL OU MOZZARELLA POUR PIZZA P'TIT QUÉBEC 400/500 G,CRACKER BARREL | P'TIT QUÉBEC,,5.97,,each,5.97,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,BIFTECK DE CONTREFILET VIEILLI FAMILLE FONTAINE,BIFTECK DE CONTREFILET VIEILLI FAMILLE FONTAINE,Famille Fontaine,,17,,each,17,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,JAMBON FUMÉ TOUPIE DÉSOSSÉ OLYMEL,JAMBON FUMÉ TOUPIE DÉSOSSÉ OLYMEL,Olymel,,18,,each,18,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SAUCISSON KOLBASSA FUMÉ OU BÂTONNETS DE PEPPERONI ZIGGY'S®, 300/375 G","SAUCISSON KOLBASSA FUMÉ OU BÂTONNETS DE PEPPERONI ZIGGY'S®, 300/375 G",Ziggy's®,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BOUCHÉES OLD EL PASO, 368 G","BOUCHÉES OLD EL PASO, 368 G",Old El Paso,,9,,each,9,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CREVETTES BLANCHES DU PACIFIQUE CRUES OU CUITES SEAQUEST®,CREVETTES BLANCHES DU PACIFIQUE CRUES OU CUITES SEAQUEST®,,,13,,each,13,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CHARCUTERIES TRANCHÉES NATURAL SELECTIONS MAPLE LEAF,CHARCUTERIES TRANCHÉES NATURAL SELECTIONS MAPLE LEAF,Maple Leaf,,6.5,,each,6.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"JUS TRADITION, 1,5 L","JUS TRADITION, 1,5 L",Tradition,,4.99,,each,4.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,TROUSSE DE FRINGALES TACO BELL,TROUSSE DE FRINGALES TACO BELL,Taco Bell,,7,,each,7,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BLANCS D'OEUFS PC MENU BLEU, 1 KG",oeufs,PC,,8,,each,8,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"BIÈRE CORONA, SOL, SAPPORO, STELLA ARTOIS, MODELO, DOS EQUIS, KRONENBOURG 1664 BLANC, BLUE MOON, HEINEKEN OU SILVER, 24X330/355 ML","BIÈRE CORONA, SOL, SAPPORO, STELLA ARTOIS, MODELO, DOS EQUIS, KRONENBOURG 1664 BLANC, BLUE MOON, HEINEKEN OU SILVER, 24X330/355 ML",CORONA | SOL | SAPPORO | STELLA ARTOIS | MODELO | DOS EQUIS | KRONENBOURG | BLUE MOON | HEINEKEN,,30.66,,,30.66,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,COCKTAIL DE LÉGUMES V8 6X156 ML CONSIGNE OU JUS OU COCKTAIL ALLEN'S 8X200 ML,COCKTAIL DE LÉGUMES V8 6X156 ML CONSIGNE OU JUS OU COCKTAIL ALLEN'S 8X200 ML,V8 | ALLEN'S,,2.5,,each,2.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CORNICHONS 1 L MOISHE'S OU HARICOTS MARINÉS 500 ML THE EXTREME BEAN,CORNICHONS 1 L MOISHE'S OU HARICOTS MARINÉS 500 ML THE EXTREME BEAN,,,4.99,,each,4.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"CHOCOLAT FORMAT COLLATION HERSHEY'S, 100 un.","CHOCOLAT FORMAT COLLATION HERSHEY'S, 100 un.",Hershey's,,17.49,,each,17.49,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FRIANDISES HARIBO, 520 G, GUMMY CLUSTERS NERDS, 484 G OU CHOCOLAT ASSORTI FERRERO ROCHER, 393 G","FRIANDISES HARIBO, 520 G, GUMMY CLUSTERS NERDS, 484 G OU CHOCOLAT ASSORTI FERRERO ROCHER, 393 G",HARIBO | NERDS | FERRERO ROCHER,,8.99,,each,8.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,FROMAGE GOUDA BERGERON,FROMAGE GOUDA BERGERON,Bergeron,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,TORTILLAS CASA MENDOZA,TORTILLAS CASA MENDOZA,Casa Mendosa,,2.85,,each,2.85,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,SOUPE CHUNKY CAMPBELL'S,SOUPE CHUNKY CAMPBELL'S,Campbell's,,2.28,,each,2.28,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,CHOUX DE BRUXELLES,CHOUX DE BRUXELLES,,,5,,each,5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NOUILLES INSTANTANÉES MR. NOODLES, 85 G","NOUILLES INSTANTANÉES MR. NOODLES, 85 G",Mr. Noodles,,0.35,,each,0.35,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"NOURRITURE HUMIDE POUR CHIEN PEDIGREE, 375 G","NOURRITURE HUMIDE POUR CHIEN PEDIGREE, 375 G",Pedigree,,1.75,,each,1.75,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"FROMAGE EN BLOC, 250 G OU TRANCHÉS, 140-170 G PC™",fromage cheddar,PC,,6,,each,6,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,MAYONNAISE MAG,MAYONNAISE MAG,MAG,,5.5,,each,5.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,PLATS CUISINÉS CRAVE,PLATS CUISINÉS CRAVE,Crave,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND,FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND,Black Diamond,,6.5,,each,6.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+2026-09-24,maxi-joliette,"SMOOTHIE FONDANT BIOLOGIQUE OU BOUCHÉES AUX FRUITS POUR TOUT-PETITS AMARA, 213 G","SMOOTHIE FONDANT BIOLOGIQUE OU BOUCHÉES AUX FRUITS POUR TOUT-PETITS AMARA, 213 G",AMARA,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
 2026-09-24,metro-joliette,ÉPICES SELECTION,ÉPICES SELECTION,,,0.99,,,0.99,unknown,flipp,Quebec
 2026-09-24,metro-joliette,BLEUETS,BLEUETS,,,3.99,,,3.99,unknown,flipp,Quebec
 2026-09-24,metro-joliette,OIGNONS ROSES,OIGNONS ROSES,,,3.99,,,3.99,unknown,flipp,Quebec
@@ -29842,6 +30024,7 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-24,metro-joliette,FRAPPUCCINO STARBUCKS,FRAPPUCCINO STARBUCKS,,,2.99,,,2.99,unknown,flipp,Quebec
 2026-09-24,metro-joliette,RIZ SELECTION,RIZ SELECTION,,,2.49,,,2.49,unknown,flipp,Quebec
 2026-09-24,metro-joliette,"DESSERT GLACÉ NESTLÉ® 1,5 L, CRÈME GLACÉE LA VRAIE CRÈME® 1,5 L, FRIANDISES GLACÉES CONFISERIE 4-10/50-135 ML, DRUMSTICK™ 4-6/63-140 ML, DEL MONTE® 10/50 ML","DESSERT GLACÉ NESTLÉ® 1,5 L, CRÈME GLACÉE LA VRAIE CRÈME® 1,5 L, FRIANDISES GLACÉES CONFISERIE 4-10/50-135 ML, DRUMSTICK™ 4-6/63-140 ML, DEL MONTE® 10/50 ML",,,5.44,,,5.44,unknown,flipp,Quebec
+<<<<<<< HEAD
 2026-09-24,maxi-joliette,"VINAIGRETTE OU TREMPETTES MARZETTI, 340 G","VINAIGRETTE OU TREMPETTES MARZETTI, 340 G",Marzetti,,4,,each,4,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,maxi-joliette,PRÉPARATION POUR NOURRISSONS SIMILAC,PRÉPARATION POUR NOURRISSONS SIMILAC,Similac,,34.99,,each,34.99,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,maxi-joliette,PURÉE DE POMMES DE TERRE IDAHOAN,pommes,Idahoan,,1,,each,1,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
@@ -30021,6 +30204,8 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-24,maxi-joliette,PLATS CUISINÉS CRAVE,PLATS CUISINÉS CRAVE,Crave,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,maxi-joliette,FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND,FROMAGE FICELLO OU COLLATIONS BLACK DIAMOND,Black Diamond,,6.5,,each,6.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,maxi-joliette,"SMOOTHIE FONDANT BIOLOGIQUE OU BOUCHÉES AUX FRUITS POUR TOUT-PETITS AMARA, 213 G","SMOOTHIE FONDANT BIOLOGIQUE OU BOUCHÉES AUX FRUITS POUR TOUT-PETITS AMARA, 213 G",AMARA,,4.5,,each,4.5,each,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+=======
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
 2026-09-24,superc-joliette,Jambon fumé demi-lune Irrésistible Artisan,Jambon fumé demi-lune Irrésistible Artisan,,,6.99,,,6.99,unknown,flipp,Circulaire
 2026-09-24,superc-joliette,Quenelles Siwin,Quenelles Siwin,,,5.99,,,5.99,unknown,flipp,Circulaire
 2026-09-24,superc-joliette,Tourtière du Saguenay-Lac- St-Jean Michel Barrette,Tourtière du Saguenay-Lac- St-Jean Michel Barrette,,,12.99,,,12.99,unknown,flipp,Circulaire
@@ -30499,6 +30684,7 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-24,intermarche-joliette,CONFITURE OU MARMELADE,CONFITURE OU MARMELADE,Smucker's,,6.99,,,6.99,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,intermarche-joliette,FRIANDISES,FRIANDISES,Maynards,,3,,,3,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
 2026-09-24,intermarche-joliette,"ASSIETTES À DÎNER 10,38""","ASSIETTES À DÎNER 10,38""",Royal Chinet,,8.49,,,8.49,unknown,flipp,"Weekly Flyer - Valid Thursday, September 24 - Wednesday, September 30"
+<<<<<<< HEAD
 2026-09-24,bonichoix-joliette,CANNEBERGES FRAÎCHES,CANNEBERGES FRAÎCHES,,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
 2026-09-24,bonichoix-joliette,YOGOURT À BOIRE YOPLAIT YOP,lait,Yoplait,,0.97,,,0.97,unknown,flipp,Circulaire de la semaine
 2026-09-24,bonichoix-joliette,CROUSTILLES LAY'S,CROUSTILLES LAY'S,Lay's,,7,,,7,unknown,flipp,Circulaire de la semaine
@@ -30732,6 +30918,8 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-24,tradition-joliette,POM BAGELS OU MUFFINS ANGLAIS,POM BAGELS OU MUFFINS ANGLAIS,POM,,3.99,,,3.99,unknown,flipp,Québec
 2026-09-24,tradition-joliette,BELOV ORGANIC OAT BLEND FOR BABIES,BELOV ORGANIC OAT BLEND FOR BABIES,BELOV,,7.49,,,7.49,unknown,flipp,Québec
 2026-09-24,tradition-joliette,CHOUX DE BRUXELLES,CHOUX DE BRUXELLES,,,3.99,,,3.99,unknown,flipp,Québec
+=======
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
 2026-09-24,iga-joliette,CREVETTES BLANCHES CRUES DE L'ÉQUATEUR SURGELÉES COMPLIMENTS,CREVETTES BLANCHES CRUES DE L'ÉQUATEUR SURGELÉES COMPLIMENTS,,,8.99,,,8.99,unknown,flipp,Circulaire Hebdomadaire
 2026-09-24,iga-joliette,RAVIOLIS SURGELÉS KIM PHAT,RAVIOLIS SURGELÉS KIM PHAT,KIM PHAT,,8.49,,,8.49,unknown,flipp,Circulaire Hebdomadaire
 2026-09-24,iga-joliette,FROMAGE À LA CRÈME PHILADELPHIA,FROMAGE À LA CRÈME PHILADELPHIA,PHILADELPHIA,,3.97,,,3.97,unknown,flipp,Circulaire Hebdomadaire
@@ -31049,4 +31237,241 @@ date_observed,store,item_name,normalized_name,brand,category,price,size,unit,nor
 2026-09-24,iga-joliette,SAUCISSES OU GALETTES À DÉJEUNER SURGELÉES VALEUR PLUS,SAUCISSES OU GALETTES À DÉJEUNER SURGELÉES VALEUR PLUS,VALEUR PLUS,,12,,,12,unknown,flipp,Circulaire Hebdomadaire
 2026-09-24,iga-joliette,TARTINADE COMPLIMENTS,TARTINADE COMPLIMENTS,Compliments,,8.49,,,8.49,unknown,flipp,Circulaire Hebdomadaire
 2026-09-24,iga-joliette,JARRET DE BŒUF À RAGOÛT,JARRET DE BŒUF À RAGOÛT,,,7.99,,,7.99,unknown,flipp,Circulaire Hebdomadaire
+<<<<<<< HEAD
 2026-09-24,iga-joliette,BIFTECK ATTENDRI OU BIFTECK SANDWICH,BIFTECK ATTENDRI OU BIFTECK SANDWICH,,,10.99,,,10.99,unknown,flipp,Circulaire Hebdomadaire
+=======
+2026-09-24,iga-joliette,BIFTECK ATTENDRI OU BIFTECK SANDWICH,BIFTECK ATTENDRI OU BIFTECK SANDWICH,,,10.99,,,10.99,unknown,flipp,Circulaire Hebdomadaire
+2026-09-24,bonichoix-joliette,CANNEBERGES FRAÎCHES,CANNEBERGES FRAÎCHES,,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,YOGOURT À BOIRE YOPLAIT YOP,lait,Yoplait,,0.97,,,0.97,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CROUSTILLES LAY'S,CROUSTILLES LAY'S,Lay's,,7,,,7,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,GÂTEAUX OU TARTELETTES VACHON (6 ou 12 ) BISCUITS SARA LEE RONDEAU (248 à 500 g),GÂTEAUX OU TARTELETTES VACHON (6 ou 12 ) BISCUITS SARA LEE RONDEAU (248 à 500 g),VACHON | SARA LEE,,7,,,7,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,POMMES LOBO OU POMMES MCINTOSH COMPLIMENTS,pommes,Compliments,,3.77,,,3.77,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"CÔTELETTES DE LONGE DE PORC FRAIS DÉSOSSÉES, FILETS DE PORC SURGELÉS OU RÔTI DE LONGE DE PORC FRAIS",cotes de porc,,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,TRANCHE DE FROMAGE COMPLIMENTS,TRANCHE DE FROMAGE COMPLIMENTS,Compliments,,13.99,,,13.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JAMBON CUIT GASPÉSIEN,JAMBON CUIT GASPÉSIEN,Gaspésien,,2.29,,,2.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA,PRODUIT DE FROMAGE À LA CRÈME PHILADELPHIA,PHILADELPHIA,,3.97,,,3.97,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BOLOGNE LAFLEUR,BOLOGNE LAFLEUR,Lafleur,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,RAISINS VERTS OU ROUGES SANS PÉPINS,raisins,,,2.44,,,2.44,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FROMAGE CAPRINY ALEXIS DE PORTNEUF,FROMAGE CAPRINY ALEXIS DE PORTNEUF,Alexis de Portneuf,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FRIANDISES MAYNARDS OU FREDDO HALLOWEEN,FRIANDISES MAYNARDS OU FREDDO HALLOWEEN,MAYNARDS | FREDDO,,9.49,,,9.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"CAFÉ INSTANTANÉ NESCAFÉ GOLD ESPRESSO (95 ou 100 g), RICHE, ENCORE (100 à 170 g), CRÉMEUX ET SUCRÉ (16 ou 18 sachets)",cafe,Nescafe,,6.44,,,6.44,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,REPAS ASIATIQUE SURGELÉ WONG WING,REPAS ASIATIQUE SURGELÉ WONG WING,Wong Wing,,5.44,,,5.44,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PEPSI OU COCA-COLA OU CANADA DRY GINGEMBRE,PEPSI OU COCA-COLA OU CANADA DRY GINGEMBRE,PEPSI | COCA-COLA | CANADA DRY,,3.49,,,3.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"BISCUITS LECLERC TRADITION 1905, VITAL, PRAEVENTIA, PRAEVENTIA JUNIOR","BISCUITS LECLERC TRADITION 1905, VITAL, PRAEVENTIA, PRAEVENTIA JUNIOR",Leclerc,,2.47,,,2.47,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SOUPE ST-HUBERT,SOUPE ST-HUBERT,St. Hubert,,1.99,,,1.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PIZZA SURGELÉE DR OETKER,PIZZA SURGELÉE DR OETKER,Dr. Oetker,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SANDWICHES FARCIS C'EST PRÊT!,SANDWICHES FARCIS C'EST PRÊT!,C'EST PRÊT!,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS,FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS,Compliments,,7.99,,,7.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BISCUITS SAVEURS DU FOUR,BISCUITS SAVEURS DU FOUR,Saveurs du Four,,5.49,,,5.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,POISSONNERIE SALADE DE SIMILI CRABE C'EST PRÊT!,POISSONNERIE SALADE DE SIMILI CRABE C'EST PRÊT!,C'EST PRÊT !,,9.99,,,9.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PÂTES FRAÎCHES COMPLIMENTS,pates,Compliments,,9.99,,,9.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CREVETTES CUITES SURGELÉES CARAVELLE,CREVETTES CUITES SURGELÉES CARAVELLE,Caravelle,,13.99,,,13.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,ENSEMBLE POUR PIZZA COMPLIMENTS,ENSEMBLE POUR PIZZA COMPLIMENTS,Compliments,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CHOCOLATINES,CHOCOLATINES,,,5.49,,,5.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"BOLOGNE BILOPAGE, OLYMEL OU LAFLEUR L'AUTHENTIQUE OU BOLOGNE À L'AIL OLYMEL","BOLOGNE BILOPAGE, OLYMEL OU LAFLEUR L'AUTHENTIQUE OU BOLOGNE À L'AIL OLYMEL",Olymel,,1.69,,,1.69,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FROMAGE CAPRICE DES DIEUX,FROMAGE CAPRICE DES DIEUX,Caprice Des Dieux,,6.49,,,6.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FROMAGE OU FROMAGE BLEU TRE STELLE QU CASTELLO (125 ou 200 g) FROMAGE BOCCONCINI TRE STELLE (200 g),FROMAGE OU FROMAGE BLEU TRE STELLE QU CASTELLO (125 ou 200 g) FROMAGE BOCCONCINI TRE STELLE (200 g),TRE STELLE®,,6.49,,,6.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,DEMI-FESSE DE PORC FRAIS,DEMI-FESSE DE PORC FRAIS,,,3.49,,,3.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PEPSI OU COCA-COLA,PEPSI OU COCA-COLA,PEPSI | COCA-COLA,,17,,,17,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BÂTONNETS DE FROMAGE SURGELÉS OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME COMPLIMENTS,BÂTONNETS DE FROMAGE SURGELÉS OU JALAPENOS FARCIS DE FROMAGE À LA CRÈME COMPLIMENTS,Compliments,,7.99,,,7.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"BIÈRE ARCHIBALD ENSEMBLE CLASSIQUE, BORÉALE CAISSE MIXTE ESCAPADE BRASSEUR DE MONTRÉAL OU UNIBROUE MIXTE","BIÈRE ARCHIBALD ENSEMBLE CLASSIQUE, BORÉALE CAISSE MIXTE ESCAPADE BRASSEUR DE MONTRÉAL OU UNIBROUE MIXTE",ARCHIBALD | BORÉALE | BRASSEUR DE MONTRÉAL | UNIBROUE,,21.99,,,21.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,COMBO DE SAUCISSES FRAÎCHES LA FERNANDIÈRE OU SAUCISSES FRAÎCHES À DÉJEUNER LAFLEUR,COMBO DE SAUCISSES FRAÎCHES LA FERNANDIÈRE OU SAUCISSES FRAÎCHES À DÉJEUNER LAFLEUR,LA FERNANDIÈRE | LAFLEUR,,9.99,,,9.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,GALETTES D'ÉPAULE DE BŒUF HACHÉ MI-MAIGRE STERLING SILVER,GALETTES D'ÉPAULE DE BŒUF HACHÉ MI-MAIGRE STERLING SILVER,STERLING SILVER,,8.99,,,8.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JAMBON FUMÉ LAFLEUR,JAMBON FUMÉ LAFLEUR,Lafleur,,12.99,,,12.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CHOCOLAT LINDT EXCELLENCE,CHOCOLAT LINDT EXCELLENCE,Lindt,,12,,,12,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BIFTECK FRANÇAIS OU RÔTI FRANÇAIS,BIFTECK FRANÇAIS OU RÔTI FRANÇAIS,,,12.99,,,12.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BOEUF FRAIS POUR FONDUE CHINOISE OU RACLETTE STERLING SILVER,BOEUF FRAIS POUR FONDUE CHINOISE OU RACLETTE STERLING SILVER,STERLING SILVER,,15.99,,,15.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CAROTTES COUPÉES COMPLIMENTS,CAROTTES COUPÉES COMPLIMENTS,Compliments,,3.5,,,3.5,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,VIANDE FUMÉE TRANCHÉE SCHWARTZ'S,VIANDE FUMÉE TRANCHÉE SCHWARTZ'S,SCHWARTZ'S,,15.99,,,15.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CHIPS TORTILLA DORITOS (210 à 280 g) OU GRIGNOTINES CHEETOS (180 à 285 g),CHIPS TORTILLA DORITOS (210 à 280 g) OU GRIGNOTINES CHEETOS (180 à 285 g),DORITOS | CHEETOS,,9,,,9,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CROUSTILLES LAY'S OU RUFFLES,CROUSTILLES LAY'S OU RUFFLES,LAY'S | RUFFLES,,13.99,,,13.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SHAMPOOING GARNIER WHOLE BLENDS,SHAMPOOING GARNIER WHOLE BLENDS,Garnier,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,HELLMANN'S MAYONNAISE,HELLMANN'S MAYONNAISE,Hellmann's,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CÉRÉALES QUAKER CROQUE NATURE,CÉRÉALES QUAKER CROQUE NATURE,Quaker,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,ESSUIE-TOUT VALEUR PLUS (6 roul.) OU PAPIER HYGIÉNIQUE VALEUR PLUS (8 roul.),ESSUIE-TOUT VALEUR PLUS (6 roul.) OU PAPIER HYGIÉNIQUE VALEUR PLUS (8 roul.),VALEUR PLUS,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,POUDING ET GELÉE SNACK PACK,POUDING ET GELÉE SNACK PACK,Snack Pack,,2.19,,,2.19,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"CRÈME QUÉBON ULTRA CRÈME OU SEALTEST 5 %, 10 %, 15 % M.G. (473 mL), 35% M.G. (237 mL)","CRÈME QUÉBON ULTRA CRÈME OU SEALTEST 5 %, 10 %, 15 % M.G. (473 mL), 35% M.G. (237 mL)",Québon,,3.79,,,3.79,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,DÎNER CHEF BOYARDEE,DÎNER CHEF BOYARDEE,Chef Boyardee,,2.99,,,2.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,YOGOURT IÖGO,yogourt,Iögo,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MÉLANGE D'ASSAISONNEMENTS OLD EL PASO,MÉLANGE D'ASSAISONNEMENTS OLD EL PASO,Old El Paso,,1.69,,,1.69,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FRITES SURGELÉES BÂTON ROUGE,FRITES SURGELÉES BÂTON ROUGE,BÂTON ROUGE,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,ASSOUPLISSANT TEXTILE FLEECY,ASSOUPLISSANT TEXTILE FLEECY,Fleecy,,5.49,,,5.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JUS DE POMME ROUGEMONT OU NECTAR DE FRUITS DEL MONTE,JUS DE POMME ROUGEMONT OU NECTAR DE FRUITS DEL MONTE,ROUGEMONT | DEL MONTE,,4.29,,,4.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"CHOCOLAT CADBURY (498 g), NERDS 40 UN., DARE REAL FRUIT TABLETTES OU KINDER BUENO (297 à 600 g), FRIANDISES CHOCOLATÉES LINDT (297g à 600 g)","CHOCOLAT CADBURY (498 g), NERDS 40 UN., DARE REAL FRUIT TABLETTES OU KINDER BUENO (297 à 600 g), FRIANDISES CHOCOLATÉES LINDT (297g à 600 g)",CADBURY | DARE | KINDER | LINDT,,10.99,,,10.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BEURRE D'ARACHIDE KRAFT,beurre,Kraft,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MÉLANGE À SAUCE LONEY'S,MÉLANGE À SAUCE LONEY'S,LONEY'S,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BOISSON AUX FRUITS FRUITÉ,BOISSON AUX FRUITS FRUITÉ,fruite,,2.49,,,2.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BOISSON GAZEUSE COMPLIMENTS,BOISSON GAZEUSE COMPLIMENTS,Compliments,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SACS À ORDURES COMPLIMENTS,SACS À ORDURES COMPLIMENTS,Compliments,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MUFFINS SAVEURS DU FOUR,MUFFINS SAVEURS DU FOUR,,,6.49,,,6.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FROMAGE RÂPÉ COMPLIMENTS,FROMAGE RÂPÉ COMPLIMENTS,Compliments,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BEIGNES SAVEURS DU FOUR,BEIGNES SAVEURS DU FOUR,Saveurs du Four,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CROÛTONS COMPLIMENTS,CROÛTONS COMPLIMENTS,Compliments,,2.49,,,2.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS,HUILE D'OLIVE EXTRA VIERGE COMPLIMENTS,Compliments,,8.49,,,8.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN,JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN,Gaspésien,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,TAMPONS KOTEX,TAMPONS KOTEX,Kotex,,7.29,,,7.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MÉLANGE D'AVOINE BIOLOGIQUE POUR BÉBÉ BELOV,MÉLANGE D'AVOINE BIOLOGIQUE POUR BÉBÉ BELOV,BELOV,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SAUCE SIGNATURE FITCOOK FOODZ,SAUCE SIGNATURE FITCOOK FOODZ,FITCOOK FOODZ,,11.49,,,11.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PRODUIT DE FROMAGE FONDU LA VACHE QUI RIT,PRODUIT DE FROMAGE FONDU LA VACHE QUI RIT,La Vache qui rit,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,RIZ KIMORA DAINTY,RIZ KIMORA DAINTY,Dainty,,12.99,,,12.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,EAU DE SOURCE NATURELLE ESKA,EAU DE SOURCE NATURELLE ESKA,Eska,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,RIZ BASMATI DAINTY,RIZ BASMATI DAINTY,Dainty,,11.49,,,11.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,SERVIETTES HYGIÉNIQUES KOTEX U,SERVIETTES HYGIÉNIQUES KOTEX U,U by Kotex,,7.29,,,7.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,POITRINE DE DINDE ÉMINCÉE CUITE OLYMEL,POITRINE DE DINDE ÉMINCÉE CUITE OLYMEL,Olymel,,13.99,,,13.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BAGELS OU MUFFINS ANGLAIS POM,BAGELS OU MUFFINS ANGLAIS POM,POM,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BANANES BIOLOGIQUES ET ÉQUITABLES,bananes,,,1.29,,,1.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BACON TRANCHÉ MÈRE MICHEL,BACON TRANCHÉ MÈRE MICHEL,Mere Michel,,8.49,,,8.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,RIZ JASMIN DAINTY,RIZ JASMIN DAINTY,Dainty,,10.99,,,10.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CHARCUTERIES TRANCHÉES MAPLE LEAF,CHARCUTERIES TRANCHÉES MAPLE LEAF,Maple Leaf,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,LOTION CORPORELLE NIVEA,LOTION CORPORELLE NIVEA,Nivea,,11.79,,,11.79,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,FROMAGE À GRILLER HALOUMI SAPUTO,FROMAGE À GRILLER HALOUMI SAPUTO,Saputo,,7.49,,,7.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,ŒUFS BLANCS COMPLIMENTS,ŒUFS BLANCS COMPLIMENTS,Compliments,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CRÈME POUR LE VISAGE NIVEA DOUCE RÉGÉNÉRATRICE,CRÈME POUR LE VISAGE NIVEA DOUCE RÉGÉNÉRATRICE,Nivea,,16.49,,,16.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PROSCIUTTO COTTO MASTRO,PROSCIUTTO COTTO MASTRO,MASTRO,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,AVOCATS HASS,AVOCATS HASS,Avocados from Mexico,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,TRIO DE CHARCUTERIE COMPLIMENTS,TRIO DE CHARCUTERIE COMPLIMENTS,Compliments,,12.49,,,12.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,AILES DE POULET OU BOUCHÉES DE POITRINE DE POULET PANÉES SURGELÉES FLAMINGO,poitrine de poulet,Flamingo,,14.99,,,14.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS OU THÉ GLACÉ ARIZONA,JUS DE FRUITS OU COCKTAIL DE LÉGUMES OASIS OU THÉ GLACÉ ARIZONA,OASIS | ARIZONA,,4.29,,,4.29,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"MADELEINES, MICRO CROISSANTS, MINI CHOCOLATINE LA PETITE BRETONNE","MADELEINES, MICRO CROISSANTS, MINI CHOCOLATINE LA PETITE BRETONNE",LA PETITE BRETONNE,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"TARTINADE, TREMPETTE OU TZATZIKI FONTAINE SANTÉ","TARTINADE, TREMPETTE OU TZATZIKI FONTAINE SANTÉ",Fontaine Santé,,5.49,,,5.49,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,PEPPERONI CASERTA TRANCHÉ ROMA,PEPPERONI CASERTA TRANCHÉ ROMA,Roma,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MARGARINE BECEL,MARGARINE BECEL,Becel,,6.99,,,6.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,MÉLANGE À SAUCE KNORR,MÉLANGE À SAUCE KNORR,Knorr,,1.66,,,1.66,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,BARRES DE CRÈME GLACEE OU CRÈME GLACÉE PANACHE,BARRES DE CRÈME GLACEE OU CRÈME GLACÉE PANACHE,Panache,,5.99,,,5.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,POITRINES DE POULET FRAIS DÉSOSSÉES,POITRINES DE POULET FRAIS DÉSOSSÉES,,,8.99,,,8.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,NOURRITURE POUR CHIENS CESAR,NOURRITURE POUR CHIENS CESAR,Cesar,,1.69,,,1.69,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,"FRIANDISES HERSHEY'S, TWIZZLERS, JOLLY RANCHER","FRIANDISES HERSHEY'S, TWIZZLERS, JOLLY RANCHER",HERSHEY'S | TWIZZLERS | JOLLY RANCHER,,16.99,,,16.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,CHOU-FLEUR BLANC,CHOU-FLEUR BLANC,,,3.99,,,3.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,TARTINADE COMPLIMENTS,TARTINADE COMPLIMENTS,Compliments,,7.99,,,7.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,GÂTEAU AUX CAROTTES TOP DESSERT,GÂTEAU AUX CAROTTES TOP DESSERT,Top Dessert,,9.99,,,9.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,QUARTIER DE MELON D'EAU SANS PÉPINS,QUARTIER DE MELON D'EAU SANS PÉPINS,,,0.99,,,0.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,bonichoix-joliette,JUS DE FRUIT OU SMOOTHIE RÉFRIGÉRÉS OASIS,JUS DE FRUIT OU SMOOTHIE RÉFRIGÉRÉS OASIS,Oasis®,,4.99,,,4.99,unknown,flipp,Circulaire de la semaine
+2026-09-24,tradition-joliette,SANDBWICHES OU SANDBWICHES FARCIS,SANDBWICHES OU SANDBWICHES FARCIS,,,4.49,,,4.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,DINDE HACHÉ EXTRA MAIGRE PRIX CLUB,DINDE HACHÉ EXTRA MAIGRE PRIX CLUB,Prix Club,,15,,,15,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"MADELEINES, MINI CHOCOLATINES OU MICRO CROISSANTS LA PETITE BRETONNE","MADELEINES, MINI CHOCOLATINES OU MICRO CROISSANTS LA PETITE BRETONNE",LA PETITE BRETONNE,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHILI RICARDO,CHILI RICARDO,Ricardo,,9.49,,,9.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHOCOLAT LINDT,CHOCOLAT LINDT,Lindt,,12,,,12,unknown,flipp,Québec
+2026-09-24,tradition-joliette,VIANDE FUMÉE TRANCHÉE,VIANDE FUMÉE TRANCHÉE,Lesters,,14.99,,,14.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,NETTOYANT POUR LE FOUR EASY-OFF,NETTOYANT POUR LE FOUR EASY-OFF,Easy-Off,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,ASSOUPLISSANT TEXTILE FLEECY,ASSOUPLISSANT TEXTILE FLEECY,Fleecy,,5.49,,,5.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SOUPE CAMPBELL'S,SOUPE CAMPBELL'S,Campbell's,,5,,,5,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"CHIPS TORTILLA DORITOS (210 à 280 g), CROUSTILLES SUN CHIPS (293 g) OU GRIGNOTINES CHEETOS (185 à 285 g)","CHIPS TORTILLA DORITOS (210 à 280 g), CROUSTILLES SUN CHIPS (293 g) OU GRIGNOTINES CHEETOS (185 à 285 g)",DORITOS | SUN CHIPS | CHEETOS,,4.49,,,4.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BISCUITS POUR CHIENS MILK-BONE,lait,Milk-Bone,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FILET DE SAUMON OU DE THON RIO MARE,saumon,Rio Mare,,7.99,,,7.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,DESSERT RÉFRIGÉRÉ JELL-O OU HERSHEY'S,DESSERT RÉFRIGÉRÉ JELL-O OU HERSHEY'S,JELL-O | HERSHEY'S,,4.69,,,4.69,unknown,flipp,Québec
+2026-09-24,tradition-joliette,COMPLIMENTS FROZEN CHEESE STICKS,COMPLIMENTS FROZEN CHEESE STICKS,Compliments,,7.44,,,7.44,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CROÛTONS COMPLIMENTS,CROÛTONS COMPLIMENTS,Compliments,,5,,,5,unknown,flipp,Québec
+2026-09-24,tradition-joliette,LINGES HUMIDES SWIFFER OU NETTOYANT SWIFFER,LINGES HUMIDES SWIFFER OU NETTOYANT SWIFFER,Swiffer,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BIÈRE,BIÈRE,,,21.99,,,21.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BOISSON ÉNERGISANTE ALANI NU OU CELSIUS,BOISSON ÉNERGISANTE ALANI NU OU CELSIUS,ALANI NU | CELSIUS,,6,,,6,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MÉLANGE À GAUFRES OU À CRÊPES CORA,MÉLANGE À GAUFRES OU À CRÊPES CORA,,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,NOURRITURE POUR CHIENS PEDIGREE CESAR,NOURRITURE POUR CHIENS PEDIGREE CESAR,Cesar,,1.69,,,1.69,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MUFFINS SAVEURS DU FOUR,MUFFINS SAVEURS DU FOUR,,,6.49,,,6.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,EAU PÉTILLANTE ORIGINALE COMPLIMENTS,EAU PÉTILLANTE ORIGINALE COMPLIMENTS,,,3.33,,,3.33,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SALADE DE SIMILI CRABE C'EST PRÊT!,SALADE DE SIMILI CRABE C'EST PRÊT!,C'EST PRÊT!,,9.99,,,9.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,VINAIGRE BLANC COMPLIMENTS,VINAIGRE BLANC COMPLIMENTS,Compliments,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MÉLANGE D'ASSAISONNEMENTS OLD EL PASO,MÉLANGE D'ASSAISONNEMENTS OLD EL PASO,Old El Paso,,1.69,,,1.69,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CÔTELETTES DE LONGE D'AGNEAU ASSAÎNÉES RECOMMANDÉES PAR NOTRE BOUCHER,CÔTELETTES DE LONGE D'AGNEAU ASSAÎNÉES RECOMMANDÉES PAR NOTRE BOUCHER,,,16.99,,,16.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN,JAMBON BLANC CUIT TRANCHÉ GASPÉSIEN,Gaspésien,,6.99,,,6.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BISCUITS SAVEURS DU FOUR,BISCUITS SAVEURS DU FOUR,Saveurs du Four,,5.49,,,5.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHOCOLATINES,CHOCOLATINES,,,5.49,,,5.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CEUFS BLANC COMPLIMENTS POULES EN LIBERTE,yogourt,,,3.97,,,3.97,unknown,flipp,Québec
+2026-09-24,tradition-joliette,RIZ JASMIN DAINTY,RIZ JASMIN DAINTY,Dainty,,10.99,,,10.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SAUCISSES DE PORC FRAIS PRIX CLUB,SAUCISSES DE PORC FRAIS PRIX CLUB,Prix Club,,15,,,15,unknown,flipp,Québec
+2026-09-24,tradition-joliette,RAISINS ROUGES OU VERTS SANS PÉPINS,raisins,,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,RIZ KIMORA DAINTY,RIZ KIMORA DAINTY,Dainty,,12.99,,,12.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,Riz précuit,Riz précuit,Panache,,5,,,5,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MÉLANGE À SAUCE POUR PÂTES KNORR,pates,Knorr,,1.66,,,1.66,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BACON TRANCHÉ MÈRE MICHEL,BACON TRANCHÉ MÈRE MICHEL,Mere Michel,,8.49,,,8.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SAUCISSES FUMÉES COMPLIMENTS,SAUCISSES FUMÉES COMPLIMENTS,Compliments,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHARCUTERIES TRANCHÉES MAPLE LEAF,CHARCUTERIES TRANCHÉES MAPLE LEAF,Maple Leaf,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,KOTEX PADS OR TAMPONS,KOTEX PADS OR TAMPONS,U by Kotex,,7.29,,,7.29,unknown,flipp,Québec
+2026-09-24,tradition-joliette,NATREL FINEMENT FILTRÉ,NATREL FINEMENT FILTRÉ,Natrel,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MÉLANGE À SAUCE KNORR,MÉLANGE À SAUCE KNORR,Knorr,,1.66,,,1.66,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SAUCE FITCOOK FOODZ,SAUCE FITCOOK FOODZ,FITCOOK FOODZ,,11.49,,,11.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,PROSCIUTTO COTTO MASTRO,PROSCIUTTO COTTO MASTRO,MASTRO,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FRIANDISES MAYNARDS,FRIANDISES MAYNARDS,Maynards,,9.49,,,9.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FRIANDISES NESTLÉ,FRIANDISES NESTLÉ,Nestle,,7.99,,,7.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CRÈME SURE SEALTEST,CRÈME SURE SEALTEST,Sealtest,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BOISSON AUX FRUITS OU THÉ GLACÉ,BOISSON AUX FRUITS OU THÉ GLACÉ,fruite,,2.49,,,2.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,LOTION CORPORELLE NIVEA (625 mL) OU CRÈME POUR LE VISAGE NIVEA (500 mL),LOTION CORPORELLE NIVEA (625 mL) OU CRÈME POUR LE VISAGE NIVEA (500 mL),Nivea,,11.49,,,11.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"FRIANDISES TWIZZLERS - JOLLY RANCHER (35) OU HERSEYS OH HENRY!, REESE'S (25 ou 32)","FRIANDISES TWIZZLERS - JOLLY RANCHER (35) OU HERSEYS OH HENRY!, REESE'S (25 ou 32)",Twizzlers | Jolly Rancher | Hershey's | Oh Henry! | Reese's,,8.49,,,8.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,NOURRITURE POUR CHATS WHISKAS,NOURRITURE POUR CHATS WHISKAS,Whiskas,,19.99,,,19.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE CRACKER BARREL (340 ou 400 g) OU FROMAGE RÂPÉ CRACKER BARREL (250 à 320 g),FROMAGE CRACKER BARREL (340 ou 400 g) OU FROMAGE RÂPÉ CRACKER BARREL (250 à 320 g),Cracker Barrel,,5.97,,,5.97,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BOLOGNE LAFLEUR,BOLOGNE LAFLEUR,Lafleur,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"MÉLANGE À SAUCE OU SAUCE ST-HUBERT (20 à 57 g ou 398 mL), LELARGE FINE CUISINE (28 à 48 g) OU THE KEG (22 à 31 g)","MÉLANGE À SAUCE OU SAUCE ST-HUBERT (20 à 57 g ou 398 mL), LELARGE FINE CUISINE (28 à 48 g) OU THE KEG (22 à 31 g)",St-Hubert | Lelarge Fine Cuisine | The Keg,,1.75,,,1.75,unknown,flipp,Québec
+2026-09-24,tradition-joliette,PIZZA SURGELÉE DR. OETKER,PIZZA SURGELÉE DR. OETKER,Dr. Oetker,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CÔTELETTES DE LONGE DE PORC TRAÎS DÉSOSSÉES,cotes de porc,D'ici,,2.99,,,2.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FIGUES NOIRES FRAÎCHES,FIGUES NOIRES FRAÎCHES,,,13.99,,,13.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,JUS DE FRUITS OU LIMONADE RÉFRIGÉRÉS HERITAGE 77,JUS DE FRUITS OU LIMONADE RÉFRIGÉRÉS HERITAGE 77,HERITAGE 77,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CÔTES DE DOS DE PORC FRAIS ST-HUBERT,CÔTES DE DOS DE PORC FRAIS ST-HUBERT,St. Hubert,,15.99,,,15.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,COMPLIMENTS BABY-CUT CARROTS,COMPLIMENTS BABY-CUT CARROTS,Compliments,,3.5,,,3.5,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE CAPRINY ALEXIS DE PORTNEUF,FROMAGE CAPRINY ALEXIS DE PORTNEUF,Alexis de Portneuf,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE BOCCONCINI OU FETA TRE STELLE,FROMAGE BOCCONCINI OU FETA TRE STELLE,Tre Stelle,,6.49,,,6.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CARAVELLE FROZEN COOKED SHRIMP,CARAVELLE FROZEN COOKED SHRIMP,Caravelle,,13.99,,,13.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,GALETTES D'ÉPAULE DE BUE HACHÉ MI-MAIGRE,GALETTES D'ÉPAULE DE BUE HACHÉ MI-MAIGRE,STERLING SILVER,,8.99,,,8.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BOEUF FRAIS POUR FONDUE CHINOISE OU RACLETTE STERLING SILVER,BOEUF FRAIS POUR FONDUE CHINOISE OU RACLETTE STERLING SILVER,STERLING SILVER,,15.99,,,15.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,LE PETIT CRÈMEUX PROCESS CHEESE PRODUCT,LE PETIT CRÈMEUX PROCESS CHEESE PRODUCT,Boivin,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,REPAS ASIATIQUE SURGELÉ WONG WING,REPAS ASIATIQUE SURGELÉ WONG WING,Wong Wing,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CAFÉ INSTANTANÉ NESCAFÉ,cafe,Nescafe,,6.44,,,6.44,unknown,flipp,Québec
+2026-09-24,tradition-joliette,POIVRONS,POIVRONS,,,3,,,3,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SOUP OU CHAUDRÉE ST-HUBERT,SOUP OU CHAUDRÉE ST-HUBERT,St. Hubert,,1.77,,,1.77,unknown,flipp,Québec
+2026-09-24,tradition-joliette,TARTINADE NUTELLA,TARTINADE NUTELLA,Nutella,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,ENSEMBLE POUR PIZZA COMPLIMENTS,ENSEMBLE POUR PIZZA COMPLIMENTS,Compliments,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SALSA COMPLIMENTS,SALSA COMPLIMENTS,Compliments,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,OLYMEL COOKED SHAVED TURKEY BREAST,OLYMEL COOKED SHAVED TURKEY BREAST,Olymel,,13.99,,,13.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,HUILE D'OLIVE COMPLIMENTS,HUILE D'OLIVE COMPLIMENTS,Compliments,,8.49,,,8.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MICHE RUSTIQUE AU PAIN DORÉ,pain,AU PAIN DORÉ,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MAIS À ÉCLATER AU MICRO-ONDES ORVILLE REDENBACHER,MAIS À ÉCLATER AU MICRO-ONDES ORVILLE REDENBACHER,ORVILLE REDENBACHER,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MINI-CONCOMBRES SANS PÉPINS,MINI-CONCOMBRES SANS PÉPINS,,,5,,,5,unknown,flipp,Québec
+2026-09-24,tradition-joliette,COMPLIMENTS ORANGES,COMPLIMENTS ORANGES,Compliments,,2.77,,,2.77,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MAYONNAISE HELLMANN'S,MAYONNAISE HELLMANN'S,Hellmann's,,5.97,,,5.97,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"FÈVES CLARK (398 mL) PÂTÉ DE VIANDE À TARTINER PARIS PÂTÉ (78 g) THON PÂLE AROMATISÉ, ENTIER OU LISTAO CLOVER LEAF (85 ou 170 g )","FÈVES CLARK (398 mL) PÂTÉ DE VIANDE À TARTINER PARIS PÂTÉ (78 g) THON PÂLE AROMATISÉ, ENTIER OU LISTAO CLOVER LEAF (85 ou 170 g )",CLARK | PARIS PÂTÉ | CLOVER LEAF,,1.25,,,1.25,unknown,flipp,Québec
+2026-09-24,tradition-joliette,PEPPERONI CASERTA TRANCHÉ ROMA,PEPPERONI CASERTA TRANCHÉ ROMA,Roma,,6.99,,,6.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,JAMBON CUIT GASPÉSIEN,JAMBON CUIT GASPÉSIEN,Gaspésien,,2.29,,,2.29,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MARGARINE BECEL,MARGARINE BECEL,Becel,,6.99,,,6.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"BOLOGNE BILOPAGE, LAFLEUR OU OLYMEL","BOLOGNE BILOPAGE, LAFLEUR OU OLYMEL",Bilopage | Lafleur | Olymel,,1.69,,,1.69,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"TARTINADE, TREMPETTE OU TZATZIKI","TARTINADE, TREMPETTE OU TZATZIKI",Fontaine Santé,,5.49,,,5.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,TRANCHES DE FROMAGE COMPLIMENTS,TRANCHES DE FROMAGE COMPLIMENTS,Compliments,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BANANES BIOLOGIQUES ET ÉQUITABLES,bananes,,,1.29,,,1.29,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BEIGNES GLACÉS COMPLIMENTS,BEIGNES GLACÉS COMPLIMENTS,Compliments,,2.99,,,2.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE BOURSIN FROMAGERIES BEL,FROMAGE BOURSIN FROMAGERIES BEL,Boursin,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,RIZ BASMATI DAINTY,RIZ BASMATI DAINTY,Dainty,,11.49,,,11.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CANNEBERGES FRAÎCHES,CANNEBERGES FRAÎCHES,,,2.99,,,2.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,POMMES SWEETANGO,pommes,Swee Tango,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE SAPUTO MOZZARELLISSIMA,FROMAGE SAPUTO MOZZARELLISSIMA,Saputo,,11.99,,,11.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FRANDISES ORIGINAL FOODS,FRANDISES ORIGINAL FOODS,ORIGINAL FOODS GRANDMA,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,VIN BLANC OU ROUGE BLASONS ROUGES,VIN BLANC OU ROUGE BLASONS ROUGES,,,11.99,,,11.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,TRIO DE CHARCUTERIE COMPLIMENTS,TRIO DE CHARCUTERIE COMPLIMENTS,Compliments,,12.99,,,12.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,EAU DE SOURCE NATURELLE ESKA,EAU DE SOURCE NATURELLE ESKA,Eska,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,AILES DE POULET OU BOUCHÉES DE POULET PANÉES SURGELÉES FLAMINGO,AILES DE POULET OU BOUCHÉES DE POULET PANÉES SURGELÉES FLAMINGO,Flamingo,,14.99,,,14.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE À GRILLER HALOUMI SAPUTO DORÉ-MI,FROMAGE À GRILLER HALOUMI SAPUTO DORÉ-MI,Saputo,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,PEPSI GU COCA-COLA MINI,PEPSI GU COCA-COLA MINI,COCA-COLA,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHOU-FLEUR BLANC,CHOU-FLEUR BLANC,,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CRÈME GLACÉE PANACHE (1 L) OU BARRES DE CRÈME GLACÉE PANACHE,CRÈME GLACÉE PANACHE (1 L) OU BARRES DE CRÈME GLACÉE PANACHE,Panache,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,NOURRITURE POUR CHATS WHISKAS PERFECT PORTIONS,NOURRITURE POUR CHATS WHISKAS PERFECT PORTIONS,Whiskas,,1.39,,,1.39,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MOUTARDE PRÉPARÉE FRENCH'S,MOUTARDE PRÉPARÉE FRENCH'S,French's,,2.99,,,2.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BEIGNES SAVEURS DU FOUR,BEIGNES SAVEURS DU FOUR,,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BISCUITS,BISCUITS,Leclerc,,2.47,,,2.47,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CROUSTILLES LAY'S,CROUSTILLES LAY'S,Lay's,,7,,,7,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S,CÉRÉALES OU SUBSTITUT DE REPAS KELLOGG'S,Kellogg's,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,TARTINADE COMPLIMENTS,TARTINADE COMPLIMENTS,Compliments,,8.49,,,8.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS,FILETS DE SOLE SAUVAGE SURGELÉS COMPLIMENTS,Compliments,,7.99,,,7.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FROMAGE CAPRICE DES DIEUX,FROMAGE CAPRICE DES DIEUX,Caprice Des Dieux,,6.49,,,6.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,DEMI-FESSE DE PORC FRAIS,DEMI-FESSE DE PORC FRAIS,,,3.49,,,3.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,POITRINES DE POULET FRAIS DÉSOSSÉES,POITRINES DE POULET FRAIS DÉSOSSÉES,,,8.99,,,8.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BIFTECK FRANÇAIS,BIFTECK FRANÇAIS,,,12.99,,,12.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,JUS D'ORANGE RÉFRIGÉRÉ COMPLIMENTS,jus d orange,Compliments,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,MÉLANGES D'ASSAISONNEMENTS CLUB HOUSE,MÉLANGES D'ASSAISONNEMENTS CLUB HOUSE,Club House,,5.99,,,5.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,FRITES SURGELÉES BÂTON ROUGE,FRITES SURGELÉES BÂTON ROUGE,BÂTON ROUGE,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,"JUS DE FRUITS, COCKTAIL DE 10 LÉGUMES, THÉ GLACÉ OU NECTAR DE FRUITS OASIS, ROUGEMONT, ARIZONA OU DEL MONTE","JUS DE FRUITS, COCKTAIL DE 10 LÉGUMES, THÉ GLACÉ OU NECTAR DE FRUITS OASIS, ROUGEMONT, ARIZONA OU DEL MONTE",OASIS | ROUGEMONT | ARIZONA | DEL MONTE,,4.29,,,4.29,unknown,flipp,Québec
+2026-09-24,tradition-joliette,SACS À ORDURES OU COMPOSTABLES COMPLIMENTS,SACS À ORDURES OU COMPOSTABLES COMPLIMENTS,Compliments,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CRÈME QUEBON ULTRA CRÈME,CRÈME QUEBON ULTRA CRÈME,Québon,,4.99,,,4.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CORDON BLEU STEW,CORDON BLEU STEW,Cordon Bleu,,4.79,,,4.79,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BOISSON POUR SPORTIFS GATORADE,BOISSON POUR SPORTIFS GATORADE,Gatorade,,6.99,,,6.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,LA VACHE QUI RIT FONDU,LA VACHE QUI RIT FONDU,La Vache qui rit,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,GÂTEAU AUX CAROTTES,GÂTEAU AUX CAROTTES,,,9.99,,,9.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,POM BAGELS OU MUFFINS ANGLAIS,POM BAGELS OU MUFFINS ANGLAIS,POM,,3.99,,,3.99,unknown,flipp,Québec
+2026-09-24,tradition-joliette,BELOV ORGANIC OAT BLEND FOR BABIES,BELOV ORGANIC OAT BLEND FOR BABIES,BELOV,,7.49,,,7.49,unknown,flipp,Québec
+2026-09-24,tradition-joliette,CHOUX DE BRUXELLES,CHOUX DE BRUXELLES,,,3.99,,,3.99,unknown,flipp,Québec
+>>>>>>> 111a4592da77f1be9e4c9dabe1df7dc68a09d8a2
