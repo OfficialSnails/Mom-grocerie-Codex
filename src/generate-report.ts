@@ -451,6 +451,7 @@ const COSTCO_NON_GROCERY_KEYWORDS = [
   'appareil photo', 'barbecue', 'bbq', 'outil', 'outils', 'perceuse', 'scie',
   'tondeuse', 'kayak', 'velo', 'vélo', 'pneu', 'pneus', 'piscine', 'jouet', 'jouets',
   'decoration', 'décoration', 'decor', 'décor', 'jardiniere', 'jardinière',
+  'poeles', 'poele a frire', 'poele antiadhesive', 'frying pan', 'cookware', 'batterie de cuisine',
 ];
 
 const COSTCO_GROCERY_INCLUDE_KEYWORDS = [

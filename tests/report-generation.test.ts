@@ -1268,6 +1268,23 @@ describe('website user-facing wording and week filtering', () => {
     expect(isCostcoGroceryRelevant(scored[3])).toBe(false);
   });
 
+  it.each([
+    ['Poêles Spectra à trois couches hybride de GreenPan', false],
+    ['Poêle à frire en acier inoxydable', false],
+    ['Poêle antiadhésive en céramique', false],
+    ['Batterie de cuisine en acier', false],
+    ['Nonstick frying pans cookware set', false],
+    ['Poêlée de légumes surgelés', true],
+    ['Sacs de conservation pour aliments', true],
+  ])('filters Costco cookware without removing grocery consumables: %s', (name, expected) => {
+    expect(isCostcoGroceryRelevant({
+      store_id: 'costco-quebec',
+      item_name: name,
+      normalized_name: name,
+      category: 'Maison',
+    })).toBe(expected);
+  });
+
   it('uses natural product wording instead of items vus', async () => {
     const { readFile } = await import('node:fs/promises');
     const [html, js, css] = await Promise.all([

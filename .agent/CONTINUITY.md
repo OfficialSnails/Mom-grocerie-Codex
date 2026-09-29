@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Generate and publish the weekly Quebec grocery data.
-Now: Week `Semaine du 30 juillet au 5 août 2026` is generated, QA-validated, locally verified, and deployed to Cloudflare Pages.
-Next: Commit/push generated artifacts if the user wants the repo history updated.
+Now: 2026-09-23T13:38:44-04:00 [TOOL] September 24–30 is generated, validated and live. This supersedes the July snapshot below. See latest run receipts.
+Next: Review the existing unknown-unit estimate follow-up; no Git commit/push was made.
 Open questions: None.
 
 ## Decisions
@@ -70,3 +70,14 @@ Relevant files:
 
 ## Follow ups
 - Commit/push generated files if desired; no commit was created by Codex in this run.
+
+## Latest run — September 23, 2026
+- 2026-09-23T13:38:44-04:00 [USER] Canonical workspace only; target upcoming September 24–30 flyers with `BONS_SPECIAUX_RUN_DATE=2026-09-24T12:00:00-04:00`.
+- 2026-09-23T13:38:44-04:00 [TOOL] Fresh Flipp/Wishabi collection: 1834 priced items, nine stores, 1737 new source IDs versus last week. All source periods overlap the target; Costco monthly offers end September 27. No Firecrawl; 18 expired CSV rows skipped. OCR enabled, no recovered extra offers. Evidence: `/tmp/mom-grocerie-2026-09-23-weekly.log`, new week's `Autres/raw-items.json`.
+- 2026-09-23T13:38:44-04:00 [CODE] Costco cookware exclusion expanded in `src/generate-report.ts` with seven regression cases in `tests/report-generation.test.ts`. Rebuilt from saved raw data and re-exported Obsidian. Final counts 87 bons prix / 1489 products supersede initial 81 / 1490; rescore uses refreshed price history. No manual JSON edits.
+- 2026-09-23T13:38:44-04:00 [TOOL] 124/124 tests, JS syntax, pantry and category QA pass; zero high-confidence category errors. Four ambiguous frozen products confirmed by source descriptions. 35 generated/data JSON files valid (22 website files), no conflict markers or active merge; CRLF-aware diff check passes. Evidence: `/tmp/mom-grocerie-2026-09-23-tests-final.log`, `reports/qa/category-review-semaine-du-24-au-30-septembre-2026.md`.
+- 2026-09-23T13:38:44-04:00 [TOOL] Local Chrome validation passed newest/two-week selector, both modes, Costco optional off, store scope, rayon switching, cross-rayon search, add/remove/clear, loaded proofs, notes, and Desktop PDF. PDF fixed subtotal $6, weight-priced courgette excluded, caveats and notes present. Evidence: `/Users/slugz/Desktop/liste-epicerie-24-au-30-septembre-2026.pdf`.
+- 2026-09-23T13:38:44-04:00 [TOOL] `npm run deploy:cloudflare` succeeded directly; deployment `https://0e6ac472.bons-speciaux-joliette.pages.dev`. Live production index first label `Semaine du 24 au 30 septembre 2026`; index and week JSON byte-identical to local. Python urllib received 403; curl successfully verified both exact production URLs. Evidence: `/tmp/mom-grocerie-2026-09-23-deploy.log`, `/tmp/mom-grocerie-2026-09-23-live-receipt.json`.
+
+### Follow-up: conservative estimates for unknown units
+- 2026-09-23T13:38:44-04:00 [CODE] OPEN. Scope: shared estimator and frontend estimate parity (`src/price-estimate.ts`, `website/app.js`, tests). Current numeric unknown-unit products count toward subtotal even with `Format à vérifier sur la photo.`; browser confirmed Couronne de brocoli $0.99 / unit null is counted. Acceptance: exclude genuinely unconfirmed price formats consistently in basket and both PDF paths while retaining confirmed package prices. Constraint: do not infer fixed units merely from numeric prices; no estimator/UI changes made during weekly generation.
