@@ -90,7 +90,7 @@ export class CsvAdapter implements SourceAdapter {
         if (!active) skippedExpired += 1;
         return active;
       })
-      .map(row => {
+      .map((row): RawDealItem | null => {
         const storeId = resolveStoreId(row.store);
         const price = parseFloat(row.current_price);
         if (isNaN(price)) return null;

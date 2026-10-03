@@ -15,7 +15,8 @@
     "watch-picker": "tsx src/watch-shopping-picker.ts",
     "web": "tsx src/serve-website.ts",
     "cloudflare:login": "npx wrangler login",
-    "deploy:cloudflare": "npm test && npx wrangler pages deploy website --project-name bons-speciaux-joliette",
+    "check": "tsc --noEmit && tsx src/check-release.ts && npm test",
+    "deploy:cloudflare": "npm run check && npx wrangler@4.131.0 pages deploy website --project-name bons-speciaux-joliette --branch main",
     "test": "vitest run"
   },
   "dependencies": {

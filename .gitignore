@@ -4,6 +4,7 @@
 .cache/
 .firecrawl/
 .wrangler/
+.tmp/
 .playwright-cli/
 .shopping-picker-watcher.pid
 node_modules/

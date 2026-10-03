@@ -403,8 +403,9 @@ describe('weekly shopper-facing reports', () => {
         cross_store_winner: true,
         cross_store_savings: 1.05,
         cross_store_competitor_prices: ['Marchés Tradition 6,49 $/lb'],
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
       {
@@ -421,8 +422,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Très bon prix',
         french_reason: 'Environ 51 % moins cher que le prix habituel.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
     ];
@@ -451,8 +453,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Très bon prix',
         french_reason: 'Environ 51 % moins cher que le prix habituel.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
       {
@@ -468,8 +471,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Très bon prix',
         french_reason: 'Environ 46 % moins cher que le prix habituel.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
       {
@@ -485,8 +489,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Bon prix si tu en as besoin',
         french_reason: 'Bon prix si tu en as besoin.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
     ];
@@ -513,8 +518,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Excellent prix',
         french_reason: 'Parmi les meilleurs vus dans les 6 derniers mois.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
     ];
@@ -546,8 +552,9 @@ describe('weekly shopper-facing reports', () => {
         french_label: 'Bon prix si tu en as besoin',
         french_reason: 'Bon prix si tu en as besoin.',
         worth_buying: true,
-        verification_status: 'VERIFIED_FLYER_STRUCTURED',
-        verification_confidence: 'HIGH',
+        verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+        verification_confidence: 'HIGH' as const,
+        confidence: 'HIGH' as const,
         verification_reason: 'ok',
       },
     ];
@@ -574,8 +581,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -626,8 +634,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -666,8 +675,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -694,6 +704,7 @@ describe('weekly shopper-facing reports', () => {
       ['CŒURS DE ROMAINE', 'epicerie', 'coeurs de romaine', 'produce'],
       ['Beignes glacés', 'epicerie', 'beignes glaces', 'bakery'],
       ['Donuts assortis', 'epicerie', 'donuts assortis', 'bakery'],
+      ['PLATEAU PAINS BRETZEL À LA VIANDE FUMÉE MONTRÉAL', 'epicerie', 'plateau pains bretzel a la viande fumee montreal', 'bakery'],
       ["Mike's frozen pasta dinners", 'epicerie', 'mikes frozen pasta dinners', 'frozen'],
       ['Dîner de pâtes surgelé Mike’s', 'epicerie', 'diner de pates surgele mikes', 'frozen'],
       ['Pâtés impériaux surgelés', 'epicerie', 'pates imperiaux surgeles', 'frozen'],
@@ -906,8 +917,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -939,8 +951,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -1076,8 +1089,9 @@ describe('weekly shopper-facing reports', () => {
       french_label: 'Bon prix si tu en as besoin',
       french_reason: 'Bon prix si tu en as besoin.',
       worth_buying: true,
-      verification_status: 'VERIFIED_FLYER_STRUCTURED',
-      verification_confidence: 'HIGH',
+      verification_status: 'VERIFIED_FLYER_STRUCTURED' as const,
+      verification_confidence: 'HIGH' as const,
+      confidence: 'HIGH' as const,
       verification_reason: 'ok',
     };
 
@@ -1295,7 +1309,7 @@ describe('website user-facing wording and week filtering', () => {
 
     expect(html).toContain('Tous les produits');
     expect(html).toContain('Rechercher un produit');
-    expect(js).toContain('produits trouvés');
+    expect(js).toContain('produits en circulaire');
     expect(js).toContain('produit${store.count > 1 ?');
     expect(html).not.toContain('Tous les items');
     expect(html).not.toContain('Rechercher un item');
@@ -1330,9 +1344,9 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain("title: 'Tous'");
     expect(js).toContain('function displayCategories()');
     expect(js).toContain('return [ALL_CATEGORY, ...currentCategories()]');
-    expect(js).toContain("if (category?.id === 'all')");
+    expect(js).toContain("category?.id === 'all'");
     expect(js).toContain('function itemMatchesSelectedStores(item)');
-    expect(js).toContain('return items.filter(itemMatchesSelectedStores)');
+    expect(js).toContain('const scoped = items.filter(itemMatchesSelectedStores)');
   });
 
   it('shows only available totals on category cards', async () => {
@@ -1407,12 +1421,12 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).not.toContain('Épicerie / garde-manger');
   });
 
-  it('explains that categories are automatic in Comment lire la liste', async () => {
+  it('keeps the method note limited to shopper-facing source information', async () => {
     const { readFile } = await import('node:fs/promises');
     const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
 
-    expect(js).toContain('Les rayons sont classés automatiquement');
-    expect(js).toContain('certains produits peuvent parfois être approximatifs');
+    expect(js).toContain('Circulaires du Québec · Prix en CAD');
+    expect(js).toContain('Costco : formats en vrac et prix membre possibles');
   });
 
   it('supports an in-page proof image preview', async () => {
@@ -1485,7 +1499,8 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain('function categoryItems(category)');
     expect(js).toContain('const scopedItems = categoryItems(category)');
     expect(js).toContain('baseItems = query');
-    expect(js).toContain('allWeekItems().filter(itemMatchesSelectedStores)');
+    expect(js).toContain('visibleOffers(allWeekItems())');
+    expect(js).toContain('const scoped = items.filter(itemMatchesSelectedStores)');
     expect(js).toContain('categoryItems(category)');
     expect(js).toContain("els.regularStoresButton?.addEventListener('click'");
     expect(js).toContain("els.allStoresButton?.addEventListener('click'");
@@ -1497,9 +1512,8 @@ describe('website user-facing wording and week filtering', () => {
 
   it('generated active week has no high-confidence pantry category misses', async () => {
     const { readFile } = await import('node:fs/promises');
-    const { existsSync } = await import('node:fs');
-    const weekUrl = new URL('../website/data/weeks/semaine-du-14-au-20-mai-2026/week.json', import.meta.url);
-    if (!existsSync(weekUrl)) return;
+    const index = JSON.parse(await readFile(new URL('../website/data/weeks/index.json', import.meta.url), 'utf8'));
+    const weekUrl = new URL(`../website/${index.weeks[0].path}`, import.meta.url);
 
     const week = JSON.parse(await readFile(weekUrl, 'utf8')) as {
       allCategories?: Array<{ id: string; items: Array<{ name: string; categoryId?: string; categoryTitle?: string; storeName?: string; price?: string }> }>;

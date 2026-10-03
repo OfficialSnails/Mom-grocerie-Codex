@@ -26,6 +26,7 @@ import {
 } from './weekly-files.js';
 import { enrichDealsWithProofOcr, recoverMissingOffersFromProofOcr } from './proof-ocr.js';
 import { datedRowOverlapsRange } from './date-ranges.js';
+import { buildFlyerSources } from './flyer-sources.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PRODUCTS_PATH = join(__dirname, '..', 'data', 'products.json');
@@ -313,25 +314,30 @@ const HOUSEHOLD_KEYWORDS = [
   'serviette sanitaire', 'tampon', 'protege-dessous', 'protège-dessous', 'carefree',
   'couche', 'couches', 'pampers', 'easy-ups', 'ninjamas', 'soins pour bébés', 'soins pour bebes',
   'sudocrem', 'penaten', 'zincofax',
+  'serviettes menstruelles', 'menstrual pads',
 ];
 
 const HEALTH_KEYWORDS = [
-  'pilule', 'pilules', 'pills', 'médicament', 'medicament', 'médicaments', 'medicaments',
+  'pilule', 'pilules', 'médicament', 'medicament', 'médicaments', 'medicaments',
   'vitamine', 'vitamines', 'tylenol', 'advil', 'gravol', 'benadryl', 'reactine', 'claritin',
   'allergie', 'allergy', 'ibuprofene', 'ibuprofène', 'acetaminophene', 'acétaminophène',
-  'aspirine', 'sirop pour la toux', 'toux', 'rhume', 'cold and flu', 'pastilles',
+  'aspirine', 'sirop pour la toux', 'toux', 'rhume', 'cold and flu', 'pastilles pour la gorge',
   'antiacide', 'pansement', 'pansements', 'bandage', 'polysporin', 'biomedic', 'band-aid',
   'comprimé', 'comprimés', 'comprime', 'comprimes', 'caplet', 'caplets',
   'gluteguard', 'promensil', 'venixxa',
-  'aide digestive', 'digestive', 'enzymedica', 'arthri', 'aspirin', 'aspirine',
+  'aide digestive', 'enzymedica', 'arthri', 'aspirin', 'aspirine',
   'benylin', 'canesten', 'bio-oil', 'bio oil', 'aloe vera', 'aloex',
   'écran solaire', 'ecran solaire', 'sunscreen', 'fps ', 'banana boat', 'hawaiian tropic',
   'maquillage', 'cosmétique', 'cosmetique', 'covergirl', 'annabelle', 'marcelle',
   'eau micellaire', 'soin de la peau', 'soins de la peau', 'soins visage', 'bioré', 'biore',
-  'byly', 'dépilatoire', 'depilatoire', 'skintimate', 'gillette', 'rasoir', 'cartouches',
+  'byly', 'dépilatoire', 'depilatoire', 'skintimate', 'gillette', 'rasoir', 'cartouches de rasage',
   'colgate', 'crest', 'buccaux', 'dentaire', 'chardon-marie', 'collagène', 'collagene',
-  'ensure', 'glucerna', 'boost', 'substitut de repas', 'liquid i.v.', 'liquid iv',
+  'ensure', 'glucerna', 'substitut de repas', 'liquid i.v.', 'liquid iv',
+  'dentifrice', 'brosse à dents', 'brosses à dents', 'rince-bouche',
+  'lait corporel', 'lotion corporelle', 'body lotion', 'crème de nuit', 'creme de jour',
+  'crème colorante', 'creme pour le visage', 'crème hydratante', 'dentier',
   'poise', 'depend',
+  'nicorette', 'cepacol',
 ];
 
 const PRODUCE_NAME_KEYWORDS = [
@@ -396,6 +402,7 @@ const MEAT_FISH_NAME_KEYWORDS = [
   'brochette', 'brochettes', 'côtelette', 'cotelette', 'côtelettes', 'cotelettes',
   'côte de', 'cote de', 'agneau', 'veau', 'escalope', 'escalopes',
   'surlonge', 'culotte de surlonge', 'picana', 'picanha', 'souvlaki',
+  'canard', 'duck', 'pétoncle', 'petoncle', 'scallop',
 ];
 
 const FROZEN_NAME_KEYWORDS = [
@@ -409,6 +416,7 @@ const FROZEN_NAME_KEYWORDS = [
   'dessert glacé', 'dessert glace', 'desserts glacés', 'desserts glaces',
   'friandise glacée', 'friandise glacee', 'friandises glacées', 'friandises glacees',
   'yukimi', 'mochi glacé', 'mochi glace',
+  'yogourt glacé', 'yogurt glacé', 'frozen yogurt',
 ];
 
 const BAKERY_NAME_KEYWORDS = [
@@ -478,7 +486,32 @@ function normalizedItemText(deal: Pick<RawDealItem, 'item_name' | 'normalized_na
 }
 
 function includesAny(value: string, keywords: string[]): boolean {
-  return keywords.some(keyword => value.includes(normalizeString(keyword)));
+  return keywords.some(keyword => keyword === 'ail'
+    ? /\bail\b/.test(value)
+    : value.includes(normalizeString(keyword)));
+}
+
+// Match the product, not an ingredient or a fragment of a brand name.
+function healthName(value: string): boolean {
+  return includesAny(value, HEALTH_KEYWORDS) || /\bpills?\b/.test(value) ||
+    (/\bprobioti(?:que|c)s?\b/.test(value) && !/\b(?:yogourt|yogurt|kefir)\b/.test(value)) ||
+    (/\bpastilles?\b/.test(value) && !/chocolat|lave.vaisselle|dishwasher/.test(value)) ||
+    (/\bboost\b/.test(value) && !/\b(?:pile|piles|batteries|battery|duracell)\b/.test(value));
+}
+
+function specificFoodCategory(value: string): ShopperCategoryId | null {
+  value = value.replace(/['’]/g, ' ');
+  if (/\b(?:beurre (?:d )?arachides?|peanut butter)\b/.test(value)) {
+    return /\b(?:bonbons?|candy|biscuits?|cookies?|chocolat|barres?|friandises?)\b/.test(value) ? 'snacks-drinks' : 'pantry';
+  }
+  if (/\b(?:(?:lait|creme) de coco|coconut (?:milk|cream)|macaroni (?:et|and) (?:fromage|cheese))\b/.test(value)) return 'pantry';
+  if (/\b(?:pepites|pastilles|brisures) de chocolat\b/.test(value)) return 'pantry';
+  if (/\b(?:legumineuses?|pois chiches?|chickpeas?)\b/.test(value)) return 'pantry';
+  if (/\bpate refrigeree\b.*\bbiscuits?\b/.test(value)) return 'bakery';
+  if (/\bcocktail aux fruits ocean spray\b/.test(value)) return 'snacks-drinks';
+  if (/\b(?:croissants?|pate (?:refrigeree )?a? ?biscuits?|croutes? a tarte)\b/.test(value)) return 'bakery';
+  if (/\b(?:barres? (?:de |au )?(?:yogourt|yogurt)|chocolat au lait|caramels? au (?:lait|beurre))\b/.test(value)) return 'snacks-drinks';
+  return null;
 }
 
 function isProduceFalsePositive(value: string): boolean {
@@ -508,14 +541,14 @@ function isHouseholdItem(deal: ScoredDeal): boolean {
   const cat = normalizeString(deal.category ?? '');
   const name = normalizedItemText(deal);
   return ['maison', 'home', 'entretien', 'hygiène', 'hygiene', 'papier'].some(k => cat.includes(k)) ||
-    includesAny(name, HOUSEHOLD_KEYWORDS);
+    includesAny(name, HOUSEHOLD_KEYWORDS) || /\b(?:piles|batteries|dishwasher|lave vaisselle)\b/.test(name);
 }
 
 function isHealthItem(deal: ScoredDeal): boolean {
   const cat = normalizeString(deal.category ?? '');
   const name = normalizedItemText(deal);
   return ['pharmacie', 'pharmacy', 'santé', 'sante', 'health'].some(k => cat.includes(k)) ||
-    includesAny(name, HEALTH_KEYWORDS);
+    healthName(name);
 }
 
 export function isCostcoGroceryRelevant(deal: Pick<ScoredDeal, 'store_id' | 'item_name' | 'normalized_name' | 'source_raw_name' | 'category'>): boolean {
@@ -551,6 +584,14 @@ export function classifyShopperCategory(deal: ScoredDeal): ShopperCategoryId | n
     ['surgele', 'frozen'].some(k => cat.includes(k)) ||
     includesAny(name, FROZEN_NAME_KEYWORDS)
   ) return 'frozen';
+
+  const specificFood = specificFoodCategory(name);
+  if (specificFood) return specificFood;
+
+  // Filled pretzel trays are bakery items even when their filling mentions meat.
+  if (includesAny(name, ['bretzel', 'pretzel']) && includesAny(name, BAKERY_NAME_KEYWORDS)) {
+    return 'bakery';
+  }
 
   const tomatoPantryItem = ['sauce tomate', 'sauce aux tomates', 'pâte de tomate', 'pate de tomate', 'coulis de tomate'].some(k => name.includes(normalizeString(k)));
   const tomatoProduceItem = name.includes('tomate') || name.includes('tomato');
@@ -634,9 +675,12 @@ function categoryTitle(id: ShopperCategoryId): string {
 }
 
 function suggestNonPantryCategoryFromText(text: string): { category: ShopperCategoryId; reason: string } | null {
-  if (includesAny(text, HEALTH_KEYWORDS)) return { category: 'health', reason: 'mot de pharmacie/santé' };
-  if (includesAny(text, HOUSEHOLD_KEYWORDS)) return { category: 'household', reason: 'mot de maison/entretien' };
+  if (healthName(text)) return { category: 'health', reason: 'mot de pharmacie/santé' };
+  if (includesAny(text, HOUSEHOLD_KEYWORDS) || /\b(?:piles|batteries|dishwasher|lave vaisselle)\b/.test(text)) return { category: 'household', reason: 'mot de maison/entretien' };
   if (includesAny(text, FROZEN_NAME_KEYWORDS)) return { category: 'frozen', reason: 'mot de produit surgelé' };
+  const specificFood = specificFoodCategory(text);
+  if (specificFood) return { category: specificFood, reason: 'type de produit, plutôt que son ingrédient' };
+  if (includesAny(text, ['bretzel', 'pretzel']) && includesAny(text, BAKERY_NAME_KEYWORDS)) return { category: 'bakery', reason: 'pain garni' };
   if (includesAny(text, MEAT_FISH_NAME_KEYWORDS) || (!isProduceName(text) && includesAny(text, ['beefsteak', 'steak']))) {
     return { category: 'meat-fish', reason: 'mot de viande/poisson' };
   }
@@ -683,8 +727,8 @@ export function findSuspiciousPantryItems(items: PantryQaInput[]): PantryQaFindi
 }
 
 function severityForCategoryMismatch(currentCategory: string, suggestion: ShopperCategoryId): 'high' | 'ambiguous' {
-  const current = normalizeString(currentCategory);
-  if (current === 'pantry' || current === 'epicerie garde manger' || current === 'garde manger et autres') {
+  const current = normalizeString(currentCategory).replace(/ /g, '-');
+  if (current === 'pantry' || current === 'epicerie-garde-manger' || current === 'garde-manger-et-autres') {
     return suggestion === 'snacks-drinks' ? 'ambiguous' : 'high';
   }
   if (current === 'produce') return 'high';
@@ -843,6 +887,8 @@ const STORE_ADDRESSES: Record<string, string> = {
   'bonichoix-stemilie':   "St-Émilie-de-l'Énergie",
   'familiprix-joliette':  'Joliette',
   'costco-quebec':        '',
+  ...Object.fromEntries(Object.entries(JSON.parse(readFileSync(join(__dirname, '..', 'website', 'data', 'store-locations.json'), 'utf8')).stores)
+    .map(([id, location]) => [id, (location as { address: string | null }).address ?? ''])),
 };
 
 const STORE_DISPLAY_NAMES: Record<string, string> = {
@@ -1904,6 +1950,12 @@ function writeWebsiteExport(shortlist: VerifiedDeal[], allDeals: ScoredDeal[], r
   const slug = websiteSlug(weekFolderName);
   const weekDir = join(WEBSITE_WEEKS_DIR, slug);
   mkdirSync(weekDir, { recursive: true });
+  const flyerPath = join(weekDir, 'flyers.json');
+  const previousFlyers = existsSync(flyerPath) ? JSON.parse(readFileSync(flyerPath, 'utf-8')).flyers : [];
+  const flyers = buildFlyerSources(allDeals).map(source => ({
+    ...source, ...previousFlyers.find((previous: { id: string }) => previous.id === source.id),
+  }));
+  writeFileSync(flyerPath, JSON.stringify({ flyers }, null, 2), 'utf-8');
 
   const categoryWinners = pickCategoryWinners(shortlist);
   const dealCategories = buildWebsiteCategories(

@@ -1,0 +1,121 @@
+{
+  "flyers": [
+    {
+      "id": "8139402",
+      "storeId": "bonichoix-joliette",
+      "storeName": "BoniChoix",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8139402",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-10-14T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/433948580/1789543981/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433948554/1789543968/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433948603/1789543969/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8119993",
+      "storeId": "costco-quebec",
+      "storeName": "Costco",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8119993",
+      "startsAt": "2026-08-31T00:00:00-04:00",
+      "endsAt": "2026-09-27T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/432688359/1788329532/extra_large.jpg",
+        "https://f.wishabi.net/page_items/432688360/1788329533/extra_large.jpg",
+        "https://f.wishabi.net/page_items/432688366/1788329531/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8145183",
+      "storeId": "familiprix-joliette",
+      "storeName": "Familiprix",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8145183",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/433854517/1789532597/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433854552/1789532597/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433854553/1789532598/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8144539",
+      "storeId": "iga-joliette",
+      "storeName": "IGA",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8144539",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/434223043/1789700550/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434222972/1789700548/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434222930/1789700547/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8141407",
+      "storeId": "intermarche-joliette",
+      "storeName": "L'Inter-Marché",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8141407",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/434082075/1789597704/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434081993/1789597704/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434081994/1789597705/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8143217",
+      "storeId": "tradition-joliette",
+      "storeName": "Marchés Tradition",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8143217",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-10-14T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/433945961/1789542046/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433946057/1789542051/extra_large.jpg",
+        "https://f.wishabi.net/page_items/433946077/1789542054/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8144913",
+      "storeId": "maxi-joliette",
+      "storeName": "Maxi",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8144913",
+      "startsAt": "2026-09-01T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/434328480/1789779095/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434328830/1789779101/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434328591/1789779096/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8143472",
+      "storeId": "metro-joliette",
+      "storeName": "Metro",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8143472",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/434274367/1789717515/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434274420/1789999388/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434274437/1789717506/extra_large.jpg"
+      ]
+    },
+    {
+      "id": "8143387",
+      "storeId": "superc-joliette",
+      "storeName": "Super C",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8143387",
+      "startsAt": "2026-09-24T00:00:00-04:00",
+      "endsAt": "2026-09-30T23:59:59-04:00",
+      "images": [
+        "https://f.wishabi.net/page_items/434269628/1789720313/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434269634/1789720317/extra_large.jpg",
+        "https://f.wishabi.net/page_items/434269579/1789997422/extra_large.jpg"
+      ]
+    }
+  ]
+}

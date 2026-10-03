@@ -51,7 +51,7 @@ function loadCSV<T>(path: string): T[] {
   return result.data;
 }
 
-function saveCSV<T extends Record<string, unknown>>(path: string, rows: T[]): void {
+function saveCSV<T>(path: string, rows: T[]): void {
   const csv = Papa.unparse(rows);
   writeFileSync(path, csv, 'utf-8');
 }
@@ -113,7 +113,7 @@ export function updateHistory(): void {
   }
 
   const updated = [...historical, ...toAdd];
-  saveCSV(HISTORICAL_PATH, updated as Record<string, unknown>[]);
+  saveCSV(HISTORICAL_PATH, updated);
 
   console.log(`✅ ${toAdd.length} entrée(s) ajoutée(s) à l'historique.`);
   if (skippedExpired > 0) {

@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-10-03T19:28:30.580Z",
+  "regions": [
+    {
+      "id": "joliette",
+      "name": "Joliette et les environs",
+      "postalCode": "J6E3N2",
+      "indexPath": "data/weeks/index.json"
+    },
+    {
+      "id": "montreal",
+      "name": "Montréal",
+      "postalCode": "H2X1Y4",
+      "indexPath": "data/regions/montreal/weeks/index.json"
+    },
+    {
+      "id": "quebec",
+      "name": "Québec",
+      "postalCode": "G1R4P5",
+      "indexPath": "data/regions/quebec/weeks/index.json"
+    }
+  ]
+}

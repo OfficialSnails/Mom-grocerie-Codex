@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-10-03T19:28:30.580Z",
+  "weeks": [
+    {
+      "slug": "semaine-du-1-au-7-octobre-2026",
+      "folderName": "Semaine du 1 au 7 octobre 2026",
+      "title": "Liste d’épicerie — Québec — 1 au 7 octobre 2026",
+      "weekRange": "1 au 7 octobre 2026",
+      "generatedAt": "2026-10-03T19:28:30.580Z",
+      "itemCount": 235,
+      "allItemCount": 1659,
+      "path": "data/regions/quebec/weeks/semaine-du-1-au-7-octobre-2026/week.json",
+      "schemaVersion": 1,
+      "regionId": "quebec",
+      "regionName": "Québec",
+      "sourcePostalCode": "G1R4P5"
+    }
+  ]
+}

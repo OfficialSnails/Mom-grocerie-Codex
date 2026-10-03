@@ -9,6 +9,7 @@ export interface RawDealItem {
   unit?: string;
   source_url?: string;
   source_image_url?: string;
+  source_proof_crop?: import('../src/proof-crop.js').ProofCrop;
   source_system?: 'flipp' | 'firecrawl' | 'csv' | 'mock';
   source_type?: 'flyer' | 'store-page' | 'manual' | 'mock';
   source_flyer_id?: string;

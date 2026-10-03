@@ -1,6 +1,8 @@
 import type { RawDealItem, SourceAdapter } from './source-adapter.js';
 import { shouldRunSource, updateSourceStatus } from './firecrawl-adapter.js';
 import { addDays, format, parseISO } from 'date-fns';
+import { expandedProofCrop, type SourcePhotoItem, type Rectangle } from '../src/proof-crop.js';
+import { flyerPageMetadata } from '../src/refresh-flyer-pages.js';
 
 const WISHABI_BASE = 'https://backflipp.wishabi.com/flipp';
 const POSTAL_CODE = 'J6E3N2';
@@ -35,9 +37,13 @@ interface WishabiFlyer {
   valid_from: string;
   valid_to: string;
   categories_csv?: string;
+  path?: string;
+  height?: number;
+  resolutions?: number[];
+  thumbnail_url?: string;
 }
 
-interface WishabiItem {
+interface WishabiItem extends SourcePhotoItem {
   id: number;
   flyer_id: number;
   name: string;
@@ -57,6 +63,7 @@ interface WishabiFlyersResponse {
 
 interface WishabiItemsResponse {
   items: WishabiItem[];
+  pages?: (Rectangle & { page: number })[];
 }
 
 interface FlyerCycle {
@@ -84,7 +91,7 @@ function parseFrenchName(raw: string): string {
   return french.charAt(0).toUpperCase() + french.slice(1);
 }
 
-function parseItemPrice(raw: string): number | null {
+export function parseItemPrice(raw: string): number | null {
   if (!raw) return null;
   const cleaned = raw.trim();
   if (!cleaned) return null;
@@ -102,7 +109,7 @@ function parseItemPrice(raw: string): number | null {
   return null;
 }
 
-function inferUnitFromPrintId(printId?: string | null): string | undefined {
+export function inferUnitFromPrintId(printId?: string | null): string | undefined {
   if (!printId) return undefined;
   const suffix = printId.split('_').pop()?.toUpperCase();
 
@@ -256,14 +263,14 @@ export class FlippAdapter implements SourceAdapter {
     return data.flyers ?? [];
   }
 
-  private async fetchFlyerItems(flyerId: number): Promise<WishabiItem[]> {
+  private async fetchFlyerItems(flyerId: number): Promise<WishabiItemsResponse> {
     const res = await fetch(
       `${WISHABI_BASE}/flyers/${flyerId}?locale=${LOCALE}&include=page_items`,
       { headers: HEADERS }
     );
     if (!res.ok) throw new Error(`Flipp items API ${res.status} for flyer ${flyerId}`);
     const data = await res.json() as WishabiItemsResponse;
-    return data.items ?? [];
+    return data;
   }
 
   async collect(): Promise<RawDealItem[]> {
@@ -313,7 +320,10 @@ export class FlippAdapter implements SourceAdapter {
         for (const flyer of flyers) {
           console.log(`[${this.id}] Collecte ${store_id} — ${flyer.name} (id: ${flyer.id})`);
           try {
-            const rawItems = await this.fetchFlyerItems(flyer.id);
+            const detail = await this.fetchFlyerItems(flyer.id);
+            const rawItems = detail.items ?? [];
+            const images = flyer.path && flyer.height && flyer.resolutions && flyer.thumbnail_url
+              ? flyerPageMetadata({ ...flyer, path: flyer.path, height: flyer.height, resolutions: flyer.resolutions, thumbnail_url: flyer.thumbnail_url }, detail.pages ?? []) : undefined;
             let count = 0;
 
             for (const item of rawItems) {
@@ -343,6 +353,7 @@ export class FlippAdapter implements SourceAdapter {
                   ? item.cutout_image_url.replace(/^http:\/\//, 'https://')
                   : undefined,
                 source_system: 'flipp',
+                source_proof_crop: expandedProofCrop(item, rawItems, images),
                 source_type: 'flyer',
                 source_flyer_id: String(flyer.id),
                 source_flyer_name: flyer.name,

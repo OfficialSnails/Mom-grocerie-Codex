@@ -3,83 +3,140 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Bons spéciaux | Liste d'épicerie</title>
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50' font-size='48'%3E%E2%9C%85%3C/text%3E%3C/svg%3E" />
+    <title>La liste d’épicerie — Les prix de la semaine</title>
+    <meta name="description" content="Les circulaires réunies, des prix comparables et votre liste par épicerie. Préparez vos courses à Joliette, au Québec." />
+    <link rel="icon" type="image/png" sizes="64x64" href="./assets/favicon-white.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./shopping-workspace.css" />
+    <link rel="stylesheet" href="./list-dialog.css" />
+    <link rel="stylesheet" href="./location.css" />
   </head>
   <body>
     <a class="skip-link" href="#items">Aller aux produits</a>
     <header class="topbar">
-      <div class="topbar-title">
-        <p class="eyebrow">Québec</p>
-        <h1>Liste d'épicerie</h1>
-        <details id="method-note" class="method-note">
-          <summary>Comment lire la liste</summary>
-          <div id="method-note-body" class="method-note-body" aria-live="polite"></div>
-        </details>
+      <a class="brand" href="./" aria-label="La liste d’épicerie — accueil"><img src="./assets/la-liste-epicerie-logo.png" width="260" height="87" alt="La liste d’épicerie" /></a>
+      <div class="search-panel">
+        <label class="sr-only" for="item-search">Rechercher un produit</label>
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+        <input id="item-search" name="item-search" type="search" autocomplete="off" placeholder="Qu’est-ce qu’il te faut?" />
+      </div>
+      <div class="header-actions">
+      <button id="flyers-toggle" type="button" class="nav-link" aria-haspopup="dialog">Circulaires</button>
+      <button id="price-history-toggle" type="button" class="nav-link" aria-haspopup="dialog">Historique des prix</button>
+      <button id="history-toggle" type="button" class="nav-link" aria-haspopup="dialog">Mes listes</button>
+      <button id="basket-toggle" type="button" class="button" aria-controls="basket-panel" aria-expanded="false"><span class="basket-button-label">Ma liste <span id="basket-count">0</span></span><span id="basket-mobile-total">Préparer mes courses</span><span class="basket-button-arrow" aria-hidden="true">↑</span></button>
       </div>
     </header>
+    <section class="intro" aria-labelledby="intro-title">
+      <div class="topbar-title">
+        <div class="region-field"><label for="region-select">Ma région</label><span class="region-choice"><select id="region-select" aria-label="Choisir une région"><option value="joliette">Joliette et les environs</option></select></span><button type="button" id="location-edit" class="location-edit" aria-haspopup="dialog">Me localiser</button></div>
+        <p id="location-caption" class="location-caption" hidden></p>
+        <h1 id="intro-title">Les prix de la semaine</h1>
+      </div>
+    </section>
 
+    <dialog id="comparison-dialog" class="comparison-dialog" aria-labelledby="comparison-title">
+      <div class="comparison-heading"><h2 id="comparison-title"></h2><button id="comparison-close" type="button" aria-label="Fermer la comparaison">×</button></div>
+      <div id="comparison-content"></div>
+    </dialog>
+    <dialog id="list-dialog" class="comparison-dialog list-dialog" aria-labelledby="list-dialog-title">
+      <div class="comparison-heading"><h2 id="list-dialog-title">Mes listes</h2><button id="list-dialog-close" type="button" aria-label="Fermer les listes">×</button></div>
+      <div id="list-dialog-content"></div>
+      <p id="list-dialog-status" class="list-dialog-status" role="status" aria-live="polite"></p>
+    </dialog>
+    <dialog id="price-history-dialog" class="comparison-dialog list-dialog" aria-labelledby="price-history-title">
+      <div class="comparison-heading"><h2 id="price-history-title">Historique des prix</h2><button id="price-history-close" type="button" aria-label="Fermer l’historique">×</button></div>
+      <div id="price-history-content"></div>
+    </dialog>
+    <dialog id="offer-proof-dialog" class="comparison-dialog" aria-labelledby="offer-proof-title">
+      <div class="comparison-heading"><h2 id="offer-proof-title">L’offre en circulaire</h2><button id="offer-proof-close" type="button" aria-label="Fermer l’offre">×</button></div>
+      <p id="offer-proof-meta" class="list-caption"></p>
+      <div id="offer-proof-image"></div>
+    </dialog>
+    <dialog id="location-dialog" class="comparison-dialog location-dialog" aria-labelledby="location-title">
+      <div class="comparison-heading"><h2 id="location-title">Où fais-tu tes courses ?</h2><button id="location-close" type="button" aria-label="Fermer la localisation">×</button></div>
+      <div class="location-actions"><button type="button" id="location-use-device" class="location-edit">Utiliser ma position</button></div>
+      <label for="location-search">Ville, adresse ou code postal</label>
+      <input id="location-search" type="search" placeholder="Ex. : Montréal, St-Jérôme, Québec" autocomplete="off" />
+      <button type="button" id="location-address-search" class="location-edit" hidden>Rechercher cette adresse</button>
+      <p id="location-status" role="status" aria-live="polite"></p>
+      <div id="location-results"></div>
+      <p class="location-privacy">Ta position sert à trouver des succursales à proximité. Elle reste dans ce navigateur. Une recherche d’adresse précise, si disponible, est transmise à Geoapify.</p>
+      <p class="location-attribution">Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a> · Succursales : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a></p>
+    </dialog>
+    <dialog id="store-dialog" class="comparison-dialog store-dialog" aria-labelledby="store-dialog-title">
+      <div class="comparison-heading"><h2 id="store-dialog-title">Choisir une succursale</h2><button id="store-dialog-close" type="button" aria-label="Fermer les succursales">×</button></div>
+      <p id="store-dialog-region"></p>
+      <label class="sr-only" for="store-search">Rechercher une succursale</label>
+      <input id="store-search" type="search" placeholder="Ville, rue ou code postal" autocomplete="off" />
+      <p id="store-results-count" role="status"></p>
+      <div id="store-results"></div>
+      <p class="store-dialog-note">Les offres peuvent varier selon la succursale.</p>
+    </dialog>
     <main class="layout">
       <section class="control-panel" aria-label="Filtres d'épicerie">
         <div class="control-field week-field">
           <span class="control-label">Semaine</span>
           <button id="week-toggle" class="week-toggle" type="button" aria-expanded="false" aria-haspopup="listbox">
             <span id="week-label">Choisir une semaine</span>
-            <span aria-hidden="true">⌄</span>
+            <span class="disclosure-icon" aria-hidden="true"></span>
           </button>
           <div id="week-options" class="week-options" role="listbox" hidden></div>
         </div>
-        <div class="control-field search-panel">
-          <label for="item-search">Rechercher un produit</label>
-          <input id="item-search" name="item-search" type="search" autocomplete="off" placeholder="Ex. poulet, beurre, fraises…" />
-        </div>
         <div class="control-field mode-field">
-          <span class="control-label">Afficher</span>
+          <span class="control-label">À découvrir</span>
           <div id="mode-tabs" class="mode-tabs" role="tablist" aria-label="Mode d'affichage">
             <button type="button" class="active" data-mode="deals" role="tab" aria-selected="true">Bons prix</button>
             <button type="button" data-mode="all" role="tab" aria-selected="false">Tous les produits</button>
           </div>
         </div>
-        <div class="control-field store-panel">
+        <details class="control-field store-panel filter-disclosure" open>
+          <summary>Mes épiceries <span id="store-selection-count"></span></summary>
           <div class="store-panel-head">
             <span class="control-label">Épiceries</span>
-            <div class="store-actions" aria-label="Raccourcis d'épiceries">
-              <button id="regular-stores-button" type="button">Épiceries régulières</button>
-              <button id="all-stores-button" type="button">Tout inclure</button>
-              <button id="clear-stores-button" type="button">Tout décocher</button>
+            <div class="store-actions" role="group" aria-label="Raccourcis d'épiceries">
+              <button id="regular-stores-button" type="button" aria-label="Épiceries régulières" aria-pressed="false">Régulières</button>
+              <button id="all-stores-button" type="button" aria-pressed="false">Tout inclure</button>
+              <button id="clear-stores-button" type="button" aria-pressed="false">Tout décocher</button>
             </div>
           </div>
           <div id="store-filter" class="store-filter" role="group" aria-label="Choisir les épiceries"></div>
-        </div>
-        <div class="control-field rayon-field">
+        </details>
+        <details class="control-field rayon-field filter-disclosure" open>
+          <summary>Rayons <span id="active-rayon-label">Tous</span></summary>
           <span class="control-label">Rayons</span>
           <nav id="category-tabs" class="category-tabs" aria-label="Rayons"></nav>
-        </div>
+        </details>
       </section>
 
       <section class="shopper">
         <div id="week-header" class="week-header"></div>
+        <div class="results-tools">
+          <button id="savings-filter" type="button" aria-pressed="false">Avec économies</button>
+        </div>
         <div id="items" class="items"></div>
       </section>
 
-      <aside class="selection-panel" aria-label="Liste finale">
+      <aside id="basket-panel" class="selection-panel" aria-label="Ma liste" tabindex="-1">
+        <button id="basket-close" type="button" class="basket-close">Retour aux produits <span aria-hidden="true">×</span></button>
         <div class="panel-heading">
-          <p class="eyebrow">Liste finale</p>
-          <h2>À acheter</h2>
+          <h2>Ma liste d’épicerie</h2>
         </div>
         <div id="selection-summary" class="selection-summary"></div>
+        <button id="selection-savings" type="button" class="selection-savings" aria-haspopup="dialog" aria-label="Voir le détail des économies de la liste" hidden></button>
         <div id="selection-estimate" class="selection-estimate"></div>
         <div id="export-status" class="export-status" role="status" aria-live="polite"></div>
         <div id="selection-list" class="selection-list"></div>
         <div class="notes-field">
           <label for="list-notes">Notes</label>
-          <textarea id="list-notes" rows="4" placeholder="Ex: vérifier les chandelles, shampoing, détergent…"></textarea>
+          <textarea id="list-notes" rows="2" placeholder="Quantités, marques, choses à vérifier…"></textarea>
         </div>
         <div class="basket-actions">
+          <button id="save-button" class="button secondary" type="button">Enregistrer</button>
           <button id="print-button" class="button secondary" type="button">Exporter PDF</button>
           <button id="share-button" class="button share" type="button">Partager</button>
           <button id="clear-button" class="button ghost" type="button">Vider</button>
@@ -90,7 +147,7 @@
     <template id="empty-template">
       <div class="empty-state">
         <p>Aucun produit sélectionné.</p>
-        <span>Coche des spéciaux pour bâtir la liste par épicerie.</span>
+        <span>Ajoute des produits. On les regroupe par épicerie pour tes courses.</span>
       </div>
     </template>
 
@@ -98,7 +155,7 @@
       <button class="image-preview-backdrop" type="button" data-preview-close="true" aria-label="Fermer l'aperçu"></button>
       <section class="image-preview-card" role="dialog" aria-modal="true" aria-labelledby="image-preview-title">
         <button id="image-preview-close" class="image-preview-close" type="button" aria-label="Fermer l'aperçu">×</button>
-        <img id="image-preview-img" class="image-preview-img" src="" alt="" />
+        <div id="image-preview-img"></div>
         <div class="image-preview-info">
           <h2 id="image-preview-title">Photo du prix</h2>
           <p id="image-preview-meta"></p>
@@ -106,6 +163,15 @@
       </section>
     </div>
 
+    <dialog id="flyers-dialog" class="flyers-dialog" aria-labelledby="flyers-title">
+      <div class="flyers-heading">
+        <div><h2 id="flyers-title">Circulaires</h2><p id="flyers-week"></p></div>
+        <button id="flyers-close" class="dialog-close" type="button" aria-label="Fermer les circulaires">Fermer <span aria-hidden="true">×</span></button>
+      </div>
+      <div id="flyers-grid" class="flyers-grid"></div>
+      <section id="flyer-reader" hidden></section>
+    </dialog>
+    <footer class="site-footer">La liste d’épicerie · Québec · Prix en CAD<span class="location-attribution">Adresses : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a> et <a href="https://www.metro.ca/trouver-une-epicerie" target="_blank" rel="noopener noreferrer">Metro</a> · Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a></span></footer>
     <script src="./app.js" type="module"></script>
   </body>
 </html>

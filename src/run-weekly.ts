@@ -1,3 +1,6 @@
+import { buildOfferEvidence } from './build-offer-evidence.js';
+import { refreshRegions } from './refresh-regions.js';
+import { refreshFlyerPages } from './refresh-flyer-pages.js';
 import 'dotenv/config';
 import { collectCurrentDeals } from './collect-current-deals.js';
 import { generateReport } from './generate-report.js';
@@ -231,6 +234,22 @@ async function main() {
   console.log('');
   console.log('═══════════════════════════════════════════════════════');
   console.log('');
+
+  // Optional presentation assets; a source outage must not interrupt the grocery workflow.
+  if (hasLiveFlyerData) {
+    try {
+      await refreshFlyerPages(weeklyPackDir.split('/').pop());
+    } catch (error) {
+      console.warn('Flyer page refresh failed:', error instanceof Error ? error.message : String(error));
+    }
+  }
+
+  if (hasLiveFlyerData) {
+    try { buildOfferEvidence(weeklyPackDir.split('/').pop()); }
+    catch (error) { console.warn('Price evidence refresh failed:', error); }
+    try { await refreshRegions(); }
+    catch (error) { console.warn('Regional refresh failed; previous dated snapshots retained:', error); }
+  }
 
   // Step 3: Export weekly pack into Obsidian
   console.log('🗂️ Export vers Obsidian...');

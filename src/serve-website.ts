@@ -1,3 +1,5 @@
+import 'dotenv/config';
+import { handleLocationApi } from './location-api.js';
 import { createServer } from 'http';
 import type { IncomingMessage, ServerResponse } from 'http';
 import { spawn } from 'child_process';
@@ -6,6 +8,12 @@ import { readFile, rm } from 'fs/promises';
 import { homedir, tmpdir } from 'os';
 import { basename, dirname, extname, join, normalize } from 'path';
 import { fileURLToPath } from 'url';
+// @ts-expect-error Shared browser module has no TypeScript declaration.
+import { prepareOfferIds, applyOfferEvidence } from '../website/offer-identity.js';
+// @ts-expect-error Shared browser module has no TypeScript declaration.
+import { basketSavings, loyaltyLabel } from '../website/product-details.js';
+// @ts-expect-error Shared browser module has no TypeScript declaration.
+import { storeAddress } from '../website/store-directory.js';
 import { estimateBasketTotal, estimateCaveat, formatEstimateCad } from './price-estimate.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -94,7 +102,7 @@ function groupByStore(items: any[]) {
   return [...stores.values()].sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
-function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
+function buildPdfHtml(week: any, selectedItems: any[], notes = '', savings = { amount: 0, count: 0, member: false }) {
   const stores = groupByStore(selectedItems);
   const estimate = estimateBasketTotal(selectedItems);
   const caveat = estimateCaveat(estimate);
@@ -117,7 +125,7 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
         <tbody>
           ${store.items.map(item => `
             <tr>
-              <td>${escapeHtml(item.name)}</td>
+              <td>${escapeHtml(item.name)}${loyaltyLabel(item) ? `<br /><small>${escapeHtml(loyaltyLabel(item))}</small>` : ''}</td>
               <td class="price">${escapeHtml(item.price)}</td>
             </tr>
           `).join('')}
@@ -294,7 +302,7 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
   <header>
     <div>
       <h1>Liste d'épicerie</h1>
-      <div>${escapeHtml(week.weekRange || week.folderName || '')}</div>
+      <div>${escapeHtml([week.regionName, week.weekRange || week.folderName].filter(Boolean).join(' · '))}</div>
     </div>
     <div class="meta">
       ${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''}<br />
@@ -303,12 +311,13 @@ function buildPdfHtml(week: any, selectedItems: any[], notes = '') {
     </div>
   </header>
   <div class="summary">
-    <div>${escapeHtml(selectedItems.length)} produits choisis</div>
-    <div>${escapeHtml(stores.length)} arrêts</div>
+    <div>${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? "s" : ""} choisi${selectedItems.length > 1 ? "s" : ""}</div>
+    <div>${escapeHtml(stores.length)} arrêt${stores.length > 1 ? "s" : ""}</div>
     <div>Total estimé: ${escapeHtml(formatEstimateCad(estimate.subtotal))}</div>
     <div>Prix en CAD</div>
   </div>
   <p class="estimate-caveat">Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
+  ${savings.amount > 0 ? `<p>Économies estimées : <strong>${escapeHtml(formatEstimateCad(savings.amount))}</strong> · ${savings.count} produit(s).</p>` : ""}
   ${notes.trim() ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes.trim())}</p></section>` : ''}
   ${storeBlocks}
   ${finalTotalBlock}
@@ -351,16 +360,28 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
       return;
     }
 
-    const weekPath = join(ROOT, 'data', 'weeks', slugFileName(weekSlug), 'week.json');
+    const regionId = String(body.regionId || 'joliette');
+    const registry = JSON.parse(await readFile(join(ROOT, 'data/regions.json'), 'utf8'));
+    const region = registry.regions.find((entry: any) => entry.id === regionId);
+    if (!region) { sendJson(res, 400, { error: 'Région inconnue.' }); return; }
+    const regionIndex = JSON.parse(await readFile(join(ROOT, region.indexPath), 'utf8'));
+    const meta = regionIndex.weeks.find((entry: any) => entry.slug === weekSlug);
+    if (!meta) { sendJson(res, 404, { error: 'Semaine introuvable dans cette région.' }); return; }
+    const weekPath = join(ROOT, meta.path);
     if (!existsSync(weekPath)) {
       sendJson(res, 404, { error: 'Semaine introuvable.' });
       return;
     }
 
-    const week = JSON.parse(await readFile(weekPath, 'utf8'));
+    const week = prepareOfferIds(JSON.parse(await readFile(weekPath, 'utf8')));
     const allItems = [...(week.dealCategories ?? week.categories ?? []), ...(week.allCategories ?? [])]
       .flatMap((category: any) => category.items ?? []);
-    const selectedItems = selectedIds
+    const evidencePath = join(dirname(weekPath), 'offer-evidence.json');
+    if (existsSync(evidencePath)) {
+      const evidence = JSON.parse(await readFile(evidencePath, 'utf8'));
+      for (const item of allItems) applyOfferEvidence(item, evidence.offers[item.id]);
+    }
+    const selectedItems = [...new Set<string>(selectedIds)]
       .map((id: string) => allItems.find((item: any) => item.id === id))
       .filter(Boolean);
 
@@ -372,11 +393,18 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
     const desktop = join(homedir(), 'Desktop');
     mkdirSync(desktop, { recursive: true });
     const stamp = new Date().toISOString().slice(0, 10);
-    const baseName = `Liste epicerie - ${week.weekRange || week.folderName || stamp}`;
+    const baseName = `Liste epicerie - ${regionId === 'joliette' ? '' : `${region.name} - `}${week.weekRange || week.folderName || stamp}`;
     const safeBase = slugFileName(baseName) || `liste-epicerie-${stamp}`;
     const outputPdf = join(desktop, `${safeBase}.pdf`);
     const tempHtml = join(tmpdir(), `${safeBase}-${Date.now()}.html`);
-    writeFileSync(tempHtml, buildPdfHtml(week, selectedItems, notes), 'utf8');
+    const directory = JSON.parse(await readFile(join(ROOT, 'data/store-locations.json'), 'utf8'));
+    const branchChoices = body.branchChoices && typeof body.branchChoices === 'object' ? body.branchChoices : {};
+    const addressedItems = selectedItems.map((item: any) => ({
+      ...item, storeAddress: storeAddress(item, directory, regionId, branchChoices, body.location),
+    }));
+    const storeIds = new Set(Array.isArray(body.storeIds) ? body.storeIds.map(String) : allItems.map((item: any) => item.storeId));
+    const savings = basketSavings(selectedItems, allItems, storeIds);
+    writeFileSync(tempHtml, buildPdfHtml(week, addressedItems, notes, savings), 'utf8');
 
     try {
       await runChromePdf(tempHtml, outputPdf);
@@ -396,6 +424,11 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
 }
 
 createServer((req, res) => {
+  const requestUrl = new URL(req.url ?? '/', 'http://localhost');
+  if (req.method === 'GET' && ['/api/location/config', '/api/location/search'].includes(requestUrl.pathname)) {
+    void handleLocationApi(requestUrl, res);
+    return;
+  }
   if (req.method === 'POST' && (req.url ?? '').startsWith('/api/export-pdf')) {
     void handlePdfExport(req, res);
     return;

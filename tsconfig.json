@@ -8,6 +8,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true
   },
-  "include": ["src/**/*", "sources/**/*", "tests/**/*"],
+  "include": ["src/**/*", "sources/**/*", "tests/**/*", "functions/**/*"],
   "exclude": ["node_modules", "dist"]
 }

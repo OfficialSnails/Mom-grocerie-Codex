@@ -15,6 +15,16 @@ describe('price estimate calculator', () => {
     expect(formatEstimateCad(estimate.subtotal)).toBe('7,48 $');
   });
 
+  it('keeps fetched flyer amounts when package metadata is absent', () => {
+    const estimate = estimateBasketTotal([
+      { price: '2,49 $', currentPrice: 2.49, unit: null },
+      { price: '4,99 $', currentPrice: 4.99, unit: 'unknown' },
+    ]);
+    expect(formatEstimateCad(estimate.subtotal)).toBe('7,48 $');
+    expect(estimate.fixedCount).toBe(2);
+    expect(estimate.unknownCount).toBe(0);
+  });
+
   it('excludes weight and per-unit prices from the subtotal', () => {
     const items = [
       { price: '4,99 $/kg', currentPrice: 4.99, unit: 'kg' },

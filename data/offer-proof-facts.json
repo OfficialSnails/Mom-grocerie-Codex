@@ -1,0 +1,332 @@
+{
+  "reviewedAt": "2026-10-03",
+  "proofs": {
+    "https://f.wishabi.net/page_items/435685791/1790611076/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "gr24-each",
+      "formatLabel": "À l’unité · calibre 24",
+      "member": true,
+      "regularPrice": 2.99,
+      "note": "Photo reviewed: céleri Canada No 1, gr. 24; prix membre 0,99 ch.; prix spécial non-membre 1,48 ch.; rég. 2,99. Fetched price remains 0,99."
+    },
+    "https://f.wishabi.net/page_items/435292193/1790230507/extra_large.jpg": {
+      "currentPrice": 2.49,
+      "unit": "each",
+      "format": "gr24-each",
+      "formatLabel": "À l’unité · calibre 24",
+      "regularPrice": 2.99,
+      "note": "Photo reviewed: céleri produit du Québec, Canada No 1, gr 24; prix 2,49, rég. 2,99."
+    },
+    "https://f.wishabi.net/page_items/435047330/1790177902/extra_large.jpg": {
+      "currentPrice": 10,
+      "unit": "each",
+      "format": "1x2kg",
+      "formatLabel": "Sac de 2 kg",
+      "regularPrice": 12,
+      "note": "Photo reviewed: avocats Hass, sac 2 kg, 10 $, rég. 12 $. Not comparable to an unspecified avocado bag."
+    },
+    "https://f.wishabi.net/page_items/435292165/1790230505/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "gr32-each",
+      "formatLabel": "À l’unité · calibre 32",
+      "regularPrice": 1.99,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "gros\npamplemousse\nrouge\niimporte de l'Afrique du Sud,\ngr 32\nlarge red grapefruit\nreg. 1,99\n50%\nd'économie\n994\ngros fruit"
+    },
+    "https://f.wishabi.net/page_items/435292399/1790230508/extra_large.jpg": {
+      "currentPrice": 1.99,
+      "unit": "each",
+      "format": "1x2lb",
+      "formatLabel": "Sac de 2 lb",
+      "regularPrice": 5.99,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "sac 2 lb\nLEMON\nCITRO\ncitrons\nimportés de\nTAfrique du Sud,\nsac 2lb\nlemons\nreg. 5,99\nPlus de\n50%\nd'économie\n199\nCITRON\nLEMON"
+    },
+    "https://f.wishabi.net/page_items/435292128/1790363358/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "1x540ml",
+      "formatLabel": "540 ml",
+      "regularPrice": 1.99,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "jus de tomate\nSelection\n540 ml, choix varié\nSelection tomato juice\nreg. 1,99\n50%\nd'économie\n99%\nSelection\nJUSDE\nTOMATE\nGeaot de\n540 ml\nCAMIA DE SASIO BR 1\""
+    },
+    "https://f.wishabi.net/page_items/435292239/1790230512/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "1x200ml",
+      "formatLabel": "200 ml",
+      "regularPrice": 1.33,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "YOP\nYoplat\nYoplait\nVO\nWBERRY\nFRAISE\nCTX\n999\nSTRAWBERRY-BANASI\nSRVELR DE\nFRAISE-BANANE\nvocourt a bolre\nYop Yoplall\n200 ml, choix varié\nYoplait Yop drinkable yogurt\nreg. 1,33"
+    },
+    "https://f.wishabi.net/page_items/435685785/1790611072/extra_large.jpg": {
+      "currentPrice": 2.99,
+      "unit": "each",
+      "format": "1x250g",
+      "formatLabel": "250 g",
+      "regularPrice": 4.99,
+      "member": true,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "Selection\nMILD MARBLE\nCHEDDAR\nMARBRÉ\nDOUX\nUOH W\nCALELM\nTENLE\nLEME E\nCALETU\n34%:E\nfromage\nSelection\n250 g, choix varié\nSelection cheese\nreg. 4,99\nSelection\nPIZZA\nMOZZARELLA\nHGHW\nCALOLM\nTENELR\nELEHEE EN\nCATA\n28%:\n42%+=\nprix\nmembre\n299\nprix\nspécial\n250 g\n399"
+    },
+    "https://f.wishabi.net/page_items/435686122/1790609861/extra_large.jpg": {
+      "currentPrice": 3.49,
+      "unit": "each",
+      "format": "1x454g",
+      "formatLabel": "454 g",
+      "regularPrice": 5.29,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "Ienderflake\nWUNINAN AK\n1в 453\n349\nsaindoux\nTenderflake\n454 g\nTenderflake pure lard\nreg. 5,29"
+    },
+    "https://f.wishabi.net/page_items/435292120/1790363352/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "1x78g",
+      "formatLabel": "78 g",
+      "regularPrice": 2.39,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "PARISPATE\nproduit\nD'ICI\nPARiS PÂTÉ\n1913\nPil FOIE\npâté à sandwich\nParis Pâté\n78 g, choix varie\nParis Pâté sandwich spread\nreg.\nL 2,39\nPlus de\n50%\nd'économie\n99°"
+    },
+    "https://f.wishabi.net/page_items/435292217/1790230508/extra_large.jpg": {
+      "currentPrice": 6.99,
+      "unit": "each",
+      "format": "1x400g",
+      "formatLabel": "400 g",
+      "regularPrice": 10.99,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "Irrésistible\n80-120=:\nMAY SCALLOPS\nPETONCIBSOE BA\nSMALL • PETITS\n45\nd'économie|\n699\npetoncles de baie\nIrresistible\nsurgelés, crus, 80-120 un./lb,\n400 g\nIrrésistible bay scallops\nreg. 10,99"
+    },
+    "https://f.wishabi.net/page_items/435292157/1790230500/extra_large.jpg": {
+      "currentPrice": 1.99,
+      "unit": "each",
+      "format": "1x408g",
+      "formatLabel": "408 g",
+      "regularPrice": 3.99,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "Selector\nproduit\nD'ICI\nWHOLE\nWHEAT\nBLE EHTI\naTİLLAS\n6\nORIGINAL\nORIGINALES\nIMTORTİLLAS •\n50%\nd'économie\n199\n408g 10: =\ntortillas Selection\n408 g. choix vane\nSelection tortillas\nreg. 3,99"
+    },
+    "https://f.wishabi.net/page_items/435616963/1790614994/extra_large.jpg": {
+      "currentPrice": 1.97,
+      "unit": "each",
+      "format": "1x2kg",
+      "formatLabel": "2 kg",
+      "regularPrice": 3.49,
+      "member": true,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "ROGERS\nantic\nMatnal-Matinel\ngranutated Sugar\nSUCre granulé\n2 kg\nSUCRE BLANC GRANULÉ\nLANTIC\nGRANULATED WHITE SUGAR\n2 kg\nRég. 3,495\nPRIX\nMEMBRE Scène**\n197\nSans carte\nScène+\nWithout\nScene+ card\n297"
+    },
+    "https://f.wishabi.net/page_items/435685832/1790611220/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "gr39-41-each",
+      "formatLabel": "À l’unité · calibre 39–41",
+      "regularPrice": 1.25,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "fruit de\nla passion\nimporté de la\nColombie, gr 39-41\npassion fruit\nreg. 1,25"
+    },
+    "https://f.wishabi.net/page_items/435616540/1790615221/extra_large.jpg": {
+      "currentPrice": 6.99,
+      "unit": "each",
+      "format": "1x300g",
+      "formatLabel": "300 g",
+      "regularPrice": 12.99,
+      "member": true,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "CO\nGREEN OCEAN\nWILD\nSAUVAGE\nWILD\nARGENTINIAN\nSHRIMP\nM9I FRLAR & BEVEINS + TAS SAT\nCREVETTES\nSAUVAGES\nD'ARGENTINE\n13-26\n20\n300g\nPeeled and deveined\nFROZEN RAW WILD CAUGHT\nARGENTINIAN SHRIMP\n300 g\nRég. 12,995\nVÉRIFIé\nAvec carte Scène+\nWith Scene+ card\n699\nPRIX\nMEMBRE\nSans carte Scene+\nWithout Scene+ card\n·99"
+    },
+    "https://f.wishabi.net/page_items/435292119/1790363351/extra_large.jpg": {
+      "currentPrice": 1.99,
+      "unit": "each",
+      "format": "1x2l",
+      "formatLabel": "Bouteille de 2 L",
+      "regularPrice": 2.89,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "boisson\ngazeuse\nPepsi\nbout. 2L\nchoix varie,\nconsigne\n15\npoints\n30\nsoft drink\npoints\nreg. 2,89\n50%\nPEPSI\nd'économie\nCTX\n199\nproduit\nD'ICI\nTup"
+    },
+    "https://f.wishabi.net/page_items/435685838/1790611227/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "each",
+      "format": "1x300ml",
+      "formatLabel": "300 ml",
+      "regularPrice": 1.69,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "produit\nD'ICI\nTradition\nLimonade\nAver du_\nUnai jua\nATЕЛУНСКН\nTradition\nlus de\nPomme\nsaichement\nонде\n300ml\nprodu\nD'ICI\njus\nTradition\npréparé au\nQuébec,\n300 ml, choix\nvarié, consigne\nTradition juice\nreg. 1,69"
+    },
+    "https://f.wishabi.net/page_items/435292407/1790230513/extra_large.jpg": {
+      "currentPrice": 1.12,
+      "unit": "each",
+      "format": "1x150g",
+      "formatLabel": "150 g",
+      "regularPrice": 2.25,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "croustilles\nIrrésistible\n150 g, choix varié\nIrrésistible potato chips\nreg. 2,25\n50%\nd'économie\n112\nCTX\nIrrésistible\nSEA\nSALT\nSELDE\nMER\n150 g"
+    },
+    "https://f.wishabi.net/page_items/435292242/1790230515/extra_large.jpg": {
+      "currentPrice": 1.99,
+      "unit": "each",
+      "format": "1x68g",
+      "formatLabel": "68 g",
+      "regularPrice": 2.49,
+      "member": false,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "barre\nénergétique\nClif Bar\n68 g, choix varié\nClif Bar energy bar\nreg. 2,49\n199\nFEED POU8\nADTENTUBE\nCLIF\nBAR\n111\nWHITE CHOCOLATE\nMACADAMIA NUT\nCHOCOLAT BLANC\nET HOIE DE MACADAMIA\nHg"
+    },
+    "https://f.wishabi.net/page_items/435686018/1790611256/extra_large.jpg": {
+      "currentPrice": 5.99,
+      "unit": "each",
+      "format": "1x500g",
+      "formatLabel": "500 g",
+      "regularPrice": 8.49,
+      "member": true,
+      "note": "Source photo text reviewed against the exported offer; fixed format and explicit regular price.",
+      "sourceText": "chocolat chaud\nTim Hortons\n500 g. choix vanie\nTim Hortons hot chocolate\nregi 8,49\nTim 2\nHortons\nHOT CHOCOLATE\nЯЛКаЛ!\nCOLAT CHAUD\nBULETA\nprix\nspécial\n649\nprix\nmembre\n599"
+    },
+    "https://f.wishabi.net/page_items/435616962/1790614994/extra_large.jpg": {
+      "currentPrice": 3.33,
+      "unit": "each",
+      "format": "1x2.5kg",
+      "formatLabel": "Sac de 2,5 kg",
+      "note": "Package size visible on source proof; flour 2.5 kg and 10 kg must not be subtracted as equal packages."
+    },
+    "https://f.wishabi.net/page_items/435047325/1790177898/extra_large.jpg": {
+      "currentPrice": 11.49,
+      "unit": "each",
+      "format": "1x10kg",
+      "formatLabel": "Sac de 10 kg",
+      "note": "Package size visible on source proof; flour 2.5 kg and 10 kg must not be subtracted as equal packages."
+    },
+    "https://f.wishabi.net/page_items/435292203/1790230514/extra_large.jpg": {
+      "currentPrice": 0.79,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "Photo shows 79 ¢/lb, equivalent 1,74/kg. Amount unchanged."
+    },
+    "https://f.wishabi.net/page_items/435292324/1790230501/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "Source photo reviewed 2026-10-03: chou vert 0,99 $/lb; 2,18 $/kg. Fetched amount preserved."
+    },
+    "https://f.wishabi.net/page_items/435685834/1790611222/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "Source photo reviewed 2026-10-03: chou vert 0,99 $/lb; 2,18 $/kg. Fetched amount preserved."
+    },
+    "https://f.wishabi.net/page_items/435047242/1790177905/extra_large.jpg": {
+      "currentPrice": 4.98,
+      "unit": "pack",
+      "format": "2x1each",
+      "formatLabel": "Lot de 2",
+      "quantity": 2,
+      "note": "Source photo reviewed 2026-10-03: couronnes de brocoli 2 / 4,98 $. Fetched bundle amount preserved."
+    },
+    "https://f.wishabi.net/page_items/435813547/1790639882/extra_large.jpg": {
+      "currentPrice": 4.98,
+      "unit": "pack",
+      "format": "2x1each",
+      "formatLabel": "Lot de 2",
+      "quantity": 2,
+      "note": "Source photo reviewed 2026-10-03: couronnes de brocoli 2 / 4,98 $. Fetched bundle amount preserved."
+    },
+    "https://f.wishabi.net/page_items/435687708/1790615233/extra_large.jpg": {
+      "currentPrice": 2.7,
+      "verifiedPrice": 2.77,
+      "unit": "pack",
+      "format": "1x908g",
+      "formatLabel": "Sac de 908 g (2 lb)",
+      "note": "Full source flyer reviewed 2026-10-03: avocats filet de 5 OU clémentines Compliments 908 g, printed 2,77 $. API erroneously reports 2.7; retain the raw value and correct only the matching displayed offer."
+    },
+    "https://f.wishabi.net/page_items/435292174/1790230511/extra_large.jpg": {
+      "currentPrice": 0.99,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "regularPrice": 1.99,
+      "note": "Photo reviewed 2026-10-03: courges, produit du Québec, choix varié; 0,99 $/lb, 2,18 $/kg; rég. 1,99/lb. Source crop output/comparison-audit/435292174.jpg."
+    },
+    "https://f.wishabi.net/page_items/435047243/1790177905/extra_large.jpg": {
+      "currentPrice": 1.49,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "Photo reviewed 2026-10-03: courges, produits du Québec, sélection variée; 1,49 $/lb and 3,28 $/kg. The 2,49 ch. at upper right belongs to an adjacent item and is not used. Source crop output/comparison-audit/435047243.jpg."
+    },
+    "https://f.wishabi.net/page_items/435616772/1790394399/extra_large.jpg": {
+      "currentPrice": 1.47,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "Photo reviewed 2026-10-03: poivrons verts, 1,47 $/lb and 3,24 $/kg. Regular price printed in kg; not treated as a per-lb baseline. Source crop output/comparison-audit/435616772.jpg."
+    },
+    "https://f.wishabi.net/page_items/435292116/1790363349/extra_large.jpg": {
+      "currentPrice": 1.99,
+      "unit": "pack",
+      "formatLabel": "900 g à 1 kg",
+      "regularPrice": 3.99,
+      "note": "Photo reviewed 2026-10-03: gruau Quaker 900 g–1 kg choix varié, 1,99 $, rég. 3,99. Regular baseline applies to this offer; no exact-size cross-store equivalence. Source crop output/comparison-audit/435292116.jpg."
+    },
+    "https://f.wishabi.net/page_items/435292401/1790230509/extra_large.jpg": {
+      "currentPrice": 2.49,
+      "unit": "pack",
+      "formatLabel": "Formats variés",
+      "regularPrice": 4.99,
+      "note": "Photo reviewed 2026-10-03: céréales Quaker formats et choix variés, 2,49 $, rég. 4,99. The pictured box does not establish the size of every variant. Source crop output/comparison-audit/435292401.jpg."
+    },
+    "https://f.wishabi.net/page_items/435292118/1790363351/extra_large.jpg": {
+      "currentPrice": 1.14,
+      "unit": "pack",
+      "formatLabel": "284 à 398 ml",
+      "note": "Photo reviewed 2026-10-03: sauce Cordon Bleu, 284–398 ml choix varié, 1,14 $, rég. de 1,99 à 2,29. No single regular-price amount inferred from the range. Source crop output/comparison-audit/435292118.jpg."
+    },
+    "https://f.wishabi.net/page_items/435813543/1790639879/extra_large.jpg": {
+      "currentPrice": 2.49,
+      "unit": "lb",
+      "format": "per:lb",
+      "formatLabel": "La livre",
+      "note": "User-supplied October 3 screenshot of this exact BoniChoix tile confirms 2.49 $/lb for poivrons jaunes, orange ou rouges; adjacent 5.49/kg is the equivalent, not a regular price."
+    },
+    "https://f.wishabi.net/page_items/435813560/1790639877/extra_large.jpg": {
+      "currentPrice": 6.49,
+      "unit": "pack",
+      "formatLabel": "150 à 170 g",
+      "regularPrice": 6.99,
+      "note": "Source image directly inspected October 3: fromage féta Compliments 150 à 170 g, 6.49 $, rég. 6.99 $. Assorted sizes, so no exact cross-store format."
+    },
+    "https://f.wishabi.net/page_items/435616541/1790615222/extra_large.jpg": {
+      "currentPrice": 2.77,
+      "unit": "pack",
+      "format": "1x5un",
+      "formatLabel": "Filet de 5",
+      "proofCrop": {
+        "imageBase": "https://f.wishabi.net/flyers/7461e521-c06d-444f-9256-c897536e110a/",
+        "height": 4096,
+        "level": 4,
+        "tileSpan": 596.4603580562659,
+        "left": 0,
+        "right": 706,
+        "top": -686,
+        "bottom": -1230
+      },
+      "note": "Original IGA tiled flyer inspected October 3 (4_0_5.jpg and 4_0_4.jpg): AVOCATS HASS, Produit du Mexique (Filet de 5), 2.77. Same printed price covers clementines 908 g; regular 4.99–5.99 is an ambiguous range and is not assigned. Count of 5 cannot be converted to the Tradition 2 kg bag without actual weight."
+    }
+  }
+}

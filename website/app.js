@@ -1,12 +1,36 @@
+import { prepareOfferIds, applyOfferEvidence } from './offer-identity.js';
+import { mountProofImage } from './proof-image.js';
+import { setupShoppingWorkspace } from './shopping-workspace.js';
+import { pricePill, priceComparison, bestComparableOffer, packageUnitPrice, basketSavings, basketSavingsDetails, productTitle, createOfferIndex, loyaltyLabel } from './product-details.js';
+import { setupPriceHistory } from './price-history.js';
+import { createListSnapshot } from './saved-lists.js';
+import { setupListDialog } from './list-dialog.js';
+import { openComparison } from './price-comparison.js';
+import { availableBranches, activeBranch, storeAddress } from './store-directory.js';
+import { openStorePicker } from './store-picker.js';
+import { loadFlyers } from './flyers.js';
+import { enhanceDropdown } from './dropdown.js';
+import { setupLocationPicker } from './location-picker.js';
+import { mapsUrl, validCoordinates } from './location-data.js';
+let regionDropdown, locationPicker;
+
 const state = {
   weeks: [],
+  regions: [],
+  regionId: 'joliette',
+  weekRequest: 0,
   week: null,
   selected: new Map(),
   activeCategoryId: 'all',
   selectedStoreIds: new Set(),
   searchQuery: '',
   mode: 'deals',
+  savingsOnly: false,
   notes: '',
+  storeDirectory: { stores: {}, branches: [] },
+  branchChoices: {},
+  location: null,
+  offerCandidates: () => [],
 };
 
 const ALL_CATEGORY = {
@@ -129,13 +153,12 @@ function estimateCaveat(estimate) {
 
 function renderEstimateSummary(items) {
   const estimate = estimateBasketTotal(items);
-  const caveat = estimateCaveat(estimate);
   return `
     <div class="estimate-total">
       <span>Total estimé</span>
       <strong translate="no">${escapeHtml(formatEstimateCad(estimate.subtotal))}</strong>
     </div>
-    <p>Avant taxes, dépôts, quantités réelles et prix au poids.${caveat ? ` ${escapeHtml(caveat)}` : ''}</p>
+    <p>Hors taxes et dépôts.${estimate.variableCount ? ` ${estimate.variableCount} prix au poids non inclus.` : ''}${estimate.unknownCount ? ` ${estimate.unknownCount} prix à vérifier.` : ''}</p>
   `;
 }
 
@@ -170,11 +193,11 @@ function itemSearchText(item) {
 }
 
 function selectionKey() {
-  return state.week ? `bons-speciaux:selected:${state.week.slug}` : '';
+  return state.week ? `bons-speciaux:selected:${state.regionId === 'joliette' ? '' : state.regionId + ':'}${state.week.slug}` : '';
 }
 
 function notesKey() {
-  return state.week ? `bons-speciaux:notes:${state.week.slug}` : '';
+  return state.week ? `bons-speciaux:notes:${state.regionId === 'joliette' ? '' : state.regionId + ':'}${state.week.slug}` : '';
 }
 
 function currentCategories() {
@@ -227,7 +250,7 @@ const COSTCO_NON_GROCERY_KEYWORDS = [
 ];
 
 function isCostcoGroceryRelevantItem(item) {
-  if (canonicalStoreId(item?.storeId) !== 'costco-quebec') return true;
+  if (!canonicalStoreId(item?.storeId)?.startsWith('costco-')) return true;
   const text = normalizeText([
     item.name,
     item.normalizedName,
@@ -300,7 +323,7 @@ function allWeekItems() {
 }
 
 function regularStoreIds(stores = allWeekStores()) {
-  return stores.filter(store => !OPTIONAL_STORE_IDS.has(store.id)).map(store => store.id);
+  return stores.filter(store => !OPTIONAL_STORE_IDS.has(store.id) && !store.id.startsWith('costco-')).map(store => store.id);
 }
 
 function defaultStoreSelection(stores = allWeekStores()) {
@@ -324,18 +347,27 @@ function itemMatchesSelectedStores(item) {
   return state.selectedStoreIds.has(canonicalStoreId(item.storeId));
 }
 
+function itemMatchesSavings(item) {
+  return !state.savingsOnly || Boolean(priceComparison(item, state.offerCandidates(item), state.selectedStoreIds));
+}
+
+function visibleOffers(items) {
+  const scoped = items.filter(itemMatchesSelectedStores);
+  const offers = state.mode === 'deals' ? scoped.map(item => bestComparableOffer(item, state.offerCandidates(item), state.selectedStoreIds)) : scoped;
+  return [...new Map(offers.map(item => [item.id, item])).values()].filter(itemMatchesSavings);
+}
+
 function categoryItems(category) {
-  if (category?.id === 'all') {
-    const items = allWeekItems();
-    return items.filter(itemMatchesSelectedStores);
-  }
-  const items = (category?.items ?? []).filter(isShopperVisibleItem);
-  return items.filter(itemMatchesSelectedStores);
+  const items = category?.id === 'all' ? allWeekItems() : (category?.items ?? []).filter(isShopperVisibleItem);
+  return visibleOffers(items);
 }
 
 function allWeekStores() {
   if (!state.week) return [];
-  const stores = new Map();
+  const stores = new Map((state.week.stores ?? []).map(store => {
+    const id = canonicalStoreId(store.id);
+    return [id, { id, name: displayStoreName(id, store.name), count: 0 }];
+  }));
   for (const item of allWeekItems()) {
     const storeId = canonicalStoreId(item.storeId);
     if (!stores.has(storeId)) {
@@ -374,7 +406,7 @@ async function loadJson(path) {
 
 function renderWeeks() {
   els.weekOptions.innerHTML = '';
-  els.weekLabel.textContent = state.week ? `${state.week.folderName} · ${state.week.itemCount} bons prix` : 'Choisir une semaine';
+  els.weekLabel.textContent = state.week ? state.week.folderName : 'Choisir une semaine';
   for (const week of visibleWeeks(state.weeks)) {
     const option = document.createElement('button');
     option.type = 'button';
@@ -384,7 +416,7 @@ function renderWeeks() {
     option.textContent = `${week.folderName} · ${week.itemCount} bons prix`;
     option.addEventListener('click', () => {
       closeWeekMenu();
-      void selectWeek(week);
+      void selectWeek(week).catch(err => { els.weekHeader.textContent = `Chargement impossible : ${err.message}. Réessaie de choisir la semaine.`; });
     });
     els.weekOptions.append(option);
   }
@@ -409,17 +441,8 @@ function renderWeekHeader() {
 
   els.weekHeader.innerHTML = `
     <div class="week-header-main">
-      <div class="week-title">
-        <p class="eyebrow">Semaine active</p>
-        <h2>${escapeHtml(state.week.title)}</h2>
-      </div>
-      <div class="week-meta" aria-label="Résumé de la semaine">
-        <span class="pill"><strong>${state.week.itemCount}</strong> bons prix</span>
-        <span class="pill"><strong>${state.week.allItemCount ?? state.week.itemCount}</strong> produits trouvés</span>
-        <span class="pill"><strong>${state.week.stores.length}</strong> épiceries</span>
-        <span class="pill">${escapeHtml(state.week.weekRange)}</span>
-        <span class="pill basket-pill"><strong>${state.selected.size}</strong> dans le panier</span>
-      </div>
+      <h2>${state.mode === 'all' ? 'Tous les produits' : state.regionId === 'joliette' ? 'Bons prix' : 'Rabais en circulaire'}</h2>
+      <p class="week-context">${escapeHtml(state.week.weekRange)} · ${state.week.allItemCount ?? state.week.itemCount} produits en circulaire · ${state.week.stores.length} épiceries</p>
     </div>
   `;
 }
@@ -431,22 +454,21 @@ function renderMethodNote() {
   }
 
   els.methodNoteBody.innerHTML = `
-    <span>Les prix viennent des circulaires du Québec et sont en dollars canadiens.</span>
-    <span>Chaque rayon garde les meilleurs choix trouvés cette semaine; s'il y en a peu, c'est qu'on n'a pas ajouté de faux rabais pour remplir.</span>
-    <span>Quand le format n'est pas certain, la photo reste là pour vérifier rapidement.</span>
-    <span>Costco peut afficher des prix membre, des formats en vrac et des périodes de circulaire plus longues.</span>
-    <span>Les rayons sont classés automatiquement; certains produits peuvent parfois être approximatifs.</span>
+    <span>${state.regionId === 'joliette' ? 'Circulaires du Québec · Prix en CAD' : `Circulaires proposées pour ${escapeHtml(state.week.regionName)} (${escapeHtml(state.week.sourcePostalCode)}) · Prix en CAD`} · Disponibilité selon la succursale.</span>
+    <span>Costco : formats en vrac et prix membre possibles.</span>
   `;
 }
 
 function renderCategoryTabs() {
   els.categoryTabs.innerHTML = '';
+  document.querySelector('#active-rayon-label').textContent = displayCategories().find(category => category.id === state.activeCategoryId)?.title ?? 'Tous';
   if (!state.week) return;
   for (const category of displayCategories()) {
     const scopedItems = categoryItems(category);
     const button = document.createElement('button');
     button.type = 'button';
     button.className = state.activeCategoryId === category.id ? 'active' : '';
+    button.setAttribute('aria-pressed', String(state.activeCategoryId === category.id));
     button.innerHTML = `
       <span class="category-name"><span aria-hidden="true">${escapeHtml(category.emoji)}</span>${escapeHtml(categoryLabel(category))}</span>
       <span class="category-count">${scopedItems.length}</span>
@@ -467,15 +489,17 @@ function renderStoreFilter() {
   ensureSelectedStores();
   els.storeFilter.innerHTML = '';
   const stores = allWeekStores();
+  document.querySelector('#store-selection-count').textContent = `${state.selectedStoreIds.size} / ${stores.length}`;
   const regularIds = regularStoreIds(stores);
   const regularSelectionActive = regularIds.length > 0
     && regularIds.every(id => state.selectedStoreIds.has(id))
-    && stores.filter(store => OPTIONAL_STORE_IDS.has(store.id)).every(store => !state.selectedStoreIds.has(store.id));
+    && state.selectedStoreIds.size === regularIds.length;
   const selectedAll = stores.length > 0 && stores.every(store => state.selectedStoreIds.has(store.id));
   const selectedNone = stores.length > 0 && state.selectedStoreIds.size === 0;
-  els.regularStoresButton?.classList.toggle('active', regularSelectionActive);
-  els.allStoresButton?.classList.toggle('active', selectedAll);
-  els.clearStoresButton?.classList.toggle('active', selectedNone);
+  for (const [button, active] of [[els.regularStoresButton, regularSelectionActive], [els.allStoresButton, selectedAll], [els.clearStoresButton, selectedNone]]) {
+    button?.classList.toggle('active', active);
+    button?.setAttribute('aria-pressed', String(active));
+  }
 
   if (stores.length === 0) {
     els.storeFilter.innerHTML = '<div class="store-empty">Aucune épicerie disponible pour cette semaine.</div>';
@@ -503,22 +527,12 @@ function renderModeTabs() {
   }
 }
 
-function itemDetails(item) {
-  const rows = [
-    item.scale ? `⚖️ ${escapeHtml(item.scale)}` : '',
-    item.reason ? `✅ <strong>Pourquoi:</strong> ${escapeHtml(item.reason)}` : '',
-    ...(item.comparisons ?? []).map(escapeHtml),
-  ].filter(Boolean);
-
-  return rows.map(row => `<li>${row}</li>`).join('');
-}
 
 function openImagePreview(item) {
   if (!els.imagePreview || !els.imagePreviewImg || !item.proofImageUrl) return;
 
   lastImagePreviewTrigger = document.activeElement instanceof HTMLElement ? document.activeElement : null;
-  els.imagePreviewImg.src = item.proofImageUrl;
-  els.imagePreviewImg.alt = `Preuve prix ${item.name}`;
+  mountProofImage(els.imagePreviewImg, item, 'image-preview-img');
   if (els.imagePreviewTitle) els.imagePreviewTitle.textContent = item.name;
   if (els.imagePreviewMeta) {
     els.imagePreviewMeta.textContent = `${displayStoreName(item.storeId, item.storeName)} · ${moneySafe(item.price)}`;
@@ -536,8 +550,7 @@ function closeImagePreview() {
   els.imagePreview.setAttribute('aria-hidden', 'true');
   document.body.classList.remove('preview-open');
   if (els.imagePreviewImg) {
-    els.imagePreviewImg.removeAttribute('src');
-    els.imagePreviewImg.alt = '';
+    els.imagePreviewImg.replaceChildren();
   }
   lastImagePreviewTrigger?.focus();
   lastImagePreviewTrigger = null;
@@ -545,33 +558,49 @@ function closeImagePreview() {
 
 function renderItemCard(item) {
   const selected = state.selected.has(item.id);
-  const badgeClass = item.itemKind === 'seen' ? 'seen' : 'deal';
-  const badgeLabel = item.itemKind === 'seen' ? 'Produit trouvé' : (item.badgeLabel ?? 'Bon prix');
+  const candidates = state.offerCandidates(item);
+  const pill = pricePill(item, candidates, state.selectedStoreIds);
+  const facts = item.offerEvidence;
+  const rate = pill?.saving?.normalized ? packageUnitPrice(item) : null;
   const card = document.createElement('article');
   card.className = `item-card ${selected ? 'selected' : ''}`;
   card.innerHTML = `
     <div class="product-media">
-      ${item.proofImageUrl ? `<button class="proof-button" type="button" aria-label="Agrandir la photo de prix pour ${escapeHtml(item.name)}"><img class="proof" src="${escapeHtml(item.proofImageUrl)}" alt="Preuve prix ${escapeHtml(item.name)}" width="520" height="360" loading="lazy" /></button>` : '<div class="proof-missing"><span>Image non disponible</span><small>Le prix reste vérifié par les données de la semaine.</small></div>'}
+      ${item.proofImageUrl ? `<button class="proof-button" type="button" aria-label="Agrandir la photo de prix pour ${escapeHtml(item.name)}"><img class="proof" src="${escapeHtml(item.proofImageUrl)}" alt="Preuve prix ${escapeHtml(item.name)}" width="520" height="360" loading="lazy" /></button>` : '<div class="proof-missing"><span>Image non disponible</span></div>'}
       <span class="media-store">${escapeHtml(displayStoreName(item.storeId, item.storeName))}</span>
-    </div>
-    <div class="product-body">
-      <div class="product-main">
-        <span class="item-main">
-          <span class="item-name">${escapeHtml(item.name)}</span>
-          <span class="store-line">📍 ${escapeHtml(displayStoreName(item.storeId, item.storeName))}</span>
-          <span class="item-kind ${badgeClass}">${escapeHtml(badgeLabel)}</span>
-        </span>
-        <span class="price-stack" translate="no">
-          <span class="price">${escapeHtml(moneySafe(item.price))}</span>
-        </span>
-      </div>
-      <ul class="detail-list">${itemDetails(item)}</ul>
-      <label class="add-control">
+      <label class="add-control" title="${selected ? 'Retirer de la liste' : 'Ajouter à la liste'}">
         <input type="checkbox" ${selected ? 'checked' : ''} aria-label="Choisir ${escapeHtml(item.name)}" />
-        <span>${selected ? 'Ajouté au panier' : 'Ajouter'}</span>
+        <span aria-hidden="true">${selected ? '✓ Ajouté' : '+'}</span>
       </label>
     </div>
+    <div class="product-body">
+      <span class="item-name">${escapeHtml(productTitle(item.name))}</span>
+      <div class="product-purchase">
+        <span class="price" translate="no">${escapeHtml(moneySafe(item.price))}</span>
+        ${pill ? `<button type="button" class="price-pill ${pill.tone}" data-item-id="${escapeHtml(item.id)}" aria-label="${escapeHtml(pill.label)} : comparer ${escapeHtml(item.name)}">${escapeHtml(pill.label)}</button>` : ''}
+      </div>
+      <div class="product-meta">${rate ? `<span>${escapeHtml(formatEstimateCad(rate.amount))}/${escapeHtml(rate.unit)}</span>` : ''}${facts?.formatLabel ? `<span>${escapeHtml(facts.formatLabel)}</span>` : item.scale ? `<span>${escapeHtml(/format.*(?:vérifier|confirmé)/i.test(item.scale) ? 'Format à vérifier' : item.scale)}</span>` : ''}${facts?.member ? `<span class="member-label">${escapeHtml(loyaltyLabel(item))}</span>` : ''}</div>
+      ${facts?.history?.points?.length && !pill?.history ? '<button type="button" class="product-history" aria-haspopup="dialog">Historique du prix</button>' : ''}
+
+    </div>
   `;
+  card.querySelector('.product-history')?.addEventListener('click', () => priceHistory.open(allSelectableItems().filter(itemMatchesSelectedStores), state.week, item.id));
+  card.querySelector('.price-pill')?.addEventListener('click', () => openComparison(item, pill, candidates, state.selectedStoreIds, (offer, selected) => {
+    if (selected) state.selected.set(offer.id, offer);
+    else state.selected.delete(offer.id);
+    saveSelection(); renderWeekHeader(); renderCategoryTabs(); renderItems(); renderSelection();
+  }, id => state.selected.has(id), offer => ({
+    address: storeAddress(offer, state.storeDirectory, state.regionId, state.branchChoices, state.location),
+    branch: activeBranch(state.storeDirectory, state.regionId, offer.storeId, state.branchChoices, state.location),
+  })));
+  const proofButton = card.querySelector('.proof-button');
+  if (proofButton) mountProofImage(proofButton, item);
+  card.querySelector('.proof')?.addEventListener('error', () => {
+    const missing = document.createElement('div');
+    missing.className = 'proof-missing';
+    missing.textContent = 'Photo indisponible pour le moment.';
+    card.querySelector('.proof-button')?.replaceWith(missing);
+  });
   card.querySelector('.proof-button')?.addEventListener('click', () => openImagePreview(item));
   card.querySelector('input').addEventListener('change', event => {
     if (event.target.checked) {
@@ -619,7 +648,7 @@ function renderItems() {
   }
 
   const baseItems = query
-    ? allWeekItems().filter(itemMatchesSelectedStores)
+    ? visibleOffers(allWeekItems())
     : categoryItems(category);
   const sourceItems = query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems;
   const section = document.createElement('section');
@@ -640,10 +669,12 @@ function renderItems() {
     </div>
   `;
 
-  if (query && sourceItems.length === 0) {
+  if (sourceItems.length === 0) {
     const empty = document.createElement('div');
     empty.className = 'empty-state search-empty';
-    empty.innerHTML = '<p>Aucun résultat.</p><span>Essaie un mot plus simple ou choisis une autre épicerie.</span>';
+    empty.innerHTML = state.savingsOnly
+      ? '<p>Aucun prix inférieur pour cette sélection.</p><span>Désactive « Prix plus bas » pour voir les autres produits.</span>'
+      : '<p>Aucun résultat.</p><span>Essaie un mot plus simple ou choisis une autre épicerie.</span>';
     section.append(empty);
     els.items.append(section);
     return;
@@ -668,7 +699,9 @@ function groupSelectedByStore() {
       stores.set(storeId, {
         id: storeId,
         name: displayStoreName(storeId, item.storeName),
-        address: item.storeAddress,
+        address: storeAddress(item, state.storeDirectory, state.regionId, state.branchChoices, state.location),
+        hasBranches: availableBranches(state.storeDirectory, state.regionId, storeId, '', state.location).length > 0,
+        branch: activeBranch(state.storeDirectory, state.regionId, storeId, state.branchChoices, state.location),
         items: [],
         estimate: estimateBasketTotal([]),
       });
@@ -683,14 +716,26 @@ function groupSelectedByStore() {
 
 function renderSelection() {
   const count = state.selected.size;
+  document.querySelector('#basket-count').textContent = count;
   const selectedItems = [...state.selected.values()];
-  els.selectionSummary.textContent = count === 0 ? 'Aucun produit sélectionné' : `${count} produit${count > 1 ? 's' : ''} sélectionné${count > 1 ? 's' : ''}`;
+  const total = estimateBasketTotal(selectedItems);
+  document.querySelector('#basket-mobile-total').textContent = count ? `${formatEstimateCad(total.subtotal)} estimé` : 'Préparer mes courses';
+  const savings = basketSavingsDetails(selectedItems, allSelectableItems(), state.selectedStoreIds);
+  const weightSavings = savings.entries.filter(entry => entry.saving && !entry.saving.canTotal).length;
+  const savingsBlock = document.querySelector('#selection-savings');
+  savingsBlock.hidden = count === 0;
+  savingsBlock.innerHTML = `<span>Économies sur la liste</span><strong>${escapeHtml(formatEstimateCad(savings.amount))}</strong>`;
+  savingsBlock.disabled = savings.amount <= 0 && weightSavings === 0;
+  document.querySelector('#save-button').disabled = count === 0;
+  els.selectionSummary.hidden = true;
+  els.selectionSummary.textContent = '';
   if (els.selectionEstimate) {
     els.selectionEstimate.innerHTML = count === 0 ? '' : renderEstimateSummary(selectedItems);
   }
   els.selectionList.innerHTML = '';
 
   if (count === 0) {
+    els.selectionList.append(els.emptyTemplate.content.cloneNode(true));
     return;
   }
 
@@ -698,21 +743,43 @@ function renderSelection() {
     const block = document.createElement('section');
     block.className = 'store-block';
     block.innerHTML = `
-      <h3>${escapeHtml(store.name)}</h3>
-      ${store.address ? `<div class="store-address">${escapeHtml(store.address)}</div>` : ''}
+      <header class="store-banner">
+        <div class="store-banner-info">
+          <h3>${escapeHtml(store.name)}</h3>
+          ${store.address ? `<a class="store-address" href="${escapeHtml(mapsUrl(store.name, store.address, store.branch))}" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir ${escapeHtml(store.name)} dans Google Maps">${escapeHtml(store.address)}</a>` : `<a class="store-address" href="${escapeHtml(mapsUrl(store.name, state.location?.name || state.regions.find(region => region.id === state.regionId)?.name, store.branch))}" target="_blank" rel="noopener noreferrer">${store.branch ? 'Voir cette succursale sur la carte' : 'Trouver une succursale sur la carte'}</a>`}
+          ${Number.isFinite(store.branch?.distance) ? `<span class="store-distance">À ${store.branch.distance.toLocaleString('fr-CA', { maximumFractionDigits: 1 })} km à vol d’oiseau</span>` : ''}
+        </div>
+        ${store.hasBranches ? `<button type="button" class="store-locator" data-store-picker="${escapeHtml(store.id)}" aria-label="${store.address ? 'Changer de' : 'Choisir une'} succursale pour ${escapeHtml(store.name)}" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span>${store.address ? 'Modifier' : 'Choisir'}</span></button>` : ''}
+      </header>
     `;
+    block.querySelector('[data-store-picker]')?.addEventListener('click', () => {
+      openStorePicker({
+        directory: state.storeDirectory, regionId: state.regionId,
+        regionName: state.regions.find(region => region.id === state.regionId).name,
+        store, location: state.location, chosenId: activeBranch(state.storeDirectory, state.regionId, store.id, state.branchChoices, state.location)?.id,
+        choose: branchId => {
+          if (branchId) state.branchChoices[store.id] = branchId;
+          else delete state.branchChoices[store.id];
+          localStorage.setItem(`bons-speciaux:branches:${state.regionId}`, JSON.stringify(state.branchChoices));
+          renderSelection();
+        },
+      });
+    });
 
     for (const item of store.items) {
+      const saving = savings.entries.find(entry => entry.id === item.id)?.saving;
       const row = document.createElement('div');
       row.className = 'selected-item';
       row.innerHTML = `
         <span>
-          <strong>${escapeHtml(item.name)}</strong>
-          <small translate="no">${escapeHtml(item.price)}</small>
+          ${saving?.amount > 0 ? `<button type="button" class="selected-product" aria-haspopup="dialog" aria-label="Détail des économies pour ${escapeHtml(item.name)}">${escapeHtml(productTitle(item.name))}</button>` : `<strong>${escapeHtml(productTitle(item.name))}</strong>`}
+          <small translate="no">${escapeHtml(item.price)}${loyaltyLabel(item) ? `<span class="selected-condition">${escapeHtml(loyaltyLabel(item))}</span>` : ''}</small>
+          ${saving ? `<span class="selected-saving">${escapeHtml(formatEstimateCad(saving.amount))}${escapeHtml(saving.unit)} de moins</span>` : ''}
         </span>
-        <button type="button" aria-label="Retirer ${escapeHtml(item.name)}">Retirer</button>
+        <button type="button" class="selected-remove" aria-label="Retirer ${escapeHtml(item.name)}">Retirer</button>
       `;
-      row.querySelector('button').addEventListener('click', () => {
+      row.querySelector('.selected-product')?.addEventListener('click', () => listDialog.showSavings(currentListSnapshot(), item.id));
+      row.querySelector('.selected-remove').addEventListener('click', () => {
         state.selected.delete(item.id);
         saveSelection();
         renderWeekHeader();
@@ -727,9 +794,9 @@ function renderSelection() {
     const subtotal = document.createElement('div');
     subtotal.className = 'store-subtotal';
     subtotal.innerHTML = `
-      <span>Sous-total estimé</span>
-      <strong translate="no">${escapeHtml(formatEstimateCad(store.estimate.subtotal))}</strong>
-      ${caveat ? `<small>${escapeHtml(caveat)}</small>` : ''}
+      <span>${store.estimate.fixedCount ? 'Sous-total' : 'Selon les quantités'}</span>
+      <strong translate="no">${store.estimate.fixedCount ? escapeHtml(formatEstimateCad(store.estimate.subtotal)) : '—'}</strong>
+      ${store.estimate.fixedCount && caveat ? `<small>${store.estimate.variableCount ? `${store.estimate.variableCount} prix au poids non inclus.` : `${store.estimate.unknownCount} prix à vérifier.`}</small>` : ''}
     `;
     block.append(subtotal);
 
@@ -774,6 +841,7 @@ function buildPrintableHtml(selectedItems) {
   const stores = groupSelectedByStore();
   const estimate = estimateBasketTotal(selectedItems);
   const caveat = estimateCaveat(estimate);
+  const savings = basketSavings(selectedItems, allSelectableItems(), state.selectedStoreIds);
   const notes = state.notes.trim();
   const generated = new Intl.DateTimeFormat('fr-CA', {
     dateStyle: 'long',
@@ -794,7 +862,7 @@ function buildPrintableHtml(selectedItems) {
         <tbody>
           ${store.items.map(item => `
             <tr>
-              <td>${escapeHtml(item.name)}</td>
+              <td>${escapeHtml(item.name)}${loyaltyLabel(item) ? `<br /><small>${escapeHtml(loyaltyLabel(item))}</small>` : ''}</td>
               <td class="price">${escapeHtml(item.price)}</td>
             </tr>
           `).join('')}
@@ -980,7 +1048,7 @@ function buildPrintableHtml(selectedItems) {
   <header>
     <div>
       <h1>Liste d'épicerie</h1>
-      <div>${escapeHtml(state.week?.weekRange || state.week?.folderName || '')}</div>
+      <div>${escapeHtml([state.week?.regionName, state.week?.weekRange || state.week?.folderName].filter(Boolean).join(' · '))}</div>
     </div>
     <div class="meta">
       ${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''}<br />
@@ -995,6 +1063,7 @@ function buildPrintableHtml(selectedItems) {
     <div>Prix en CAD</div>
   </div>
   <p class="estimate-caveat">Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
+  ${savings.amount > 0 ? `<p>Économies estimées : <strong>${escapeHtml(formatEstimateCad(savings.amount))}</strong> · ${savings.count} produit(s).</p>` : ""}
   ${notes ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes)}</p></section>` : ''}
   ${storeBlocks}
   ${finalTotalBlock}
@@ -1022,11 +1091,13 @@ async function loadJsPdf() {
   return window.jspdf.jsPDF;
 }
 
-async function createBrowserPdfDocument() {
-  const selectedItems = [...state.selected.values()];
-  const stores = groupSelectedByStore();
-  const estimate = estimateBasketTotal(selectedItems);
+async function createBrowserPdfDocument(snapshot = null) {
+  const week = snapshot?.week ?? state.week;
+  const stores = snapshot?.stores ?? groupSelectedByStore();
+  const selectedItems = stores.flatMap(store => store.items);
+  const estimate = snapshot?.estimate ?? estimateBasketTotal(selectedItems);
   const caveat = estimateCaveat(estimate);
+  const savings = snapshot?.savings ?? basketSavings(selectedItems, allSelectableItems(), state.selectedStoreIds);
   const jsPDF = await loadJsPdf();
   const pdf = new jsPDF({ unit: 'pt', format: 'letter', orientation: 'portrait' });
   const pageWidth = pdf.internal.pageSize.getWidth();
@@ -1057,7 +1128,7 @@ async function createBrowserPdfDocument() {
   }
 
   text('Liste d’épicerie', margin, y + 10, { font: 'times', style: 'bold', size: 30 });
-  text(state.week?.weekRange || state.week?.folderName || '', margin, y + 34, { size: 12, color: [95, 90, 80] });
+  text([week?.regionName, week?.weekRange || week?.folderName].filter(Boolean).join(' · '), margin, y + 34, { size: 12, color: [95, 90, 80] });
   text(`${selectedItems.length} produit${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
   text(`${stores.length} épicerie${stores.length > 1 ? 's' : ''}`, pageWidth - margin, y + 25, { size: 11, color: [95, 90, 80], align: 'right' });
   text(`Total estimé: ${formatEstimateCad(estimate.subtotal)}`, pageWidth - margin, y + 42, { style: 'bold', size: 11, color: [35, 88, 69], align: 'right' });
@@ -1072,7 +1143,11 @@ async function createBrowserPdfDocument() {
   }
   y += 13;
 
-  const notes = state.notes.trim();
+  if (savings.amount > 0) {
+    text(`Économies estimées : ${formatEstimateCad(savings.amount)} · ${savings.count} produit(s)`, margin, y, { size: 11, style: 'bold', color: [35, 88, 69] });
+    y += 22;
+  }
+  const notes = (snapshot?.notes ?? state.notes).trim();
   if (notes) {
     addPageIfNeeded(70);
     text('Notes', margin, y, { font: 'times', style: 'bold', size: 16 });
@@ -1102,7 +1177,7 @@ async function createBrowserPdfDocument() {
     y += 24;
 
     for (const item of store.items) {
-      const itemLines = pdf.splitTextToSize(item.name, itemWidth - 18);
+      const itemLines = pdf.splitTextToSize([item.name, loyaltyLabel(item)].filter(Boolean).join('\n'), itemWidth - 18);
       const rowHeight = Math.max(28, itemLines.length * 12 + 16);
       addPageIfNeeded(rowHeight + 8);
       pdf.setDrawColor(231, 223, 209);
@@ -1144,7 +1219,7 @@ async function createBrowserPdfDocument() {
     y += 11;
   }
 
-  const fileName = fileNameForCurrentWeek('pdf');
+  const fileName = snapshot ? `${slugFileName(`${week.regionName}-${week.title || week.weekRange}`)}.pdf` : fileNameForCurrentWeek('pdf');
   return { pdf, fileName };
 }
 
@@ -1187,6 +1262,11 @@ async function shareBasketPdf() {
     pdf.save(fileName);
     setExportStatus('PDF téléchargé.', 'success', fileName);
   } catch (err) {
+    if (err?.name === 'AbortError') {
+      setExportStatus('');
+      return;
+    }
+    console.error('PDF share failed:', err);
     setExportStatus('Partage indisponible. Essaie “Exporter PDF”.', 'warning');
   } finally {
     els.shareButton.disabled = false;
@@ -1237,7 +1317,11 @@ async function exportPdfToDesktop() {
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({
         weekSlug: state.week.slug,
+        regionId: state.regionId,
+        storeIds: [...state.selectedStoreIds],
         selectedIds,
+        branchChoices: state.branchChoices,
+        location: state.location,
         notes: state.notes,
       }),
     });
@@ -1257,8 +1341,39 @@ async function exportPdfToDesktop() {
   }
 }
 
-async function selectWeek(weekMeta) {
-  state.week = await loadJson(weekMeta.path);
+async function selectWeek(weekMeta, regionId = state.regionId, weeks = state.weeks) {
+  if (!weekMeta) throw new Error("Aucune semaine disponible dans cette région");
+  const request = ++state.weekRequest;
+  els.weekHeader.textContent = 'Chargement des circulaires…';
+  const week = prepareOfferIds(await loadJson(weekMeta.path));
+  if (request !== state.weekRequest) return;
+  week.dataPath = weekMeta.path.replace(/week\.json$/, '');
+  for (const categories of [week.categories, week.dealCategories, week.allCategories]) {
+    for (const category of categories ?? []) for (const item of category.items) {
+      const location = regionId === 'joliette' ? state.storeDirectory.stores[canonicalStoreId(item.storeId)] : null;
+      if (location) item.storeAddress = location.address ?? '';
+    }
+  }
+  try {
+    const evidence = await loadJson(weekMeta.path.replace(/week\.json$/, 'offer-evidence.json'));
+    if (request !== state.weekRequest) return;
+    for (const categories of [week.categories, week.dealCategories, week.allCategories]) {
+      for (const category of categories ?? []) for (const item of category.items) applyOfferEvidence(item, evidence.offers[item.id]);
+    }
+  } catch (error) { console.error('Offer comparison details unavailable:', error); }
+  if (request !== state.weekRequest) return;
+  state.week = week;
+  state.regionId = regionId;
+  state.branchChoices = {};
+  try {
+    const saved = JSON.parse(localStorage.getItem(`bons-speciaux:branches:${regionId}`) || '{}');
+    if (saved && typeof saved === 'object' && !Array.isArray(saved)) state.branchChoices = saved;
+  } catch (error) { console.error('Saved branch choices unavailable:', error); }
+  state.weeks = weeks;
+  localStorage.setItem('bons-speciaux:region', regionId);
+  document.querySelector('#region-select').value = regionId;
+  updateLocationCaption();
+  state.offerCandidates = createOfferIndex(allSelectableItems());
   loadSelection();
   loadNotes();
   state.activeCategoryId = 'all';
@@ -1273,11 +1388,34 @@ async function selectWeek(weekMeta) {
   renderCategoryTabs();
   renderItems();
   renderSelection();
+  await loadFlyers(week);
 }
 
 async function init() {
   try {
-    const index = await loadJson('data/weeks/index.json');
+    try {
+      state.storeDirectory = await loadJson('data/store-locations.json');
+    } catch (error) {
+      console.error('Store address directory unavailable:', error);
+    }
+    const registry = await loadJson('data/regions.json');
+    state.regions = registry.regions;
+    const chooser = document.querySelector('#region-select');
+    chooser.replaceChildren();
+    for (const region of state.regions) {
+      const option = document.createElement('option'); option.value = region.id; option.textContent = region.name; chooser.append(option);
+    }
+    state.regionId = state.regions.some(region => region.id === localStorage.getItem('bons-speciaux:region')) ? localStorage.getItem('bons-speciaux:region') : 'joliette';
+    chooser.add(new Option('Autre ville ou ma position…', 'other'));
+    chooser.value = state.regionId;
+    try {
+      const saved = JSON.parse(localStorage.getItem('bons-speciaux:location') || 'null');
+      if (validCoordinates(saved) && saved.regionId === state.regionId) state.location = saved;
+    } catch (error) { console.error('Saved location unavailable:', error); }
+    regionDropdown = enhanceDropdown(chooser);
+    locationPicker = setupLocationPicker({ directory: state.storeDirectory, regions: state.regions, choose: position => chooseRegion(position.regionId, position) });
+    document.querySelector('#location-edit').addEventListener('click', () => locationPicker.open());
+    const index = await loadJson(state.regions.find(region => region.id === state.regionId).indexPath);
     state.weeks = index.weeks ?? [];
     const weeks = visibleWeeks(state.weeks);
     if (weeks.length > 0) {
@@ -1295,13 +1433,49 @@ async function init() {
   }
 }
 
-els.printButton.addEventListener('click', exportPdfToDesktop);
+function currentListSnapshot() {
+  return createListSnapshot({
+    week: { ...state.week, regionName: state.regions.find(region => region.id === state.regionId)?.name || state.week.regionName },
+    regionId: state.regionId, stores: groupSelectedByStore(), notes: state.notes,
+    estimate: estimateBasketTotal([...state.selected.values()]),
+    savings: basketSavingsDetails([...state.selected.values()], allSelectableItems(), state.selectedStoreIds),
+  });
+}
+
+const listDialog = setupListDialog({
+  status: setExportStatus,
+  exportCurrent: exportPdfToDesktop,
+  exportSaved: async snapshot => {
+    const { pdf, fileName } = await createBrowserPdfDocument(snapshot);
+    pdf.save(fileName);
+  },
+});
+const priceHistory = setupPriceHistory();
+document.querySelector('#price-history-toggle').addEventListener('click', () => {
+  if (state.week) priceHistory.open(allSelectableItems().filter(itemMatchesSelectedStores), state.week);
+});
+document.querySelector('#savings-filter').addEventListener('click', event => {
+  state.savingsOnly = !state.savingsOnly;
+  event.currentTarget.setAttribute('aria-pressed', String(state.savingsOnly));
+  renderCategoryTabs();
+  renderItems();
+});
+document.querySelector('#selection-savings').addEventListener('click', () => listDialog.showSavings(currentListSnapshot()));
+document.querySelector('#save-button').addEventListener('click', () => listDialog.saveCurrent(currentListSnapshot()));
+els.printButton.addEventListener('click', () => {
+  if (!state.selected.size) { setExportStatus('Ajoute au moins un produit avant de créer le PDF.', 'warning'); return; }
+  listDialog.showExport(currentListSnapshot());
+});
 els.shareButton.addEventListener('click', shareBasketPdf);
 els.weekToggle.addEventListener('click', toggleWeekMenu);
 document.addEventListener('click', event => {
   if (!event.target.closest('.week-field')) closeWeekMenu();
 });
 document.addEventListener('keydown', event => {
+  if (event.key === 'Tab' && !els.imagePreview.hidden) {
+    event.preventDefault();
+    els.imagePreviewClose.focus();
+  }
   if (event.key === 'Escape') {
     closeWeekMenu();
     closeImagePreview();
@@ -1332,29 +1506,34 @@ els.storeFilter.addEventListener('change', event => {
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
+  renderSelection();
 });
 els.regularStoresButton?.addEventListener('click', () => {
   state.selectedStoreIds = defaultStoreSelection(allWeekStores());
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
+  renderSelection();
 });
 els.allStoresButton?.addEventListener('click', () => {
   state.selectedStoreIds = allStoreSelection(allWeekStores());
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
+  renderSelection();
 });
 els.clearStoresButton?.addEventListener('click', () => {
   state.selectedStoreIds = new Set();
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
+  renderSelection();
 });
 els.modeTabs?.addEventListener('click', event => {
   const button = event.target.closest('button[data-mode]');
   if (!button || button.dataset.mode === state.mode) return;
   state.mode = button.dataset.mode;
+  renderWeekHeader();
   ensureSelectedStores();
   if (!displayCategories().some(category => category.id === state.activeCategoryId)) {
     state.activeCategoryId = 'all';
@@ -1363,6 +1542,7 @@ els.modeTabs?.addEventListener('click', event => {
   renderStoreFilter();
   renderCategoryTabs();
   renderItems();
+  renderSelection();
 });
 els.notesInput?.addEventListener('input', event => {
   state.notes = event.target.value;
@@ -1378,4 +1558,52 @@ els.clearButton.addEventListener('click', () => {
   renderSelection();
 });
 
+function updateLocationCaption() {
+  const caption = document.querySelector('#location-caption');
+  const region = state.regions.find(entry => entry.id === state.regionId);
+  caption.hidden = false;
+  caption.textContent = state.location
+    ? `${state.location.name} · Circulaires disponibles : ${region?.name}. Les offres peuvent varier selon la succursale.`
+    : 'Succursales près du centre-ville. Utilise ta position pour affiner.';
+  document.querySelector('#location-edit').textContent = state.location ? 'Changer ma position' : 'Me localiser';
+  regionDropdown?.sync();
+}
+let regionRequest = 0;
+async function chooseRegion(regionId, position = null) {
+  const region = state.regions.find(entry => entry.id === regionId);
+  if (!region) throw new Error('Région inconnue.');
+  const request = ++regionRequest;
+  ++state.weekRequest;
+  const chooser = document.querySelector('#region-select');
+  const previousLocation = state.location;
+  chooser.disabled = true; regionDropdown?.sync();
+  try {
+    if (regionId === state.regionId && state.week) {
+      state.location = position;
+      renderSelection();
+    } else {
+      const index = await loadJson(region.indexPath);
+      if (request !== regionRequest) return;
+      state.location = position;
+      await selectWeek(visibleWeeks(index.weeks ?? [])[0], region.id, index.weeks ?? []);
+    }
+    if (position) localStorage.setItem('bons-speciaux:location', JSON.stringify(position));
+    else localStorage.removeItem('bons-speciaux:location');
+  } catch (error) {
+    state.location = previousLocation;
+    chooser.value = state.regionId;
+    renderWeekHeader();
+    throw error;
+  } finally {
+    chooser.disabled = false; chooser.value = state.regionId; updateLocationCaption();
+  }
+}
+document.querySelector('#region-select').addEventListener('change', async event => {
+  if (event.target.value === 'other') {
+    event.target.value = state.regionId; regionDropdown?.sync(); locationPicker?.open(); return;
+  }
+  try { await chooseRegion(event.target.value); }
+  catch (error) { console.error('Region loading failed:', error); setExportStatus('Cette région est indisponible pour le moment.', 'warning'); }
+});
+setupShoppingWorkspace();
 init();
