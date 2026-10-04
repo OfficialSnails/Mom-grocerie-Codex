@@ -1,6 +1,6 @@
 import { searchLocations, nearestRegion, locationError, validCoordinates, readDevicePosition } from './location-data.js';
 
-export function setupLocationPicker({ directory, regions, choose }) {
+export function setupLocationPicker({ directory, regions, choose, purpose = 'flyers' }) {
   const dialog = document.querySelector('#location-dialog');
   const search = dialog.querySelector('#location-search');
   const results = dialog.querySelector('#location-results');
@@ -17,7 +17,7 @@ export function setupLocationPicker({ directory, regions, choose }) {
     if (region.distance > 750) { say('Cette position est hors de la zone couverte. Choisis une ville au Québec.'); return; }
     busy = true;
     results.setAttribute('aria-busy', 'true');
-    say('Chargement des circulaires…');
+    say(purpose === 'branches' ? 'Recherche des succursales à proximité…' : 'Chargement des circulaires…');
     try {
       await choose({ name: place.name, lat: place.lat, lon: place.lon, regionId: region.id,
         source: place.source === 'device' ? 'device' : place.kind || 'address',
@@ -25,7 +25,7 @@ export function setupLocationPicker({ directory, regions, choose }) {
       dialog.close();
     } catch (error) {
       console.error('Location selection failed:', error);
-      say('Les circulaires sont indisponibles. Réessaie dans un instant.');
+      say(purpose === 'branches' ? (error.message || 'Les succursales n’ont pas pu être mises à jour. Réessaie.') : 'Les circulaires sont indisponibles. Réessaie dans un instant.');
     } finally { busy = false; results.removeAttribute('aria-busy'); }
   }
   function show(places) {
@@ -36,9 +36,13 @@ export function setupLocationPicker({ directory, regions, choose }) {
       const button = document.createElement('button');
       button.type = 'button'; button.className = 'location-result';
       const title = document.createElement('strong'); title.textContent = place.name;
-      const caption = document.createElement('span');
-      caption.textContent = `Circulaires : ${regions.find(entry => entry.id === region?.id)?.name ?? 'indisponibles'}`;
-      button.append(title, caption); button.addEventListener('click', () => select(place)); results.append(button);
+      button.append(title);
+      if (purpose !== 'branches') {
+        const caption = document.createElement('span');
+        caption.textContent = `Circulaires : ${regions.find(entry => entry.id === region?.id)?.name ?? 'indisponibles'}`;
+        button.append(caption);
+      }
+      button.addEventListener('click', () => select(place)); results.append(button);
     }
   }
   search.addEventListener('input', () => {
@@ -77,10 +81,13 @@ export function setupLocationPicker({ directory, regions, choose }) {
   });
   dialog.querySelector('#location-close').addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
-  dialog.addEventListener('close', () => { ++sequence; locate.disabled = false; trigger?.focus({ preventScroll: true }); });
+  dialog.addEventListener('close', () => {
+    ++sequence; locate.disabled = false;
+    (trigger?.isConnected ? trigger : document.querySelector('#location-edit'))?.focus({ preventScroll: true });
+  });
   return {
-    async open() {
-      trigger = document.activeElement; search.value = ''; show([]); say('Choisis une ville ou utilise ta position.');
+    async open(opener = document.activeElement) {
+      trigger = opener; search.value = ''; show([]); say('Choisis une ville ou utilise ta position.');
       dialog.showModal(); search.focus();
       // Optional server capability; static hosting still supports towns and GPS.
       addressButton.hidden = true;

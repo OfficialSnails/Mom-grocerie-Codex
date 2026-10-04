@@ -1,10 +1,11 @@
-.account-header { background: var(--forest); padding: 18px max(24px, calc((100vw - 1320px)/2)); display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.account-header { background: var(--forest); padding: 18px max(24px, calc((100% - 1272px)/2)); display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .account-header img { display: block; object-fit: contain; height: auto; max-width: 100%; filter: brightness(0) invert(1); }
 .account-header > a:first-child { width: 220px; flex-shrink: 0; }
 .account-page .account-button, .account-layout button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 46px; padding: 12px 18px; border: 1px solid var(--rule); border-radius: 10px; color: var(--forest); background: var(--panel); font: 600 15px var(--font-body); text-decoration: none; cursor: pointer; }
 .account-layout button:disabled, #account-auth button:disabled { opacity: .55; cursor: wait; }
 .account-header > .account-button { margin-left: auto; }
 #account-auth { min-width: 136px; text-align: right; }
+#account-auth:empty { display: none; }
 .account-page .primary { background: var(--forest); color: white; border-color: var(--forest); }
 .account-page .danger { color: var(--danger); }
 .account-layout { max-width: 1320px; padding: 32px 24px 80px; margin: auto; display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 40px; }
@@ -27,6 +28,13 @@
 .account-card > header { padding: 22px 24px; background: var(--forest); color: white; }
 .account-card h3 { font: 700 21px var(--font-body); margin: 0 0 8px; }
 .account-card header p { margin: 0; }
+.account-card > .account-store-banner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr); gap: 2px 20px; padding: 16px 24px 6px; }
+.account-store-banner h3 { margin: 0; }
+.account-store-banner .store-banner-destination { min-width: 0; text-align: right; }
+.account-store-banner .store-address { font-size: 14px; line-height: 1.4; overflow-wrap: anywhere; }
+.account-store-banner .store-distance { margin-top: 6px; font-size: 13px; line-height: 1.4; }
+.account-store-address-actions { grid-column: 1 / -1; display: flex; justify-content: flex-end; gap: 16px; }
+.account-layout .account-address-action { min-height: 44px; padding: 6px 0; border: 0; border-radius: 0; color: inherit; background: transparent; font-size: 14px; text-decoration: underline; text-underline-offset: 4px; }
 .account-card-body { padding: 8px 24px 24px; }
 .account-products { list-style: none; padding: 0; margin: 0; }
 .account-products li { display: flex; justify-content: space-between; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--faint); }
@@ -42,9 +50,21 @@
 .account-form input, .account-form select { width: 100%; min-height: 48px; border: 1px solid var(--rule); border-radius: 8px; padding: 12px; background: white; color: var(--ink); font: 16px var(--font-body); }
 .account-note { white-space: pre-wrap; }
 .account-fulfillment { padding: 24px; border: 1px solid var(--rule); border-radius: 14px; margin: 28px 0; background: var(--panel-soft); }
+.account-preferences { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 .account-fulfillment h3 { margin: 0 0 12px; font-size: 22px; }
+.account-position { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-top: 1px solid var(--rule); margin-top: 20px; padding-top: 16px; }
+.account-position p { margin: 0; flex: 1 1 200px; }
 .account-store-total { display: flex; justify-content: space-between; gap: 16px; padding: 18px 0 0; color: var(--forest); }
 .account-layout :focus-visible, .account-header :focus-visible { outline: 3px solid var(--ochre); outline-offset: 3px; }
+.account-page .comparison-dialog { margin: auto; padding: 20px; max-height: calc(100dvh - 24px); border: 1px solid var(--rule); border-radius: var(--radius-panel); background: var(--panel); color: var(--ink); }
+.account-page .comparison-dialog::backdrop { background: rgb(23 40 31 / .48); }
+.account-page .comparison-heading { display: flex; align-items: start; justify-content: space-between; gap: 16px; margin-bottom: 16px; }
+.account-page .comparison-heading h2 { font: 600 22px/1.3 var(--font-body); margin: 0; }
+.account-page .comparison-heading > button { flex: 0 0 44px; width: 44px; height: 44px; padding: 0; border: 0; color: var(--forest); background: transparent; font-size: 28px; cursor: pointer; }
+.account-page .comparison-add { min-height: 44px; padding: 10px 14px; border: 1px solid var(--rule); border-radius: var(--radius-control); background: var(--forest-soft); color: var(--forest); font: 600 13px var(--font-body); cursor: pointer; }
+.account-page .comparison-add:disabled { background: var(--panel); color: var(--muted); cursor: default; }
+.account-page .comparison-dialog :focus-visible { outline: 3px solid var(--ochre); outline-offset: 3px; }
+.account-page:has(dialog[open]) { overflow: hidden; }
 @media (max-width: 700px) {
   .account-header { padding: 16px; flex-wrap: wrap; gap: 16px; }
   .account-header > a:first-child { width: 180px; }

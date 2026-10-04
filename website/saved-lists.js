@@ -1,9 +1,30 @@
 import { loyaltyLabel } from './product-details.js';
+import { availableBranches, branchAddress } from './store-directory.js';
+import { validCoordinates } from './location-data.js';
 
 export const SAVED_LISTS_KEY = 'bons-speciaux:saved-lists:v1';
 const clone = value => JSON.parse(JSON.stringify(value));
 const sum = values => Math.round(values.reduce((total, value) => total + value, 0) * 100) / 100;
 const validAmount = value => Number.isFinite(value) && value >= 0;
+const snapshotBranch = branch => branch ? { id: branch.id, chainId: branch.chainId, name: branch.name,
+  street: branch.street, city: branch.city, postalCode: branch.postalCode,
+  lat: branch.lat, lon: branch.lon, nearbyPlace: branch.nearbyPlace } : undefined;
+
+// Change a destination explicitly, without replacing the dated shopping data.
+export function changeListBranch(snapshot, storeId, branchId, directory, origin) {
+  const store = snapshot.stores.find(entry => entry.id === storeId);
+  if (!store) throw new Error('Épicerie introuvable dans cette liste.');
+  const branches = availableBranches(directory, snapshot.regionId, storeId, '', origin);
+  const branch = branchId ? branches.find(entry => entry.id === branchId) : branches[0];
+  if (branchId && !branch) throw new Error('Cette succursale n’est pas disponible pour cette épicerie et cette position.');
+  return { ...snapshot, stores: snapshot.stores.map(entry => entry === store
+    ? { ...entry, address: branch?.street ? branchAddress(branch) : '', branch: snapshotBranch(branch) } : entry) };
+}
+
+export function relocateList(snapshot, directory, origin) {
+  if (!validCoordinates(origin)) throw new Error('La position est invalide. Choisis à nouveau ta position.');
+  return snapshot.stores.reduce((next, store) => changeListBranch(next, store.id, null, directory, origin), snapshot);
+}
 
 // Freeze the prices, comparison references and chosen addresses, not the live catalogue.
 export function createListSnapshot({ week, regionId, stores, estimate, savings, notes }, now = new Date()) {
@@ -25,9 +46,7 @@ export function createListSnapshot({ week, regionId, stores, estimate, savings, 
     notes, estimate, savings: { ...savings, entries },
     stores: stores.map(store => ({
       id: store.id, name: store.name, address: store.address, estimate: store.estimate,
-      branch: store.branch ? { id: store.branch.id, chainId: store.branch.chainId, name: store.branch.name,
-        street: store.branch.street, city: store.branch.city, postalCode: store.branch.postalCode,
-        lat: store.branch.lat, lon: store.branch.lon } : undefined,
+      branch: snapshotBranch(store.branch),
       items: store.items.map(item => ({
         id: item.id, name: item.name, price: item.price, currentPrice: item.currentPrice, unit: item.unit,
         storeId: item.storeId, storeName: item.storeName,

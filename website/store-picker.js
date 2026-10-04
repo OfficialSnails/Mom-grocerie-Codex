@@ -14,12 +14,22 @@ function element(tag, className, text) {
   return node;
 }
 
-export function openStorePicker({ directory, regionId, regionName, store, chosenId, choose, location }) {
-  const trigger = document.activeElement;
+export function openStorePicker({ directory, regionId, regionName, store, chosenId, choose, location, trigger = document.activeElement }) {
   restoreFocus = () => (trigger?.isConnected ? trigger : document.querySelector(`[data-store-picker="${CSS.escape(store.id)}"]`))?.focus();
   document.querySelector('#store-dialog-title').textContent = store.name;
   document.querySelector('#store-dialog-region').textContent = `Succursales répertoriées à proximité · ${location?.name || regionName}`;
   search.value = '';
+  let saving = false;
+  async function select(branchId) {
+    if (saving) return;
+    saving = true;
+    results.querySelectorAll('button').forEach(button => { button.disabled = true; });
+    try { await choose(branchId); dialog.close(); }
+    catch (error) {
+      renderResults();
+      document.querySelector('#store-results-count').textContent = error.message || 'La succursale n’a pas pu être enregistrée. Réessaie.';
+    } finally { saving = false; }
+  }
   renderResults = () => {
     const branches = availableBranches(directory, regionId, store.id, search.value, location);
     document.querySelector('#store-results-count').textContent = `${branches.length} succursale${branches.length === 1 ? '' : 's'}`;
@@ -40,14 +50,14 @@ export function openStorePicker({ directory, regionId, regionName, store, chosen
       button.type = 'button';
       button.setAttribute('aria-label', `Choisir ${branch.name}, ${branchLocationLabel(branch)}`);
       button.disabled = branch.id === chosenId;
-      button.addEventListener('click', () => { choose(branch.id); dialog.close(); });
+      button.addEventListener('click', () => select(branch.id));
       row.append(info, button);
       results.append(row);
     }
     if (chosenId) {
       const reset = element('button', 'branch-reset', 'Utiliser la plus proche répertoriée');
       reset.type = 'button';
-      reset.addEventListener('click', () => { choose(null); dialog.close(); });
+      reset.addEventListener('click', () => select(null));
       results.append(reset);
     }
   };

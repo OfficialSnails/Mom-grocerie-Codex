@@ -8,6 +8,7 @@
   <link rel="icon" href="./assets/favicon-white.png" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./location.css" />
   <link rel="stylesheet" href="./account.css" />
 </head>
 <body class="account-page">
@@ -32,6 +33,25 @@
       <div id="account-content" aria-busy="true"></div>
     </main>
   </div>
+  <footer class="site-footer"><details class="location-sources"><summary>Sources</summary><p>Adresses : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a> et <a href="https://www.metro.ca/trouver-une-epicerie" target="_blank" rel="noopener noreferrer">Metro</a> · Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a></p></details></footer>
+  <dialog id="location-dialog" class="comparison-dialog location-dialog" aria-labelledby="location-title">
+    <div class="comparison-heading"><h2 id="location-title">Où fais-tu tes courses ?</h2><button id="location-close" type="button" aria-label="Fermer la localisation">×</button></div>
+    <div class="location-actions"><button id="location-use-device" class="location-edit" type="button">Utiliser ma position</button></div>
+    <label for="location-search">Ville, adresse ou code postal</label>
+    <input id="location-search" type="search" placeholder="Ex. : Montréal, St-Jérôme, Québec" autocomplete="off" />
+    <button id="location-address-search" class="location-edit" type="button" hidden>Rechercher cette adresse</button>
+    <p id="location-status" role="status" aria-live="polite"></p>
+    <div id="location-results"></div>
+  </dialog>
+  <dialog id="store-dialog" class="comparison-dialog store-dialog" aria-labelledby="store-dialog-title">
+    <div class="comparison-heading"><h2 id="store-dialog-title">Choisir une succursale</h2><button id="store-dialog-close" type="button" aria-label="Fermer les succursales">×</button></div>
+    <p id="store-dialog-region"></p>
+    <label class="sr-only" for="store-search">Rechercher une succursale</label>
+    <input id="store-search" type="search" placeholder="Ville, rue ou code postal" autocomplete="off" />
+    <p id="store-results-count" role="status" aria-live="polite"></p>
+    <div id="store-results"></div>
+    <p class="store-dialog-note">Les offres peuvent varier selon la succursale.</p>
+  </dialog>
   <script type="module" src="./account-page.js"></script>
 </body>
 </html>

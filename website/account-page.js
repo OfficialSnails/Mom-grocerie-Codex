@@ -1,9 +1,9 @@
 import { accountSession, accountApi, saveToAccount } from './account-client.js';
-import { readSavedLists, removeSavedList, setListArchived, savedListTotals, SAVED_LISTS_KEY } from './saved-lists.js';
+import { readSavedLists, saveList, removeSavedList, setListArchived, savedListTotals, SAVED_LISTS_KEY } from './saved-lists.js';
 import { createListPdf } from './list-pdf.js';
 import { money, productTitle, loyaltyLabel } from './product-details.js';
 import { retailerService, storeListText } from './order-handoff.js';
-import { mapsUrl } from './location-data.js';
+import { setupAccountLocations, LOCATION_KEY } from './account-locations.js';
 import { DEVICE_PROFILE_KEY, PROFILE_FIELDS, readDeviceProfile, saveDeviceProfile, clearDeviceProfile } from './shopping-profile.js';
 import { showOrderDialog } from './order-dialog.js';
 
@@ -17,6 +17,16 @@ const node = (tag, text, className = '') => {
 };
 const deviceView = new URLSearchParams(location.search).get('device') === '1';
 const signedIn = () => !deviceView && Boolean(clerk?.user);
+const locations = setupAccountLocations({
+  getList: id => (signedIn() ? lists : readSavedLists(localStorage)).find(list => list.id === id),
+  persist: async snapshot => {
+    const owner = signedIn() ? clerk.user.id : null;
+    if (owner) await saveToAccount(snapshot); else saveList(localStorage, snapshot);
+    if (owner !== (signedIn() ? clerk.user.id : null)) throw new Error('Le compte a changé. Rouvre ta liste.');
+    lists = lists.map(list => list.id === snapshot.id ? snapshot : list);
+  },
+  changed: render, report: message => { status.textContent = message; },
+});
 const countLabel = (count, singular, plural = `${singular}s`) => `${count} ${count === 1 ? singular : plural}`;
 function action(label, callback, className = '') {
   const button = node('button', label, className);
@@ -91,8 +101,7 @@ function render() {
     return;
   }
   const archived = section === 'archives', visible = lists.filter(list => Boolean(list.archivedAt) === archived);
-  content.append(node('h2', archived ? 'Archives' : 'Mes listes'),
-    caption(signedIn() ? 'Tes semaines enregistrées dans ton compte.' : 'Tes semaines enregistrées dans ce navigateur.'));
+  content.append(node('h2', archived ? 'Archives' : 'Mes listes'));
   if (signedIn()) {
     const actions = node('div', undefined, 'account-actions');
     actions.append(action('Importer les listes de cet appareil', async () => {
@@ -105,7 +114,7 @@ function render() {
   }
   if (!visible.length) { content.append(node('p', 'Aucune liste ici pour le moment. Choisis des produits, puis enregistre ta liste.', 'account-empty'), link('Préparer une liste', './')); return; }
   const totals = savedListTotals(visible);
-  content.append(metrics(totals.subtotal, totals.savings), caption(`${countLabel(visible.length, 'semaine')} · Estimations enregistrées, sans confirmation d’achat.`));
+  content.append(metrics(totals.subtotal, totals.savings), caption(countLabel(visible.length, 'liste')));
   for (const snapshot of visible) {
     const card = node('article', undefined, 'account-card'), entry = node('a', undefined, 'account-list-link');
     entry.href = `#list=${encodeURIComponent(snapshot.id)}`;
@@ -119,7 +128,9 @@ function render() {
 function renderList(snapshot) {
   content.append(link('← Mes listes', snapshot.archivedAt ? '#archives' : '#lists'));
   content.append(node('h2', snapshot.week.weekRange), caption(`${snapshot.week.regionName} · Enregistrée le ${new Date(snapshot.savedAt).toLocaleDateString('fr-CA')}`));
-  content.append(metrics(snapshot.estimate.subtotal, snapshot.savings.amount), caption('Prix enregistrés · Avant taxes, dépôts, quantités réelles et produits au poids. Les prix à vérifier ne sont pas inclus.'));
+  const excluded = (snapshot.estimate.variableCount || 0) + (snapshot.estimate.unknownCount || 0);
+  content.append(metrics(snapshot.estimate.subtotal, snapshot.savings.amount),
+    caption(`Hors taxes et dépôts${excluded ? ` · ${countLabel(excluded, 'prix à vérifier', 'prix à vérifier')} hors total` : ''}.`));
   const actions = node('div', undefined, 'account-actions');
   actions.append(action('Télécharger le PDF', async () => { const { pdf, fileName } = await createListPdf(snapshot); pdf.save(fileName); }, 'primary'),
     action(snapshot.archivedAt ? 'Restaurer' : 'Archiver', async () => {
@@ -133,14 +144,13 @@ function renderList(snapshot) {
   if (snapshot.notes) content.append(node('p', snapshot.notes, 'account-note'));
   const fulfillment = node('section', undefined, 'account-fulfillment');
   const preference = { pickup: 'Ramassage', delivery: 'Livraison', in_store: 'En magasin' }[profile.mode];
-  fulfillment.append(node('h3', 'Préparer mes courses'));
-  if (preference) fulfillment.append(node('p', [preference, profile.city, profile.postalCode].filter(Boolean).join(' · ')));
-  fulfillment.append(caption('Prépare une commande par épicerie : vérifie les produits et les quantités, puis choisis le service disponible.'),
-    link(signedIn() ? 'Modifier mes préférences' : 'Enregistrer mes préférences', '#profile'));
+  const preferences = node('div', undefined, 'account-preferences');
+  preferences.append(node('span', preference || 'Mes courses'), link('Préférences', '#profile'));
+  fulfillment.append(preferences);
+  fulfillment.append(locations.positionControl(snapshot));
   content.append(fulfillment);
   for (const store of snapshot.stores) {
-    const card = node('section', undefined, 'account-card'), header = node('header');
-    header.append(node('h3', store.name), node('p', store.address || 'Succursale à choisir'));
+    const card = node('section', undefined, 'account-card'), header = locations.storeHeader(snapshot, store);
     const body = node('div', undefined, 'account-card-body'), items = node('ul', undefined, 'account-products');
     for (const item of store.items) {
       const row = node('li'), label = node('div'); label.append(node('strong', productTitle(item.name)));
@@ -160,7 +170,6 @@ function renderList(snapshot) {
       await navigator.clipboard.writeText(storeListText(store)); status.textContent = `Liste ${store.name} copiée.`;
     }));
     if (service) storeActions.append(link(`Ouvrir ${service.name} ↗`, service.url, true));
-    if (store.address) storeActions.append(link('Voir l’adresse', mapsUrl(store.name, store.address, store.branch), true));
     const prepare = action('Préparer la commande', () => showOrderDialog(store, snapshot, profile, prepare), 'primary');
     storeActions.prepend(prepare);
     if (store.branch?.id) {
@@ -175,9 +184,7 @@ function renderList(snapshot) {
         render(); status.textContent = favorite ? 'Succursale retirée des favoris.' : 'Succursale enregistrée. Elle sera proposée dans sa région.';
       }));
     }
-    body.append(storeActions, caption(service
-      ? 'Les produits restent à ajouter sur le site de l’épicerie. Confirme la succursale, les prix et les frais avant de payer.'
-      : 'Garde cette liste pour tes courses en magasin.'));
+    body.append(storeActions);
     card.append(header, body); content.append(card);
   }
 }
@@ -195,9 +202,7 @@ function confirmDelete(snapshot) {
 
 function renderProfile(draft = profile) {
   content.append(node('h2', 'Mon profil'));
-  content.append(caption(signedIn()
-    ? 'Ces champs sont facultatifs. Ton adresse reste dans ton compte; elle n’est pas envoyée automatiquement aux épiceries.'
-    : 'Sans connexion. Tes préférences et tes listes restent dans ce navigateur. Tu pourras les importer dans ton compte plus tard.'));
+  content.append(caption('Champs facultatifs.'));
   if (signedIn()) content.append(action('Reprendre les préférences de cet appareil', () => {
     const local = readDeviceProfile(localStorage); content.replaceChildren(); renderProfile(local);
     status.textContent = 'Vérifie ces préférences, puis enregistre-les dans ton compte.';
@@ -223,8 +228,8 @@ function renderProfile(draft = profile) {
     } catch (error) { status.textContent = error.message; }
     finally { submit.disabled = false; }
   });
-  content.append(form, caption('La disponibilité de la livraison et du ramassage est confirmée par chaque épicerie.'));
-  content.append(node('h3', 'Mes succursales préférées'), caption(`${countLabel(Object.keys(profile.favorites || {}).length, 'succursale enregistrée', 'succursales enregistrées')}. Choisis-les dans une liste enregistrée.`));
+  content.append(form);
+  content.append(node('h3', 'Mes succursales préférées'), caption(countLabel(Object.keys(profile.favorites || {}).length, 'succursale enregistrée', 'succursales enregistrées')));
   const actions = node('div', undefined, 'account-actions');
   if (!signedIn()) {
     actions.append(action('Effacer mes préférences de cet appareil', () => {
@@ -244,11 +249,14 @@ function renderProfile(draft = profile) {
 
 window.addEventListener('hashchange', () => { status.textContent = ''; render(); document.querySelector('#account-main').focus({ preventScroll: true }); });
 window.addEventListener('storage', event => { if (!signedIn() && [SAVED_LISTS_KEY, DEVICE_PROFILE_KEY].includes(event.key)) void refresh(); });
+window.addEventListener('storage', event => { if (event.key === LOCATION_KEY) locations.reloadOrigin(); });
 // Local lists can render immediately while the optional account service loads.
 try { lists = readSavedLists(localStorage); profile = readDeviceProfile(localStorage); render(); }
 catch (error) { status.textContent = error.message; }
 document.querySelector('#account-identity').textContent = 'Listes sur cet appareil';
 content.setAttribute('aria-busy', 'false');
+void locations.ready().then(() => { if (location.hash.startsWith('#list=')) render(); })
+  .catch(error => { status.textContent = error.message; });
 try {
   clerk = await accountSession(); activeUser = clerk?.user?.id ?? null;
   clerk?.addListener(({ user }) => {

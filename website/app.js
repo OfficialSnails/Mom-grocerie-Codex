@@ -1274,5 +1274,16 @@ document.querySelector('#region-select').addEventListener('change', async event 
   try { await chooseRegion(event.target.value); }
   catch (error) { console.error('Region loading failed:', error); setExportStatus('Cette région est indisponible pour le moment.', 'warning'); }
 });
+window.addEventListener('storage', async event => {
+  if (event.key !== 'bons-speciaux:location' || !state.week) return;
+  try {
+    const position = event.newValue ? JSON.parse(event.newValue) : null;
+    if (position && !validCoordinates(position)) throw new Error('Position enregistrée invalide.');
+    await chooseRegion(position?.regionId || localStorage.getItem('bons-speciaux:region') || state.regionId, position);
+  } catch (error) {
+    console.error('Shared location update failed:', error);
+    setExportStatus('La nouvelle position n’a pas pu être chargée. Utilise « Changer ma position » pour réessayer.', 'warning');
+  }
+});
 setupShoppingWorkspace();
 init();

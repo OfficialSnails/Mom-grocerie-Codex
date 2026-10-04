@@ -54,7 +54,7 @@ export function showOrderDialog(store, snapshot, profile, trigger = document.act
     const unitLabel = node('label', 'Unité'), unit = node('select'); unit.name = `unit-${index}`;
     for (const [value, label] of ORDER_UNITS) { const option = node('option', label); option.value = value; unit.append(option); }
     unit.value = item.unit; const unitControl = node('span', undefined, 'account-select'); unitControl.append(unit); unitLabel.append(unitControl); row.append(unitLabel);
-    if (/\sou\s/i.test(item.name)) row.append(caption('Cette offre propose des choix. Précise le produit souhaité avant le transfert.'));
+    if (/\sou\s/i.test(item.name)) row.append(caption('Précise le produit choisi.'));
     include.addEventListener('change', () => {
       for (const input of [name, format, quantity, unit]) input.disabled = !include.checked;
     });
@@ -83,25 +83,22 @@ export function showOrderDialog(store, snapshot, profile, trigger = document.act
     }); return control;
   }
   const actions = node('div', undefined, 'account-actions'), service = retailerService(store);
-  actions.append(button('Enregistrer mon brouillon', () => { remember(collect()); status.textContent = 'Brouillon enregistré sur cet appareil. Les prix de ta liste restent inchangés.'; }),
+  actions.append(button('Enregistrer mon brouillon', () => { remember(collect()); status.textContent = 'Brouillon enregistré.'; }),
     button('Copier les produits', async () => {
       const order = collect(); remember(order);
-      try { await navigator.clipboard.writeText(orderText(order)); status.textContent = 'Produits et quantités copiés. Ajoute-les sur le site de l’épicerie.'; }
+      try { await navigator.clipboard.writeText(orderText(order)); status.textContent = 'Produits et quantités copiés.'; }
       catch { const text = node('textarea'); text.readOnly = true; text.value = orderText(order); text.setAttribute('aria-label', 'Liste à copier'); form.append(text); text.focus(); text.select(); status.textContent = 'Copie cette sélection avec le menu de ton appareil.'; }
     }));
   if (service) actions.append(external(`Ouvrir ${service.name}`, service.url));
   const manual = node('details', undefined, 'order-manual');
-  manual.append(node('summary', 'Autres options : copier ou ouvrir l’épicerie'));
+  manual.append(node('summary', 'Copier ou ouvrir l’épicerie'));
   const secondary = node('div', undefined, 'account-actions');
   while (actions.children.length > 1) secondary.append(actions.children[1]);
   manual.append(secondary);
   const integration = node('section', undefined, 'order-integration');
   integration.append(node('h3', 'Transférer vers Instacart'), caption('Vérification du service…'));
   const body = node('div', undefined, 'order-body');
-  body.append(caption(store.address || 'Confirme la succursale sur le site de l’épicerie.'),
-    caption('Tous les produits de cette épicerie sont repris ci-dessous. Une fois le service activé, le transfert enverra la liste entière.'),
-    integration, form, actions, manual, status,
-    caption('Aucun achat ici. Le panier, les formats disponibles, la succursale et les frais sont confirmés chez le commerçant.'));
+  body.append(caption(store.address || 'Succursale à confirmer.'), integration, form, actions, manual, status);
   dialog.append(heading, body);
   document.body.append(dialog);
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
@@ -117,7 +114,7 @@ export function showOrderDialog(store, snapshot, profile, trigger = document.act
       if (!dialog.isConnected) return;
       integration.replaceChildren(node('h3', 'Transférer vers Instacart'));
       if (!config.instacart) {
-        integration.append(caption('Le transfert de la liste entière n’est pas encore activé : l’accès au service de commande manque. Ta liste est enregistrable sur cet appareil.'));
+        integration.append(caption('Transfert automatique indisponible.'));
         return;
       }
       const postalLabel = node('label', 'Code postal de livraison'), postal = node('input'); postal.value = profile.postalCode || ''; postal.maxLength = 7; postal.autocomplete = 'postal-code'; postalLabel.append(postal);

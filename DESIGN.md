@@ -265,6 +265,15 @@ reference-led revision of the earlier Playfair interface-heading direction.
   preserve the complete address for exports. Wrap naturally at phone widths.
 - Maps links use a named store and known address; incomplete branches open a
   named search around their coordinates. Keep Modifier a 44 px touch target.
+- Saved lists use the same compact destination layout, with Modifier and Copier
+  beside the address. Copy retains the complete address. Explicit branch changes
+  update the saved destination and exports without replacing dated prices.
+- Saved-list location controls share the shopping page's GPS/city origin.
+  Choosing a new origin selects nearby branches; merely viewing a list preserves
+  its saved destinations. Keep account header controls aligned with the content edge.
+- Use short labels and confirmations. Omit instructional paragraphs around
+  preferences, saved lists and orders; retain essential excluded-price notes,
+  useful errors and a clear unavailable state for automatic cart transfer.
 
 ### Compact grocery PDFs — 2026-10-03
 

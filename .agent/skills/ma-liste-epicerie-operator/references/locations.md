@@ -6,6 +6,7 @@ Use for GPS, location search, missing branches/addresses, distances, branch sele
 
 - `website/location-data.js`: coordinates, distances, device location, search helpers and Maps links.
 - `website/location-picker.js`, `store-picker.js`, `store-directory.js`, `location.css`, `app.js`: origin/branch UI, persistence and rendering.
+- `website/account-locations.js`, `saved-lists.js`: saved-list destinations, address copy and shared browser origin. Branch changes must preserve the dated items, prices, notes and archive state; never put the user's precise origin in the cloud snapshot.
 - `src/location-api.ts`, `functions/api/location/[[path]].ts`: bounded server-side geocoding/reverse lookup; optional provider credentials stay server-side.
 - `src/fetch-store-directory.ts`: source collection; `store-directory-sources.ts`: parsing; `store-directory-enrichment.ts`: identity/merge; `refresh-store-directory.ts`: validated directory output.
 - `data/store-locator-records.json`, `data/store-directory-status.json`, `website/data/store-locations.json`: source records, refresh status and public snapshot.
