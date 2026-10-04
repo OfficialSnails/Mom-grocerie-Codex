@@ -5,7 +5,7 @@ import { buildShoppingPrintHtml } from './print-document.js';
 import { prepareOfferIds, applyOfferEvidence } from './offer-identity.js';
 import { mountProofImage } from './proof-image.js';
 import { setupShoppingWorkspace } from './shopping-workspace.js';
-import { pricePill, priceComparison, bestComparableOffer, packageUnitPrice, basketSavings, basketSavingsDetails, productTitle, createOfferIndex, loyaltyLabel } from './product-details.js';
+import { pricePill, priceComparison, bestComparableOffer, packageUnitPrice, basketSavings, basketSavingsDetails, productTitle, sortProducts, createOfferIndex, loyaltyLabel } from './product-details.js';
 import { setupPriceHistory } from './price-history.js';
 import { createListSnapshot } from './saved-lists.js';
 import { setupListDialog } from './list-dialog.js';
@@ -655,7 +655,7 @@ function renderItems() {
   const baseItems = query
     ? visibleOffers(allWeekItems())
     : categoryItems(category);
-  const sourceItems = query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems;
+  const sourceItems = sortProducts(query ? baseItems.filter(item => itemSearchText(item).includes(query)) : baseItems);
   const section = document.createElement('section');
   section.className = 'category';
   section.id = `category-${query ? 'search' : category.id}`;

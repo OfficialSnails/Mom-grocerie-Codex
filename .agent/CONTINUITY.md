@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Guest shopping, device persistence and a whole-store online ordering flow.
-Now: 2026-10-04T11:32:14-04:00 [TOOL] Guest lists/profile/order drafts and responsive dialog are live, including focus restoration. Release `b788592`, Cloudflare `ea2f124a`; 306 tests and live asset/data/browser checks passed. Automatic whole-basket transfer remains disabled without provider access. Evidence: `reports/ordering-flow-2026-10-04.md`.
-Next: Confirm approved provider access, Quebec retailer coverage and deployment-wide quotas before activating or claiming automatic external basket transfer.
+Goal: Consistent alphabetical product browsing across modes, categories, searches and weeks.
+Now: 2026-10-04T11:37:18-04:00 [CODE] Shared French Canadian sorting runs after product filtering; source deal ranking no longer splits same-name cards. 310 tests pass. Guest ordering release remains live; automatic provider transfer remains blocked. Evidence: `website/product-details.js`, `website/app.js`, `tests/product-details.test.ts`.
+Next: Publish the verified sorting change using the existing authorized release path and check production order.
 Open questions: Instacart applications are currently closed; Northfork is a commercial alternative requiring Quebec retailer coverage/quote confirmation. MealMe's current console only documents Kroger grocery, despite older Canada claims. Production Clerk remains unavailable pending owned-domain/live setup.
 
 ## Decisions
@@ -352,3 +352,8 @@ Relevant files:
 - Acceptance: one action transfers every selected store product, returned matches/quantities are reviewed, missing items and price changes visible, chosen service branch confirmed; no purchase during validation.
 - Constraints: no invented cart IDs/SKUs, hidden private API, paid plan or provider outreach without authorization. Keep guest lists usable. Add deployment-wide quotas before activating a paid endpoint; current per-instance limits alone are not a global spend cap.
 - Status: BLOCKED on external provider access; Northfork Quebec coverage and pricing UNCONFIRMED. No automatic ordering claim.
+
+## Alphabetical catalogue — 2026-10-04
+- 2026-10-04T11:37:18-04:00 [USER] Sort displayed products alphabetically throughout the catalogue and every week so same-name offers no longer appear in separate ranked blocks.
+- 2026-10-04T11:37:18-04:00 [CODE] Root cause: `sortDealsForShopper` exports priority/label/savings/score order, with names only as a tie-breaker. The browser now applies shared French Canadian name/store/ID sorting after offer replacement, filtering and search. Applies to both modes, every category and `Tous`; future/older weeks use the same path. Source rank, prices, IDs, basket and PDF order unchanged. Files: `website/{app,product-details}.js`, `tests/product-details.test.ts`, `DESIGN.md`.
+- 2026-10-04T11:37:18-04:00 [TOOL] `npm run check` passes TypeScript, release preflight and 310 tests. Local browser verified current produce/pantry/search and both modes on September 24–30: no descending name pairs; current carrots/celery/blueberry offers are consecutive by name. No weekly scrape or data rewrite. Evidence: `/tmp/grocery-alphabetical-check.log`.

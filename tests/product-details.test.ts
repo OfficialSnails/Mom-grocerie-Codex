@@ -2,11 +2,43 @@ import { describe, expect, it } from 'vitest';
 // @ts-expect-error Shared static browser helper.
 import { prepareOfferIds } from '../website/offer-identity.js';
 // @ts-expect-error Static browser modules intentionally have no TypeScript build.
-import { comparisonRows, relatedOffers, priceComparison, basketSavings, pricePill, createOfferIndex, loyaltyLabel, bestComparableOffer, packageUnitPrice, assessPriceHistory } from '../website/product-details.js';
+import { comparisonRows, relatedOffers, priceComparison, basketSavings, pricePill, createOfferIndex, loyaltyLabel, bestComparableOffer, packageUnitPrice, assessPriceHistory, sortProducts } from '../website/product-details.js';
 const offer = (id: string, price: number, format: string | null = 'gr24-each', extra = {}) => ({
   id, name: 'CÉLERI', currentPrice: price, price: `${price.toFixed(2).replace('.', ',')} $`, storeId: id, storeName: id,
   saleStart: '2026-10-01', saleEnd: '2026-10-07',
   offerEvidence: { identity: 'celeri', format, unit: 'each', member: false, ...extra },
+});
+describe('alphabetical catalogue order', () => {
+  const product = (id: string, name: string, storeName = 'Metro') => ({ id, name, storeName });
+  it('keeps repeated product names together instead of retaining deal-ranked blocks', () => {
+    const items = [product('celery-deal', 'CÉLERI'), product('carrot-deal', 'CAROTTES'),
+      product('berries', 'BLEUETS'), product('carrot-other', 'Carottes', 'BoniChoix'),
+      product('celery-other', 'Céleri', 'Super C'), product('berries-other', 'Bleuets', 'IGA')];
+    expect(sortProducts(items).map((item: { id: string }) => item.id)).toEqual([
+      'berries-other', 'berries', 'carrot-other', 'carrot-deal', 'celery-deal', 'celery-other',
+    ]);
+  });
+  it('uses French letters, natural numbers and product names before the store', () => {
+    const items = [product('spinach', 'Épinards', 'BoniChoix'), product('beans', 'Haricots', 'IGA'),
+      product('pasta10', 'Pâtes 10 grains'), product('celery', 'céleri', 'Super C'),
+      product('pasta2', 'Pâtes 2 grains')];
+    expect(sortProducts(items).map((item: { id: string }) => item.id)).toEqual(['celery', 'spinach', 'beans', 'pasta2', 'pasta10']);
+  });
+  it('stays deterministic across weekly source order, case, spaces and punctuation', () => {
+    const items = [product('c', ' MINI-CONCOMBRES ', 'Super C'), product('b', 'Mini   concombres', 'Metro'),
+      product('a', 'MINI CONCOMBRES', 'Metro')];
+    const ids = (rows: typeof items) => sortProducts(rows).map((item: { id: string }) => item.id);
+    expect(ids(items)).toEqual(['a', 'b', 'c']);
+    expect(ids([...items].reverse())).toEqual(ids(items));
+  });
+  it('preserves every offer and does not mutate the source array, prices or saved identities', () => {
+    const items = Object.freeze([Object.freeze({ ...product('z', 'Zucchini'), currentPrice: .99 }),
+      Object.freeze({ ...product('a', 'Abricots'), currentPrice: 3.99 })]);
+    const sorted = sortProducts(items);
+    expect(sorted).toEqual([items[1], items[0]]);
+    expect(sorted[0]).toBe(items[1]);
+    expect(items.map(item => item.id)).toEqual(['z', 'a']);
+  });
 });
 describe('verified shopping savings', () => {
   it('labels only verified loyalty offers and names the Metro card accurately', () => {

@@ -59,6 +59,14 @@ design_principles:
 
 # Guide d'intégration web
 
+## Catalogue alphabetical order — 2026-10-04
+
+Sort displayed product cards by French Canadian product name in both modes,
+all categories, `Tous` and search results. Ignore case, accents and punctuation
+for ordering; use natural numeric order, then store and stable offer ID for
+ties. Apply this after offer selection/filtering for every loaded week, without
+changing the source deal ranking, product names, IDs, prices or saved baskets.
+
 ## Dated-price navigation — 2026-10-03
 
 The shared chart banner centers the selected price, date and change in one

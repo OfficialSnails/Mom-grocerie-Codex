@@ -151,6 +151,16 @@ export function productTitle(name) {
   return text.charAt(0).toLocaleUpperCase('fr-CA') + text.slice(1);
 }
 
+const productCollator = new Intl.Collator('fr-CA', { sensitivity: 'base', numeric: true, ignorePunctuation: true });
+const sortText = value => String(value ?? '').trim().replace(/\s+/g, ' ');
+// Catalogue order is independent of the export's deal ranking and store order.
+// Sort a copy so offer IDs, source snapshots and saved selections stay intact.
+export function sortProducts(items) {
+  return [...items].sort((a, b) => productCollator.compare(sortText(a.name), sortText(b.name))
+    || productCollator.compare(sortText(a.storeName), sortText(b.storeName))
+    || productCollator.compare(String(a.id ?? ''), String(b.id ?? '')));
+}
+
 export function createOfferIndex(items) {
   const names = new Map(), prices = new Map();
   for (const item of items) {
