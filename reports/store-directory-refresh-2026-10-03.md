@@ -39,4 +39,6 @@ Prices, historical observations, product classification, basket calculations and
 
 ## Release
 
-Pending GitHub/Cloudflare receipt; source and browser validation complete.
+Source commit `4367feee30f81bdafae06463b18cc4e78109de97` pushed to main. GitHub Actions run [37168569567](https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37168569567) completed successfully; Cloudflare deployment [19e0cc9e](https://19e0cc9e.bons-speciaux-joliette.pages.dev) is live.
+
+At 2026-10-04T01:38:38Z, all six deployed assets/data files matched the release commit by SHA-256: app, directory/picker, location utilities, shopping CSS and generated directory. Public browser readback loaded the current week and 1,479 products. The IGA link was also clicked in the browser and Google Maps resolved “IGA Les Marchés Rainville inc.” at 3100 Rue Henri-L.-Chevrette, Saint-Félix-de-Valois. Evidence: `output/directory-live-verification.json`, `output/directory-ci-watch.txt`.

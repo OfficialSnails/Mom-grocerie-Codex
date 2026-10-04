@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Compact grocery-store banners and named Google Maps destinations; publish verified changes.
-Now: 2026-10-03T20:45:04-04:00 [TOOL] Compact banner/Maps release `3a6970a` deployed as `e07a697d`; CI run `37165771135` passed 240 tests. Five public assets/data match commit and live banners verified.
-Next: No work remains for the compact banner request. Concurrent PDF/history/account changes are separate and were not deployed.
+Goal: Fetch and maintain real branch locations; publish the audited responsive location flow.
+Now: 2026-10-03T21:39:00-04:00 [TOOL] Automatic directory release `4367fee` is live as `19e0cc9e`; 257 tests pass and six public assets/data match commit. 1,416 geolocated branches / 1,239 street addresses.
+Next: No remaining release work for this request. Weekly refresh is connected; source gaps (177 streets) remain explicitly represented. Concurrent account/PDF/history/pipeline changes are separate and not included.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -267,3 +267,5 @@ Relevant files:
 - 2026-10-03T21:37:00-04:00 [CODE] Replaced fixed address overrides with public retailer collectors, a weekly refresh hook, validated source cache/status and GPS/town-triggered directory reload. Current official IGA/Tradition snapshots retire outdated banner points; distinct nearby addresses remain separate. Stable responsive picker and readable locality/Maps fallbacks. Evidence: `reports/store-directory-refresh-2026-10-03.md`.
 - 2026-10-03T21:37:00-04:00 [TOOL] 1,416 geolocated branches / 1,239 street addresses; 177 streets still unavailable. Two unusable provider coordinates excluded; OSM HTTP 504 retained its last good snapshot. Six nearby IGA results now have addresses. Isolated typecheck/preflight and 257 tests passed; browser selection, persistence/reset, town changes and 320–1100 px modal fit verified. Physical GPS sensor success remains UNCONFIRMED.
 - 2026-10-03T21:37:00-04:00 [CODE] Supersedes “no work remains” snapshot for this follow-up: ready to deploy only the audited location changes. Concurrent account/PDF/history/pipeline changes remain unstaged and excluded. Next: verify GitHub/Cloudflare receipt and public asset hashes.
+
+- 2026-10-03T21:39:00-04:00 [TOOL] Location release `4367fee` pushed and deployed as `19e0cc9e`; GitHub Actions `37168569567` succeeded. Six public asset/data hashes match commit, and live browser loads current week / 1,479 products. Named IGA Maps destination resolves correctly. Supersedes pending-release entry above. Evidence: `reports/store-directory-refresh-2026-10-03.md`, `output/directory-live-verification.json`.
