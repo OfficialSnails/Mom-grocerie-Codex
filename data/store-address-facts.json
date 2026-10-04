@@ -32,5 +32,13 @@
     "addressSource": "https://www.skipthedishes.com/maxi-955-boul-rene-levesques-o",
     "corroboratingSource": "https://www.racj.gouv.qc.ca/fileadmin/documents/Accueil/Nous_joindre/Acces_information/2022-2023/22-01-038.pdf",
     "verifiedAt": "2026-10-03"
+  },
+  "osm-node-470553049": {
+    "name": "Marché Tradition Crabtree",
+    "street": "86, 8ième Rue",
+    "city": "Crabtree",
+    "postalCode": "J0K 1B0",
+    "addressSource": "https://www.marchestradition.com/fr/stores/marche-tradition-4/",
+    "verifiedAt": "2026-10-03"
   }
 }

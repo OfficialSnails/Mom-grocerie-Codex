@@ -20,7 +20,8 @@ export function setupListDialog({ exportCurrent, exportSaved, status }) {
   let trigger;
   let showArchived = false;
 
-  function view(heading) {
+  function view(heading, mode = 'detail') {
+    dialog.dataset.view = mode;
     title.textContent = heading;
     content.replaceChildren();
     message.textContent = '';
@@ -158,7 +159,7 @@ export function setupListDialog({ exportCurrent, exportSaved, status }) {
   }
 
   function showHistory() {
-    view('Mes listes');
+    view('Mes listes', 'history');
     content.append(node('p', 'list-caption list-context', 'Sur cet appareil · Une liste par semaine et par région.'));
     let lists;
     try { lists = readSavedLists(localStorage); }

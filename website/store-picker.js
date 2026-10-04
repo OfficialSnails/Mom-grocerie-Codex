@@ -1,5 +1,5 @@
 import { availableBranches, branchAddress } from './store-directory.js';
-import { mapsUrl } from './location-data.js';
+import { mapsUrl, branchDistanceLabel } from './location-data.js';
 
 const dialog = document.querySelector('#store-dialog');
 const search = document.querySelector('#store-search');
@@ -34,7 +34,7 @@ export function openStorePicker({ directory, regionId, regionName, store, chosen
       const address = element('a', '', branch.street ? branchAddress(branch) : 'Voir cette succursale sur Google Maps');
       address.href = mapsUrl(branch.name, branchAddress(branch), branch); address.target = '_blank'; address.rel = 'noopener noreferrer';
       info.append(element('strong', '', branch.name), address);
-      if (Number.isFinite(branch.distance)) info.append(element('span', '', `${branch.distance.toLocaleString('fr-CA', { maximumFractionDigits: 1 })} km à vol d’oiseau`));
+      if (Number.isFinite(branch.distance)) info.append(element('span', '', branchDistanceLabel(branch.distance, location)));
       const button = element('button', 'comparison-add', branch.id === chosenId ? 'Sélectionnée' : 'Choisir');
       button.type = 'button';
       button.setAttribute('aria-label', `Choisir ${branch.name}, ${branch.street || branch.city || 'sur la carte'}`);

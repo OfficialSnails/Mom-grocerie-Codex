@@ -49,3 +49,42 @@ export function locationError(error) {
     : error?.code === 3 ? 'La localisation prend trop de temps. Réessaie ou choisis une ville.'
     : 'Position indisponible. Tu peux chercher une ville ci-dessous.';
 }
+
+export function readDevicePosition(geolocation) {
+  return new Promise((resolve, reject) => {
+    if (!geolocation) { reject({ code: 2 }); return; }
+    let finished = false;
+    const finish = (callback, value) => {
+      if (finished) return;
+      finished = true;
+      clearTimeout(timer);
+      callback(value);
+    };
+    // Also bound the wait when the browser leaves its permission prompt pending.
+    const timer = setTimeout(() => finish(reject, { code: 3 }), 20000);
+    try {
+      geolocation.getCurrentPosition(position => {
+        const point = { lat: position.coords.latitude, lon: position.coords.longitude };
+        if (!validCoordinates(point)) { finish(reject, { code: 2 }); return; }
+        finish(resolve, { ...point, name: 'Ma position', source: 'device',
+          capturedAt: new Date(position.timestamp || Date.now()).toISOString(),
+          accuracy: Number.isFinite(position.coords.accuracy) ? position.coords.accuracy : null });
+      }, error => finish(reject, error), { enableHighAccuracy: true, timeout: 15000, maximumAge: 0 });
+    } catch (error) { finish(reject, error); }
+  });
+}
+
+export function branchDistanceLabel(distance, location) {
+  if (!Number.isFinite(distance)) return '';
+  return `À ${distance.toLocaleString('fr-CA', { maximumFractionDigits: 1 })} km${location?.source === 'device' ? ' de toi' : ''}`;
+}
+
+export function locationCaption(location, centerName, regionName) {
+  if (!location) return `Succursales autour de ${centerName}. Ta position n’a pas encore été utilisée.`;
+  const origin = location.source === 'device' ? 'Succursales les plus proches de ta position'
+    : `Succursales autour de ${location.name}${location.source === 'town' ? ' (centre-ville)' : ''}`;
+  const time = location.capturedAt && new Date(location.capturedAt);
+  const updated = time && Number.isFinite(time.getTime())
+    ? ` · Position du ${time.toLocaleDateString('fr-CA')} à ${time.toLocaleTimeString('fr-CA', { hour: '2-digit', minute: '2-digit' })}` : '';
+  return `${origin}${updated}. Circulaires : ${regionName}.`;
+}

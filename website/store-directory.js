@@ -5,11 +5,12 @@ const chainId = storeId => storeId.replace(/-(joliette|montreal|quebec)$/, '');
 export function availableBranches(directory, regionId, storeId, query = '', location) {
   const search = normalized(query);
   const origin = validCoordinates(location) ? location : directory.regionCenters?.[regionId];
-  return (directory.branches ?? []).filter(branch => {
+  return (directory.branches ?? []).flatMap(branch => {
     const compatible = branch.chainId ? branch.chainId === chainId(storeId) : branch.regionId === regionId && branch.storeId === storeId;
-    return compatible && (!branch.chainId || distanceKm(origin, branch) <= 50) &&
-      normalized(`${branch.name} ${branch.street} ${branch.city} ${branch.postalCode}`).includes(search);
-  }).map(branch => ({ ...branch, distance: distanceKm(origin, branch) }))
+    if (!compatible || (search && !normalized(`${branch.name} ${branch.street} ${branch.city} ${branch.postalCode}`).includes(search))) return [];
+    const distance = distanceKm(origin, branch);
+    return branch.chainId && distance > 50 ? [] : [{ ...branch, distance }];
+  })
     .sort((a, b) => a.distance - b.distance || a.name.localeCompare(b.name, 'fr'));
 }
 
@@ -17,8 +18,8 @@ export function selectedBranch(directory, regionId, storeId, choices = {}, locat
   return availableBranches(directory, regionId, storeId, '', location).find(branch => branch.id === choices[storeId]);
 }
 export function activeBranch(directory, regionId, storeId, choices = {}, location) {
-  return selectedBranch(directory, regionId, storeId, choices, location) ??
-    availableBranches(directory, regionId, storeId, '', location).find(branch => Number.isFinite(branch.distance));
+  const branches = availableBranches(directory, regionId, storeId, '', location);
+  return branches.find(branch => branch.id === choices[storeId]) ?? branches.find(branch => Number.isFinite(branch.distance));
 }
 
 export function branchAddress(branch) {

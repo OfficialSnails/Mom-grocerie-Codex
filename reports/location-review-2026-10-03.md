@@ -69,3 +69,49 @@ It rejects source error responses, missing city centers and obviously incomplete
 ## Follow-up boundary
 
 Optional hosted arbitrary-address search requires a deliberately configured server endpoint and provider key; city/GPS and saved branch lookup already work without it. Periodic directory refresh and fuller street-address coverage can be added independently of weekly price generation. No automatic schedule was created.
+
+
+## Location and modal refinement — October 3, 20:27
+
+Supersedes the original cached/low-accuracy GPS request and variable dialog sizes.
+Device requests use high accuracy, maximumAge 0, a 15-second device timeout and
+20-second safety timeout for browsers that leave requests pending. Late results
+are ignored after another search or closing the picker. Successful coordinates
+retain their source and observation timestamp. The caption names the actual
+origin and flyer region. Failed requests explicitly leave current branches unchanged.
+A deliberate location change clears old manual branch pins and recalculates
+nearest branches for the basket and exports.
+
+The Mes listes/Archives shell has constant dimensions and internal scrolling.
+Location search also keeps a stable shell. Removed the marked explanation blocks;
+attribution is inside a closed Sources footer disclosure. Distance labels are
+“À X km”, or “À X km de toi” for a device-derived origin. Distance calculations
+remain geographic, not driving routes. Branch filtering computes distance once
+per matching branch, and active selection sorts only once per lookup.
+
+The Crabtree Marché Tradition address is now backed by its
+[official branch page](https://www.marchestradition.com/fr/stores/marche-tradition-4/).
+Added its fact to `data/store-address-facts.json` and regenerated the directory
+through the existing importer. Only that branch changed; source coordinates,
+counts and other records are preserved. Import dates now use America/Toronto.
+GPS options follow [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition)
+(checked October 3, 2026). No new source-price scrape or infrastructure required.
+
+Files: `website/location-data.js`, `location-picker.js`, `location.css`,
+`store-directory.js`, `store-picker.js`, `app.js`, `index.html`,
+`list-dialog.js`, `list-dialog.css`, generated `data/store-locations.json`,
+`data/store-address-facts.json`, `src/refresh-store-directory.ts`,
+`tests/location-data.test.ts`, `DESIGN.md`, `.agent/CONTINUITY.md`, this review.
+
+Validation: full `npm run check` passes TypeScript, release preflight and 238
+unit tests. New cases cover fresh successive device coordinates changing nearest
+stores, permission failures, invalid coordinates, a silent request/late callback,
+origin-specific labels and the official Crabtree address in shared PDF lookup.
+Browser verifies identical 620×560 geometry/top position between list tabs,
+GPS timeout and usable recovery, city selection and old-branch reset (25.9 km
+manual selection returns to Crabtree at 0.6 km), readable 320 px list/location
+modals and scrolling results. Real device geolocation timed out in the test
+browser: successful physical positioning remains UNCONFIRMED, not claimed.
+Evidence: `output/location-refinement-check.txt`,
+`output/ui-location-lists-320.png`, `output/location-modal-widths.json` (320/390/700/900 px, no overflow); user preview state not modified.
+Pricing/savings, weekly data, accounts and PDF generation logic unchanged.

@@ -1,4 +1,4 @@
-import { searchLocations, nearestRegion, locationError, validCoordinates } from './location-data.js';
+import { searchLocations, nearestRegion, locationError, validCoordinates, readDevicePosition } from './location-data.js';
 
 export function setupLocationPicker({ directory, regions, choose }) {
   const dialog = document.querySelector('#location-dialog');
@@ -19,7 +19,9 @@ export function setupLocationPicker({ directory, regions, choose }) {
     results.setAttribute('aria-busy', 'true');
     say('Chargement des circulaires…');
     try {
-      await choose({ name: place.name, lat: place.lat, lon: place.lon, regionId: region.id });
+      await choose({ name: place.name, lat: place.lat, lon: place.lon, regionId: region.id,
+        source: place.source === 'device' ? 'device' : place.kind || 'address',
+        capturedAt: place.capturedAt, accuracy: place.accuracy });
       dialog.close();
     } catch (error) {
       console.error('Location selection failed:', error);
@@ -41,21 +43,22 @@ export function setupLocationPicker({ directory, regions, choose }) {
   }
   search.addEventListener('input', () => {
     ++sequence;
+    locate.disabled = false;
     const found = searchLocations(directory, search.value);
     show(found);
     say(search.value.trim().length < 2 ? 'Entre au moins deux lettres.' : found.length ? `${found.length} résultat${found.length > 1 ? 's' : ''}` : 'Aucune ville trouvée. Essaie un autre nom ou utilise ta position.');
   });
-  locate.addEventListener('click', () => {
+  locate.addEventListener('click', async () => {
     if (!navigator.geolocation) { say('Localisation indisponible dans ce navigateur. Choisis une ville.'); return; }
     const request = ++sequence;
-    locate.disabled = true; say('Recherche de ta position…');
-    navigator.geolocation.getCurrentPosition(position => {
-      locate.disabled = false;
+    locate.disabled = true; results.replaceChildren(); say('Recherche de ta position actuelle… Autorise la localisation si le navigateur le demande.');
+    try {
+      const point = await readDevicePosition(navigator.geolocation);
       if (request !== sequence || !dialog.open) return;
-      const point = { lat: position.coords.latitude, lon: position.coords.longitude };
-      select({ ...point, name: 'Ma position' });
-    }, error => { locate.disabled = false; if (request === sequence && dialog.open) say(locationError(error)); },
-    { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 });
+      await select(point);
+    } catch (error) {
+      if (request === sequence && dialog.open) say(`${locationError(error)} Les succursales n’ont pas été modifiées.`);
+    } finally { if (request === sequence) locate.disabled = false; }
   });
   addressButton.addEventListener('click', async () => {
     const query = search.value.trim();
@@ -74,7 +77,7 @@ export function setupLocationPicker({ directory, regions, choose }) {
   });
   dialog.querySelector('#location-close').addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
-  dialog.addEventListener('close', () => { ++sequence; trigger?.focus({ preventScroll: true }); });
+  dialog.addEventListener('close', () => { ++sequence; locate.disabled = false; trigger?.focus({ preventScroll: true }); });
   return {
     async open() {
       trigger = document.activeElement; search.value = ''; show([]); say('Choisis une ville ou utilise ta position.');

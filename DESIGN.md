@@ -228,3 +228,17 @@ reference-led revision of the earlier Playfair interface-heading direction.
   the week/region; it does not multiply savings. Offer save-and-export choices.
   Never present local persistence as account synchronization or paid-service
   readiness. The service proposal is in reports/service-audit-2026-10-03.md.
+
+
+### Location and saved-list stability — 2026-10-03
+
+- Mes listes / Archives share a fixed 560 px dialog height, capped to the
+  viewport; content scrolls inside while the heading and close button stay put.
+- Location search keeps a 520 px shell, capped to the viewport, with scrollable
+  search results. Remove explanation blocks from the location picker; source
+  attribution stays in the closed Sources disclosure in the footer.
+- Device location is explicitly requested fresh (no cached position), with a
+  bounded wait and actionable failure. A new origin resets old branch choices.
+  Town-center distances and device distances must remain distinguishable.
+- Distances use “À X km”, adding “de toi” only for a device-derived origin.
+  They remain geographic distances; never label them as driving distances.

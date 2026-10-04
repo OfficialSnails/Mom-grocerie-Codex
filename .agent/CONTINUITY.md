@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Fix missing basket access at mobile/tablet widths and publish the verified fix to GitHub and Cloudflare.
-Now: 2026-10-03T20:16:21-04:00 [TOOL] Responsive basket fix `06339f8` is live. Actions run `37164330555` succeeded; deployment `b25d011d`. Public assets/API and live 320/700 px interactions verified; supersedes pending-release snapshot.
-Next: No release work remains. Optional service follow-ups remain separate: precise-address provider and dedicated account/cloud-list backend.
+Goal: Stabilize saved-list modals, connect fresh device location to nearest stores, simplify location copy and deploy.
+Now: 2026-10-03T20:27:36-04:00 [CODE] Location/modal changes implemented; 238 tests pass and browser validates layout, location reset and GPS timeout recovery. Production remains `06339f8` pending this release.
+Next: Final release check, GitHub push/deployment, public readback.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -244,3 +244,8 @@ Relevant files:
 - 2026-10-03T20:14:00-04:00 [TOOL] Real-browser checks pass at 320/390/600/601/700/900/901/1100 px: no overflow/clipped control, deeply scrolled basket access, add/remove/empty state, nested savings and mobile-to-desktop resize. Final `npm run check` passes strict TypeScript, release JSON/conflict/syntax validation and 233 tests; diff whitespace check passes. Evidence: `output/mobile-basket-widths.json`, `reports/ui-review-2026-10-03.md`. QA used an isolated origin; user selections unchanged. Prices/data/PDF logic unchanged; physical iOS/Android validation UNCONFIRMED.
 
 - 2026-10-03T20:16:21-04:00 [TOOL] Released `06339f8` through https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37164330555; 233 tests and deployment succeeded. https://b25d011d.bons-speciaux-joliette.pages.dev/ and production serve matching frontend assets/week index; location config returns 200. Live browser at 320/700 px confirms count 2 / total 0.99 / savings 1.50, full list and remove/empty behavior. Test selections restored; preview switched to production. Evidence: `output/mobile-basket-live-readback.json`, `output/mobile-basket-github-success.txt`, `output/ui-mobile-basket-live-{open-320,tablet}.png`. No new scrape or pricing/PDF/backend logic changes.
+
+### Fresh location and stable list modals
+- 2026-10-03T20:27:36-04:00 [USER] Keep list/archive modal size stable; remove marked explanation/attribution blocks, clarify active location and remove “vol d’oiseau”; link nearest stores to actual geolocation. Existing deployment authorization remains active.
+- 2026-10-03T20:27:36-04:00 [CODE] Fresh accurate device request with bounded timeout, source/timestamp retained, stale callbacks ignored and old branch pins reset on deliberate location change. Stable list/location shells; simplified distance labels; source credits moved into closed footer Sources. Existing branch lookup avoids duplicate distance/sorting work. Official Crabtree address added via facts/importer, dated in Toronto. Files/evidence: `reports/location-review-2026-10-03.md`.
+- 2026-10-03T20:27:36-04:00 [TOOL] 238 tests, TypeScript/preflight pass. Browser confirms stable list tabs and 320 px modals, town-based nearest update and manual-pin reset; real GPS request times out with clear recovery, so successful physical-device positioning remains UNCONFIRMED. Prices/PDF generation/auth unchanged; source directory changes limited to one verified address.

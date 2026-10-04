@@ -1,7 +1,7 @@
 import { describe, expect, it, afterEach, vi } from 'vitest';
 import data from '../website/data/store-locations.json';
 // @ts-expect-error Shared browser module.
-import { locationKey, searchLocations, distanceKm, nearestRegion, mapsUrl, locationError } from '../website/location-data.js';
+import { locationKey, searchLocations, distanceKm, nearestRegion, mapsUrl, locationError, readDevicePosition, branchDistanceLabel, locationCaption } from '../website/location-data.js';
 // @ts-expect-error Shared browser module.
 import { activeBranch, availableBranches, storeAddress } from '../website/store-directory.js';
 import { handleLocationApi } from '../src/location-api.js';
@@ -58,6 +58,52 @@ describe('location lookup and shared basket/PDF addresses', () => {
     expect(new URL(mapsUrl('IGA', '', { lat: 46, lon: -73 })).searchParams.get('query')).toBe('46,-73');
     expect(locationError({ code: 1 })).toContain('refusée');
     expect(locationError({ code: 3 })).toContain('trop de temps');
+  });
+});
+
+describe('fresh device location', () => {
+  afterEach(() => { vi.useRealTimers(); });
+  it('requests uncached accurate coordinates and uses them to rank stores', async () => {
+    const locations = availableBranches(data, 'montreal', 'maxi-montreal');
+    let current = locations[0];
+    const device = { getCurrentPosition: vi.fn((success: any, _failure: any, _options: any) => success({
+      coords: { latitude: current.lat, longitude: current.lon, accuracy: 12 }, timestamp: Date.now(),
+    })) };
+    const first = await readDevicePosition(device);
+    expect(activeBranch(data, 'montreal', 'maxi-montreal', {}, first).id).toBe(current.id);
+    current = locations[1];
+    const next = await readDevicePosition(device);
+    expect(activeBranch(data, 'montreal', 'maxi-montreal', {}, next).id).toBe(current.id);
+    expect(next.source).toBe('device');
+    expect(next.accuracy).toBe(12);
+    expect(device.getCurrentPosition.mock.calls[1]?.[2]).toEqual({ enableHighAccuracy: true, timeout: 15000, maximumAge: 0 });
+  });
+  it('bounds a silent browser request and ignores a later success', async () => {
+    vi.useFakeTimers();
+    let resolvePosition: any;
+    const request = readDevicePosition({ getCurrentPosition: (success: any) => { resolvePosition = success; } });
+    const failed = expect(request).rejects.toMatchObject({ code: 3 });
+    await vi.advanceTimersByTimeAsync(20000);
+    await failed;
+    resolvePosition({ coords: { latitude: 45, longitude: -73 }, timestamp: Date.now() });
+    expect(vi.getTimerCount()).toBe(0);
+  });
+  it('preserves permission failures and rejects invalid positions', async () => {
+    await expect(readDevicePosition({ getCurrentPosition: (_: any, fail: any) => fail({ code: 1 }) })).rejects.toMatchObject({ code: 1 });
+    await expect(readDevicePosition({ getCurrentPosition: (ok: any) => ok({ coords: { latitude: NaN, longitude: -73 } }) })).rejects.toMatchObject({ code: 2 });
+  });
+  it('distinguishes a town center from the device position in distances and status', () => {
+    expect(branchDistanceLabel(2.345, null)).toBe('À 2,3 km');
+    expect(branchDistanceLabel(2.345, { source: 'device' })).toBe('À 2,3 km de toi');
+    expect(locationCaption(null, 'Joliette', 'Joliette et les environs')).toContain('Ta position n’a pas encore été utilisée');
+    expect(locationCaption({ name: 'Crabtree', source: 'town' }, 'Joliette', 'Joliette')).toContain('Crabtree (centre-ville)');
+    expect(locationCaption({ name: 'Ma position', source: 'device', capturedAt: '2026-10-03T23:00:00Z' }, '', 'Joliette')).toContain('Succursales les plus proches de ta position');
+  });
+  it('retains the official Crabtree address in the nearest branch and PDF lookup', () => {
+    const branch = activeBranch(data, 'joliette', 'tradition-joliette');
+    expect(branch.id).toBe('osm-node-470553049');
+    expect(storeAddress({ storeId: 'tradition-joliette' }, data, 'joliette')).toBe('86, 8ième Rue, Crabtree J0K 1B0');
+    expect(branch.addressSource).toBe('https://www.marchestradition.com/fr/stores/marche-tradition-4/');
   });
 });
 

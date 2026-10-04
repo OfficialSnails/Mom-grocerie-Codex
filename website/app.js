@@ -11,7 +11,7 @@ import { openStorePicker } from './store-picker.js';
 import { loadFlyers } from './flyers.js';
 import { enhanceDropdown } from './dropdown.js';
 import { setupLocationPicker } from './location-picker.js';
-import { mapsUrl, validCoordinates } from './location-data.js';
+import { mapsUrl, validCoordinates, branchDistanceLabel, locationCaption } from './location-data.js';
 let regionDropdown, locationPicker;
 
 const state = {
@@ -752,7 +752,7 @@ function renderSelection() {
         <div class="store-banner-info">
           <h3>${escapeHtml(store.name)}</h3>
           ${store.address ? `<a class="store-address" href="${escapeHtml(mapsUrl(store.name, store.address, store.branch))}" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir ${escapeHtml(store.name)} dans Google Maps">${escapeHtml(store.address)}</a>` : `<a class="store-address" href="${escapeHtml(mapsUrl(store.name, state.location?.name || state.regions.find(region => region.id === state.regionId)?.name, store.branch))}" target="_blank" rel="noopener noreferrer">${store.branch ? 'Voir cette succursale sur la carte' : 'Trouver une succursale sur la carte'}</a>`}
-          ${Number.isFinite(store.branch?.distance) ? `<span class="store-distance">À ${store.branch.distance.toLocaleString('fr-CA', { maximumFractionDigits: 1 })} km à vol d’oiseau</span>` : ''}
+          ${Number.isFinite(store.branch?.distance) ? `<span class="store-distance">${escapeHtml(branchDistanceLabel(store.branch.distance, state.location))}</span>` : ''}
         </div>
         ${store.hasBranches ? `<button type="button" class="store-locator" data-store-picker="${escapeHtml(store.id)}" aria-label="${store.address ? 'Changer de' : 'Choisir une'} succursale pour ${escapeHtml(store.name)}" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span>${store.address ? 'Modifier' : 'Choisir'}</span></button>` : ''}
       </header>
@@ -1567,9 +1567,7 @@ function updateLocationCaption() {
   const caption = document.querySelector('#location-caption');
   const region = state.regions.find(entry => entry.id === state.regionId);
   caption.hidden = false;
-  caption.textContent = state.location
-    ? `${state.location.name} · Circulaires disponibles : ${region?.name}. Les offres peuvent varier selon la succursale.`
-    : 'Succursales près du centre-ville. Utilise ta position pour affiner.';
+  caption.textContent = locationCaption(state.location, state.storeDirectory.regionCenters?.[state.regionId]?.name || region?.name, region?.name);
   document.querySelector('#location-edit').textContent = state.location ? 'Changer ma position' : 'Me localiser';
   regionDropdown?.sync();
 }
@@ -1592,8 +1590,13 @@ async function chooseRegion(regionId, position = null) {
       state.location = position;
       await selectWeek(visibleWeeks(index.weeks ?? [])[0], region.id, index.weeks ?? []);
     }
+    if (request !== regionRequest) return;
     if (position) localStorage.setItem('bons-speciaux:location', JSON.stringify(position));
     else localStorage.removeItem('bons-speciaux:location');
+    // A new origin requests the nearest stores, not pins saved for the previous origin.
+    state.branchChoices = {};
+    localStorage.removeItem(`bons-speciaux:branches:${regionId}`);
+    renderSelection();
   } catch (error) {
     state.location = previousLocation;
     chooser.value = state.regionId;

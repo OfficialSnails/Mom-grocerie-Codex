@@ -1,4 +1,8 @@
 .list-dialog { width: min(620px, calc(100vw - 24px)); }
+.list-dialog[data-view="history"] { height: min(560px, calc(100dvh - 32px)); overflow: hidden; }
+.list-dialog[data-view="history"][open] { display: flex; flex-direction: column; }
+.list-dialog[data-view="history"] .comparison-heading { flex: 0 0 auto; }
+.list-dialog[data-view="history"] #list-dialog-content { min-height: 0; overflow-y: auto; scrollbar-gutter: stable; }
 .list-dialog .comparison-heading { margin-bottom: 8px; }
 .list-context { margin: 0 0 20px; font-size: 13px; line-height: 1.5; }
 .list-caption { color: var(--muted); font: 400 12px/1.5 var(--font-body); margin: 8px 0; }

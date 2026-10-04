@@ -13,7 +13,7 @@ if (raw.remark || !Array.isArray(raw.elements)) throw new Error('Incomplete loca
 const target = resolve('website/data/store-locations.json');
 const previous = JSON.parse(readFileSync(target, 'utf8'));
 const addressFacts = JSON.parse(readFileSync(resolve('data/store-address-facts.json'), 'utf8'));
-const importedAt = new Date().toISOString().slice(0, 10);
+const importedAt = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Toronto' });
 const placeInput = resolve(process.argv[3] ?? 'output/location-canada.zip');
 const places: any[] = placeInput.endsWith('.zip')
   ? execFileSync('unzip', ['-p', placeInput, 'CA.txt'], { encoding: 'utf8', maxBuffer: 100 * 1024 * 1024 }).split('\n')

@@ -66,8 +66,6 @@
       <button type="button" id="location-address-search" class="location-edit" hidden>Rechercher cette adresse</button>
       <p id="location-status" role="status" aria-live="polite"></p>
       <div id="location-results"></div>
-      <p class="location-privacy">Ta position sert à trouver des succursales à proximité. Elle reste dans ce navigateur. Une recherche d’adresse précise, si disponible, est transmise à Geoapify.</p>
-      <p class="location-attribution">Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a> · Succursales : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a></p>
     </dialog>
     <dialog id="store-dialog" class="comparison-dialog store-dialog" aria-labelledby="store-dialog-title">
       <div class="comparison-heading"><h2 id="store-dialog-title">Choisir une succursale</h2><button id="store-dialog-close" type="button" aria-label="Fermer les succursales">×</button></div>
@@ -172,7 +170,7 @@
       <div id="flyers-grid" class="flyers-grid"></div>
       <section id="flyer-reader" hidden></section>
     </dialog>
-    <footer class="site-footer">La liste d’épicerie · Québec · Prix en CAD<span class="location-attribution">Adresses : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a> et <a href="https://www.metro.ca/trouver-une-epicerie" target="_blank" rel="noopener noreferrer">Metro</a> · Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a></span></footer>
+    <footer class="site-footer">La liste d’épicerie · Québec · Prix en CAD<details class="location-sources"><summary>Sources</summary><p>Adresses : <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a> et <a href="https://www.metro.ca/trouver-une-epicerie" target="_blank" rel="noopener noreferrer">Metro</a> · Villes : <a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">GeoNames</a></p></details></footer>
     <script src="./app.js" type="module"></script>
   </body>
 </html>

@@ -269,14 +269,15 @@
     {
       "id": "osm-node-470553049",
       "chainId": "tradition",
-      "name": "Tradition",
-      "street": "",
-      "city": "",
-      "postalCode": "",
+      "name": "Marché Tradition Crabtree",
+      "street": "86, 8ième Rue",
+      "city": "Crabtree",
+      "postalCode": "J0K 1B0",
       "lat": 45.9652441,
       "lon": -73.4729225,
       "source": "https://www.openstreetmap.org/node/470553049",
-      "verifiedAt": "2026-10-03"
+      "verifiedAt": "2026-10-03",
+      "addressSource": "https://www.marchestradition.com/fr/stores/marche-tradition-4/"
     },
     {
       "id": "osm-node-470575480",
