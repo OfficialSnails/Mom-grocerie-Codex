@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Compact grocery-store banners and named Google Maps destinations; publish verified changes.
-Now: 2026-10-03T20:42:22-04:00 [CODE] Banner/address/Maps changes ready; verified named Maxi, Metro and Super C destinations and responsive layout. Evidence: `reports/store-banner-review-2026-10-03.md`.
-Next: Deploy only this task's staged files; concurrent PDF/history/account edits remain separate. Supersedes previous location-release snapshot.
+Now: 2026-10-03T20:45:04-04:00 [TOOL] Compact banner/Maps release `3a6970a` deployed as `e07a697d`; CI run `37165771135` passed 240 tests. Five public assets/data match commit and live banners verified.
+Next: No work remains for the compact banner request. Concurrent PDF/history/account changes are separate and were not deployed.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -258,3 +258,5 @@ Relevant files:
 - 2026-10-03T20:42:22-04:00 [USER] Address beside store, shorter banner with distance and Modifier, remove postal code from label; open named Maps storefronts.
 - 2026-10-03T20:42:22-04:00 [CODE] Compact two-column banner and shared named map links; added missing Super C St-Charles-Borromée address via facts/importer. Full PDF addresses preserved. Files: `reports/store-banner-review-2026-10-03.md`.
 - 2026-10-03T20:42:22-04:00 [TOOL] 240 tests/typecheck in isolated release snapshot; root release preflight and staged JS syntax pass. Browser verifies named Maxi/Metro/Super C listings, branch editing and 320/390/700/1100 px (73–89 px banners, 44 px Modifier). Other ongoing PDF/history/account changes excluded from staging.
+
+- 2026-10-03T20:45:04-04:00 [TOOL] Banner release `3a6970a` live; run `37165771135` succeeds, deployment `e07a697d`. Public asset hashes and 73–89 px banners/compact labels/named links verified; production selections preserved. Evidence: `reports/store-banner-review-2026-10-03.md`, `output/store-banner-live-readback.json`.

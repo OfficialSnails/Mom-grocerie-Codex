@@ -32,4 +32,12 @@ Evidence: `output/store-banner-widths.json`, `output/store-banner-check.txt`.
 
 No new dependencies, pricing changes, geolocation changes or PDF changes in this
 release. Concurrent PDF/history/account edits are preserved and excluded by
-staging only this task's app hunks and files. Production deployment pending.
+staging only this task's app hunks and files. Production deployment verified below.
+
+2026-10-03T20:45:04-04:00 [TOOL] Released `3a6970a` via successful [GitHub run](https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37165771135),
+including 240 tests and Pages deployment. Deployment: https://e07a697d.bons-speciaux-joliette.pages.dev/;
+production: https://bons-speciaux-joliette.pages.dev/. Five changed public assets/data
+match committed SHA-256 hashes. Live browser confirms 73–89 px banners, no
+overflow, compact street/city text, preserved basket and named address links.
+Evidence: `output/store-banner-live-readback.json`, `output/store-banner-github-log.txt`.
+Continuity ledger updated. Concurrent unrelated edits remain local and untouched.
