@@ -7,7 +7,7 @@ export function availableBranches(directory, regionId, storeId, query = '', loca
   const origin = validCoordinates(location) ? location : directory.regionCenters?.[regionId];
   return (directory.branches ?? []).flatMap(branch => {
     const compatible = branch.chainId ? branch.chainId === chainId(storeId) : branch.regionId === regionId && branch.storeId === storeId;
-    if (!compatible || (search && !normalized(`${branch.name} ${branch.street} ${branch.city} ${branch.postalCode}`).includes(search))) return [];
+    if (!compatible || (search && !normalized(`${branch.name} ${branch.street} ${branch.city} ${branch.postalCode} ${branch.nearbyPlace?.name ?? ''}`).includes(search))) return [];
     const distance = distanceKm(origin, branch);
     return branch.chainId && distance > 50 ? [] : [{ ...branch, distance }];
   })
@@ -31,6 +31,13 @@ export function compactStoreAddress(address) {
   return String(address ?? '').replace(/\b[A-Z]\d[A-Z][ -]?\d[A-Z]\d\b/gi, '')
     .replace(/\bC\.?\s*P\.?\s*\d+\b/gi, '').replace(/\s*,\s*(?=,|$)/g, '')
     .replace(/\s*,\s*/g, ', ').replace(/\s+/g, ' ').trim();
+}
+
+export function branchLocationLabel(branch) {
+  if (!branch) return '';
+  if (branch.street) return [compactStoreAddress(branchAddress(branch)),
+    !branch.city && branch.nearbyPlace?.name ? `près de ${branch.nearbyPlace.name}` : ''].filter(Boolean).join(' · ');
+  return branch.city || (branch.nearbyPlace?.name ? `Près de ${branch.nearbyPlace.name}` : 'Voir sur la carte');
 }
 
 // The same verified lookup is used by the basket, browser PDF and local PDF.

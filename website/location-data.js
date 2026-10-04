@@ -44,8 +44,10 @@ export function mapsUrl(name, address, branch) {
   // A coordinate-only query opens an unnamed pin, even for a known storefront.
   const destination = (branch?.street ? [branch.street, branch.city, branch.postalCode].filter(Boolean).join(', ') : address)
     || branch?.city;
-  if (!destination && validCoordinates(branch)) {
-    return `https://www.google.com/maps/search/${encodeURIComponent(name)}/@${branch.lat},${branch.lon},16z`;
+  const localityOnly = !branch?.street && (!address || address === [branch?.city, branch?.postalCode].filter(Boolean).join(' '));
+  if (validCoordinates(branch) && (localityOnly || (branch.street && !branch.city && !branch.postalCode))) {
+    const label = [name, branch.street].filter(Boolean).join(', ');
+    return `https://www.google.com/maps/search/${encodeURIComponent(label)}/@${branch.lat},${branch.lon},16z`;
   }
   const query = [name, destination, 'Québec, Canada'].filter(Boolean).join(', ');
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;

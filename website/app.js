@@ -6,7 +6,7 @@ import { setupPriceHistory } from './price-history.js';
 import { createListSnapshot } from './saved-lists.js';
 import { setupListDialog } from './list-dialog.js';
 import { openComparison } from './price-comparison.js';
-import { availableBranches, activeBranch, storeAddress, compactStoreAddress } from './store-directory.js';
+import { availableBranches, activeBranch, storeAddress, compactStoreAddress, branchLocationLabel } from './store-directory.js';
 import { openStorePicker } from './store-picker.js';
 import { loadFlyers } from './flyers.js';
 import { enhanceDropdown } from './dropdown.js';
@@ -754,7 +754,7 @@ function renderSelection() {
           ${Number.isFinite(store.branch?.distance) ? `<span class="store-distance">${escapeHtml(branchDistanceLabel(store.branch.distance, state.location))}</span>` : ''}
         </div>
         <div class="store-banner-destination">
-          <a class="store-address" href="${escapeHtml(mapsUrl(store.name, store.address || (!store.branch && (state.location?.name || state.regions.find(region => region.id === state.regionId)?.name)), store.branch))}" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir ${escapeHtml(store.name)}${store.address ? `, ${escapeHtml(store.address)}` : ''} dans Google Maps">${escapeHtml(compactStoreAddress(store.address) || 'Voir sur Google Maps')}</a>
+          <a class="store-address" href="${escapeHtml(mapsUrl(store.name, store.address || (!store.branch && (state.location?.name || state.regions.find(region => region.id === state.regionId)?.name)), store.branch))}" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir ${escapeHtml(store.name)}${store.address ? `, ${escapeHtml(store.address)}` : ''} dans Google Maps">${escapeHtml(compactStoreAddress(store.address) || branchLocationLabel(store.branch) || 'Voir sur Google Maps')}</a>
         ${store.hasBranches ? `<button type="button" class="store-locator" data-store-picker="${escapeHtml(store.id)}" aria-label="${store.address ? 'Changer de' : 'Choisir une'} succursale pour ${escapeHtml(store.name)}" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span>${store.address ? 'Modifier' : 'Choisir'}</span></button>` : ''}
         </div>
       </header>
@@ -1583,6 +1583,9 @@ async function chooseRegion(regionId, position = null) {
   const previousLocation = state.location;
   chooser.disabled = true; regionDropdown?.sync();
   try {
+    const directory = await loadJson('data/store-locations.json');
+    if (request !== regionRequest) return;
+    Object.assign(state.storeDirectory, directory);
     if (regionId === state.regionId && state.week) {
       state.location = position;
       renderSelection();

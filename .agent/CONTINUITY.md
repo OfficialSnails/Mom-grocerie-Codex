@@ -260,3 +260,10 @@ Relevant files:
 - 2026-10-03T20:42:22-04:00 [TOOL] 240 tests/typecheck in isolated release snapshot; root release preflight and staged JS syntax pass. Browser verifies named Maxi/Metro/Super C listings, branch editing and 320/390/700/1100 px (73–89 px banners, 44 px Modifier). Other ongoing PDF/history/account changes excluded from staging.
 
 - 2026-10-03T20:45:04-04:00 [TOOL] Banner release `3a6970a` live; run `37165771135` succeeds, deployment `e07a697d`. Public asset hashes and 73–89 px banners/compact labels/named links verified; production selections preserved. Evidence: `reports/store-banner-review-2026-10-03.md`, `output/store-banner-live-readback.json`.
+
+
+### Automatic store directory refresh — October 3, 2026
+- 2026-10-03T21:37:00-04:00 [USER] Fetch branch information from real sources; fix missing locations and audit the location flow. Earlier deployment authorization remains active.
+- 2026-10-03T21:37:00-04:00 [CODE] Replaced fixed address overrides with public retailer collectors, a weekly refresh hook, validated source cache/status and GPS/town-triggered directory reload. Current official IGA/Tradition snapshots retire outdated banner points; distinct nearby addresses remain separate. Stable responsive picker and readable locality/Maps fallbacks. Evidence: `reports/store-directory-refresh-2026-10-03.md`.
+- 2026-10-03T21:37:00-04:00 [TOOL] 1,416 geolocated branches / 1,239 street addresses; 177 streets still unavailable. Two unusable provider coordinates excluded; OSM HTTP 504 retained its last good snapshot. Six nearby IGA results now have addresses. Isolated typecheck/preflight and 257 tests passed; browser selection, persistence/reset, town changes and 320–1100 px modal fit verified. Physical GPS sensor success remains UNCONFIRMED.
+- 2026-10-03T21:37:00-04:00 [CODE] Supersedes “no work remains” snapshot for this follow-up: ready to deploy only the audited location changes. Concurrent account/PDF/history/pipeline changes remain unstaged and excluded. Next: verify GitHub/Cloudflare receipt and public asset hashes.

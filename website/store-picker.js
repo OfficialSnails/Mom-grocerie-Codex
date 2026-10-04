@@ -1,4 +1,4 @@
-import { availableBranches, branchAddress } from './store-directory.js';
+import { availableBranches, branchAddress, branchLocationLabel } from './store-directory.js';
 import { mapsUrl, branchDistanceLabel } from './location-data.js';
 
 const dialog = document.querySelector('#store-dialog');
@@ -31,13 +31,14 @@ export function openStorePicker({ directory, regionId, regionName, store, chosen
     for (const branch of branches) {
       const row = element('div', 'branch-row', '');
       const info = element('div', 'branch-info', '');
-      const address = element('a', '', branch.street ? branchAddress(branch) : 'Voir cette succursale sur Google Maps');
+      const address = element('a', '', branchLocationLabel(branch));
+      address.setAttribute('aria-label', `Ouvrir ${branch.name}, ${branchLocationLabel(branch)} dans Google Maps`);
       address.href = mapsUrl(branch.name, branchAddress(branch), branch); address.target = '_blank'; address.rel = 'noopener noreferrer';
       info.append(element('strong', '', branch.name), address);
       if (Number.isFinite(branch.distance)) info.append(element('span', '', branchDistanceLabel(branch.distance, location)));
       const button = element('button', 'comparison-add', branch.id === chosenId ? 'Sélectionnée' : 'Choisir');
       button.type = 'button';
-      button.setAttribute('aria-label', `Choisir ${branch.name}, ${branch.street || branch.city || 'sur la carte'}`);
+      button.setAttribute('aria-label', `Choisir ${branch.name}, ${branchLocationLabel(branch)}`);
       button.disabled = branch.id === chosenId;
       button.addEventListener('click', () => { choose(branch.id); dialog.close(); });
       row.append(info, button);

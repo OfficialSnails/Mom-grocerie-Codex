@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-04T01:16:19.905Z",
+  "sources": [
+    {
+      "source": "tradition",
+      "status": "updated",
+      "count": 90
+    },
+    {
+      "source": "bonichoix",
+      "status": "partial",
+      "count": 40
+    },
+    {
+      "source": "iga",
+      "status": "updated",
+      "count": 291
+    },
+    {
+      "source": "familiprix",
+      "status": "partial",
+      "count": 445
+    },
+    {
+      "source": "metro",
+      "status": "updated"
+    },
+    {
+      "source": "geonames",
+      "status": "updated"
+    },
+    {
+      "source": "osm",
+      "status": "retained",
+      "error": "HTTP 504"
+    },
+    {
+      "source": "directory",
+      "status": "updated"
+    }
+  ],
+  "importedAt": "2026-10-04T01:34:43.246Z",
+  "importStatus": "updated"
+}

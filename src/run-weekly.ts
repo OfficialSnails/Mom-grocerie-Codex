@@ -142,6 +142,9 @@ function applyForcedRunDateFromEnv(): void {
 }
 
 async function main() {
+  // Location freshness follows the existing weekly publication, before any flyer-date override.
+  try { execFileSync(TSX_BIN, ['src/fetch-store-directory.ts'], { stdio: 'inherit' }); }
+  catch { console.warn('⚠️ Annuaire non actualisé; dernier relevé conservé. Voir data/store-directory-status.json.'); }
   applyForcedRunDateFromEnv();
 
   console.log('');
