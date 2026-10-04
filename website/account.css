@@ -49,10 +49,8 @@
 .account-form label { display: grid; gap: 8px; font-weight: 600; margin: 18px 0; }
 .account-form input, .account-form select { width: 100%; min-height: 48px; border: 1px solid var(--rule); border-radius: 8px; padding: 12px; background: white; color: var(--ink); font: 16px var(--font-body); }
 .account-note { white-space: pre-wrap; }
-.account-fulfillment { padding: 24px; border: 1px solid var(--rule); border-radius: 14px; margin: 28px 0; background: var(--panel-soft); }
-.account-preferences { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
-.account-fulfillment h3 { margin: 0 0 12px; font-size: 22px; }
-.account-position { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-top: 1px solid var(--rule); margin-top: 20px; padding-top: 16px; }
+.account-location-panel { padding: 24px; border: 1px solid var(--rule); border-radius: 14px; margin: 28px 0; background: var(--panel-soft); }
+.account-position { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 .account-position p { margin: 0; flex: 1 1 200px; }
 .account-store-total { display: flex; justify-content: space-between; gap: 16px; padding: 18px 0 0; color: var(--forest); }
 .account-layout :focus-visible, .account-header :focus-visible { outline: 3px solid var(--ochre); outline-offset: 3px; }

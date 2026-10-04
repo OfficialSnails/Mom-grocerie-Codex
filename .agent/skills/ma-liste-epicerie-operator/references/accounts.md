@@ -25,6 +25,7 @@ Never hide the Development mode badge with CSS or remove the public development-
 
 ## Preserve trust and persistence
 
+- 2026-10-04 user decision: ordering is temporarily removed from `Mon espace`. Keep preparation dialogs, retailer checkout links and pickup/delivery preferences out of the visible UI until the user asks to restore a working provider. Preserve existing drafts/profile values and the usable saved-list, PDF, copy, favorite and GPS/address flows.
 - Derive owner identity from verified authentication, never a caller-supplied owner ID. Preserve bearer validation, origin allowlists, bounded payloads, no-store responses and parameterized owner-scoped queries.
 - Disabled configuration should return its honest disabled state/JSON service error. Do not mask it with an HTML fallback or a successful empty account.
 - Guest shopping remains usable. Reserve a stable header account slot so loading/sign-in state does not shift navigation; preserve accessible dialogs and account placement.

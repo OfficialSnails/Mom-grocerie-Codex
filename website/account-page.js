@@ -2,10 +2,9 @@ import { accountSession, accountApi, saveToAccount } from './account-client.js';
 import { readSavedLists, saveList, removeSavedList, setListArchived, savedListTotals, SAVED_LISTS_KEY } from './saved-lists.js';
 import { createListPdf } from './list-pdf.js';
 import { money, productTitle, loyaltyLabel } from './product-details.js';
-import { retailerService, storeListText } from './order-handoff.js';
+import { storeListText } from './order-handoff.js';
 import { setupAccountLocations, LOCATION_KEY } from './account-locations.js';
 import { DEVICE_PROFILE_KEY, PROFILE_FIELDS, readDeviceProfile, saveDeviceProfile, clearDeviceProfile } from './shopping-profile.js';
-import { showOrderDialog } from './order-dialog.js';
 
 const content = document.querySelector('#account-content'), status = document.querySelector('#account-status');
 let clerk, lists = [], profile = {}, requestNumber = 0, activeUser = null;
@@ -142,13 +141,9 @@ function renderList(snapshot) {
     }), action('Supprimer', () => confirmDelete(snapshot), 'danger'));
   content.append(actions);
   if (snapshot.notes) content.append(node('p', snapshot.notes, 'account-note'));
-  const fulfillment = node('section', undefined, 'account-fulfillment');
-  const preference = { pickup: 'Ramassage', delivery: 'Livraison', in_store: 'En magasin' }[profile.mode];
-  const preferences = node('div', undefined, 'account-preferences');
-  preferences.append(node('span', preference || 'Mes courses'), link('Préférences', '#profile'));
-  fulfillment.append(preferences);
-  fulfillment.append(locations.positionControl(snapshot));
-  content.append(fulfillment);
+  const locationPanel = node('section', undefined, 'account-location-panel');
+  locationPanel.append(locations.positionControl(snapshot));
+  content.append(locationPanel);
   for (const store of snapshot.stores) {
     const card = node('section', undefined, 'account-card'), header = locations.storeHeader(snapshot, store);
     const body = node('div', undefined, 'account-card-body'), items = node('ul', undefined, 'account-products');
@@ -165,13 +160,10 @@ function renderList(snapshot) {
     body.append(subtotal);
     const unpriced = (store.estimate.variableCount || 0) + (store.estimate.unknownCount || 0);
     if (unpriced) body.append(caption(`${countLabel(unpriced, 'prix à vérifier')} hors total.`));
-    const storeActions = node('div', undefined, 'account-actions'), service = retailerService(store);
+    const storeActions = node('div', undefined, 'account-actions');
     storeActions.append(action('Copier cette liste', async () => {
       await navigator.clipboard.writeText(storeListText(store)); status.textContent = `Liste ${store.name} copiée.`;
     }));
-    if (service) storeActions.append(link(`Ouvrir ${service.name} ↗`, service.url, true));
-    const prepare = action('Préparer la commande', () => showOrderDialog(store, snapshot, profile, prepare), 'primary');
-    storeActions.prepend(prepare);
     if (store.branch?.id) {
       const chain = store.branch.chainId || store.id.replace(/-(joliette|montreal|quebec)$/, '');
       const favorite = profile.favorites?.[chain] === store.branch.id;
@@ -213,16 +205,11 @@ function renderProfile(draft = profile) {
     input.name = name; input.autocomplete = autocomplete; input.maxLength = max; input.value = draft[name] || '';
     field.append(input); form.append(field);
   }
-  const modeLabel = node('label', 'Je préfère'), select = node('select'); select.name = 'mode';
-  for (const [value, label] of [['pickup', 'Ramassage'], ['delivery', 'Livraison'], ['in_store', 'En magasin']]) {
-    const option = node('option', label); option.value = value; select.append(option);
-  }
-  select.value = draft.mode || 'pickup'; const modeControl = node('span', undefined, 'account-select'); modeControl.append(select); modeLabel.append(modeControl); form.append(modeLabel);
   const submit = node('button', 'Enregistrer mon profil', 'primary'); submit.type = 'submit'; form.append(submit);
   form.addEventListener('submit', async event => {
     event.preventDefault(); submit.disabled = true;
     try {
-      const data = { ...Object.fromEntries(new FormData(form)), favorites: draft.favorites || {} };
+      const data = { ...Object.fromEntries(new FormData(form)), mode: draft.mode, favorites: draft.favorites || {} };
       profile = signedIn() ? (await accountApi('/profile', { method: 'PUT', body: data })).profile : saveDeviceProfile(localStorage, data);
       renderAuth(); status.textContent = signedIn() ? 'Profil enregistré dans ton compte.' : 'Préférences enregistrées sur cet appareil.';
     } catch (error) { status.textContent = error.message; }

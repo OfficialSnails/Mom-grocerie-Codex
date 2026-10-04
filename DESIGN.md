@@ -295,6 +295,8 @@ reference-led revision of the earlier Playfair interface-heading direction.
 
 ## Guest ordering review — 2026-10-04
 
+Temporary user-requested removal: hide ordering controls, retailer checkout links and pickup/delivery preferences from `Mon espace` until a working provider is available. Saved lists, PDF, copying, favorite branches and GPS/address changes remain available. Existing drafts/preferences are preserved. The review design below applies only when ordering is explicitly restored.
+
 `Mon espace` always opens the list/profile page; optional sign-in lives inside that space. Guest preferences, favorite branches and saved lists persist on the device. A cloud failure cannot prevent opening the already-saved local copy.
 
 Prepare an entire store list in one action. Every item is prefilled; editing is optional for quantities, formats and alternative offers. Never claim that a retailer home link populates a cart. If the provider is unavailable, show that before the review and keep copy/open-retailer options secondary. Preserve flyer prices separately from current checkout prices.

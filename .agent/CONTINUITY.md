@@ -1,10 +1,10 @@
 # Continuity
 
 ## Snapshot
-Goal: Compact, aligned saved-list destinations with GPS/city branch editing and minimal copy.
-Now: 2026-10-04T12:06:45-04:00 [TOOL] Saved-list destination/copy and concise account/order UI are live in `b4ad7d9`, deployment `4f8ed04e`. 315 tests pass; 12 changed assets byte-match production. Hosted guest branch persistence and order items verified.
-Next: No remaining work for this UI release. Automatic whole-cart provider activation remains the separate blocked follow-up.
-Open questions: Instacart applications are currently closed; Northfork is a commercial alternative requiring Quebec retailer coverage/quote confirmation. MealMe's current console only documents Kroger grocery, despite older Canada claims. Production Clerk remains unavailable pending owned-domain/live setup.
+Goal: Temporarily remove unavailable ordering from Mon espace.
+Now: 2026-10-04T13:30:35-04:00 [CODE] Ordering buttons, external retailer order links and fulfillment preferences removed; saved lists, PDF, copying, favorites and GPS/address controls remain. Existing order modules/drafts and stored mode values preserved.
+Next: Publish the validated UI and verify production assets.
+Open questions: Provider integration remains parked; official Instacart applications were closed at the last check. Production Clerk still requires owned-domain/live setup.
 
 ## Decisions
 D001 ACTIVE: [USER] Weekly runs target the upcoming Thursday-to-Wednesday flyer cycle, using Joliette only as the Quebec source anchor.
@@ -351,7 +351,7 @@ Relevant files:
 - Files: `src/order-api.ts`, `functions/api/order/[[path]].ts`, `website/order-dialog.js`, `website/order-handoff.js`, private environment/provider secrets.
 - Acceptance: one action transfers every selected store product, returned matches/quantities are reviewed, missing items and price changes visible, chosen service branch confirmed; no purchase during validation.
 - Constraints: no invented cart IDs/SKUs, hidden private API, paid plan or provider outreach without authorization. Keep guest lists usable. Add deployment-wide quotas before activating a paid endpoint; current per-instance limits alone are not a global spend cap.
-- Status: BLOCKED on external provider access; Northfork Quebec coverage and pricing UNCONFIRMED. No automatic ordering claim.
+- Status: PARKED by user request on 2026-10-04; ordering controls removed pending a working provider and explicit restoration request. External provider access remains unavailable; Northfork Quebec coverage/pricing UNCONFIRMED.
 
 ## Alphabetical catalogue — 2026-10-04
 - 2026-10-04T11:37:18-04:00 [USER] Sort displayed products alphabetically throughout the catalogue and every week so same-name offers no longer appear in separate ranked blocks.
@@ -366,3 +366,13 @@ Relevant files:
 - 2026-10-04T12:02:58-04:00 [TOOL] Local check: 315 tests, TypeScript and release preflight pass. Browser localhost:4197: branch selection/reload, copy success, updated order destination with existing quantity draft, city change selecting nearest stores, live origin update in another shopping tab, focus return, 320/390/700/1280 CSS px overflow checks pass. Real device request timed out and preserved the list; physical GPS success is UNCONFIRMED. QA origin returned to Joliette. Main localhost:4187 still has 4 selected products. Evidence: `/tmp/grocery-address-check.log`, `output/account-address/`.
 - 2026-10-04T12:06:45-04:00 [TOOL] RELEASED `b4ad7d97bf7681cd42f671555f5c03e2f639cba2` (core changes `3274d2b`): Actions `37215374414` successful, Cloudflare `https://4f8ed04e.bons-speciaux-joliette.pages.dev`. 315 tests, Functions compilation and 14 published-data comparisons pass; 12 changed public assets match local bytes. Supersedes pending publication. Evidence: `/tmp/grocery-address-final-deploy.log`, `output/account-address/live-assets.json`.
 - 2026-10-04T12:06:45-04:00 [TOOL] Public account header/content right edges match; footer shared alignment verified. Hosted QA on isolated core-release origin `fd3583b9`: real bananas/lemons selected/saved, Super C changed from Joliette Firestone to St-Charles-Borromee, reload preserved items/$1.99 safe total, order dialog received both items with lb/each units and new address. No purchase or automatic-provider transfer; provider remains unavailable. Browser errors empty; responsive overrides reset. Main public/local user baskets were not edited.
+
+## Provider application request — 2026-10-04T12:16:27-04:00
+- 2026-10-04T12:16:27-04:00 [USER] Asked to apply to make automatic cart transfer work; prior free-service preference remains active.
+- 2026-10-04T12:16:27-04:00 [TOOL] Followed the current official docs Apply today link to `https://company.instacart.com/business/developers`; applications remain closed with no waitlist. Dashboard/invitation docs provide no alternate open enrollment. General contact form targets retailers. Application was NOT submitted; no account or key created.
+- 2026-10-04T12:16:27-04:00 [CODE] Added an unsent project brief and onboarding → development test → demo/production approval → private key configuration → live validation steps to `reports/ordering-flow-2026-10-04.md`. Provider coverage/pricing and permission for the app's multi-store flyer comparison require confirmation. Production, app code, credentials and purchases unchanged; documentation-only diff checked.
+
+## Ordering temporarily removed — 2026-10-04T13:30:35-04:00
+- 2026-10-04T13:30:35-04:00 [USER] Remove the unavailable cart/ordering function from the profile for now; supersedes the visible disabled-provider review flow.
+- 2026-10-04T13:30:35-04:00 [CODE] Removed account order-dialog import/entry point, retailer order links, fulfillment summary and mode selector. Profile saving retains the existing mode; location controls now have a compact standalone panel. Saved lists, prices, PDF, copy, favorites, GPS and backend/draft data unchanged. Files: `website/account-page.js`, `website/account.css`; `DESIGN.md` and operator accounts guide record the temporary decision.
+- 2026-10-04T13:30:35-04:00 [TOOL] `npm run check` passed TypeScript, release preflight and 315 tests; `git diff --check` passed. Real browser: 4197 saved-list controls removed, copy confirmed, optional profile save succeeds; saved-list/profile document width equals 320 px viewport with all buttons in bounds. Main 4187 profile checked; no browser errors. Evidence: `/tmp/grocery-order-removal-check.log`. Publication pending.
