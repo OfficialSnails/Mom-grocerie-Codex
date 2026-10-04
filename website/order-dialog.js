@@ -20,8 +20,8 @@ async function orderApi(path, body) {
   if (!response.ok) throw new Error(data.error || 'Service indisponible. Ta liste est conservée.');
   return data;
 }
-export function showOrderDialog(store, snapshot, profile) {
-  const trigger = document.activeElement, dialog = node('dialog', undefined, 'order-dialog');
+export function showOrderDialog(store, snapshot, profile, trigger = document.activeElement) {
+  const dialog = node('dialog', undefined, 'order-dialog');
   dialog.setAttribute('aria-labelledby', 'order-title');
   const heading = node('header', undefined, 'order-heading'), title = node('h2', `Commander chez ${store.name}`); title.id = 'order-title';
   const close = node('button', '×', 'order-close'); close.type = 'button'; close.setAttribute('aria-label', 'Fermer la préparation de commande');
@@ -105,7 +105,11 @@ export function showOrderDialog(store, snapshot, profile) {
   dialog.append(heading, body);
   document.body.append(dialog);
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
-  dialog.addEventListener('close', () => { dialog.remove(); if (trigger?.isConnected) trigger.focus(); });
+  dialog.addEventListener('close', () => {
+    dialog.remove();
+    const target = trigger?.isConnected ? trigger : document.querySelector('#account-main');
+    target?.focus({ preventScroll: true });
+  });
   dialog.showModal();
   void (async () => {
     try {

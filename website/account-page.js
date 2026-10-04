@@ -161,7 +161,8 @@ function renderList(snapshot) {
     }));
     if (service) storeActions.append(link(`Ouvrir ${service.name} ↗`, service.url, true));
     if (store.address) storeActions.append(link('Voir l’adresse', mapsUrl(store.name, store.address, store.branch), true));
-    storeActions.prepend(action('Préparer la commande', () => showOrderDialog(store, snapshot, profile), 'primary'));
+    const prepare = action('Préparer la commande', () => showOrderDialog(store, snapshot, profile, prepare), 'primary');
+    storeActions.prepend(prepare);
     if (store.branch?.id) {
       const chain = store.branch.chainId || store.id.replace(/-(joliette|montreal|quebec)$/, '');
       const favorite = profile.favorites?.[chain] === store.branch.id;
