@@ -1,6 +1,7 @@
 import 'dotenv/config';
 import { handleLocationApi } from './location-api.js';
 import { accountResponse } from './account-api.js';
+import { orderResponse } from './order-api.js';
 import { createServer } from 'http';
 import type { IncomingMessage, ServerResponse } from 'http';
 import { spawn } from 'child_process';
@@ -202,7 +203,7 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
 
 createServer((req, res) => {
   const requestUrl = new URL(req.url ?? '/', 'http://localhost');
-  if (requestUrl.pathname.startsWith('/api/account/')) {
+  if (requestUrl.pathname.startsWith('/api/account/') || requestUrl.pathname.startsWith('/api/order/')) {
     void (async () => {
       try {
         const url = new URL(req.url ?? '/', `http://${req.headers.host ?? 'localhost'}`);
@@ -210,7 +211,8 @@ createServer((req, res) => {
         const body = ['GET', 'HEAD'].includes(method) ? undefined : JSON.stringify(await readJsonBody(req));
         const headers = new Headers();
         for (const [name, value] of Object.entries(req.headers)) if (typeof value === 'string') headers.set(name, value);
-        const response = await accountResponse(new Request(url, { method, headers, body }), process.env);
+        const handler = requestUrl.pathname.startsWith('/api/order/') ? orderResponse : accountResponse;
+        const response = await handler(new Request(url, { method, headers, body }), process.env);
         res.writeHead(response.status, Object.fromEntries(response.headers.entries()));
         res.end(await response.text());
       } catch { sendJson(res, 400, { error: 'Requête invalide.' }); }

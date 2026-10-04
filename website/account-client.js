@@ -16,7 +16,7 @@ function script(url, key) {
 
 export function accountSession() {
   if (!pending) pending = (async () => {
-    const response = await fetch('/api/account/config', { cache: 'no-store' });
+    const response = await fetch('/api/account/config', { cache: 'no-store', signal: AbortSignal.timeout(8000) });
     if (response.status === 404) return null;
     if (!response.ok) throw new Error('Le service de connexion ne répond pas.');
     const config = await response.json();
@@ -48,8 +48,9 @@ export async function saveToAccount(snapshot, importOnly = false) {
   return accountApi('/lists', { method: 'PUT', body: { snapshot, importOnly } });
 }
 
-export function openListPage(id = '') {
+export function openListPage(id = '', device = false) {
   const url = new URL('./account.html', location.href);
+  if (device) url.searchParams.set('device', '1');
   if (id) url.hash = `list=${encodeURIComponent(id)}`;
   location.assign(url);
 }
@@ -58,18 +59,12 @@ export async function setupAccountButton(button, onChange, onError) {
   if (!button) return;
   try {
     const clerk = await accountSession();
-    if (!clerk) return;
-    button.addEventListener('click', event => {
-      event.preventDefault();
-      if (clerk.user) openListPage();
-      else clerk.openSignIn({ forceRedirectUrl: location.href });
-    });
+    if (!clerk) { await onChange?.(null); return; }
     let owner;
     clerk.addListener(({ user }) => {
       button.dataset.connected = String(Boolean(user));
-      button.setAttribute('aria-label', user ? 'Mon compte, connecté' : 'Se connecter à mon compte');
-      if (user) button.removeAttribute('aria-haspopup');
-      else button.setAttribute('aria-haspopup', 'dialog');
+      button.setAttribute('aria-label', user ? 'Mon espace, connecté' : 'Mon espace sur cet appareil');
+      button.removeAttribute('aria-haspopup');
       const next = user?.id ?? null;
       if (next !== owner) { owner = next; Promise.resolve(onChange?.(next)).catch(onError); }
     });

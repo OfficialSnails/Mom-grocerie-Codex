@@ -275,3 +275,11 @@ reference-led revision of the earlier Playfair interface-heading direction.
   wrapped descriptions and longer lists paginate with repeated store headings.
   Item prices use regular weight; totals and subtotals use bold. Currency
   explanation labels are omitted (October 4 refinement).
+
+## Guest ordering review — 2026-10-04
+
+`Mon espace` always opens the list/profile page; optional sign-in lives inside that space. Guest preferences, favorite branches and saved lists persist on the device. A cloud failure cannot prevent opening the already-saved local copy.
+
+Prepare an entire store list in one action. Every item is prefilled; editing is optional for quantities, formats and alternative offers. Never claim that a retailer home link populates a cart. If the provider is unavailable, show that before the review and keep copy/open-retailer options secondary. Preserve flyer prices separately from current checkout prices.
+
+The order dialog uses a bounded 680 px desktop width and viewport-relative phone width with 12 px outer margins. Its heading/close control stays outside the scrollable body. All account/order selects use the shared visual chevron shape, 20 px right inset and reserved label space. No horizontal scrolling or minimum-width overflow; controls retain 44 px targets.

@@ -61,3 +61,39 @@
   .account-card > header, .account-card-body, .account-list-link { padding-left: 18px; padding-right: 18px; }
   .account-list-link { flex-direction: column; }
 }
+
+.order-dialog { position: fixed; inset: 0; margin: auto; width: calc(100% - 24px); max-width: 680px; max-height: calc(100% - 24px); box-sizing: border-box; padding: 0; border: 1px solid var(--rule); border-radius: 16px; background: var(--panel); color: var(--ink); overflow: hidden; }
+.order-dialog[open] { display: flex; flex-direction: column; }
+.account-page:has(.order-dialog[open]) { overflow: hidden; }
+.order-body { min-height: 0; min-width: 0; overflow-y: auto; overscroll-behavior: contain; padding: 0 24px 24px; }
+.order-body > .account-caption { margin-top: 0; font-size: 14px; line-height: 1.5; }
+.order-dialog .account-actions { gap: 8px; margin: 16px 0; }
+.order-dialog::backdrop { background: rgb(23 40 31 / .48); }
+.order-heading { display: flex; flex: 0 0 auto; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 24px 12px; }
+.order-heading h2 { font: 700 26px var(--font-body); margin: 0; }
+.account-page .order-dialog button { min-height: 44px; border: 1px solid var(--rule); border-radius: 10px; padding: 10px 16px; font: 600 15px var(--font-body); color: var(--forest); background: var(--panel); cursor: pointer; }
+.account-page .order-dialog button.primary { background: var(--forest); color: white; }
+.account-page .order-dialog .order-close { border: 0; background: transparent; font-size: 28px; padding: 0; min-width: 44px; flex-shrink: 0; }
+.order-dialog button:disabled { opacity: .55; cursor: not-allowed; }
+.order-dialog label { display: grid; gap: 8px; font-size: 14px; min-width: 0; }
+.order-dialog input:not([type=checkbox]), .order-dialog select, .order-dialog textarea { box-sizing: border-box; width: 100%; min-height: 44px; padding: 10px; font: 16px var(--font-body); border: 1px solid var(--rule); border-radius: 8px; background: white; color: var(--ink); }
+.order-item { display: grid; grid-template-columns: minmax(0,1fr) 120px; gap: 12px; padding: 16px; margin: 16px 0; border: 1px solid var(--rule); border-radius: 10px; min-width: 0; }
+.order-item legend { padding: 0 6px; font-weight: 600; }
+.order-item .order-include { display: flex; align-items: center; grid-column: 1/-1; }
+.order-item .order-include input { width: 20px; height: 20px; accent-color: var(--forest); }
+.order-item > label:nth-of-type(2), .order-item > label:nth-of-type(3), .order-item .account-caption { grid-column: 1/-1; }
+.order-integration { padding-top: 16px; border-top: 1px solid var(--rule); }
+.order-integration > label { max-width: 220px; margin-bottom: 12px; }
+.order-status { color: var(--forest); font-weight: 600; overflow-wrap: anywhere; }
+.order-status:empty { display: none; }
+.order-dialog :focus-visible { outline: 3px solid var(--ochre); outline-offset: 3px; }
+.account-select { display: block; position: relative; min-width: 0; }
+.account-form .account-select select, .order-dialog .account-select select { appearance: none; padding-right: 50px; }
+.account-select::after { content: ''; position: absolute; pointer-events: none; right: 20px; top: calc(50% - 7px); width: 14px; height: 14px; background: var(--forest); mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='m3 6 5 5 5-5' fill='none' stroke='black' stroke-width='1.7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / contain no-repeat; }
+@media(max-width: 480px) {
+  .order-body { padding: 0 16px 16px; }
+  .order-heading { padding: 12px 16px; }
+  .order-heading h2 { font-size: 22px; }
+  .order-item { grid-template-columns: minmax(0,1fr) minmax(0,1fr); padding: 12px; gap: 10px; }
+  .order-dialog .account-actions > * { width: 100%; }
+}

@@ -179,6 +179,18 @@ Fonctionnement:
 
 Important: un site hébergé ne peut pas écrire silencieusement sur le bureau d'un utilisateur. Le site public génère donc un PDF téléchargeable dans le navigateur; l'utilisateur choisit ensuite où le sauvegarder, l'imprime ou l'envoie à son téléphone.
 
+### Listes invitées et commandes en ligne
+
+`Mon espace` fonctionne sans compte : listes, profil facultatif et succursales préférées sont conservés dans ce navigateur. Une copie locale est sauvegardée avant toute synchronisation facultative. Les listes et préférences pourront être importées explicitement dans le compte; les brouillons de commande restent locaux.
+
+`Préparer la commande` reprend tous les produits de l’épicerie, avec formats et quantités modifiables. La liste de prix reste un instantané de circulaire; elle ne garantit ni prix, ni stock, ni livraison chez le commerçant.
+
+Le backend public `/api/order/` est disponible en local et dans Pages Functions. Sans `INSTACART_API_KEY`, `/api/order/config` indique `instacart: false` et aucun transfert externe n’est tenté. Une clé de production approuvée doit être placée dans `.env` en local et dans les secrets Cloudflare pour le site hébergé, jamais dans les fichiers du navigateur. L’accès développeur Instacart était fermé aux nouvelles demandes lors de la vérification du 4 octobre 2026.
+
+Avec cet accès, le parcours vérifie les épiceries proposées pour le code postal puis transmet **tous les produits en une requête** à l’API officielle de liste Instacart. Le client réutilise un lien confirmé tant que le contenu ne change pas et que le lien est valide. Le magasin, les correspondances, prix et quantités sont ensuite confirmés sur Instacart. Ce n’est pas une API de paiement ni une garantie de succursale précise. Les API privées du compte conservent leur authentification.
+
+Les liens directs vers les commerçants et la copie sont des options manuelles secondaires, pas un transfert de panier. Voir `reports/ordering-flow-2026-10-04.md` pour la preuve du test Maxi, les limites et les alternatives examinées.
+
 ### Mise en ligne Cloudflare Pages
 
 Le site public peut être déployé comme site statique Cloudflare Pages. Il lit les fichiers déjà générés dans `website/data/weeks/`; il ne scrape rien en production.

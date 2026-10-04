@@ -4,6 +4,8 @@ import { createListPdf } from './list-pdf.js';
 import { money, productTitle, loyaltyLabel } from './product-details.js';
 import { retailerService, storeListText } from './order-handoff.js';
 import { mapsUrl } from './location-data.js';
+import { DEVICE_PROFILE_KEY, PROFILE_FIELDS, readDeviceProfile, saveDeviceProfile, clearDeviceProfile } from './shopping-profile.js';
+import { showOrderDialog } from './order-dialog.js';
 
 const content = document.querySelector('#account-content'), status = document.querySelector('#account-status');
 let clerk, lists = [], profile = {}, requestNumber = 0, activeUser = null;
@@ -13,7 +15,8 @@ const node = (tag, text, className = '') => {
   element.className = className;
   return element;
 };
-const signedIn = () => Boolean(clerk?.user);
+const deviceView = new URLSearchParams(location.search).get('device') === '1';
+const signedIn = () => !deviceView && Boolean(clerk?.user);
 const countLabel = (count, singular, plural = `${singular}s`) => `${count} ${count === 1 ? singular : plural}`;
 function action(label, callback, className = '') {
   const button = node('button', label, className);
@@ -44,13 +47,17 @@ function metrics(subtotal, savings) {
 }
 
 async function refresh() {
-  const request = ++requestNumber, owner = clerk?.user?.id ?? null;
+  const request = ++requestNumber, owner = signedIn() ? clerk.user.id : null;
   content.setAttribute('aria-busy', 'true');
   try {
     const result = owner ? await Promise.all([accountApi('/lists'), accountApi('/profile')]) : null;
-    if (request !== requestNumber || owner !== (clerk?.user?.id ?? null)) return;
+    if (request !== requestNumber || owner !== (signedIn() ? clerk.user.id : null)) return;
     lists = result ? result[0].lists : readSavedLists(localStorage);
-    profile = result ? result[1].profile : {};
+    if (result) profile = result[1].profile;
+    else {
+      try { profile = readDeviceProfile(localStorage); }
+      catch (error) { profile = {}; status.textContent = error.message; }
+    }
     renderAuth(); render();
   } catch (error) {
     if (request !== requestNumber) return;
@@ -62,6 +69,7 @@ function renderAuth() {
     ? (profile.name || clerk.user.firstName || 'Mon compte') : 'Listes sur cet appareil';
   const host = document.querySelector('#account-auth'); host.replaceChildren();
   if (signedIn()) host.append(action('Se déconnecter', async () => { await clerk.signOut(); await refresh(); }, 'account-access'));
+  else if (deviceView && clerk?.user) host.append(link('Mon compte', './account.html'));
   else if (clerk) host.append(action('Se connecter', () => clerk.openSignIn({ forceRedirectUrl: location.href }), 'account-access'));
 }
 
@@ -72,6 +80,7 @@ function render() {
     else item.removeAttribute('aria-current');
   });
   content.replaceChildren();
+  if (deviceView) content.append(caption('Tu consultes la copie enregistrée sur cet appareil. Elle n’a pas été synchronisée avec ton compte.'));
   if (section === 'profile') return renderProfile();
   if (hash.startsWith('list=')) {
     let id;
@@ -126,7 +135,7 @@ function renderList(snapshot) {
   const preference = { pickup: 'Ramassage', delivery: 'Livraison', in_store: 'En magasin' }[profile.mode];
   fulfillment.append(node('h3', 'Préparer mes courses'));
   if (preference) fulfillment.append(node('p', [preference, profile.city, profile.postalCode].filter(Boolean).join(' · ')));
-  fulfillment.append(caption('Une liste par épicerie. Copie les produits, puis ouvre son site pour choisir le service et passer ta commande.'),
+  fulfillment.append(caption('Prépare une commande par épicerie : vérifie les produits et les quantités, puis choisis le service disponible.'),
     link(signedIn() ? 'Modifier mes préférences' : 'Enregistrer mes préférences', '#profile'));
   content.append(fulfillment);
   for (const store of snapshot.stores) {
@@ -150,15 +159,18 @@ function renderList(snapshot) {
     storeActions.append(action('Copier cette liste', async () => {
       await navigator.clipboard.writeText(storeListText(store)); status.textContent = `Liste ${store.name} copiée.`;
     }));
-    if (service) { const order = link(`Ouvrir ${service.name} ↗`, service.url, true); order.classList.add('primary'); storeActions.append(order); }
+    if (service) storeActions.append(link(`Ouvrir ${service.name} ↗`, service.url, true));
     if (store.address) storeActions.append(link('Voir l’adresse', mapsUrl(store.name, store.address, store.branch), true));
-    if (signedIn() && store.branch?.id) {
+    storeActions.prepend(action('Préparer la commande', () => showOrderDialog(store, snapshot, profile), 'primary'));
+    if (store.branch?.id) {
       const chain = store.branch.chainId || store.id.replace(/-(joliette|montreal|quebec)$/, '');
       const favorite = profile.favorites?.[chain] === store.branch.id;
       storeActions.append(action(favorite ? 'Retirer des favoris' : 'Ma succursale préférée', async () => {
         const favorites = { ...profile.favorites };
         if (favorite) delete favorites[chain]; else favorites[chain] = store.branch.id;
-        profile = (await accountApi('/profile', { method: 'PUT', body: { ...profile, favorites } })).profile;
+        profile = signedIn()
+          ? (await accountApi('/profile', { method: 'PUT', body: { ...profile, favorites } })).profile
+          : saveDeviceProfile(localStorage, { ...profile, favorites });
         render(); status.textContent = favorite ? 'Succursale retirée des favoris.' : 'Succursale enregistrée. Elle sera proposée dans sa région.';
       }));
     }
@@ -180,38 +192,45 @@ function confirmDelete(snapshot) {
   content.append(actions);
 }
 
-function renderProfile() {
+function renderProfile(draft = profile) {
   content.append(node('h2', 'Mon profil'));
-  if (!signedIn()) { content.append(caption(clerk ? 'Connecte-toi pour enregistrer ton adresse et tes préférences.' : 'Les comptes ne sont pas encore disponibles ici. Tes listes restent sur cet appareil.')); return; }
-  content.append(caption('Ces champs sont facultatifs. Ton adresse reste dans ton compte; elle n’est pas envoyée automatiquement aux épiceries.'));
+  content.append(caption(signedIn()
+    ? 'Ces champs sont facultatifs. Ton adresse reste dans ton compte; elle n’est pas envoyée automatiquement aux épiceries.'
+    : 'Sans connexion. Tes préférences et tes listes restent dans ce navigateur. Tu pourras les importer dans ton compte plus tard.'));
+  if (signedIn()) content.append(action('Reprendre les préférences de cet appareil', () => {
+    const local = readDeviceProfile(localStorage); content.replaceChildren(); renderProfile(local);
+    status.textContent = 'Vérifie ces préférences, puis enregistre-les dans ton compte.';
+  }));
   const form = node('form', undefined, 'account-form');
-  for (const [name, label, autocomplete, max] of [
-    ['name', 'Nom', 'name', 100], ['street', 'Adresse', 'address-line1', 200],
-    ['apartment', 'Appartement', 'address-line2', 40], ['city', 'Ville', 'address-level2', 100],
-    ['postalCode', 'Code postal', 'postal-code', 7],
-  ]) {
+  for (const [name, label, autocomplete, max] of PROFILE_FIELDS) {
     const field = node('label', label), input = node('input');
-    input.name = name; input.autocomplete = autocomplete; input.maxLength = max; input.value = profile[name] || '';
+    input.name = name; input.autocomplete = autocomplete; input.maxLength = max; input.value = draft[name] || '';
     field.append(input); form.append(field);
   }
   const modeLabel = node('label', 'Je préfère'), select = node('select'); select.name = 'mode';
   for (const [value, label] of [['pickup', 'Ramassage'], ['delivery', 'Livraison'], ['in_store', 'En magasin']]) {
     const option = node('option', label); option.value = value; select.append(option);
   }
-  select.value = profile.mode || 'pickup'; modeLabel.append(select); form.append(modeLabel);
+  select.value = draft.mode || 'pickup'; const modeControl = node('span', undefined, 'account-select'); modeControl.append(select); modeLabel.append(modeControl); form.append(modeLabel);
   const submit = node('button', 'Enregistrer mon profil', 'primary'); submit.type = 'submit'; form.append(submit);
   form.addEventListener('submit', async event => {
     event.preventDefault(); submit.disabled = true;
     try {
-      const data = { ...Object.fromEntries(new FormData(form)), favorites: profile.favorites || {} };
-      const result = await accountApi('/profile', { method: 'PUT', body: data });
-      profile = result.profile; renderAuth(); status.textContent = 'Profil enregistré.';
+      const data = { ...Object.fromEntries(new FormData(form)), favorites: draft.favorites || {} };
+      profile = signedIn() ? (await accountApi('/profile', { method: 'PUT', body: data })).profile : saveDeviceProfile(localStorage, data);
+      renderAuth(); status.textContent = signedIn() ? 'Profil enregistré dans ton compte.' : 'Préférences enregistrées sur cet appareil.';
     } catch (error) { status.textContent = error.message; }
     finally { submit.disabled = false; }
   });
   content.append(form, caption('La disponibilité de la livraison et du ramassage est confirmée par chaque épicerie.'));
   content.append(node('h3', 'Mes succursales préférées'), caption(`${countLabel(Object.keys(profile.favorites || {}).length, 'succursale enregistrée', 'succursales enregistrées')}. Choisis-les dans une liste enregistrée.`));
   const actions = node('div', undefined, 'account-actions');
+  if (!signedIn()) {
+    actions.append(action('Effacer mes préférences de cet appareil', () => {
+      clearDeviceProfile(localStorage); profile = readDeviceProfile(localStorage); render(); status.textContent = 'Préférences effacées. Tes listes sont conservées.';
+    }, 'danger'));
+    content.append(actions); return;
+  }
   actions.append(action('Effacer mes données enregistrées', () => {
     content.replaceChildren(node('h2', 'Effacer mon profil et mes listes ?'), caption('Cette action efface les listes et l’adresse dans ton compte. Ton accès de connexion et les copies sur cet appareil restent disponibles.'));
     const buttons = node('div', undefined, 'account-actions');
@@ -223,9 +242,10 @@ function renderProfile() {
 }
 
 window.addEventListener('hashchange', () => { status.textContent = ''; render(); document.querySelector('#account-main').focus({ preventScroll: true }); });
-window.addEventListener('storage', event => { if (!signedIn() && event.key === SAVED_LISTS_KEY) void refresh(); });
+window.addEventListener('storage', event => { if (!signedIn() && [SAVED_LISTS_KEY, DEVICE_PROFILE_KEY].includes(event.key)) void refresh(); });
 // Local lists can render immediately while the optional account service loads.
-lists = readSavedLists(localStorage); render();
+try { lists = readSavedLists(localStorage); profile = readDeviceProfile(localStorage); render(); }
+catch (error) { status.textContent = error.message; }
 document.querySelector('#account-identity').textContent = 'Listes sur cet appareil';
 content.setAttribute('aria-busy', 'false');
 try {

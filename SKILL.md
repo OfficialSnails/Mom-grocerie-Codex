@@ -1,7 +1,14 @@
+---
+name: grocery-codex
+description: Generate and validate source-backed Thursday-to-Wednesday Québec grocery weeks, Obsidian shopping packs and static website data in Mom grocerie Codex. Use for weekly collection, saved-raw rebuilds, category QA and picker/export maintenance, not routine UI or auth changes.
+---
+
 # Skill: grocery-codex
 
 **Trigger:** `/grocery`
 **Workspace:** `/Users/slugz/Desktop/Mes Document/CLAUDE CODING APP/SEQUENCER VIDEO APP/Mom grocerie Codex`
+
+For project-wide tasks, start with [.agent/skills/ma-liste-epicerie-operator/SKILL.md](.agent/skills/ma-liste-epicerie-operator/SKILL.md) and load only the relevant guide. This weekly workflow does not independently authorize publication; use the active user request.
 
 ## Purpose
 
@@ -47,17 +54,17 @@ When running this skill:
 16. Put a section summary at the top, then render standard Markdown section headings and normal checkbox lists
 17. Keep proof photos open inline; do not hide individual product photos in collapsed blocks
 18. Keep the website frontend data-only: the website reads generated JSON and must not scrape live sources
-18a. Keep `DESIGN.md` as the website visual contract. UI changes should reuse its linen/evergreen palette, Playfair Display headings, Inter body text, card/button/total-block tokens, and readability principles without redesigning the shopping flow.
+18a. Keep the latest revision in `DESIGN.md` as the website visual contract: Ma liste d’épicerie, linen/evergreen, Inter interface headings/body and serif wordmark. Reuse its card/button/total-block tokens and readability principles without redesigning the shopping flow.
 19. After website UI/data-rendering changes, run the local website and validate it in a real browser
-20. Prefer Agent Browser or Playwright for that browser validation when available; verify week loading, product selection, sidebar final list, clearing/removal, print/export, proof photos, prices, units and store labels
+20. Use the current available Browser skill/runtime for browser validation; use a supported alternative only when needed. Verify week loading, product selection, sidebar final list, clearing/removal, print/export, proof photos, prices, units and store labels.
 21. Keep the website as a 3-zone shopping workspace: week/search/rayon controls on top, one active rayon in the center, and the final basket on the right
 21a. Keep the store filter in the top controls as a compact full-width checkbox card. `Épiceries régulières` selects all non-Costco stores; `Tout inclure` selects every available store including Costco; `Tout décocher` clears the selection and must show `Choisis au moins une épicerie pour voir les produits.` without silently reselecting stores. Costco is available but unchecked by default.
 21aa. Store selection must persist while clicking rayons; category counts and product cards stay scoped to the selected stores and current mode. Do not silently reset store selection.
 21ab. The website must include `Tous` as the first rayon. `Tous` is a virtual frontend filter option, not a generated product category; it shows every product for the current mode and current store filter.
-21b. Cloudflare Pages deployment serves the static `website/` folder. Use `npm run cloudflare:login` once and `npm run deploy:cloudflare` to publish; never publish `.env`, `.cache/`, `node_modules/`, `output/`, or logs.
-21c. GitHub weekly automation lives in `.github/workflows/weekly-cloudflare.yml`. It requires GitHub secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and optionally `FIRECRAWL_API_KEY`; it regenerates weekly data, commits generated outputs, and deploys Cloudflare Pages.
+21b. Cloudflare Pages serves `website/` plus the `functions/` backend. Publish only when authorized, using the operator’s release guide and existing credentials. The direct command is `npm run deploy:cloudflare`; do not initiate login unnecessarily. Never publish `.env`, `.cache/`, `node_modules/`, `output/`, or logs.
+21c. GitHub automation lives in `.github/workflows/weekly-cloudflare.yml`. Pushes to `main` deploy committed snapshots without generation; scheduled/manual dispatch runs regenerate, commit generated outputs and deploy. Do not use manual dispatch as a redeploy-only command. Inspect the current workflow’s configured secret names without exposing values.
 21d. Before any deploy, validate that no generated artifact contains Git conflict markers. Run a repo scan for line-start markers `^<<<<<<<`, `^=======`, and `^>>>>>>>` outside `.git/` and `node_modules/`, then parse `website/data/weeks/index.json` and every `website/data/weeks/*/week.json`. Inline documentation examples are not conflicts. Never deploy if real line-start conflict markers remain. If conflict markers appear only in generated grocery artifacts, prefer regenerating clean outputs from the normal pipeline or existing raw data instead of hand-editing JSON.
-21e. After every weekly website update, verify both local and live website data. Locally, serve `npm run web` and confirm `http://localhost:4187/data/weeks/index.json` lists the newest generated week first. After Cloudflare deployment, confirm `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` lists that same newest week first. If the live JSON is stale, report deployment as not complete.
+21e. After a weekly update, confirm the local index lists the expected newest week first. After authorized deployment, run `npm run verify:published` to compare current local/live indexes, newest regional weeks, history and evidence bytes. A matching label alone is insufficient. Persistent stale live JSON means deployment is not complete.
 22. Do not use category navigation that scrolls the user up and down through the full page; rayon clicks should switch the active category in place
 22a. Rayons should wrap into visible button rows. Do not use a horizontal scroller for category pills. Use enough card width and normal word wrapping so labels never split inside a word such as `Boulangerie`.
 22b. Rayon counts must always be scoped by the selected mode and selected store. The `Tous` count is the total for that same scope. Rayon cards show available product totals only, never selected/total ratios; selected counts belong only in the panier/header/final list.
@@ -72,7 +79,7 @@ When running this skill:
 26. Preserve clear basket feedback through product count, selected product badge, and sidebar contents. Do not add a large header toast for every add/remove action.
 27. Render website products as premium product cards: proof image first, product/price/store below, explicit `Ajouter` control
 28. If a product has no image, keep a polished placeholder box instead of collapsing the card layout
-29. Keep the source/method explanation as a compact closed-by-default dropdown under the top `Québec / Liste d'épicerie` title, not inside the filter card: stores used, CAD prices, Costco bulk/member caveat, up-to-20-per-rayon limit, and no-padding rule for short sections
+29. Keep source attribution in the current compact, closed-by-default Sources disclosure. Do not restore removed title/method blocks or redundant CAD text. Follow `DESIGN.md` and current source for placement and copy; never claim a fixed per-rayon limit without checking the generator.
 30. Do not pad thin rayons with weak or fake deals. A rayon can show fewer than 20 items when only that many verified, useful, non-duplicate deals survive.
 31. Classify groceries by how a real shopper thinks: celery/céleri belongs in produce; breaded fish and cold cuts belong in meat/fish; pizza belongs in frozen even when the name includes tomato; bologne/bologna, pepperoni, chorizo, rosette, sauciflard, salami, mortadelle, prosciutto and viandes froides belong in meat, even when the raw source category says pantry/epicerie.
 32. Deduplicate obvious same-family winners before filling categories, including bologne, sauciflard/chorizo, and extra-lean ground beef. Keep beef rosettes separate from sauciflard/chorizo.
@@ -93,13 +100,19 @@ When running this skill:
 42. Treat the pantry fallback as `Garde-manger et autres` in user-facing UI. The internal key may remain `pantry` for compatibility, but the shopper should not see `Épicerie / garde-manger`.
 42a. Treat `Garde-manger et autres` as a final fallback only after stronger category rules. Add QA checks for high-confidence pantry misses such as beefsteak/bifteck, goberge, homard, prepared fruit/vegetable trays, maïs en épi, ananas, kiwi, raisins/grapes, avocat, ail/garlic, frozen terms, detergent/Kleenex/Q-tips, pansements/allergies/Polysporin, medications and vitamins.
 42b. Prepared produce still belongs in `Fruits et légumes` when the core product is produce: barquette de légumes, plateau de crudités, plateau de fruits, carrousel de fruits/légumes, maïs en épi and maïs sucré. Do not classify sauce tomate, pâte de tomate, ketchup, salsa, beurre à l'ail, maïs à éclater, maïs soufflé, fruit snacks, fruit spread, fruit tartlets, or vegetable crackers as produce.
-42c. For category QA, do not scrape. Patch `classifyShopperCategory`, add representative tests, run `npm test -- tests/report-generation.test.ts`, then run `npm run qa:pantry` and `npm run qa:categories`. If website JSON is stale, regenerate only from existing raw JSON and rerun both QA commands.
+42c. For category QA, do not scrape. Patch `classifyShopperCategory`, add representative tests, run `npx vitest run tests/report-generation.test.ts`, then run `npm run qa:pantry` and `npm run qa:categories`. If website JSON is stale, regenerate only from existing raw JSON and rerun both QA commands.
 42d. `npm run qa:categories` is the broad all-category scan. It reports high-confidence errors separately from ambiguous review items, writes `reports/qa/category-review-<week>.md`, and should pass before publishing a weekly generation. Fix classifier source code, not generated JSON.
 42e. When `Garde-manger et autres` absorbs obvious misses, add reusable rules and tests for the whole family, not one generated product: produce examples include clémentines, pitaya, poires, dattes, romaine and prepared trays; meat/fish examples include goberge, brochettes, côtelettes, veau and surlonge; frozen examples include Eggo, frozen desserts and frozen meals; health examples include sunscreen, dental care, cosmetics, digestive/allergy products and pharmacy meal replacements; household examples include detergent, dish soap, paper goods and diapers.
 43. Do not run Firecrawl for Familiprix during ordinary cleanup or weekly generation. Use Flipp/Wishabi data first; investigate with Firecrawl only if that feed fails and a human asks for it.
 44. OCR recovery is automatic, not a manual review queue. If a proof image clearly contains an extra grocery offer that the structured feed missed, append a source-backed raw item before scoring so it appears in `Tous les produits` and the weekly archive. Keep recovered offers conservative, tied to the original proof image, and covered by tests. Example: a Metro flyer page can expose `pain tranché St-Méthode` as a receipt rebate even when Wishabi only returns another product from the same area.
 44a. Never attach an unrelated structured tile as the proof for an OCR-recovered product. Before showing a proof photo for a recovered offer, validate that the image OCR/text or crop actually contains the recovered product keywords and price/rebate context. If the source image is a wider flyer page, prefer a source-backed crop around the OCR match; if a safe crop is not available, keep the product but show no proof image rather than showing the wrong product photo. A missing proof is safer than a wrong proof. Add regression tests for any recovered-offer family that was missed or mismatched.
 44b. Future OCR improvements should follow this order: structured Flipp/Wishabi collection first, page/tile OCR second, high-confidence missing-offer recovery third, proof crop/validation fourth, then scoring, category classification, dedupe, reports and website JSON. The goal is to recover products like `pain tranché St-Méthode` without incorrectly reusing a neighboring Cheerios-style proof tile.
+
+## Pipeline ownership and side effects
+
+Read `src/run-weekly.ts` before changing orchestration. Its current sequence refreshes the store directory before applying a forced flyer date, collects source data, generates the report, persists scored data/history, refreshes flyer pages and regional snapshots, builds evidence, then exports the Obsidian pack/style and manages its picker watcher. Inspect individual hook failures; a completed main report does not establish that every optional source refreshed.
+
+A weekly run replaces that week's exported Obsidian folder. Inspect existing selections and preserve the user's current work before regeneration; do not describe this command as read-only. For saved-raw repairs, inspect `generateReport` and the affected export APIs and rebuild only the required outputs. Do not call the full collector merely to rescore a stored week, or relabel Joliette prices as another region. Verify every touched regional output against its own source dates.
 
 ## Official weekly outputs
 
@@ -151,7 +164,7 @@ Use them for compatibility, audit or debugging only.
 
 Items shown in the shopper files should be:
 
-- food items
+- grocery-relevant products, including the approved household, hygiene and pet consumables
 - practical grocery choices
 - source-backed
 - not mock data
@@ -161,8 +174,9 @@ If no photo proof exists for a manual product, the output should say so explicit
 
 ## Commands
 
+Use existing installed dependencies; do not reinstall/upgrade by default. These commands have different effects—choose only the requested operation. `weekly` collects and writes outputs; `finalize` rebuilds selected outputs; `watch-picker` starts a persistent watcher.
+
 ```bash
-npm install
 npm test
 npm run weekly
 npm run finalize
@@ -171,13 +185,13 @@ npm run query -- poulet beurre fraises
 npm run web
 ```
 
-Forced validation run:
+Explicitly authorized collection retry that bypasses the source rate-limit guard:
 
 ```bash
 BONS_SPECIAUX_IGNORE_RATE_LIMIT=1 npm run weekly
 ```
 
-Use that only for validation or development.
+This is a real collection/output-writing run, not a dry run or UI test. Do not bypass rate limiting merely to repeat a check.
 
 ## Website validation
 
@@ -198,6 +212,8 @@ Open:
 ```text
 http://localhost:4187
 ```
+
+Use the current Browser skill’s supported APIs. For UI-only edits, run focused tests/script syntax and the affected browser flow; do not run weekly generation or category scans. For new weekly data, check the complete shopper path below. Preserve the user’s existing basket during verification.
 
 Browser checklist:
 

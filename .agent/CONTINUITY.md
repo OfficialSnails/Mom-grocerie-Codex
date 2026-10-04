@@ -1,10 +1,10 @@
 # Continuity
 
 ## Snapshot
-Goal: Publish the Ma liste d’épicerie rebrand while preserving the integrated shopping experience.
-Now: 2026-10-04T10:38:56-04:00 [TOOL] Ma liste d’épicerie release `f13e67f` is live as Cloudflare `a75256d7`; GitHub run `37209907045` passed, and all seven changed public assets match local bytes.
-Next: Await the owned domain / production Clerk configuration for public sign-in. Website and backend deployment is complete; accounts are deployed but disabled on public hosts with development-only keys.
-Open questions: Production Clerk sign-in requires an owned domain and production keys; the user has been asked which domain to use. Current development keys remain blocked on public hosts.
+Goal: Guest shopping, device persistence and a whole-store online ordering flow.
+Now: 2026-10-04T11:23:19-04:00 [CODE] Guest profile/favorites and order drafts implemented; login failure no longer blocks a device-saved list. Responsive order dialog/chevrons corrected. Full-basket Instacart adapter is implemented but disabled without approved credentials. Evidence: `reports/ordering-flow-2026-10-04.md`.
+Next: Publish the verified guest/UI changes using the previously authorized release path, then verify live assets and API states.
+Open questions: Instacart applications are currently closed; Northfork is a commercial alternative requiring Quebec retailer coverage/quote confirmation. MealMe's current console only documents Kroger grocery, despite older Canada claims. Production Clerk remains unavailable pending owned-domain/live setup.
 
 ## Decisions
 D001 ACTIVE: [USER] Weekly runs target the upcoming Thursday-to-Wednesday flyer cycle, using Joliette only as the Quebec source anchor.
@@ -324,3 +324,27 @@ Relevant files:
 - 2026-10-04T10:36:39-04:00 [TOOL] Browser localhost:4187: loaded new logo/title on main/account pages, no horizontal overflow at CSS widths 1422, 433 and 778; mobile grid 2 columns and tablet grid 3. Evidence: `output/rebrand-desktop.png`, `output/rebrand-mobile.png`, `output/rebrand-account.png`. User basket unchanged.
 - 2026-10-04T10:36:39-04:00 [CODE] Source prices, saved-list identities, calculations, auth settings and domain configuration unchanged. Production Clerk/domain prerequisite remains open; custom-domain ownership is UNCONFIRMED.
 - 2026-10-04T10:38:56-04:00 [TOOL] RELEASED: GitHub `f13e67f6794a3d6ae542d06e858864a458bbcf2b`, CI `37209907045` succeeded, Cloudflare `https://a75256d7.bons-speciaux-joliette.pages.dev`. CI verified 14 current-week data files. Main production URL shows the new title/logo and 83 product cards, no horizontal overflow; all 7 changed public assets byte-match local. Evidence: `output/rebrand-ci.log`, `output/rebrand-live-assets.json`, `output/rebrand-live.png`. Live account config remains disabled pending production Clerk/domain setup.
+
+
+## Project operator and skill maintenance — October 4, 2026
+- 2026-10-04T10:55:35-04:00 [USER] Requested relevant project skills and an operator routing future capabilities. This task changes skill documentation/installation; no new collection, publication, provider configuration or production writes requested.
+- 2026-10-04T10:55:35-04:00 [CODE] Added `.agent/skills/ma-liste-epicerie-operator/SKILL.md`, UI metadata and six guides: experience, pricing, PDF, locations, accounts, release/schedules. Routes weekly work to existing root `SKILL.md` and specialist work to current browser/image/PDF/Cloudflare/GitHub skills when relevant. Preserves vanilla app, Clerk/Neon, source provenance and session authorization.
+- 2026-10-04T10:55:35-04:00 [CODE] Updated root weekly skill metadata, current branding/design, pipeline side effects, focused checks and release distinction (push deploys snapshots; manual/scheduled runs generate). `AGENTS.md` now points to the operator and supersedes its stale Playfair/method-block guidance.
+- 2026-10-04T10:55:35-04:00 [TOOL] Installed non-overwriting symlink `/Users/slugz/.codex/skills/ma-liste-epicerie-operator` → project skill directory; installed SKILL readback matches canonical bytes. If the checkout moves, relink this installation after confirming the new project path.
+- 2026-10-04T10:55:35-04:00 [TOOL] Skill-creator validation passed for operator, installed link and root weekly skill. Structural checks passed: 12 relative links, 69 concrete source pointers, 11 npm command names, UI metadata, no incomplete scaffolding/conflict markers/trailing whitespace. Manual scenario review covered mobile basket, upcoming week, price proof, PDF hierarchy, GPS/branches, Clerk development mode, redeploy-only, rebrand, missed schedule, retailer handoff and unrelated-project exclusion; this is guidance review, not a fresh-model invocation test.
+- 2026-10-04T10:55:35-04:00 [TOOL] Application, generated price data, secrets and live deployment unchanged. No application tests/browser/deployment run for this documentation-only task. Final `git diff --check` passed.
+
+## Guest ordering and provider audit — 2026-10-04
+- 2026-10-04T11:23:19-04:00 [USER] Whole-basket transfer is required; per-item search is not a completed ordering flow. Keep guest lists/profile on device until accounts are ready. Correct modal sizing and dropdown arrow inset.
+- 2026-10-04T11:23:19-04:00 [CODE] Guest profile/preferences/favorites, local-first saves and forced device fallback, order-review drafts and public production-only Instacart list/retailer routes implemented. Static catalogue and private account authorization preserved. Project operator accounts guide updated; earlier skill creation included in this working set.
+- 2026-10-04T11:23:19-04:00 [TOOL] `npm run check`: 306/306 tests, TypeScript, conflict/JSON/browser syntax passed. Pages Functions compile passed. Browser: real flyer select/save → guest profile reload → order quantity/name/format draft reload/copy; 355/433/1083 CSS px dialog bounds and 20 px chevron inset checked. Main 4187 app inspected; existing four-item basket preserved. Local server restarted to load new backend routes. Evidence: `reports/ordering-flow-2026-10-04.md`, `output/order-flow/`.
+- 2026-10-04T11:23:19-04:00 [TOOL] Manual Maxi browser test added one 3 lb carrot bag to an anonymous PC Express cart at Joliette Firestone; price $1.50 vs saved flyer $0.99. $30 minimum blocked checkout. No purchase. This proves retailer cart use, NOT automatic transfer.
+- 2026-10-04T11:23:19-04:00 [TOOL] Instacart official application page says no new applications/no waitlist. No account/key created. Unit fixture success is not provider proof. Northfork/MealMe/DoorDash/Uber/Whisk alternatives examined; no confirmed, enabled Quebec whole-cart provider yet.
+
+### Follow-up: activate whole-basket provider
+- Title: Confirm provider access and Quebec grocery coverage.
+- Scope: Approved provider integration, exact retailer/product/quantity matching, service-area check and live full-list test.
+- Files: `src/order-api.ts`, `functions/api/order/[[path]].ts`, `website/order-dialog.js`, `website/order-handoff.js`, private environment/provider secrets.
+- Acceptance: one action transfers every selected store product, returned matches/quantities are reviewed, missing items and price changes visible, chosen service branch confirmed; no purchase during validation.
+- Constraints: no invented cart IDs/SKUs, hidden private API, paid plan or provider outreach without authorization. Keep guest lists usable. Add deployment-wide quotas before activating a paid endpoint; current per-instance limits alone are not a global spend cap.
+- Status: BLOCKED on external provider access; Northfork Quebec coverage and pricing UNCONFIRMED. No automatic ordering claim.

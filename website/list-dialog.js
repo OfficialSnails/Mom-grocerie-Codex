@@ -210,18 +210,19 @@ export function setupListDialog({ exportCurrent, exportSaved, status }) {
   }
 
   async function saveCurrent(snapshot) {
+    try { saveList(localStorage, snapshot); }
+    catch (error) { status(error.message, 'warning'); return false; }
     try {
-      saveList(localStorage, snapshot);
       const clerk = await accountSession();
-      if (clerk?.user) {
-        await saveToAccount(snapshot);
-        openListPage(snapshot.id);
-        return true;
-      }
-      status('Liste enregistrée dans Mes listes.', 'success', 'Sur cet appareil.');
-      openListPage(snapshot.id);
+      if (clerk?.user) await saveToAccount(snapshot);
+    } catch (error) {
+      // A failed optional login/cloud request must not block the saved device list.
+      status(`Liste enregistrée sur cet appareil. ${error.message}`, 'warning');
+      openListPage(snapshot.id, true);
       return true;
-    } catch (error) { status(error.message, 'warning'); return false; }
+    }
+    openListPage(snapshot.id);
+    return true;
   }
 
   async function showExport(snapshot) {

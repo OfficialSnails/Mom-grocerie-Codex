@@ -2,32 +2,11 @@
 import { validSnapshot } from '../website/saved-lists.js';
 
 export class AccountInputError extends Error {}
-const text = (value: unknown, max: number) => {
-  if (typeof value !== 'string' || value.length > max) throw new AccountInputError('Champ invalide ou trop long.');
-  return value.trim();
-};
+// @ts-expect-error Profile validation is shared with the guest browser flow.
+import { normalizeProfile } from '../website/shopping-profile.js';
 export function parseProfile(input: unknown) {
-  if (!input || typeof input !== 'object') throw new AccountInputError('Profil invalide.');
-  const data = input as Record<string, unknown>;
-  const favorites: Record<string, string> = {};
-  if (data.favorites !== undefined) {
-    if (!data.favorites || typeof data.favorites !== 'object' || Array.isArray(data.favorites) || Object.keys(data.favorites).length > 30) throw new AccountInputError('Succursales invalides.');
-    for (const [chain, branch] of Object.entries(data.favorites)) {
-      if (!/^[a-z0-9-]{1,80}$/.test(chain) || typeof branch !== 'string' || !/^[a-zA-Z0-9:_-]{1,180}$/.test(branch)) throw new AccountInputError('Succursale invalide.');
-      favorites[chain] = branch;
-    }
-  }
-  const profile = {
-    name: text(data.name ?? '', 100), street: text(data.street ?? '', 200),
-    apartment: text(data.apartment ?? '', 40), city: text(data.city ?? '', 100),
-    postalCode: text(data.postalCode ?? '', 7).replace(/\s/g, '').toUpperCase(),
-    province: 'QC', country: 'CA', mode: data.mode ?? 'pickup', favorites,
-  };
-  if (profile.postalCode && !/^[GHJ][0-9][A-Z][0-9][A-Z][0-9]$/.test(profile.postalCode)) {
-    throw new AccountInputError('Entre un code postal du Québec valide.');
-  }
-  if (!['pickup', 'delivery', 'in_store'].includes(String(profile.mode))) throw new AccountInputError('Mode de courses invalide.');
-  return profile;
+  try { return normalizeProfile(input); }
+  catch (error) { throw new AccountInputError(error instanceof Error ? error.message : 'Profil invalide.'); }
 }
 
 export function parseSnapshot(input: unknown): Record<string, any> {

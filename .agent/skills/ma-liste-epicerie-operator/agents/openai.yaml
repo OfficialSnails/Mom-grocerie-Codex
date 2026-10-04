@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ma liste d’épicerie"
+  short_description: "Operate the grocery app, data, accounts and releases"
+  default_prompt: "Use $ma-liste-epicerie-operator to handle this grocery project task and validate the affected workflow."

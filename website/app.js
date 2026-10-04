@@ -1,3 +1,4 @@
+import { readDeviceProfile } from './shopping-profile.js';
 import { createListPdf } from './list-pdf.js';
 import { setupAccountButton, accountApi } from './account-client.js';
 import { buildShoppingPrintHtml } from './print-document.js';
@@ -1044,7 +1045,7 @@ async function init() {
   let accountRequest = 0;
   void setupAccountButton(document.querySelector('#account-toggle'), async owner => {
     const request = ++accountRequest;
-    const profile = owner ? (await accountApi('/profile')).profile : {};
+    const profile = owner ? (await accountApi('/profile')).profile : readDeviceProfile(localStorage);
     if (request !== accountRequest) return;
     state.accountFavorites = profile.favorites || {};
     if (!state.week) return;
