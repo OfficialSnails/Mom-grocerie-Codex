@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Publish the completed grocery frontend, existing backend and generated data to GitHub and Cloudflare.
-Now: 2026-10-03T19:51:06-04:00 [USER] Deployment and GitHub push explicitly authorized; supersedes earlier no-deploy entries.
-Next: Push validated release, wait for GitHub Actions, verify production UI and location routes.
+Now: 2026-10-03T20:00:01-04:00 [TOOL] Production deployed successfully from `03a9b3e`; public frontend and location API verified. GitHub Actions run `37163219191`, deployment `d40922b3`. Supersedes release-preparation snapshot.
+Next: No release work remains. Optional service follow-ups: configure precise-address provider and implement dedicated account/cloud-list backend.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -232,3 +232,8 @@ Relevant files:
 - 2026-10-03T19:51:06-04:00 [TOOL] `npm run check` passes: typecheck, 692 release files scanned, 259 JSON parses, 19 browser scripts, 233 tests. Pages Functions compiles; local Workers runtime verifies config 200, missing-key 503, unknown-route 404, unsupported-method 405. `git -c core.whitespace=cr-at-eol diff --check` passes. Previous Actions failure was malformed `data/source_status.json`; existing repaired source/data included. Evidence: `output/release-check.txt`, GitHub run 36902004046.
 
 - 2026-10-03T19:53:55-04:00 [TOOL] Release commit `467733d` pushed. GitHub run `37163120193` passed full validation but deploy stopped before upload: Wrangler 4.131.0 requires Node >=22; existing runner used 20. Workflow updated to Node 24, matching validated local runtime. No production change from this failed attempt.
+
+### Verified production release
+- 2026-10-03T20:00:01-04:00 [TOOL] `467733d` contains the implementation; `03a9b3e` fixes the CI Node version. Run https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37163219191 succeeded, including 233 tests, TypeScript, JSON/conflict/syntax validation and compiled Pages Functions. Production: https://bons-speciaux-joliette.pages.dev/; deployment: https://d40922b3.bons-speciaux-joliette.pages.dev/.
+- 2026-10-03T20:00:01-04:00 [TOOL] Ten public assets/data files match local SHA-256 byte-for-byte. Live API: config 200/addressSearch=false, missing-key search 503 with town/GPS guidance, unknown route 404. Browser verifies 83 cards, 22 savings-filter results, store empty/restore, search, equal-quantity flour saving 1.83, basket total 0.99/saving 1.50, source history photos, town search and PDF downloaded status; error console empty. Test basket restored empty. Receipts: `output/release-live-readback.json`, `output/release-github-success.txt`, `reports/release-2026-10-03.md`.
+- 2026-10-03T20:00:01-04:00 [TOOL] Clarification supersedes the earlier local-runtime wording: shell Node is 22.23.1; successful CI uses supported Node 24. Non-blocking runner notices concern action runtime migration and forthcoming Ubuntu image update. No fresh weekly scrape, auth/payment provisioning or unrelated infrastructure writes. Secrets/temporary compiler cache excluded from GitHub and deployment.
