@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Guest shopping, device persistence and a whole-store online ordering flow.
-Now: 2026-10-04T11:23:19-04:00 [CODE] Guest profile/favorites and order drafts implemented; login failure no longer blocks a device-saved list. Responsive order dialog/chevrons corrected. Full-basket Instacart adapter is implemented but disabled without approved credentials. Evidence: `reports/ordering-flow-2026-10-04.md`.
-Next: Verify the final focus correction on production; whole-basket provider activation remains blocked on approved access and confirmed Quebec coverage.
+Now: 2026-10-04T11:32:14-04:00 [TOOL] Guest lists/profile/order drafts and responsive dialog are live, including focus restoration. Release `b788592`, Cloudflare `ea2f124a`; 306 tests and live asset/data/browser checks passed. Automatic whole-basket transfer remains disabled without provider access. Evidence: `reports/ordering-flow-2026-10-04.md`.
+Next: Confirm approved provider access, Quebec retailer coverage and deployment-wide quotas before activating or claiming automatic external basket transfer.
 Open questions: Instacart applications are currently closed; Northfork is a commercial alternative requiring Quebec retailer coverage/quote confirmation. MealMe's current console only documents Kroger grocery, despite older Canada claims. Production Clerk remains unavailable pending owned-domain/live setup.
 
 ## Decisions
@@ -342,6 +342,8 @@ Relevant files:
 - 2026-10-04T11:23:19-04:00 [TOOL] Instacart official application page says no new applications/no waitlist. No account/key created. Unit fixture success is not provider proof. Northfork/MealMe/DoorDash/Uber/Whisk alternatives examined; no confirmed, enabled Quebec whole-cart provider yet.
 - 2026-10-04T11:29:12-04:00 [TOOL] RELEASED guest UI/backend in `f08af93`: GitHub Actions `37212825385` succeeded, Cloudflare deployment `63d79097`. Live verification byte-matched 14 published data files; automatic provider remains disabled. Supersedes the pending first publication above.
 - 2026-10-04T11:29:12-04:00 [CODE] Final accessibility correction passes the explicit order-opening button into the dialog so closing restores keyboard focus, with the main region as fallback if account refresh replaces that button. Files: `website/account-page.js`, `website/order-dialog.js`. Browser close returns to the named button; syntax/diff checks passed. Ready for follow-up publication.
+- 2026-10-04T11:32:14-04:00 [TOOL] RELEASED final correction `b7885927da445cf92fbaf1257ba05bae8b59a4ed`; Actions `37213210696` successful with 306 tests and Functions compile. Deployment `https://ea2f124a.bons-speciaux-joliette.pages.dev`. Public alias byte-matches all 10 changed frontend assets and 14 data files; order/account config correctly disabled, private account route returns 503. Supersedes pending focus publication. Evidence: `output/order-flow/live-release.json`, `/tmp/grocery-order-focus-deploy.log`.
+- 2026-10-04T11:32:14-04:00 [TOOL] Hosted guest test selected/saved bananas and lemons, reopened both together with pound/each units, saved/reloaded draft, and verified dialog inside an actual 320×740 CSS viewport with 20 px arrow inset. Final deployment restores focus to the opening button and has no browser errors. Original public preferences/lists and localhost:4187 basket preserved; test data confined to deployment-preview origins. Viewport reset. Evidence: `output/order-flow/hosted-mobile.png`.
 
 ### Follow-up: activate whole-basket provider
 - Title: Confirm provider access and Quebec grocery coverage.
