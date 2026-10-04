@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Consistent alphabetical product browsing across modes, categories, searches and weeks.
-Now: 2026-10-04T11:37:18-04:00 [CODE] Shared French Canadian sorting runs after product filtering; source deal ranking no longer splits same-name cards. 310 tests pass. Guest ordering release remains live; automatic provider transfer remains blocked. Evidence: `website/product-details.js`, `website/app.js`, `tests/product-details.test.ts`.
-Next: Publish the verified sorting change using the existing authorized release path and check production order.
+Now: 2026-10-04T11:41:35-04:00 [TOOL] Alphabetical catalogue sorting is live in `1a08dbe`, deployment `c805d731`. 310 tests pass; all 1,425 regular-store product cards and 83 deal cards verified in order on production. Source prices/selections preserved. Evidence: Actions `37213833715`, `website/product-details.js`, `website/app.js`.
+Next: No remaining work for alphabetical browsing. Whole-basket provider activation remains a separate blocked follow-up.
 Open questions: Instacart applications are currently closed; Northfork is a commercial alternative requiring Quebec retailer coverage/quote confirmation. MealMe's current console only documents Kroger grocery, despite older Canada claims. Production Clerk remains unavailable pending owned-domain/live setup.
 
 ## Decisions
@@ -357,3 +357,4 @@ Relevant files:
 - 2026-10-04T11:37:18-04:00 [USER] Sort displayed products alphabetically throughout the catalogue and every week so same-name offers no longer appear in separate ranked blocks.
 - 2026-10-04T11:37:18-04:00 [CODE] Root cause: `sortDealsForShopper` exports priority/label/savings/score order, with names only as a tie-breaker. The browser now applies shared French Canadian name/store/ID sorting after offer replacement, filtering and search. Applies to both modes, every category and `Tous`; future/older weeks use the same path. Source rank, prices, IDs, basket and PDF order unchanged. Files: `website/{app,product-details}.js`, `tests/product-details.test.ts`, `DESIGN.md`.
 - 2026-10-04T11:37:18-04:00 [TOOL] `npm run check` passes TypeScript, release preflight and 310 tests. Local browser verified current produce/pantry/search and both modes on September 24–30: no descending name pairs; current carrots/celery/blueberry offers are consecutive by name. No weekly scrape or data rewrite. Evidence: `/tmp/grocery-alphabetical-check.log`.
+- 2026-10-04T11:41:35-04:00 [TOOL] RELEASED `1a08dbe17d4282419601dbcd6a9d7441e48c8126`; Actions `37213833715` successful, Cloudflare `https://c805d731.bons-speciaux-joliette.pages.dev`. Both changed JS assets byte-match production; CI verified 14 unchanged published data files. Live 83 deal / 1,425 all-product cards have no descending French-name pairs; carrots, celery and blueberries grouped by starting name. Local four-item and public one-item baskets preserved, browser errors empty. Supersedes pending publication. Evidence: `/tmp/grocery-alphabetical-deploy.log`.
