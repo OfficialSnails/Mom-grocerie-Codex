@@ -242,3 +242,11 @@ reference-led revision of the earlier Playfair interface-heading direction.
   Town-center distances and device distances must remain distinguishable.
 - Distances use “À X km”, adding “de toi” only for a device-derived origin.
   They remain geographic distances; never label them as driving distances.
+
+### Compact store destinations — 2026-10-03
+
+- Basket store banners keep name/distance at left and street/city plus Modifier
+  at right. Omit postal codes and mailing boxes from the compact label only;
+  preserve the complete address for exports. Wrap naturally at phone widths.
+- Maps links use a named store and known address; incomplete branches open a
+  named search around their coordinates. Keep Modifier a 44 px touch target.

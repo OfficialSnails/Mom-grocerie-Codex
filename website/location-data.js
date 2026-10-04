@@ -40,8 +40,14 @@ export function searchLocations(directory, query) {
     .map(branch => ({ ...branch, name: [branch.street, branch.city, branch.postalCode].filter(Boolean).join(', '), kind: 'address' }));
   return [...places, ...branches].sort((a, b) => Number(locationKey(b.name) === key) - Number(locationKey(a.name) === key) || (b.population ?? 0) - (a.population ?? 0) || a.name.localeCompare(b.name, 'fr')).slice(0, 12);
 }
-export function mapsUrl(name, address, coordinates) {
-  const query = validCoordinates(coordinates) ? `${coordinates.lat},${coordinates.lon}` : [name, address, 'Québec, Canada'].filter(Boolean).join(', ');
+export function mapsUrl(name, address, branch) {
+  // A coordinate-only query opens an unnamed pin, even for a known storefront.
+  const destination = (branch?.street ? [branch.street, branch.city, branch.postalCode].filter(Boolean).join(', ') : address)
+    || branch?.city;
+  if (!destination && validCoordinates(branch)) {
+    return `https://www.google.com/maps/search/${encodeURIComponent(name)}/@${branch.lat},${branch.lon},16z`;
+  }
+  const query = [name, destination, 'Québec, Canada'].filter(Boolean).join(', ');
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 export function locationError(error) {

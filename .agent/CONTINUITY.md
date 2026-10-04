@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Stabilize saved-list modals, connect fresh device location to nearest stores, simplify location copy and deploy.
-Now: 2026-10-03T20:29:46-04:00 [TOOL] Location/modal release `c20e070` deployed successfully; run `37165012450`, deployment `ee173e34`. Ten public assets/data files match local and live modal/labels verified. Supersedes pending-release snapshot.
-Next: No release work remains. Physical-device location success remains UNCONFIRMED after test-browser timeout; existing optional account/geocoding follow-ups remain separate.
+Goal: Compact grocery-store banners and named Google Maps destinations; publish verified changes.
+Now: 2026-10-03T20:42:22-04:00 [CODE] Banner/address/Maps changes ready; verified named Maxi, Metro and Super C destinations and responsive layout. Evidence: `reports/store-banner-review-2026-10-03.md`.
+Next: Deploy only this task's staged files; concurrent PDF/history/account edits remain separate. Supersedes previous location-release snapshot.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -253,3 +253,8 @@ Relevant files:
 - 2026-10-03T20:29:46-04:00 [TOOL] Release `c20e070`: https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37165012450 passed 238 tests and Pages deployment. https://ee173e34.bons-speciaux-joliette.pages.dev/; ten production assets/data match local hashes after propagation, API config 200. Live list tabs preserve 620×560 position; location blocks removed and basket displays official Crabtree address / plain km labels. Existing production basket retained. Evidence: `output/location-refinement-live-readback.json`, `output/location-refinement-github-success.txt`.
 
 - 2026-10-03T20:31:34-04:00 [TOOL] Production device-position request also reached the bounded timeout; clear recovery shown and existing stores preserved. Successful physical positioning remains UNCONFIRMED. Evidence: live browser status, `reports/location-review-2026-10-03.md`.
+
+### Compact store banners and named Maps destinations
+- 2026-10-03T20:42:22-04:00 [USER] Address beside store, shorter banner with distance and Modifier, remove postal code from label; open named Maps storefronts.
+- 2026-10-03T20:42:22-04:00 [CODE] Compact two-column banner and shared named map links; added missing Super C St-Charles-Borromée address via facts/importer. Full PDF addresses preserved. Files: `reports/store-banner-review-2026-10-03.md`.
+- 2026-10-03T20:42:22-04:00 [TOOL] 240 tests/typecheck in isolated release snapshot; root release preflight and staged JS syntax pass. Browser verifies named Maxi/Metro/Super C listings, branch editing and 320/390/700/1100 px (73–89 px banners, 44 px Modifier). Other ongoing PDF/history/account changes excluded from staging.

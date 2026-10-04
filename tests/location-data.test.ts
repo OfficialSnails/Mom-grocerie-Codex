@@ -3,7 +3,7 @@ import data from '../website/data/store-locations.json';
 // @ts-expect-error Shared browser module.
 import { locationKey, searchLocations, distanceKm, nearestRegion, mapsUrl, locationError, readDevicePosition, branchDistanceLabel, locationCaption } from '../website/location-data.js';
 // @ts-expect-error Shared browser module.
-import { activeBranch, availableBranches, storeAddress } from '../website/store-directory.js';
+import { activeBranch, availableBranches, storeAddress, compactStoreAddress } from '../website/store-directory.js';
 import { handleLocationApi } from '../src/location-api.js';
 
 describe('location lookup and shared basket/PDF addresses', () => {
@@ -55,9 +55,26 @@ describe('location lookup and shared basket/PDF addresses', () => {
     const url = new URL(mapsUrl('IGA', '17 rue Gauthier, Québec'));
     expect(url.hostname).toBe('www.google.com');
     expect(url.searchParams.get('query')).toContain('17 rue Gauthier');
-    expect(new URL(mapsUrl('IGA', '', { lat: 46, lon: -73 })).searchParams.get('query')).toBe('46,-73');
+    expect(mapsUrl('IGA', '', { lat: 46, lon: -73 })).toBe('https://www.google.com/maps/search/IGA/@46,-73,16z');
     expect(locationError({ code: 1 })).toContain('refusée');
     expect(locationError({ code: 3 })).toContain('trop de temps');
+  });
+  it('opens a named storefront instead of a bare coordinate pin when the address is known', () => {
+    const branch = data.branches.find(branch => branch.id === 'osm-node-6923703130');
+    const url = new URL(mapsUrl('Maxi', '50 Avenue du Mont-Royal Ouest, Montréal', branch));
+    expect(url.searchParams.get('query')).toBe('Maxi, 50 Avenue du Mont-Royal Ouest, Montréal, Québec, Canada');
+    expect(url.searchParams.get('query')).not.toContain('45.519');
+    expect(new URL(mapsUrl('IGA', '17 rue Gauthier, Québec', { lat: 46, lon: -73 })).searchParams.get('query')).toContain('17 rue Gauthier');
+    const superC = data.branches.find(branch => branch.id === 'osm-node-12521638709');
+    expect(new URL(mapsUrl('Super C', '', superC)).searchParams.get('query')).toContain('320 de la Visitation, St-Charles-Borromée');
+  });
+  it('shortens banner addresses without changing the full address used for PDF exports', () => {
+    const address = '341 Chemin De Joliette,  C.P. 2940, Saint-Félix-De-Valois J0K 2M0';
+    expect(compactStoreAddress(address)).toBe('341 Chemin De Joliette, Saint-Félix-De-Valois');
+    expect(address).toContain('C.P. 2940');
+    expect(compactStoreAddress('1445 boulevard Firestone, Joliette J6E 9E5')).toBe('1445 boulevard Firestone, Joliette');
+    expect(compactStoreAddress('86, 8ième Rue, Crabtree J0K 1B0')).toBe('86, 8ième Rue, Crabtree');
+    expect(compactStoreAddress('')).toBe('');
   });
 });
 

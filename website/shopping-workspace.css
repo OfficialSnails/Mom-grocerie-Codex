@@ -363,6 +363,12 @@ summary:focus-visible, textarea:focus-visible { outline: 3px solid var(--ochre);
 .store-banner .store-locator { display: inline-flex; align-items: center; justify-content: center; gap: 5px; appearance: none; border: 0; background: none; color: white; padding: 8px 0 8px 4px; min-height: 44px; font: 500 11px/1.4 var(--font-body); text-align: left; white-space: nowrap; cursor: pointer; }
 .store-locator svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.7; flex-shrink: 0; }
 .store-locator span { text-decoration: underline; text-underline-offset: 4px; }
+.basket-store-banner { grid-template-columns: minmax(0, .85fr) minmax(0, 1.4fr); align-items: start; gap: 12px; padding: 10px 12px 4px; }
+.store-banner-identity, .store-banner-destination { min-width: 0; }
+.store-banner-destination { display: flex; flex-direction: column; align-items: flex-end; text-align: right; }
+.basket-store-banner .store-address { margin: 0; font-size: 11px; line-height: 1.4; overflow-wrap: anywhere; }
+.basket-store-banner .store-distance { margin-top: 5px; font-size: 11px; line-height: 1.4; }
+.basket-store-banner .store-locator { padding: 6px 0 6px 8px; }
 .store-dialog { width: min(500px, calc(100vw - 32px)); }
 #store-dialog-region, #store-results-count, .store-dialog-note { font-size: 12px; line-height: 1.5; color: var(--muted); }
 #store-dialog-region { margin: -4px 0 16px; }

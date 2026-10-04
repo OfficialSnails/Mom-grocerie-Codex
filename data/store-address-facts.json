@@ -40,5 +40,13 @@
     "postalCode": "J0K 1B0",
     "addressSource": "https://www.marchestradition.com/fr/stores/marche-tradition-4/",
     "verifiedAt": "2026-10-03"
+  },
+  "osm-node-12521638709": {
+    "name": "Super C - St-Charles-Borromée",
+    "street": "320 de la Visitation",
+    "city": "St-Charles-Borromée",
+    "postalCode": "J6E 4N7",
+    "addressSource": "https://www.superc.ca/en/find-a-grocery",
+    "verifiedAt": "2026-10-03"
   }
 }

@@ -8722,14 +8722,15 @@
     {
       "id": "osm-node-12521638709",
       "chainId": "superc",
-      "name": "Super C",
-      "street": "",
-      "city": "",
-      "postalCode": "",
+      "name": "Super C - St-Charles-Borromée",
+      "street": "320 de la Visitation",
+      "city": "St-Charles-Borromée",
+      "postalCode": "J6E 4N7",
       "lat": 46.0454737,
       "lon": -73.4528679,
       "source": "https://www.openstreetmap.org/node/12521638709",
-      "verifiedAt": "2026-10-03"
+      "verifiedAt": "2026-10-03",
+      "addressSource": "https://www.superc.ca/en/find-a-grocery"
     },
     {
       "id": "osm-node-12544006572",

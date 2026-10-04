@@ -26,6 +26,13 @@ export function branchAddress(branch) {
   return [branch.street, [branch.city, branch.postalCode].filter(Boolean).join(' ')].filter(Boolean).join(', ');
 }
 
+// Compact screen label only; retain the complete address for maps and PDFs.
+export function compactStoreAddress(address) {
+  return String(address ?? '').replace(/\b[A-Z]\d[A-Z][ -]?\d[A-Z]\d\b/gi, '')
+    .replace(/\bC\.?\s*P\.?\s*\d+\b/gi, '').replace(/\s*,\s*(?=,|$)/g, '')
+    .replace(/\s*,\s*/g, ', ').replace(/\s+/g, ' ').trim();
+}
+
 // The same verified lookup is used by the basket, browser PDF and local PDF.
 // A branch from a different store or region is never accepted as an override.
 export function storeAddress(item, directory, regionId, choices = {}, location) {
