@@ -3,7 +3,7 @@
 ## Snapshot
 Goal: Temporarily remove unavailable ordering from Mon espace.
 Now: 2026-10-04T13:30:35-04:00 [CODE] Ordering buttons, external retailer order links and fulfillment preferences removed; saved lists, PDF, copying, favorites and GPS/address controls remain. Existing order modules/drafts and stored mode values preserved.
-Next: Publish the validated UI and verify production assets.
+Next: None for removal. Keep ordering parked until a working provider and explicit restoration request.
 Open questions: Provider integration remains parked; official Instacart applications were closed at the last check. Production Clerk still requires owned-domain/live setup.
 
 ## Decisions
@@ -376,3 +376,5 @@ Relevant files:
 - 2026-10-04T13:30:35-04:00 [USER] Remove the unavailable cart/ordering function from the profile for now; supersedes the visible disabled-provider review flow.
 - 2026-10-04T13:30:35-04:00 [CODE] Removed account order-dialog import/entry point, retailer order links, fulfillment summary and mode selector. Profile saving retains the existing mode; location controls now have a compact standalone panel. Saved lists, prices, PDF, copy, favorites, GPS and backend/draft data unchanged. Files: `website/account-page.js`, `website/account.css`; `DESIGN.md` and operator accounts guide record the temporary decision.
 - 2026-10-04T13:30:35-04:00 [TOOL] `npm run check` passed TypeScript, release preflight and 315 tests; `git diff --check` passed. Real browser: 4197 saved-list controls removed, copy confirmed, optional profile save succeeds; saved-list/profile document width equals 320 px viewport with all buttons in bounds. Main 4187 profile checked; no browser errors. Evidence: `/tmp/grocery-order-removal-check.log`. Publication pending.
+
+- 2026-10-04T13:32:15-04:00 [TOOL] RELEASED `444a2b7f88a23dc194c80bf80c230a578f54ca9b`: Actions `37220789309` successful; Cloudflare `https://684e9690.bons-speciaux-joliette.pages.dev`. Both changed public assets byte-match local, CI verified 14 published data files, and refreshed live profile has no fulfillment selector or browser errors. Supersedes publication pending above. Evidence: `/tmp/grocery-order-removal-deploy.log`, live `/account#profile`.
