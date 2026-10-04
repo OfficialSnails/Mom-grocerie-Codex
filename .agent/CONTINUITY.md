@@ -2,7 +2,7 @@
 
 ## Snapshot
 Goal: Publish the Ma liste d’épicerie rebrand while preserving the integrated shopping experience.
-Now: 2026-10-04T10:36:39-04:00 [TOOL] Rebrand implemented and validated locally; release pending. Previous integrated release `f9fa79c` remains the live baseline (Cloudflare `d1618ef5`).
+Now: 2026-10-04T10:38:56-04:00 [TOOL] Ma liste d’épicerie release `f13e67f` is live as Cloudflare `a75256d7`; GitHub run `37209907045` passed, and all seven changed public assets match local bytes.
 Next: Await the owned domain / production Clerk configuration for public sign-in. Website and backend deployment is complete; accounts are deployed but disabled on public hosts with development-only keys.
 Open questions: Production Clerk sign-in requires an owned domain and production keys; the user has been asked which domain to use. Current development keys remain blocked on public hosts.
 
@@ -323,3 +323,4 @@ Relevant files:
 - 2026-10-04T10:36:39-04:00 [TOOL] Image-generation edit of the prior logo requested only La → Ma with original illustration/layout and transparent background; output copied unchanged to the new asset. `npm run check` passed 282 tests, TypeScript, 720-file conflict scan, 260 JSON parses and 25 browser-script syntax checks. Existing PDF regressions 6/6 pass; rendered source-backed 2-store PDF has new branding on every page. Evidence: `output/rebrand-check.log`, `output/pdf-design-review/shopping-list-rebrand.png`.
 - 2026-10-04T10:36:39-04:00 [TOOL] Browser localhost:4187: loaded new logo/title on main/account pages, no horizontal overflow at CSS widths 1422, 433 and 778; mobile grid 2 columns and tablet grid 3. Evidence: `output/rebrand-desktop.png`, `output/rebrand-mobile.png`, `output/rebrand-account.png`. User basket unchanged.
 - 2026-10-04T10:36:39-04:00 [CODE] Source prices, saved-list identities, calculations, auth settings and domain configuration unchanged. Production Clerk/domain prerequisite remains open; custom-domain ownership is UNCONFIRMED.
+- 2026-10-04T10:38:56-04:00 [TOOL] RELEASED: GitHub `f13e67f6794a3d6ae542d06e858864a458bbcf2b`, CI `37209907045` succeeded, Cloudflare `https://a75256d7.bons-speciaux-joliette.pages.dev`. CI verified 14 current-week data files. Main production URL shows the new title/logo and 83 product cards, no horizontal overflow; all 7 changed public assets byte-match local. Evidence: `output/rebrand-ci.log`, `output/rebrand-live-assets.json`, `output/rebrand-live.png`. Live account config remains disabled pending production Clerk/domain setup.
