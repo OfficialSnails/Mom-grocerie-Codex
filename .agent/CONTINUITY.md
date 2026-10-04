@@ -1,8 +1,8 @@
 # Continuity
 
 ## Snapshot
-Goal: Publish the integrated responsive website, PDF refinements and backend.
-Now: 2026-10-04T01:23:00-04:00 [TOOL] Integrated release `f9fa79c` is live as Cloudflare `d1618ef5`. CI `37179589922` succeeded: 282 tests, category QA, 14 published data files; 15 frontend assets match the committed release.
+Goal: Publish the Ma liste d’épicerie rebrand while preserving the integrated shopping experience.
+Now: 2026-10-04T10:36:39-04:00 [TOOL] Rebrand implemented and validated locally; release pending. Previous integrated release `f9fa79c` remains the live baseline (Cloudflare `d1618ef5`).
 Next: Await the owned domain / production Clerk configuration for public sign-in. Website and backend deployment is complete; accounts are deployed but disabled on public hosts with development-only keys.
 Open questions: Production Clerk sign-in requires an owned domain and production keys; the user has been asked which domain to use. Current development keys remain blocked on public hosts.
 
@@ -316,3 +316,10 @@ Relevant files:
 - 2026-10-04T01:23:00-04:00 [TOOL] Supersedes pending deployment above: release `f9fa79c9364733d85c268413070239155af871fa`, Cloudflare `d1618ef5`, GitHub Actions https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37179589922 all successful. Exact 15 frontend hashes and JSON API responses verified; CI matched 14 weekly/history/regional data files. Evidence: `output/full-release-live-verification.json`.
 - 2026-10-04T01:23:00-04:00 [TOOL] Live basket add/removal, weight-price exclusion, named Maps link and browser PDF flow checked. Initial public basket was empty and restored. `.env` remains ignored/mode 600; release scan found no configured private credentials in 720 tracked/untracked release files. Local preview runs at 4187; PDF review at 4196.
 - 2026-10-04T01:23:00-04:00 [TOOL] Remaining public-auth limitation confirmed: `.env` publishable/secret Clerk keys are development keys, not live keys. Production `/api/account/config` reports `enabled:false`; authenticated routes return JSON 503, not an HTML fallback. Domain question remains unanswered. No dev badge hidden, no development authentication enabled publicly, no secrets published. Local development sign-in still carries Clerk's honest development label until a production instance is provided.
+
+## Ma liste d’épicerie rebrand — October 4, 2026
+- 2026-10-04T10:36:39-04:00 [USER] ACTIVE: rename the brand to Ma liste d’épicerie and rerun the logo; supersedes the previous La liste d’épicerie identity. Continue previously authorized website publication.
+- 2026-10-04T10:36:39-04:00 [CODE] New transparent 2172×724 logo preserves the grocery-bag/serif/evergreen direction. Homepage/account logo, accessible name, page titles, footer, PDF headings/footers/download names and native-share copy use the new name. Files: `website/assets/ma-liste-epicerie-logo.png`, `website/index.html`, `account.html`, `app.js`, `list-pdf.js`, `pdf-document.js`, `print-document.js`, `src/serve-website.ts`, `DESIGN.md`. Old wordmark removed; icon-only favicon retained.
+- 2026-10-04T10:36:39-04:00 [TOOL] Image-generation edit of the prior logo requested only La → Ma with original illustration/layout and transparent background; output copied unchanged to the new asset. `npm run check` passed 282 tests, TypeScript, 720-file conflict scan, 260 JSON parses and 25 browser-script syntax checks. Existing PDF regressions 6/6 pass; rendered source-backed 2-store PDF has new branding on every page. Evidence: `output/rebrand-check.log`, `output/pdf-design-review/shopping-list-rebrand.png`.
+- 2026-10-04T10:36:39-04:00 [TOOL] Browser localhost:4187: loaded new logo/title on main/account pages, no horizontal overflow at CSS widths 1422, 433 and 778; mobile grid 2 columns and tablet grid 3. Evidence: `output/rebrand-desktop.png`, `output/rebrand-mobile.png`, `output/rebrand-account.png`. User basket unchanged.
+- 2026-10-04T10:36:39-04:00 [CODE] Source prices, saved-list identities, calculations, auth settings and domain configuration unchanged. Production Clerk/domain prerequisite remains open; custom-domain ownership is UNCONFIRMED.

@@ -128,7 +128,7 @@ Le total doit rester lisible et prudent:
 ## Shopping workspace — 2026-10-03 (supersedes earlier October 3 pass)
 
 Reference: Bâtir à rabais catalogue, product comparison and in-site circular reader.
-Identity: La liste d’épicerie; transparent logo in `website/assets/`.
+Identity: Ma liste d’épicerie; transparent wordmark in `website/assets/ma-liste-epicerie-logo.png`. Preserve the grocery-bag illustration, evergreen ink and two-line serif lettering.
 The palette remains linen / evergreen. Inter now handles interface headings as
 well as body text; the serif wordmark remains in the logo. This is the user's
 reference-led revision of the earlier Playfair interface-heading direction.

@@ -894,8 +894,8 @@ async function shareBasketPdf() {
 
     if (file && navigator.canShare?.({ files: [file] }) && navigator.share) {
       await navigator.share({
-        title: 'Liste d’épicerie',
-        text: state.week?.title || 'Liste d’épicerie',
+        title: 'Ma liste d’épicerie',
+        text: ['Ma liste d’épicerie', state.week?.weekRange].filter(Boolean).join(' — '),
         files: [file],
       });
       setExportStatus('Liste prête à partager.', 'success', fileName);

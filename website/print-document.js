@@ -16,7 +16,7 @@ export function buildShoppingPrintHtml({ week, stores, estimate, savings, notes 
     </section>`;
   }).join('');
   return `<!doctype html><html lang="fr"><head><meta charset="utf-8" />
-    <title>${escape(week?.title || 'Liste d’épicerie')}</title>
+    <title>${escape(['Ma liste d’épicerie', week?.weekRange || week?.folderName].filter(Boolean).join(' — '))}</title>
     <style>
       @page { size: letter; margin: 32pt; }
       * { box-sizing: border-box; }
@@ -63,7 +63,7 @@ export function buildShoppingPrintHtml({ week, stores, estimate, savings, notes 
       @media print { * { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }
       @media screen { body { max-width: 612pt; margin: 24px auto; padding: 32pt; } }
     </style></head><body>
-    <header><div><h1>Liste d’épicerie</h1><p class="context">${escape([week?.regionName, week?.weekRange || week?.folderName].filter(Boolean).join(' · '))}</p></div><div class="meta"><p>${escape(printCount(count, 'produit'))} · ${escape(printCount(stores.length, 'épicerie'))}</p></div></header>
+    <header><div><h1>Ma liste d’épicerie</h1><p class="context">${escape([week?.regionName, week?.weekRange || week?.folderName].filter(Boolean).join(' · '))}</p></div><div class="meta"><p>${escape(printCount(count, 'produit'))} · ${escape(printCount(stores.length, 'épicerie'))}</p></div></header>
     <section class="overview"><div><span>Total estimé :</span><strong>${escape(printMoney(estimate.subtotal))}</strong></div>${savings?.amount > 0 ? `<div><span>Économies :</span><strong>${escape(printMoney(savings.amount))}</strong></div>` : ''}</section>
     <div class="stores">${storeBlocks}</div>
     ${notes.trim() ? `<section class="notes"><h2>Notes</h2><p>${escape(notes.trim())}</p></section>` : ''}

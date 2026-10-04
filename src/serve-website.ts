@@ -170,8 +170,8 @@ async function handlePdfExport(req: IncomingMessage, res: ServerResponse) {
     const desktop = join(homedir(), 'Desktop');
     mkdirSync(desktop, { recursive: true });
     const stamp = new Date().toISOString().slice(0, 10);
-    const baseName = `Liste epicerie - ${regionId === 'joliette' ? '' : `${region.name} - `}${week.weekRange || week.folderName || stamp}`;
-    const safeBase = slugFileName(baseName) || `liste-epicerie-${stamp}`;
+    const baseName = `Ma liste epicerie - ${regionId === 'joliette' ? '' : `${region.name} - `}${week.weekRange || week.folderName || stamp}`;
+    const safeBase = slugFileName(baseName) || `ma-liste-epicerie-${stamp}`;
     const outputPdf = join(desktop, `${safeBase}.pdf`);
     const tempHtml = join(tmpdir(), `${safeBase}-${Date.now()}.html`);
     const directory = JSON.parse(await readFile(join(ROOT, 'data/store-locations.json'), 'utf8'));

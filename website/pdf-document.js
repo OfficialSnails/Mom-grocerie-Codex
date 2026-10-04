@@ -45,7 +45,7 @@ export function drawShoppingPdf(pdf, { week, stores, estimate, savings, notes = 
   const ensure = space => { if (y + space > bottom) newPage(); };
   const count = stores.reduce((sum, store) => sum + store.items.length, 0);
 
-  text('Liste d’épicerie', margin, y + 17, 18, true, printColors.green);
+  text('Ma liste d’épicerie', margin, y + 17, 18, true, printColors.green);
   text(`${printCount(count, 'produit')} · ${printCount(stores.length, 'épicerie')}`, right, y + 9, 8, false, printColors.muted, 'right');
   const context = wrap([week?.regionName, week?.weekRange || week?.folderName].filter(Boolean).join(' · '), content, 9);
   text(context, margin, y + 33, 9, false, printColors.muted);
@@ -129,7 +129,7 @@ export function drawShoppingPdf(pdf, { week, stores, estimate, savings, notes = 
   const pages = pdf.internal.getNumberOfPages();
   for (let page = 1; page <= pages; page += 1) {
     pdf.setPage(page);
-    text('La liste d’épicerie', margin, height - 24, 8, false, printColors.muted);
+    text('Ma liste d’épicerie', margin, height - 24, 8, false, printColors.muted);
     text(`${page} / ${pages}`, right, height - 24, 8, false, printColors.muted, 'right');
   }
   return pdf;

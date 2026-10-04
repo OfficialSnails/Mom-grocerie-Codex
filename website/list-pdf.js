@@ -1,5 +1,5 @@
 import { drawShoppingPdf } from './pdf-document.js';
-const slug = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'liste-epicerie';
+const slug = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'ma-liste-epicerie';
 
 async function loadJsPdf() {
   if (window.jspdf?.jsPDF) return window.jspdf.jsPDF;
@@ -22,5 +22,5 @@ export async function createListPdf(snapshot) {
   const pdf = new JsPdf({ unit: 'pt', format: 'letter', orientation: 'portrait' });
   drawShoppingPdf(pdf, snapshot);
   const week = snapshot.week;
-  return { pdf, fileName: `${slug(`${week.regionName}-${week.title || week.weekRange}`)}.pdf` };
+  return { pdf, fileName: `${slug(['Ma liste d’épicerie', week.regionName, week.weekRange || week.folderName].filter(Boolean).join(' - '))}.pdf` };
 }
