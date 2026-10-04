@@ -3,7 +3,7 @@
 ## Snapshot
 Goal: Remove the saved-list address-copy button and deploy the complete frontend/backend.
 Now: 2026-10-04T16:02:16-04:00 [CODE] Removed only the address-copy action. Modifier, Maps, whole-list copying and all saved data remain. TypeScript, release preflight and 315 tests pass; local saved-list/branch-dialog smoke passes.
-Next: Publish through the existing main-branch workflow and verify live assets, data and backend configuration responses.
+Next: None for this release. Provider activation remains outside this removal/deployment task.
 Open questions: Ordering remains parked; production Clerk still requires owned-domain/live setup.
 
 ## Decisions
@@ -383,3 +383,5 @@ Relevant files:
 - 2026-10-04T16:02:16-04:00 [USER] Remove the annotated Copier address button; deploy both frontend and backend.
 - 2026-10-04T16:02:16-04:00 [CODE] Deleted the address-copy action in `website/account-locations.js`; updated `DESIGN.md` and the operator location guide. Modifier/Maps, whole-list copying, prices, selection, saved data and provider configuration unchanged.
 - 2026-10-04T16:02:16-04:00 [TOOL] `npm run check` passed TypeScript, preflight and 315 tests; diff check passed. Initial sandbox attempt could not create tsx IPC; authorized rerun passed. Real 4197 saved-list page has no address-copy control and branch dialog opens; 4187 account page loads. No browser errors. Evidence: `/tmp/grocery-address-copy-removal-check.log`, `output/account-no-address-copy.png`. Publication pending.
+
+- 2026-10-04T16:05:10-04:00 [TOOL] RELEASED `fe606c0d3e51aa4e907bdc4932252f4bb60fb518`: Actions `37230603487` successful; Cloudflare `https://58b78936.bons-speciaux-joliette.pages.dev`. Worker compiled and Functions bundle uploaded; public `account-locations.js` matches local and 14 published data files verified. Refreshed live account page has no browser errors. Backend config reads return account enabled=false, instacart=false, addressSearch=false; these provider settings were intentionally unchanged. Supersedes publication pending. Evidence: `/tmp/grocery-address-copy-removal-deploy.log`, workflow receipt.
