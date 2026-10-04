@@ -47,7 +47,7 @@ function historyPhoto(item, point, thumbnail = false) {
   if (!thumbnail) frame.append(image, node('figcaption', '', `Circulaire du ${historyDate(point.date)} · Agrandir`));
   return frame;
 }
-function showSeries(display, item) {
+function showSeries(display, item, resizeSignal) {
   display.replaceChildren();
   if (!item) { display.append(node('p', 'list-empty', 'Aucun relevé avec ces filtres. Essaie un autre produit, une autre épicerie ou « Tout l’historique ».')); return; }
   const points = item.points, stats = historyStats(points);
@@ -60,11 +60,12 @@ function showSeries(display, item) {
   const price = node('div', 'history-latest-price');
   const latest = stats.latest.length > 1 ? `${money(stats.latest[0])} – ${money(stats.latest.at(-1))}${unit}` : `${money(stats.latest[0])}${unit}`;
   price.append(node('span', '', `Prix du ${historyDate(points.at(-1).date, true)}`), node('strong', '', latest));
-  display.append(price, historyChart(points, unit, point => photo.replaceChildren(historyPhoto(item, point))));
-  display.append(node('p', 'list-caption', points.length === 1 ? 'Un seul relevé conservé pour ce produit, ce format et cette épicerie.' : stats.changed ? 'Sélectionne un point pour voir son prix et l’écart avec le relevé précédent.' : 'Le prix est identique dans tous les relevés de cette série.'));
-  if (!item.format && !unit) display.append(node('p', 'list-caption', 'Le format manque dans ces archives : les montants ne prouvent pas une économie à quantité égale.'));
+  display.append(price, historyChart(points, unit, point => photo.replaceChildren(historyPhoto(item, point)), resizeSignal));
   const detail = node('details', 'history-records');
   detail.append(node('summary', '', `Tous les relevés (${points.length})`));
+  const records = node('div', 'history-records-content');
+  records.append(node('p', 'list-caption', points.length === 1 ? 'Un seul relevé conservé pour ce produit, ce format et cette épicerie.' : stats.changed ? 'Sélectionne un point pour voir son prix et l’écart avec le relevé précédent.' : 'Le prix est identique dans tous les relevés de cette série.'));
+  if (!item.format && !unit) records.append(node('p', 'list-caption', 'Le format manque dans ces archives : les montants ne prouvent pas une économie à quantité égale.'));
   const table = node('table', '');
   const header = node('tr', ''); header.append(node('th', '', 'Date'), node('th', '', `Prix${unit}`));
   const head = node('thead', ''); head.append(header); table.append(head);
@@ -72,7 +73,7 @@ function showSeries(display, item) {
   for (const point of points.slice().reverse()) {
     const row = node('tr', ''); row.append(node('td', '', historyDate(point.date, true)), node('td', '', money(point.price))); body.append(row);
   }
-  table.append(body); detail.append(table); display.append(detail);
+  table.append(body); records.append(table); detail.append(records); display.append(detail);
 }
 
 // The product comparison also uses this compact historical context. Keep the
@@ -98,9 +99,15 @@ export function setupPriceHistory() {
   const dialog = document.querySelector('#price-history-dialog');
   const content = document.querySelector('#price-history-content');
   const close = document.querySelector('#price-history-close');
-  let trigger, catalogue, request = 0;
+  let trigger, catalogue, chartController, request = 0;
   let dropdowns = [];
+  function renderSeries(display, item) {
+    chartController?.abort();
+    chartController = new AbortController();
+    showSeries(display, item, chartController.signal);
+  }
   async function open(items, week, selectedId) {
+    chartController?.abort();
     dropdowns.forEach(dropdown => dropdown.destroy());
     dropdowns = [];
     const currentRequest = ++request;
@@ -159,7 +166,7 @@ export function setupPriceHistory() {
           button.addEventListener('click', () => {
             selected = item.id;
             for (const control of results.children) control.setAttribute('aria-pressed', String(control === button));
-            showSeries(display, item);
+            renderSeries(display, item);
             if (window.matchMedia('(max-width: 700px)').matches) display.scrollIntoView({ block: 'start', behavior: 'instant' });
           }); results.append(button);
         }
@@ -173,7 +180,7 @@ export function setupPriceHistory() {
         page = Math.max(0, Math.floor(filtered.findIndex(item => item.id === selected) / pageSize));
         const records = filtered.reduce((total, item) => total + item.points.length, 0);
         count.textContent = `${filtered.length.toLocaleString('fr-CA')} résultat${filtered.length > 1 ? 's' : ''} · ${records.toLocaleString('fr-CA')} relevés`;
-        renderResults(); showSeries(display, filtered.find(item => item.id === selected));
+        renderResults(); renderSeries(display, filtered.find(item => item.id === selected));
       }
       previous.addEventListener('click', () => { page--; renderResults(); });
       next.addEventListener('click', () => { page++; renderResults(); });
@@ -189,6 +196,7 @@ export function setupPriceHistory() {
   close.addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
   dialog.addEventListener('close', () => {
+    chartController?.abort();
     dropdowns.forEach(dropdown => dropdown.destroy());
     dropdowns = [];
     if (trigger?.isConnected) trigger.focus();

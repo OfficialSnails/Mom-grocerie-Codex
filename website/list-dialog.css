@@ -170,6 +170,56 @@
 .chart-target { fill: transparent; }
 .chart-hit[aria-pressed="true"] .chart-point { fill: var(--forest); stroke-width: 3px; }
 .chart-hit:focus-visible .chart-target { stroke: var(--ochre); stroke-width: 2px; }
+/* Keep the desktop archive controls and selected price in one viewport. */
+@media (min-width: 901px) and (min-height: 600px) {
+  #price-history-dialog { width: min(1240px, calc(100vw - 32px)); height: min(900px, calc(100dvh - 32px)); padding: 16px; overflow: hidden; }
+  #price-history-dialog[open] { display: flex; flex-direction: column; }
+  #price-history-dialog .comparison-heading { position: static; flex: 0 0 auto; align-items: center; margin-bottom: 12px; padding: 0; }
+  #price-history-content { flex: 1; min-height: 0; display: grid; grid-template-columns: minmax(240px, .8fr) minmax(0, 1.5fr); grid-template-rows: auto auto minmax(0, 1fr); gap: 12px 20px; }
+  #price-history-content > .list-caption, #price-history-content > .list-empty { grid-column: 1 / -1; }
+  #price-history-dialog .history-coverage { grid-column: 1 / -1; margin: 0; padding: 8px 12px; gap: 8px 16px; }
+  #price-history-dialog .history-coverage-summary { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 12px; }
+  #price-history-dialog .history-coverage strong { font-size: 14px; }
+  #price-history-dialog .history-search-field, #price-history-dialog .history-controls { margin: 0; }
+  #price-history-dialog .history-controls { gap: 8px; }
+  #price-history-dialog .history-change-filter { padding: 10px; }
+  #price-history-dialog .history-workspace { grid-column: 1 / -1; min-height: 0; grid-template-columns: subgrid; align-items: stretch; gap: 20px; }
+  #price-history-dialog .history-sidebar { display: grid; grid-template-rows: minmax(0, 1fr) auto; min-height: 0; }
+  #price-history-dialog .history-results { min-height: 0; max-height: none; overscroll-behavior: contain; }
+  #price-history-dialog .history-result { gap: 10px; padding: 10px; }
+  #price-history-dialog .history-display { position: relative; display: flex; flex-direction: column; min-height: 0; gap: 10px; }
+  #price-history-dialog .history-product-overview { flex: 0 0 auto; grid-template-columns: 88px minmax(0, 1fr); gap: 14px; margin: 0; }
+  #price-history-dialog .history-photo-button { height: 76px; padding: 4px; }
+  #price-history-dialog .history-product-photo > .history-photo-missing { min-height: 76px; padding: 6px; }
+  #price-history-dialog .history-product-photo figcaption { margin-top: 4px; font-size: 10px; }
+  #price-history-dialog .history-product-title { margin-bottom: 4px; font-size: 17px; }
+  #price-history-dialog .history-product-overview .list-caption { margin: 4px 0 0; }
+  #price-history-dialog .history-latest-price { flex: 0 0 auto; margin: 0; padding: 8px 12px; }
+  #price-history-dialog .history-latest-price strong { font-size: 20px; }
+  #price-history-dialog .history-chart { flex: 1; min-height: 0; display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 8px; }
+  #price-history-dialog .price-chart { min-height: 0; height: 100%; margin: 0; }
+  #price-history-dialog .history-point-banner { padding: 10px 12px; }
+  #price-history-dialog .history-point-detail { gap: 2px; }
+  #price-history-dialog .history-point-detail strong { font-size: 22px; }
+  #price-history-dialog .history-point-detail small { margin-top: 0; }
+  #price-history-dialog .history-records { flex: 0 0 auto; margin: 0; }
+  #price-history-dialog .history-records summary { padding: 12px; border: 1px solid var(--rule); border-radius: var(--radius-control); background: var(--panel); }
+  #price-history-dialog .history-records-content { position: absolute; bottom: 54px; left: 0; right: 0; z-index: 1; max-height: calc(100% - 64px); overflow-y: auto; overscroll-behavior: contain; padding: 12px 16px; border: 1px solid var(--rule); border-radius: var(--radius-control); background: var(--panel); box-shadow: 0 4px 20px #2d47391a; }
+}
+@media (min-width: 901px) and (min-height: 600px) and (max-height: 700px) {
+  #price-history-content { grid-template-rows: auto minmax(0, 1fr); gap: 8px 20px; }
+  #price-history-dialog .history-coverage { position: absolute; top: 20px; left: 280px; right: 76px; z-index: 3; padding: 0; background: none; }
+  #price-history-dialog .history-coverage-summary { display: grid; gap: 2px; }
+  #price-history-dialog .history-coverage strong, #price-history-dialog .history-filter-count { font-size: 12px; }
+  #price-history-dialog .history-coverage span { font-size: 11px; }
+  #price-history-dialog .history-display { gap: 8px; }
+  #price-history-dialog .history-photo-button { height: 56px; }
+  #price-history-dialog .history-latest-price { padding: 4px 12px; }
+  #price-history-dialog .history-latest-price strong { font-size: 17px; }
+  #price-history-dialog .history-point-banner { padding: 8px 12px; }
+  #price-history-dialog .history-point-detail { grid-template-columns: auto auto; justify-content: center; align-items: center; column-gap: 12px; text-align: left; }
+  #price-history-dialog .history-point-detail strong { grid-row: 1 / 3; }
+}
 @media (max-width: 900px) {
   #price-history-dialog .history-controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

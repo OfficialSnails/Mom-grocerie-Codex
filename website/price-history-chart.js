@@ -6,8 +6,9 @@ function svgNode(tag, attrs, text) {
   if (text !== undefined) el.textContent = text;
   return el;
 }
-export function historyChart(points, unit, onSelect) {
+export function historyChart(points, unit, onSelect, resizeSignal) {
   const container = document.createElement('div');
+  container.className = 'history-chart';
   const selection = document.createElement('div');
   selection.className = 'history-point-detail';
   selection.setAttribute('role', 'status');
@@ -18,8 +19,9 @@ export function historyChart(points, unit, onSelect) {
   const padding = Math.max((maximum - minimum) * .2, maximum * .08, .1);
   const low = Math.max(0, minimum - padding), high = maximum + padding;
   const first = historyDay(points[0].date).getTime(), last = historyDay(points.at(-1).date).getTime();
-  const x = point => first === last ? 272 : 66 + (historyDay(point.date).getTime() - first) / (last - first) * 412;
-  const y = point => 196 - (point.price - low) / (high - low) * 164;
+  let width = 520, height = 240;
+  const x = point => first === last ? (66 + width - 42) / 2 : 66 + (historyDay(point.date).getTime() - first) / (last - first) * (width - 108);
+  const y = point => height - 44 - (point.price - low) / (high - low) * (height - 76);
   for (let i = 0; i <= 3; i++) {
     const value = low + (high - low) * i / 3, cy = y({ price: value });
     svg.append(svgNode('line', { x1: 66, y1: cy, x2: 478, y2: cy, class: 'chart-rule' }),
@@ -77,5 +79,32 @@ export function historyChart(points, unit, onSelect) {
   select(points.length - 1);
   controls.append(navigation[0].button, selection, navigation[1].button);
   container.append(svg, controls);
+  // The desktop archive allocates the chart its remaining window space. Lay out
+  // the SVG in those pixels so labels stay readable instead of shrinking it.
+  if (resizeSignal) {
+    const observer = new ResizeObserver(([entry]) => {
+      const fitted = getComputedStyle(container).display === 'grid';
+      const nextWidth = fitted ? entry.contentRect.width : 520;
+      const nextHeight = fitted ? entry.contentRect.height : 240;
+      if (nextWidth <= 108 || nextHeight <= 76) return;
+      width = nextWidth; height = nextHeight;
+      svg.setAttribute('viewBox', `0 0 ${width} ${height}`);
+      svg.querySelectorAll('.chart-rule').forEach((rule, i) => {
+        const cy = y({ price: low + (high - low) * i / 3 });
+        rule.setAttribute('x2', width - 42);
+        rule.setAttribute('y1', cy); rule.setAttribute('y2', cy);
+        rule.nextElementSibling.setAttribute('y', cy + 4);
+      });
+      svg.querySelector('.chart-line').setAttribute('points', points.map(point => `${x(point)},${y(point)}`).join(' '));
+      groups.forEach((group, i) => group.querySelectorAll('circle').forEach(circle => {
+        circle.setAttribute('cx', x(points[i])); circle.setAttribute('cy', y(points[i]));
+      }));
+      const dates = [...svg.querySelectorAll('.chart-label')].slice(-2);
+      dates.forEach(label => label.setAttribute('y', height - 14));
+      dates[1].setAttribute('x', width - 42);
+    });
+    observer.observe(svg);
+    resizeSignal.addEventListener('abort', () => observer.disconnect(), { once: true });
+  }
   return container;
 }

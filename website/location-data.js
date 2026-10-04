@@ -87,12 +87,7 @@ export function branchDistanceLabel(distance, location) {
   return `À ${distance.toLocaleString('fr-CA', { maximumFractionDigits: 1 })} km${location?.source === 'device' ? ' de toi' : ''}`;
 }
 
-export function locationCaption(location, centerName, regionName) {
-  if (!location) return `Succursales autour de ${centerName}. Ta position n’a pas encore été utilisée.`;
-  const origin = location.source === 'device' ? 'Succursales les plus proches de ta position'
-    : `Succursales autour de ${location.name}${location.source === 'town' ? ' (centre-ville)' : ''}`;
-  const time = location.capturedAt && new Date(location.capturedAt);
-  const updated = time && Number.isFinite(time.getTime())
-    ? ` · Position du ${time.toLocaleDateString('fr-CA')} à ${time.toLocaleTimeString('fr-CA', { hour: '2-digit', minute: '2-digit' })}` : '';
-  return `${origin}${updated}. Circulaires : ${regionName}.`;
+export function locationCaption(location, centerName) {
+  const origin = location?.source === 'device' ? 'ta position' : location?.name || centerName;
+  return `Succursales autour de ${origin}`;
 }

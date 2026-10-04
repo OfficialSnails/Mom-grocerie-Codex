@@ -7,15 +7,12 @@ import { generateReport } from './generate-report.js';
 import { updateHistory, persistScoredDeals } from './update-history.js';
 import { installObsidianStyle } from './obsidian-style.js';
 import { readFileSync, existsSync, mkdirSync, cpSync, rmSync } from 'fs';
-import { join, dirname, basename } from 'path';
-import { fileURLToPath } from 'url';
+import { join, dirname, basename, resolve } from 'path';
+import { fileURLToPath, pathToFileURL } from 'url';
 import { execFileSync, spawn } from 'child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const STORES_PATH = join(__dirname, '..', 'data', 'stores.json');
-const REPORTS_DIR = join(__dirname, '..', 'reports');
-const MOM_DIR = join(REPORTS_DIR, 'mom-list');
-const HISTORICAL_DIR = join(REPORTS_DIR, 'historical-item');
 const OBSIDIAN_MOM_ROOT = '/Users/slugz/Library/CloudStorage/Dropbox/OTHERS/OBSIDIAN MD';
 const OBSIDIAN_WEEKLY_ROOT = join(OBSIDIAN_MOM_ROOT, 'Bons speciaux');
 const WATCHER_PID_PATH = join(__dirname, '..', '.shopping-picker-watcher.pid');
@@ -141,7 +138,7 @@ function applyForcedRunDateFromEnv(): void {
   console.log(`🗓️ Date d'exécution forcée: ${fixedDate.toISOString()} (BONS_SPECIAUX_RUN_DATE)`);
 }
 
-async function main() {
+export async function main() {
   // Location freshness follows the existing weekly publication, before any flyer-date override.
   try { execFileSync(TSX_BIN, ['src/fetch-store-directory.ts'], { stdio: 'inherit' }); }
   catch { console.warn('⚠️ Annuaire non actualisé; dernier relevé conservé. Voir data/store-directory-status.json.'); }
@@ -167,11 +164,10 @@ async function main() {
   console.log('📥 Collecte des spéciaux...');
   const { items, usedMock, skippedAdapters, sourceSummary, hasLiveFlyerData } = await collectCurrentDeals();
 
-  if (usedMock) {
-    console.log('   ⚠️  Données de démonstration utilisées (aucune source réelle activée)');
-  } else {
-    console.log(`   ✅ ${items.length} articles collectés depuis les sources activées`);
+  if (usedMock || !hasLiveFlyerData || items.length === 0) {
+    throw new Error('Weekly publication requires fresh live flyer data; reports and history were not updated.');
   }
+  console.log(`   ✅ ${items.length} articles collectés depuis les sources activées`);
   console.log(`   📦 Répartition: ${Object.entries(sourceSummary).map(([id, count]) => `${id}=${count}`).join(', ') || 'aucune'}`);
 
   if (skippedAdapters.length > 0) {
@@ -189,21 +185,6 @@ async function main() {
 
   // Step 2: Generate report (scores internally, returns scored deals for history)
   console.log('📝 Génération du rapport...');
-  const dateStr = new Date().toISOString().slice(0, 10);
-  const liveMomPath = join(MOM_DIR, `bons-speciaux-joliette-${dateStr}-top20.md`);
-  const liveFullPath = join(HISTORICAL_DIR, `bons-speciaux-joliette-${dateStr}-complet.md`);
-  const shouldProtectLiveReports = !hasLiveFlyerData && (existsSync(liveMomPath) || existsSync(liveFullPath));
-  const reportVariant = usedMock
-    ? 'mock-preview'
-    : hasLiveFlyerData
-      ? 'live'
-      : 'manual-preview';
-
-  if (shouldProtectLiveReports) {
-    console.log('   ⚠️  Aucune donnée circulaire live détectée.');
-    console.log('   ⚠️  Les rapports du jour existants sont protégés contre un écrasement par un run CSV/manual-only.');
-  }
-
   const {
     filepath,
     momFilepath,
@@ -216,7 +197,7 @@ async function main() {
     storeSummaryFilepath,
     weeklyPackDir,
     scored,
-  } = await generateReport(items, { reportVariant });
+  } = await generateReport(items, { reportVariant: 'live' });
 
   console.log('');
   console.log('═══════════════════════════════════════════════════════');
@@ -238,21 +219,13 @@ async function main() {
   console.log('═══════════════════════════════════════════════════════');
   console.log('');
 
-  // Optional presentation assets; a source outage must not interrupt the grocery workflow.
-  if (hasLiveFlyerData) {
-    try {
-      await refreshFlyerPages(weeklyPackDir.split('/').pop());
-    } catch (error) {
-      console.warn('Flyer page refresh failed:', error instanceof Error ? error.message : String(error));
-    }
-  }
-
-  if (hasLiveFlyerData) {
-    try { buildOfferEvidence(weeklyPackDir.split('/').pop()); }
-    catch (error) { console.warn('Price evidence refresh failed:', error); }
-    try { await refreshRegions(); }
-    catch (error) { console.warn('Regional refresh failed; previous dated snapshots retained:', error); }
-  }
+  // ponytail: required exports fail the job; never deploy a partly refreshed website.
+  console.log('📚 Mise à jour de l’historique des prix...');
+  persistScoredDeals(scored);
+  updateHistory();
+  await refreshFlyerPages(basename(weeklyPackDir));
+  await refreshRegions();
+  buildOfferEvidence(basename(weeklyPackDir));
 
   // Step 3: Export weekly pack into Obsidian
   console.log('🗂️ Export vers Obsidian...');
@@ -267,26 +240,11 @@ async function main() {
     console.warn('⚠️  Export Obsidian échoué:', err instanceof Error ? err.message : String(err));
   }
   console.log('');
-
-  // Step 4: Persist all collected prices to history (builds the 6-month database)
-  console.log('📚 Mise à jour de l\'historique des prix...');
-  try {
-    persistScoredDeals(scored);
-    updateHistory(); // also picks up any manual CSV entries
-  } catch (err) {
-    console.warn('⚠️  Mise à jour de l\'historique échouée:', err instanceof Error ? err.message : String(err));
-  }
-
-  if (!hasLiveFlyerData) {
-    console.log('💡 Vérification requise avant usage:');
-    console.log('   1. Le run actuel ne contient pas de collecte circulaire live vérifiable.');
-    console.log('   2. Utilise plutôt le rapport *-manual-preview ou *-mock-preview pour analyse interne.');
-    console.log('   3. Ne donne pas cette version à ta mère comme liste finale sans validation source.');
-    console.log('');
-  }
 }
 
-main().catch(err => {
-  console.error('❌ Erreur:', err);
-  process.exit(1);
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
+  main().catch(err => {
+    console.error('❌ Erreur:', err);
+    process.exitCode = 1;
+  });
+}

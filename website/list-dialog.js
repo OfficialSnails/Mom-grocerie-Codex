@@ -1,5 +1,6 @@
 import { money, productTitle, loyaltyLabel } from './product-details.js';
 import { readSavedLists, saveList, removeSavedList, setListArchived, savedListTotals } from './saved-lists.js';
+import { accountSession, saveToAccount, openListPage } from './account-client.js';
 
 function node(tag, className, text) {
   const result = document.createElement(tag);
@@ -208,15 +209,32 @@ export function setupListDialog({ exportCurrent, exportSaved, status }) {
     content.append(node('p', 'list-caption', 'Sans compte, ces listes restent dans ce navigateur.'));
   }
 
-  function saveCurrent(snapshot) {
+  async function saveCurrent(snapshot) {
     try {
       saveList(localStorage, snapshot);
+      const clerk = await accountSession();
+      if (clerk?.user) {
+        await saveToAccount(snapshot);
+        openListPage(snapshot.id);
+        return true;
+      }
       status('Liste enregistrée dans Mes listes.', 'success', 'Sur cet appareil.');
+      openListPage(snapshot.id);
       return true;
     } catch (error) { status(error.message, 'warning'); return false; }
   }
 
-  function showExport(snapshot) {
+  async function showExport(snapshot) {
+    // Keep the local copy before a network request; failed cloud saves never lose it.
+    try {
+      const clerk = await accountSession();
+      if (clerk?.user) {
+        saveList(localStorage, snapshot);
+        await saveToAccount(snapshot);
+        openListPage(snapshot.id);
+        return;
+      }
+    } catch (error) { status(error.message, 'warning'); }
     view('Exporter ma liste');
     content.append(node('p', 'list-context', `${snapshot.week.regionName} · ${snapshot.week.weekRange}`));
     overview(snapshot);
@@ -240,6 +258,6 @@ export function setupListDialog({ exportCurrent, exportSaved, status }) {
   close.addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
   dialog.addEventListener('close', () => { if (trigger?.isConnected) trigger.focus(); });
-  document.querySelector('#history-toggle').addEventListener('click', showHistory);
+  document.querySelector('#history-toggle').addEventListener('click', () => openListPage());
   return { showSavings, showHistory, showExport, saveCurrent };
 }

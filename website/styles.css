@@ -59,6 +59,13 @@ button {
   touch-action: manipulation;
 }
 
+.account-access { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 10px 14px; border: 1px solid #a4bcaf; border-radius: 8px; color: #fffefa; background: #ffffff0d; font: 600 14px/1.25 var(--font-body); text-decoration: none; white-space: nowrap; cursor: pointer; }
+.account-access:hover { background: #ffffff20; }
+.account-access[data-connected="true"] { background: var(--forest-soft); color: var(--forest); }
+.cl-modalCloseButton { width: 40px; height: 40px; min-height: 0; padding: 8px; border: 0; border-radius: 50%; background: transparent; box-shadow: none; color: var(--muted); }
+.cl-modalCloseButton:hover { background: var(--forest-soft); color: var(--forest); }
+.cl-modalCloseButton:focus:not(:focus-visible) { outline: none; }
+
 .skip-link {
   position: fixed;
   left: 16px;

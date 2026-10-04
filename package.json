@@ -6,7 +6,7 @@
   "scripts": {
     "scan": "tsx src/collect-current-deals.ts",
     "report": "tsx src/generate-report.ts",
-    "weekly": "tsx src/run-weekly.ts",
+    "weekly": "tsx src/check-release.ts && tsx src/run-weekly.ts",
     "update-history": "tsx src/update-history.ts",
     "query": "tsx src/query-deals.ts",
     "qa:pantry": "tsx src/pantry-qa.ts",
@@ -16,11 +16,15 @@
     "web": "tsx src/serve-website.ts",
     "cloudflare:login": "npx wrangler login",
     "check": "tsc --noEmit && tsx src/check-release.ts && npm test",
-    "deploy:cloudflare": "npm run check && npx wrangler@4.131.0 pages deploy website --project-name bons-speciaux-joliette --branch main",
-    "test": "vitest run"
+    "deploy:cloudflare": "npm run check && npm run qa:pantry && npm run qa:categories && npx wrangler@4.131.0 pages deploy website --project-name bons-speciaux-joliette --branch main && npm run verify:published",
+    "verify:published": "tsx src/verify-published-data.ts",
+    "test": "vitest run tests --exclude '**/output/**'"
   },
   "dependencies": {
+    "@clerk/backend": "^3.22.0",
+    "@clerk/localizations": "^4.21.2",
     "@mendable/firecrawl-js": "^1.4.0",
+    "@neondatabase/serverless": "^1.2.0",
     "date-fns": "^3.6.0",
     "dotenv": "^16.4.5",
     "papaparse": "^5.4.1"

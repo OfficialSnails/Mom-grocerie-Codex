@@ -1,3 +1,6 @@
+import { createListPdf } from './list-pdf.js';
+import { setupAccountButton, accountApi } from './account-client.js';
+import { buildShoppingPrintHtml } from './print-document.js';
 import { prepareOfferIds, applyOfferEvidence } from './offer-identity.js';
 import { mountProofImage } from './proof-image.js';
 import { setupShoppingWorkspace } from './shopping-workspace.js';
@@ -29,6 +32,7 @@ const state = {
   notes: '',
   storeDirectory: { stores: {}, branches: [] },
   branchChoices: {},
+  accountFavorites: {},
   location: null,
   offerCandidates: () => [],
 };
@@ -454,7 +458,7 @@ function renderMethodNote() {
   }
 
   els.methodNoteBody.innerHTML = `
-    <span>${state.regionId === 'joliette' ? 'Circulaires du Québec · Prix en CAD' : `Circulaires proposées pour ${escapeHtml(state.week.regionName)} (${escapeHtml(state.week.sourcePostalCode)}) · Prix en CAD`} · Disponibilité selon la succursale.</span>
+    <span>${state.regionId === 'joliette' ? 'Circulaires du Québec' : `Circulaires proposées pour ${escapeHtml(state.week.regionName)} (${escapeHtml(state.week.sourcePostalCode)})`} · Disponibilité selon la succursale.</span>
     <span>Costco : formats en vrac et prix membre possibles.</span>
   `;
 }
@@ -845,389 +849,21 @@ function slugFileName(value) {
 }
 
 function buildPrintableHtml(selectedItems) {
-  const stores = groupSelectedByStore();
-  const estimate = estimateBasketTotal(selectedItems);
-  const caveat = estimateCaveat(estimate);
-  const savings = basketSavings(selectedItems, allSelectableItems(), state.selectedStoreIds);
-  const notes = state.notes.trim();
-  const generated = new Intl.DateTimeFormat('fr-CA', {
-    dateStyle: 'long',
-    timeStyle: 'short',
-  }).format(new Date());
-
-  const storeBlocks = stores.map(store => `
-    <section class="store">
-      <h2>${escapeHtml(store.name)}</h2>
-      ${store.address ? `<p class="address">${escapeHtml(store.address)}</p>` : ''}
-      <table>
-        <thead>
-          <tr>
-            <th>Produit</th>
-            <th>Prix</th>
-          </tr>
-        </thead>
-        <tbody>
-          ${store.items.map(item => `
-            <tr>
-              <td>${escapeHtml(item.name)}${loyaltyLabel(item) ? `<br /><small>${escapeHtml(loyaltyLabel(item))}</small>` : ''}</td>
-              <td class="price">${escapeHtml(item.price)}</td>
-            </tr>
-          `).join('')}
-          <tr class="subtotal-row">
-            <td>Sous-total estimé</td>
-            <td class="price">${escapeHtml(formatEstimateCad(store.estimate.subtotal))}</td>
-          </tr>
-        </tbody>
-      </table>
-      ${estimateCaveat(store.estimate) ? `<p class="estimate-note">${escapeHtml(estimateCaveat(store.estimate))}</p>` : ''}
-    </section>
-  `).join('');
-  const finalTotalBlock = `
-    <section class="final-total">
-      <div>
-        <span>Total estimé de la liste</span>
-        <strong>${escapeHtml(formatEstimateCad(estimate.subtotal))}</strong>
-      </div>
-      <p>Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
-    </section>
-  `;
-
-  return `<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8" />
-  <title>${escapeHtml(state.week?.title || 'Liste d’épicerie')}</title>
-  <style>
-    @page { size: letter; margin: 0.55in; }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      color: #171714;
-      background: #fffefa;
-      font-family: Avenir Next, Avenir, Helvetica, Arial, sans-serif;
-      font-size: 12px;
-      line-height: 1.35;
-    }
-    header {
-      display: flex;
-      justify-content: space-between;
-      gap: 24px;
-      align-items: end;
-      padding-bottom: 18px;
-      border-bottom: 2px solid #171714;
-      margin-bottom: 18px;
-    }
-    h1 {
-      margin: 0;
-      font-family: Georgia, Times New Roman, serif;
-      font-size: 31px;
-      line-height: 1;
-    }
-    .meta {
-      color: #5f5a50;
-      text-align: right;
-      font-size: 11px;
-    }
-    .summary {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 10px;
-      margin-bottom: 16px;
-    }
-    .summary div {
-      border: 1px solid #d8cdbb;
-      border-radius: 8px;
-      padding: 9px 10px;
-      background: #f8f5ed;
-      font-weight: 800;
-    }
-    .store {
-      break-inside: avoid;
-      margin: 0 0 18px;
-    }
-    h2 {
-      margin: 0 0 3px;
-      font-size: 18px;
-      line-height: 1.15;
-    }
-    .address {
-      margin: 0 0 7px;
-      color: #5f5a50;
-      font-size: 11px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      border: 1px solid #d8cdbb;
-    }
-    th {
-      color: #fff;
-      background: #235845;
-      text-align: left;
-      font-size: 10px;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-    }
-    th, td {
-      padding: 8px;
-      border-bottom: 1px solid #e7dfd1;
-      vertical-align: top;
-    }
-    tr:last-child td { border-bottom: 0; }
-    .subtotal-row td {
-      color: #235845;
-      background: #e5f0e9;
-      font-weight: 900;
-    }
-    td.price {
-      width: 115px;
-      color: #171714;
-      font-weight: 900;
-      white-space: nowrap;
-    }
-    .estimate-note,
-    .estimate-caveat {
-      margin: 6px 0 0;
-      color: #5f5a50;
-      font-size: 10.5px;
-    }
-    .estimate-caveat {
-      margin: -8px 0 16px;
-    }
-    .notes {
-      break-inside: avoid;
-      margin: 0 0 18px;
-      border: 1px solid #d8cdbb;
-      border-radius: 8px;
-      padding: 10px 12px;
-      background: #f8f5ed;
-    }
-    .notes h2 {
-      margin-bottom: 6px;
-      font-size: 14px;
-    }
-    .notes p {
-      margin: 0;
-      white-space: pre-wrap;
-    }
-    .final-total {
-      break-inside: avoid;
-      margin-top: 22px;
-      border: 2px solid #235845;
-      border-radius: 10px;
-      padding: 12px 14px;
-      background: #e5f0e9;
-    }
-    .final-total div {
-      display: flex;
-      justify-content: space-between;
-      gap: 18px;
-      align-items: baseline;
-    }
-    .final-total span {
-      color: #235845;
-      font-weight: 900;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-    }
-    .final-total strong {
-      color: #235845;
-      font-size: 18px;
-      font-weight: 900;
-      white-space: nowrap;
-    }
-    .final-total p {
-      margin: 6px 0 0;
-      color: #5f5a50;
-      font-size: 10.5px;
-    }
-    @media screen {
-      body {
-        max-width: 8.5in;
-        margin: 24px auto;
-        padding: 0.55in;
-        box-shadow: 0 18px 48px rgba(38, 31, 18, 0.14);
-      }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <div>
-      <h1>Liste d'épicerie</h1>
-      <div>${escapeHtml([state.week?.regionName, state.week?.weekRange || state.week?.folderName].filter(Boolean).join(' · '))}</div>
-    </div>
-    <div class="meta">
-      ${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''}<br />
-      ${escapeHtml(stores.length)} épicerie${stores.length > 1 ? 's' : ''}<br />
-      Généré le ${escapeHtml(generated)}
-    </div>
-  </header>
-  <div class="summary">
-    <div>${escapeHtml(selectedItems.length)} produit${selectedItems.length > 1 ? 's' : ''} choisi${selectedItems.length > 1 ? 's' : ''}</div>
-    <div>${escapeHtml(stores.length)} arrêt${stores.length > 1 ? 's' : ''}</div>
-    <div>Total estimé: ${escapeHtml(formatEstimateCad(estimate.subtotal))}</div>
-    <div>Prix en CAD</div>
-  </div>
-  <p class="estimate-caveat">Avant taxes, dépôts, quantités réelles et prix au poids. ${escapeHtml(caveat)}</p>
-  ${savings.amount > 0 ? `<p>Économies estimées : <strong>${escapeHtml(formatEstimateCad(savings.amount))}</strong> · ${savings.count} produit(s).</p>` : ""}
-  ${notes ? `<section class="notes"><h2>Notes</h2><p>${escapeHtml(notes)}</p></section>` : ''}
-  ${storeBlocks}
-  ${finalTotalBlock}
-</body>
-</html>`;
+  return buildShoppingPrintHtml({
+    week: state.week,
+    stores: groupSelectedByStore(),
+    estimate: estimateBasketTotal(selectedItems),
+    savings: basketSavings(selectedItems, allSelectableItems(), state.selectedStoreIds),
+    notes: state.notes,
+  });
 }
 
 function fileNameForCurrentWeek(extension) {
   return `${slugFileName(state.week?.title || 'liste-epicerie')}.${extension}`;
 }
 
-async function loadJsPdf() {
-  if (window.jspdf?.jsPDF) return window.jspdf.jsPDF;
-
-  await new Promise((resolve, reject) => {
-    const script = document.createElement('script');
-    script.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js';
-    script.crossOrigin = 'anonymous';
-    script.onload = resolve;
-    script.onerror = () => reject(new Error('PDF library unavailable'));
-    document.head.append(script);
-  });
-
-  if (!window.jspdf?.jsPDF) throw new Error('PDF library unavailable');
-  return window.jspdf.jsPDF;
-}
-
 async function createBrowserPdfDocument(snapshot = null) {
-  const week = snapshot?.week ?? state.week;
-  const stores = snapshot?.stores ?? groupSelectedByStore();
-  const selectedItems = stores.flatMap(store => store.items);
-  const estimate = snapshot?.estimate ?? estimateBasketTotal(selectedItems);
-  const caveat = estimateCaveat(estimate);
-  const savings = snapshot?.savings ?? basketSavings(selectedItems, allSelectableItems(), state.selectedStoreIds);
-  const jsPDF = await loadJsPdf();
-  const pdf = new jsPDF({ unit: 'pt', format: 'letter', orientation: 'portrait' });
-  const pageWidth = pdf.internal.pageSize.getWidth();
-  const pageHeight = pdf.internal.pageSize.getHeight();
-  const margin = 44;
-  const tableWidth = pageWidth - margin * 2;
-  const priceWidth = 92;
-  const itemWidth = tableWidth - priceWidth;
-  let y = margin;
-
-  function addPageIfNeeded(requiredHeight = 28) {
-    if (y + requiredHeight <= pageHeight - margin) return;
-    pdf.addPage();
-    y = margin;
-  }
-
-  function text(value, x, yPos, options = {}) {
-    pdf.setFont(options.font || 'helvetica', options.style || 'normal');
-    pdf.setFontSize(options.size || 11);
-    pdf.setTextColor(...(options.color || [23, 23, 20]));
-    pdf.text(String(value), x, yPos, options.align ? { align: options.align } : undefined);
-  }
-
-  function line(yPos, color = [34, 88, 69], width = 1) {
-    pdf.setDrawColor(...color);
-    pdf.setLineWidth(width);
-    pdf.line(margin, yPos, pageWidth - margin, yPos);
-  }
-
-  text('Liste d’épicerie', margin, y + 10, { font: 'times', style: 'bold', size: 30 });
-  text([week?.regionName, week?.weekRange || week?.folderName].filter(Boolean).join(' · '), margin, y + 34, { size: 12, color: [95, 90, 80] });
-  text(`${selectedItems.length} produit${selectedItems.length > 1 ? 's' : ''}`, pageWidth - margin, y + 8, { size: 11, color: [95, 90, 80], align: 'right' });
-  text(`${stores.length} épicerie${stores.length > 1 ? 's' : ''}`, pageWidth - margin, y + 25, { size: 11, color: [95, 90, 80], align: 'right' });
-  text(`Total estimé: ${formatEstimateCad(estimate.subtotal)}`, pageWidth - margin, y + 42, { style: 'bold', size: 11, color: [35, 88, 69], align: 'right' });
-  text('Prix en CAD', pageWidth - margin, y + 59, { size: 10, color: [95, 90, 80], align: 'right' });
-  y += 64;
-  line(y, [23, 23, 20], 1.8);
-  y += 20;
-  const estimateNoteLines = pdf.splitTextToSize(`Avant taxes, dépôts, quantités réelles et prix au poids. ${caveat}`, tableWidth);
-  for (const estimateNoteLine of estimateNoteLines) {
-    text(estimateNoteLine, margin, y, { size: 9, color: [95, 90, 80] });
-    y += 11;
-  }
-  y += 13;
-
-  if (savings.amount > 0) {
-    text(`Économies estimées : ${formatEstimateCad(savings.amount)} · ${savings.count} produit(s)`, margin, y, { size: 11, style: 'bold', color: [35, 88, 69] });
-    y += 22;
-  }
-  const notes = (snapshot?.notes ?? state.notes).trim();
-  if (notes) {
-    addPageIfNeeded(70);
-    text('Notes', margin, y, { font: 'times', style: 'bold', size: 16 });
-    y += 18;
-    const noteLines = pdf.splitTextToSize(notes, tableWidth);
-    for (const noteLine of noteLines) {
-      text(noteLine, margin, y, { size: 11, color: [95, 90, 80] });
-      y += 14;
-    }
-    y += 12;
-  }
-
-  for (const store of stores) {
-    addPageIfNeeded(76);
-    text(store.name, margin, y, { font: 'times', style: 'bold', size: 20 });
-    y += 16;
-    if (store.address) {
-      text(store.address, margin, y, { size: 11, color: [95, 90, 80] });
-      y += 14;
-    }
-    y += 8;
-
-    pdf.setFillColor(35, 88, 69);
-    pdf.rect(margin, y, tableWidth, 24, 'F');
-    text('ITEM', margin + 10, y + 16, { style: 'bold', size: 9, color: [255, 255, 255] });
-    text('PRIX', margin + itemWidth + 10, y + 16, { style: 'bold', size: 9, color: [255, 255, 255] });
-    y += 24;
-
-    for (const item of store.items) {
-      const itemLines = pdf.splitTextToSize([item.name, loyaltyLabel(item)].filter(Boolean).join('\n'), itemWidth - 18);
-      const rowHeight = Math.max(28, itemLines.length * 12 + 16);
-      addPageIfNeeded(rowHeight + 8);
-      pdf.setDrawColor(231, 223, 209);
-      pdf.setLineWidth(0.8);
-      pdf.rect(margin, y, tableWidth, rowHeight);
-      text(itemLines, margin + 10, y + 17, { size: 11 });
-      text(item.price, margin + itemWidth + 10, y + 17, { style: 'bold', size: 12, color: [35, 88, 69] });
-      y += rowHeight;
-    }
-    addPageIfNeeded(34);
-    pdf.setFillColor(229, 240, 233);
-    pdf.rect(margin, y, tableWidth, 28, 'F');
-    text('Sous-total estimé', margin + 10, y + 18, { style: 'bold', size: 11, color: [35, 88, 69] });
-    text(formatEstimateCad(store.estimate.subtotal), margin + itemWidth + 10, y + 18, { style: 'bold', size: 12, color: [35, 88, 69] });
-    y += 32;
-    const storeCaveat = estimateCaveat(store.estimate);
-    if (storeCaveat) {
-      const caveatLines = pdf.splitTextToSize(storeCaveat, tableWidth);
-      for (const caveatLine of caveatLines) {
-        addPageIfNeeded(14);
-        text(caveatLine, margin, y, { size: 9, color: [95, 90, 80] });
-        y += 12;
-      }
-    }
-    y += 22;
-  }
-
-  addPageIfNeeded(76);
-  pdf.setDrawColor(35, 88, 69);
-  pdf.setLineWidth(1.3);
-  pdf.setFillColor(229, 240, 233);
-  pdf.roundedRect(margin, y, tableWidth, 54, 7, 7, 'FD');
-  text('Total estimé de la liste', margin + 12, y + 22, { style: 'bold', size: 12, color: [35, 88, 69] });
-  text(formatEstimateCad(estimate.subtotal), pageWidth - margin - 12, y + 22, { style: 'bold', size: 16, color: [35, 88, 69], align: 'right' });
-  const finalCaveatLines = pdf.splitTextToSize(`Avant taxes, dépôts, quantités réelles et prix au poids. ${caveat}`, tableWidth - 24);
-  y += 38;
-  for (const finalCaveatLine of finalCaveatLines) {
-    text(finalCaveatLine, margin + 12, y, { size: 9, color: [95, 90, 80] });
-    y += 11;
-  }
-
-  const fileName = snapshot ? `${slugFileName(`${week.regionName}-${week.title || week.weekRange}`)}.pdf` : fileNameForCurrentWeek('pdf');
-  return { pdf, fileName };
+  return createListPdf(snapshot ?? currentListSnapshot());
 }
 
 async function downloadBrowserPdf() {
@@ -1376,6 +1012,11 @@ async function selectWeek(weekMeta, regionId = state.regionId, weeks = state.wee
     const saved = JSON.parse(localStorage.getItem(`bons-speciaux:branches:${regionId}`) || '{}');
     if (saved && typeof saved === 'object' && !Array.isArray(saved)) state.branchChoices = saved;
   } catch (error) { console.error('Saved branch choices unavailable:', error); }
+  for (const store of allWeekStores()) {
+    const storeId = canonicalStoreId(store.id);
+    const chain = storeId.replace(/-(joliette|montreal|quebec)$/, '');
+    if (!state.branchChoices[storeId] && state.accountFavorites[chain]) state.branchChoices[storeId] = state.accountFavorites[chain];
+  }
   state.weeks = weeks;
   localStorage.setItem('bons-speciaux:region', regionId);
   document.querySelector('#region-select').value = regionId;
@@ -1399,6 +1040,20 @@ async function selectWeek(weekMeta, regionId = state.regionId, weeks = state.wee
 }
 
 async function init() {
+  // The weekly catalogue remains usable while sign-in loads independently.
+  let accountRequest = 0;
+  void setupAccountButton(document.querySelector('#account-toggle'), async owner => {
+    const request = ++accountRequest;
+    const profile = owner ? (await accountApi('/profile')).profile : {};
+    if (request !== accountRequest) return;
+    state.accountFavorites = profile.favorites || {};
+    if (!state.week) return;
+    for (const store of allWeekStores()) {
+      const storeId = canonicalStoreId(store.id), chain = storeId.replace(/-(joliette|montreal|quebec)$/, '');
+      if (!state.branchChoices[storeId] && state.accountFavorites[chain]) state.branchChoices[storeId] = state.accountFavorites[chain];
+    }
+    renderSelection();
+  }, error => setExportStatus(error.message, 'warning'));
   try {
     try {
       state.storeDirectory = await loadJson('data/store-locations.json');

@@ -25,6 +25,9 @@ export function createListSnapshot({ week, regionId, stores, estimate, savings, 
     notes, estimate, savings: { ...savings, entries },
     stores: stores.map(store => ({
       id: store.id, name: store.name, address: store.address, estimate: store.estimate,
+      branch: store.branch ? { id: store.branch.id, chainId: store.branch.chainId, name: store.branch.name,
+        street: store.branch.street, city: store.branch.city, postalCode: store.branch.postalCode,
+        lat: store.branch.lat, lon: store.branch.lon } : undefined,
       items: store.items.map(item => ({
         id: item.id, name: item.name, price: item.price, currentPrice: item.currentPrice, unit: item.unit,
         storeId: item.storeId, storeName: item.storeName,
@@ -36,7 +39,7 @@ export function createListSnapshot({ week, regionId, stores, estimate, savings, 
   });
 }
 
-function validSnapshot(list) {
+export function validSnapshot(list) {
   if (list?.archivedAt !== undefined && (typeof list.archivedAt !== 'string' || !Number.isFinite(Date.parse(list.archivedAt)))) return false;
   if (!list || typeof list.regionId !== 'string' || typeof list.week?.slug !== 'string' ||
       list.id !== `${list.regionId}:${list.week.slug}` || !Number.isFinite(Date.parse(list.savedAt)) ||

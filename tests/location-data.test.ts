@@ -112,9 +112,9 @@ describe('fresh device location', () => {
   it('distinguishes a town center from the device position in distances and status', () => {
     expect(branchDistanceLabel(2.345, null)).toBe('À 2,3 km');
     expect(branchDistanceLabel(2.345, { source: 'device' })).toBe('À 2,3 km de toi');
-    expect(locationCaption(null, 'Joliette', 'Joliette et les environs')).toContain('Ta position n’a pas encore été utilisée');
-    expect(locationCaption({ name: 'Crabtree', source: 'town' }, 'Joliette', 'Joliette')).toContain('Crabtree (centre-ville)');
-    expect(locationCaption({ name: 'Ma position', source: 'device', capturedAt: '2026-10-03T23:00:00Z' }, '', 'Joliette')).toContain('Succursales les plus proches de ta position');
+    expect(locationCaption(null, 'Joliette')).toBe('Succursales autour de Joliette');
+    expect(locationCaption({ name: 'Crabtree', source: 'town' }, 'Joliette')).toBe('Succursales autour de Crabtree');
+    expect(locationCaption({ name: 'Ma position', source: 'device', capturedAt: '2026-10-03T23:00:00Z' }, '')).toBe('Succursales autour de ta position');
   });
   it('retains the official Crabtree address in the nearest branch and PDF lookup', () => {
     const branch = activeBranch(data, 'joliette', 'tradition-joliette');

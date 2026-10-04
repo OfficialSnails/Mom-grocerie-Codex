@@ -71,10 +71,16 @@ in product dialogs. Assessment and savings eligibility remain unchanged.
 ## Responsive header and archive photos — 2026-10-03
 
 Header actions share typography, padding and row height. Reserve their natural
-width on desktop; move search to its own row at 1100 px and all actions to a
-full-width row at 760 px. Below 600 px the three navigation actions retain
+width on desktop; move search to its own row at 1200 px and navigation to a
+full-width row at 900 px. Below 600 px the three navigation actions retain
 equal columns and the existing mobile basket remains separate. Never truncate
 the basket label or use a different breakpoint for the history button.
+The account control stays at the far right in a reserved column, with a distinct
+outlined treatment and stable label during sign-in initialization. Account page
+button styles must not affect the embedded identity provider's controls.
+Products use two columns on phones, three from 700–900 px, and the existing
+desktop columns beside the basket. Keep full names, unit prices and 44 px add
+and comparison controls; wrap card content instead of truncating it.
 
 Archive results show source-photo thumbnails. The selected chart date controls
 the larger photo and its date caption; clicking enlarges it inside the site.
@@ -156,7 +162,8 @@ reference-led revision of the earlier Playfair interface-heading direction.
   require matching product/format/unit/period or a regular price explicitly
   visible in that exact flyer. The modal identifies the competing reference. Verified loyalty conditions
   stay beside the affected offer (“Avec carte Moi” for Metro), including the
-  list and PDF; do not repeat a generic warning below savings. Weight-based savings remain per unit and are excluded from totals.
+  list; the compact PDF exception below supersedes the earlier PDF requirement.
+  Do not repeat a generic warning below savings. Weight-based savings remain per unit and are excluded from totals.
 - Basket savings are prospective and appear beside the estimated total, also
   in PDF exports. Historical median/low prices appear only with at least three
   prior weeks for the same store/product/format; they are not regular prices.
@@ -250,3 +257,21 @@ reference-led revision of the earlier Playfair interface-heading direction.
   preserve the complete address for exports. Wrap naturally at phone widths.
 - Maps links use a named store and known address; incomplete branches open a
   named search around their coordinates. Keep Modifier a 44 px touch target.
+
+### Compact grocery PDFs — 2026-10-03
+
+- Use compact print typography: 18 pt title, 12 pt store names, 9.5 pt product
+  rows and 32 pt page margins. Keep complete addresses beside store names,
+  prices aligned right, thin separators, and a small final evergreen total.
+- Separate each grocery with a slim evergreen banner, including on continued
+  pages. Vertically center names and prices within their rows, including when
+  a product wraps onto multiple lines. Keep the banner address aligned right.
+- Show the top total and savings on one line. Remove membership annotations,
+  repeated exclusion counts and redundant table column headings from PDFs at
+  the user's request; retain units, conservative calculations and one short
+  taxes/deposits/weight caveat. Website loyalty labels remain unchanged.
+- Browser download and local print exports share the same compact hierarchy.
+  Each grocery starts on a separate page. Short rows have balanced padding;
+  wrapped descriptions and longer lists paginate with repeated store headings.
+  Item prices use regular weight; totals and subtotals use bold. Currency
+  explanation labels are omitted (October 4 refinement).

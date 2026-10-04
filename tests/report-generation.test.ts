@@ -1361,14 +1361,18 @@ describe('website user-facing wording and week filtering', () => {
 
   it('shows safe estimated totals in the final list and PDF exports', async () => {
     const { readFile } = await import('node:fs/promises');
-    const [html, js, css, server, skill, agents] = await Promise.all([
+    const [html, app, css, endpoint, skill, agents, pdf, print] = await Promise.all([
       readFile(new URL('../website/index.html', import.meta.url), 'utf8'),
       readFile(new URL('../website/app.js', import.meta.url), 'utf8'),
       readFile(new URL('../website/styles.css', import.meta.url), 'utf8'),
       readFile(new URL('../src/serve-website.ts', import.meta.url), 'utf8'),
       readFile(new URL('../SKILL.md', import.meta.url), 'utf8'),
       readFile(new URL('../AGENTS.md', import.meta.url), 'utf8'),
+      readFile(new URL('../website/pdf-document.js', import.meta.url), 'utf8'),
+      readFile(new URL('../website/print-document.js', import.meta.url), 'utf8'),
     ]);
+    const js = `${app}\n${pdf}\n${print}`;
+    const server = `${endpoint}\n${pdf}\n${print}`;
 
     expect(html).toContain('selection-estimate');
     expect(html).toContain('id="share-button"');
@@ -1381,7 +1385,7 @@ describe('website user-facing wording and week filtering', () => {
     expect(js).toContain("els.shareButton.textContent = 'Prépare...'");
     expect(js).toContain("els.shareButton.addEventListener('click', shareBasketPdf)");
     expect(js).toContain('Total estimé');
-    expect(js).toContain('Avant taxes, dépôts, quantités réelles et prix au poids');
+    expect(js).toContain('Avant taxes et dépôts · Prix au poids selon les quantités réelles.');
     expect(js).toContain('Sous-total estimé');
     expect(js).toContain('Total estimé de la liste');
     expect(js).toContain('let exportStatusTimer = null');
@@ -1425,7 +1429,8 @@ describe('website user-facing wording and week filtering', () => {
     const { readFile } = await import('node:fs/promises');
     const js = await readFile(new URL('../website/app.js', import.meta.url), 'utf8');
 
-    expect(js).toContain('Circulaires du Québec · Prix en CAD');
+    expect(js).toContain('Circulaires du Québec');
+    expect(js).not.toContain('Prix en CAD');
     expect(js).toContain('Costco : formats en vrac et prix membre possibles');
   });
 
