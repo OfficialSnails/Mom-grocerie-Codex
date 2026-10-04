@@ -115,3 +115,19 @@ browser: successful physical positioning remains UNCONFIRMED, not claimed.
 Evidence: `output/location-refinement-check.txt`,
 `output/ui-location-lists-320.png`, `output/location-modal-widths.json` (320/390/700/900 px, no overflow); user preview state not modified.
 Pricing/savings, weekly data, accounts and PDF generation logic unchanged.
+
+
+Production receipt 2026-10-03T20:29:46-04:00: commit `c20e070`, successful
+[GitHub deployment](https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37165012450),
+https://ee173e34.bons-speciaux-joliette.pages.dev/.
+Ten public assets/data files match local hashes after propagation; API config
+returns 200. Live tabs maintain identical 620×560 geometry, the location picker
+has no removed blocks, and existing basket shows the sourced Crabtree street
+and plain kilometre labels. Production basket selections were preserved.
+Receipts: `output/location-refinement-live-readback.json`,
+`output/location-refinement-github-success.txt`.
+
+Production device-position check 2026-10-03T20:31:34-04:00: browser returned the bounded timeout
+message; existing stores and selections remained unchanged. Dialog closed after
+verification. Fresh-coordinate success is covered by automated tests; successful
+physical-device positioning remains UNCONFIRMED.

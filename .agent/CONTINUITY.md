@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Stabilize saved-list modals, connect fresh device location to nearest stores, simplify location copy and deploy.
-Now: 2026-10-03T20:27:36-04:00 [CODE] Location/modal changes implemented; 238 tests pass and browser validates layout, location reset and GPS timeout recovery. Production remains `06339f8` pending this release.
-Next: Final release check, GitHub push/deployment, public readback.
+Now: 2026-10-03T20:29:46-04:00 [TOOL] Location/modal release `c20e070` deployed successfully; run `37165012450`, deployment `ee173e34`. Ten public assets/data files match local and live modal/labels verified. Supersedes pending-release snapshot.
+Next: No release work remains. Physical-device location success remains UNCONFIRMED after test-browser timeout; existing optional account/geocoding follow-ups remain separate.
 Open questions: Accounts/cloud list sync are not implemented. Exact-address search requires a server-side Geoapify key; towns/GPS work independently. Physical mobile sharing remains UNCONFIRMED.
 
 ## Decisions
@@ -249,3 +249,7 @@ Relevant files:
 - 2026-10-03T20:27:36-04:00 [USER] Keep list/archive modal size stable; remove marked explanation/attribution blocks, clarify active location and remove “vol d’oiseau”; link nearest stores to actual geolocation. Existing deployment authorization remains active.
 - 2026-10-03T20:27:36-04:00 [CODE] Fresh accurate device request with bounded timeout, source/timestamp retained, stale callbacks ignored and old branch pins reset on deliberate location change. Stable list/location shells; simplified distance labels; source credits moved into closed footer Sources. Existing branch lookup avoids duplicate distance/sorting work. Official Crabtree address added via facts/importer, dated in Toronto. Files/evidence: `reports/location-review-2026-10-03.md`.
 - 2026-10-03T20:27:36-04:00 [TOOL] 238 tests, TypeScript/preflight pass. Browser confirms stable list tabs and 320 px modals, town-based nearest update and manual-pin reset; real GPS request times out with clear recovery, so successful physical-device positioning remains UNCONFIRMED. Prices/PDF generation/auth unchanged; source directory changes limited to one verified address.
+
+- 2026-10-03T20:29:46-04:00 [TOOL] Release `c20e070`: https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37165012450 passed 238 tests and Pages deployment. https://ee173e34.bons-speciaux-joliette.pages.dev/; ten production assets/data match local hashes after propagation, API config 200. Live list tabs preserve 620×560 position; location blocks removed and basket displays official Crabtree address / plain km labels. Existing production basket retained. Evidence: `output/location-refinement-live-readback.json`, `output/location-refinement-github-success.txt`.
+
+- 2026-10-03T20:31:34-04:00 [TOOL] Production device-position request also reached the bounded timeout; clear recovery shown and existing stores preserved. Successful physical positioning remains UNCONFIRMED. Evidence: live browser status, `reports/location-review-2026-10-03.md`.
