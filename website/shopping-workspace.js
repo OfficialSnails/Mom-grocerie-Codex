@@ -2,6 +2,8 @@ export function setupShoppingWorkspace() {
   const button = document.querySelector('#basket-toggle');
   const panel = document.querySelector('#basket-panel');
   const close = document.querySelector('#basket-close');
+  const buttonHome = button.parentElement;
+  const compactAccess = document.querySelector('#basket-access');
   const mobile = window.matchMedia('(max-width: 900px)');
   const background = [...document.querySelectorAll('body > :not(#basket-panel):not(script):not(.image-preview)')];
   const closeBasket = () => {
@@ -37,7 +39,12 @@ export function setupShoppingWorkspace() {
     }
   });
   const resize = () => {
+    const wasOpen = document.body.classList.contains('basket-open');
     closeBasket();
+    // Keep the same live basket control reachable whenever the sidebar is hidden.
+    (mobile.matches ? compactAccess : buttonHome).append(button);
+    button.setAttribute('aria-haspopup', mobile.matches ? 'dialog' : 'false');
+    if (wasOpen) button.focus({ preventScroll: true });
     document.querySelectorAll('.filter-disclosure').forEach(details => { details.open = !mobile.matches; });
   };
   mobile.addEventListener('change', resize);

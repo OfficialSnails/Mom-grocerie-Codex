@@ -28,9 +28,10 @@
       <button id="flyers-toggle" type="button" class="nav-link" aria-haspopup="dialog">Circulaires</button>
       <button id="price-history-toggle" type="button" class="nav-link" aria-haspopup="dialog">Historique des prix</button>
       <button id="history-toggle" type="button" class="nav-link" aria-haspopup="dialog">Mes listes</button>
-      <button id="basket-toggle" type="button" class="button" aria-controls="basket-panel" aria-expanded="false"><span class="basket-button-label">Ma liste <span id="basket-count">0</span></span><span id="basket-mobile-total">Préparer mes courses</span><span class="basket-button-arrow" aria-hidden="true">↑</span></button>
+      <button id="basket-toggle" type="button" class="button" aria-controls="basket-panel" aria-expanded="false"><span class="basket-button-label">Ma liste <span id="basket-count">0</span></span><span class="basket-button-totals" aria-live="polite" aria-atomic="true"><span id="basket-mobile-total">Préparer mes courses</span><span id="basket-mobile-savings" hidden></span></span><span class="basket-button-arrow" aria-hidden="true">↑</span></button>
       </div>
     </header>
+    <div id="basket-access" class="basket-access"></div>
     <section class="intro" aria-labelledby="intro-title">
       <div class="topbar-title">
         <div class="region-field"><label for="region-select">Ma région</label><span class="region-choice"><select id="region-select" aria-label="Choisir une région"><option value="joliette">Joliette et les environs</option></select></span><button type="button" id="location-edit" class="location-edit" aria-haspopup="dialog">Me localiser</button></div>

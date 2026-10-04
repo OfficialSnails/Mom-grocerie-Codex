@@ -719,8 +719,13 @@ function renderSelection() {
   document.querySelector('#basket-count').textContent = count;
   const selectedItems = [...state.selected.values()];
   const total = estimateBasketTotal(selectedItems);
-  document.querySelector('#basket-mobile-total').textContent = count ? `${formatEstimateCad(total.subtotal)} estimé` : 'Préparer mes courses';
+  document.querySelector('#basket-mobile-total').textContent = count
+    ? total.fixedCount ? `Total estimé : ${formatEstimateCad(total.subtotal)}` : 'Total à calculer'
+    : 'Préparer mes courses';
   const savings = basketSavingsDetails(selectedItems, allSelectableItems(), state.selectedStoreIds);
+  const compactSavings = document.querySelector('#basket-mobile-savings');
+  compactSavings.hidden = savings.amount <= 0;
+  compactSavings.textContent = `${formatEstimateCad(savings.amount)} d’économies`;
   const weightSavings = savings.entries.filter(entry => entry.saving && !entry.saving.canTotal).length;
   const savingsBlock = document.querySelector('#selection-savings');
   savingsBlock.hidden = count === 0;

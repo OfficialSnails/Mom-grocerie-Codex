@@ -160,10 +160,13 @@ reference-led revision of the earlier Playfair interface-heading direction.
 - Basket savings are prospective and appear beside the estimated total, also
   in PDF exports. Historical median/low prices appear only with at least three
   prior weeks for the same store/product/format; they are not regular prices.
-- On phones only (≤600 px), a bottom list bar shows count and estimated total.
+- On phones only (≤600 px), a bottom list bar shows count, estimated total and savings.
   Bottom page padding keeps the final product reachable. The list opens with a
   return action, focus containment and all PDF/share/remove controls.
-- Tablet retains the header list control; desktop retains the right sidebar.
+- At 601–900 px, the same list control moves into a sticky top bar in the page
+  flow, so totals and the full basket stay reachable while browsing. Above
+  900 px, desktop retains the right sidebar. Match the access-control and
+  sidebar breakpoints; a weight-only basket displays “Total à calculer”.
 - Circulars open in a native dialog with real covers and scrollable full pages.
   Image loading failures have an explicit message and source link.
 - Preserve default Bons prix, all items, store selections, Costco optional/off,
