@@ -1,10 +1,10 @@
 # Continuity
 
 ## Snapshot
-Goal: Temporarily remove unavailable ordering from Mon espace.
-Now: 2026-10-04T13:30:35-04:00 [CODE] Ordering buttons, external retailer order links and fulfillment preferences removed; saved lists, PDF, copying, favorites and GPS/address controls remain. Existing order modules/drafts and stored mode values preserved.
-Next: None for removal. Keep ordering parked until a working provider and explicit restoration request.
-Open questions: Provider integration remains parked; official Instacart applications were closed at the last check. Production Clerk still requires owned-domain/live setup.
+Goal: Remove the saved-list address-copy button and deploy the complete frontend/backend.
+Now: 2026-10-04T16:02:16-04:00 [CODE] Removed only the address-copy action. Modifier, Maps, whole-list copying and all saved data remain. TypeScript, release preflight and 315 tests pass; local saved-list/branch-dialog smoke passes.
+Next: Publish through the existing main-branch workflow and verify live assets, data and backend configuration responses.
+Open questions: Ordering remains parked; production Clerk still requires owned-domain/live setup.
 
 ## Decisions
 D001 ACTIVE: [USER] Weekly runs target the upcoming Thursday-to-Wednesday flyer cycle, using Joliette only as the Quebec source anchor.
@@ -378,3 +378,8 @@ Relevant files:
 - 2026-10-04T13:30:35-04:00 [TOOL] `npm run check` passed TypeScript, release preflight and 315 tests; `git diff --check` passed. Real browser: 4197 saved-list controls removed, copy confirmed, optional profile save succeeds; saved-list/profile document width equals 320 px viewport with all buttons in bounds. Main 4187 profile checked; no browser errors. Evidence: `/tmp/grocery-order-removal-check.log`. Publication pending.
 
 - 2026-10-04T13:32:15-04:00 [TOOL] RELEASED `444a2b7f88a23dc194c80bf80c230a578f54ca9b`: Actions `37220789309` successful; Cloudflare `https://684e9690.bons-speciaux-joliette.pages.dev`. Both changed public assets byte-match local, CI verified 14 published data files, and refreshed live profile has no fulfillment selector or browser errors. Supersedes publication pending above. Evidence: `/tmp/grocery-order-removal-deploy.log`, live `/account#profile`.
+
+## Address-copy removal and full deployment — 2026-10-04T16:02:16-04:00
+- 2026-10-04T16:02:16-04:00 [USER] Remove the annotated Copier address button; deploy both frontend and backend.
+- 2026-10-04T16:02:16-04:00 [CODE] Deleted the address-copy action in `website/account-locations.js`; updated `DESIGN.md` and the operator location guide. Modifier/Maps, whole-list copying, prices, selection, saved data and provider configuration unchanged.
+- 2026-10-04T16:02:16-04:00 [TOOL] `npm run check` passed TypeScript, preflight and 315 tests; diff check passed. Initial sandbox attempt could not create tsx IPC; authorized rerun passed. Real 4197 saved-list page has no address-copy control and branch dialog opens; 4187 account page loads. No browser errors. Evidence: `/tmp/grocery-address-copy-removal-check.log`, `output/account-no-address-copy.png`. Publication pending.

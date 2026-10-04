@@ -94,14 +94,6 @@ export function setupAccountLocations({ getList, persist, changed, report }) {
     edit.dataset.storePicker = store.id;
     edit.setAttribute('aria-label', `Changer de succursale pour ${store.name}`);
     edit.setAttribute('aria-haspopup', 'dialog'); actions.append(edit);
-    if (store.address) {
-      const copy = button('Copier', async () => {
-        try { await navigator.clipboard.writeText(store.address); }
-        catch { throw new Error(`Copie l’adresse affichée : ${store.address}`); }
-        report('Adresse copiée.');
-      }, 'account-address-action');
-      copy.setAttribute('aria-label', `Copier l’adresse de ${store.name}`); actions.append(copy);
-    }
     header.append(identity, destination, actions); return header;
   }
   return { ready, positionControl, storeHeader, reloadOrigin() { readOrigin(); changed(); } };
