@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Remove the saved-list address-copy button and deploy the complete frontend/backend.
-Now: 2026-10-04T16:02:16-04:00 [CODE] Removed only the address-copy action. Modifier, Maps, whole-list copying and all saved data remain. TypeScript, release preflight and 315 tests pass; local saved-list/branch-dialog smoke passes.
-Next: None for this release. Provider activation remains outside this removal/deployment task.
+Goal: Keep only the canonical main worktree.
+Now: 2026-10-04T16:22:10-04:00 [TOOL] Six detached linked worktrees removed after verified recovery backups. `git worktree list` shows only this checkout on main. Application code and deployed release unchanged.
+Next: None for this cleanup. Weekly automation remains configured to create future worktrees.
 Open questions: Ordering remains parked; production Clerk still requires owned-domain/live setup.
 
 ## Decisions
@@ -385,3 +385,15 @@ Relevant files:
 - 2026-10-04T16:02:16-04:00 [TOOL] `npm run check` passed TypeScript, preflight and 315 tests; diff check passed. Initial sandbox attempt could not create tsx IPC; authorized rerun passed. Real 4197 saved-list page has no address-copy control and branch dialog opens; 4187 account page loads. No browser errors. Evidence: `/tmp/grocery-address-copy-removal-check.log`, `output/account-no-address-copy.png`. Publication pending.
 
 - 2026-10-04T16:05:10-04:00 [TOOL] RELEASED `fe606c0d3e51aa4e907bdc4932252f4bb60fb518`: Actions `37230603487` successful; Cloudflare `https://58b78936.bons-speciaux-joliette.pages.dev`. Worker compiled and Functions bundle uploaded; public `account-locations.js` matches local and 14 published data files verified. Refreshed live account page has no browser errors. Backend config reads return account enabled=false, instacart=false, addressSearch=false; these provider settings were intentionally unchanged. Supersedes publication pending. Evidence: `/tmp/grocery-address-copy-removal-deploy.log`, workflow receipt.
+
+## Linked-worktree cleanup — 2026-10-04T16:22:10-04:00
+- 2026-10-04T16:22:10-04:00 [USER] Clean linked worktrees so only main remains.
+- 2026-10-04T16:22:10-04:00 [TOOL] All six detached HEADs were ancestors of main; none had unique commits. Worktrees 5eca, 97b8, c5eb and f764 had local changes. Preserved binary working/index patches plus every changed, untracked and ignored file, including caches/dependencies, in `output/worktree-backups/2026-10-04T161938-0400/`; archive contents and SHA-256 hashes verified before removal. Recovery steps and manifest are in that folder. No live processes were observed using the six checkout directories.
+- 2026-10-04T16:22:10-04:00 [TOOL] Removed 26f4, 5eca, 97b8, ba6a, c5eb and f764 with Git's worktree removal command. Verified exactly one worktree, branch main, original HEAD `6b3607c53ae6441702761d61e600dfc941965434` and clean status before this ledger receipt. No application edits, merge, push or deployment; no code tests needed for checkout cleanup.
+
+### Follow-up: future worktree creation
+- Scope: Optionally run weekly grocery automation in the canonical checkout.
+- Area: Codex automation `mom-grocerie` execution environment.
+- Acceptance: Future runs use main without creating another linked worktree.
+- Constraints: Preserve schedule/prompt; configuration change requires a separate user request.
+- Status: NOT REQUESTED. Current automation points at the canonical checkout but uses `execution_environment = worktree`; setting was left unchanged.
