@@ -2,8 +2,8 @@
 
 ## Snapshot
 Goal: Publish the integrated responsive website, PDF refinements and backend.
-Now: 2026-10-04T01:20:00-04:00 [TOOL] 282 tests, TypeScript, JSON/conflict/browser-JS preflight and Cloudflare Functions build pass. Phone/tablet basket and 320–1440 px layouts validated. Deployment pending.
-Next: Push the integrated release, verify CI and live frontend/API responses.
+Now: 2026-10-04T01:23:00-04:00 [TOOL] Integrated release `f9fa79c` is live as Cloudflare `d1618ef5`. CI `37179589922` succeeded: 282 tests, category QA, 14 published data files; 15 frontend assets match the committed release.
+Next: Await the owned domain / production Clerk configuration for public sign-in. Website and backend deployment is complete; accounts are deployed but disabled on public hosts with development-only keys.
 Open questions: Production Clerk sign-in requires an owned domain and production keys; the user has been asked which domain to use. Current development keys remain blocked on public hosts.
 
 ## Decisions
@@ -312,3 +312,7 @@ Relevant files:
 - 2026-10-04T01:20:00-04:00 [USER] Supersedes earlier local-only exclusions: deploy the complete frontend/backend and GitHub work. PDF item prices regular, totals bold, each grocery starts a page; remove CAD copy. Stable right-side account control, borderless login close control, no duplicate sidebar sign-in prompt; at least two products per phone row.
 - 2026-10-04T01:20:00-04:00 [CODE] Shared browser/local PDF hierarchy, closing total kept with final product, responsive 2/3-column cards and unified navigation controls. Existing account/list/history/pipeline work included; weekly price snapshots and calculation rules unchanged. Sources: `website/{pdf-document,print-document,account-client,account-page}.js`, `website/{styles,shopping-workspace,account}.css`, `tests/pdf-document.test.ts`.
 - 2026-10-04T01:20:00-04:00 [TOOL] 282 tests / 24 suites pass with TypeScript and release preflight; Functions build succeeds. Local login/modal and guest account/list UI validated; 320–1440 px layout checks, mobile selection/removal/basket and actual two-path PDF rendering pass. Evidence: `output/full-release-check-2026-10-04.txt`, `output/release-responsive-check.json`, `output/pdf-design-review/`. Public accounts remain disabled until production configuration; development badge is not hidden.
+
+- 2026-10-04T01:23:00-04:00 [TOOL] Supersedes pending deployment above: release `f9fa79c9364733d85c268413070239155af871fa`, Cloudflare `d1618ef5`, GitHub Actions https://github.com/OfficialSnails/Mom-grocerie-Codex/actions/runs/37179589922 all successful. Exact 15 frontend hashes and JSON API responses verified; CI matched 14 weekly/history/regional data files. Evidence: `output/full-release-live-verification.json`.
+- 2026-10-04T01:23:00-04:00 [TOOL] Live basket add/removal, weight-price exclusion, named Maps link and browser PDF flow checked. Initial public basket was empty and restored. `.env` remains ignored/mode 600; release scan found no configured private credentials in 720 tracked/untracked release files. Local preview runs at 4187; PDF review at 4196.
+- 2026-10-04T01:23:00-04:00 [TOOL] Remaining public-auth limitation confirmed: `.env` publishable/secret Clerk keys are development keys, not live keys. Production `/api/account/config` reports `enabled:false`; authenticated routes return JSON 503, not an HTML fallback. Domain question remains unanswered. No dev badge hidden, no development authentication enabled publicly, no secrets published. Local development sign-in still carries Clerk's honest development label until a production instance is provided.
