@@ -1,5 +1,6 @@
 {
-  "checkedAt": "2026-10-04T01:16:19.905Z",
+  "checkedAt": "2026-10-08T18:15:06.919Z",
+  "importStatus": "updated",
   "sources": [
     {
       "source": "tradition",
@@ -9,12 +10,12 @@
     {
       "source": "bonichoix",
       "status": "partial",
-      "count": 40
+      "count": 39
     },
     {
       "source": "iga",
       "status": "updated",
-      "count": 291
+      "count": 287
     },
     {
       "source": "familiprix",
@@ -38,7 +39,5 @@
       "source": "directory",
       "status": "updated"
     }
-  ],
-  "importedAt": "2026-10-04T01:34:43.246Z",
-  "importStatus": "updated"
+  ]
 }
