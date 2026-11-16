@@ -71,6 +71,11 @@ Relevant files:
 ## Follow ups
 - Commit/push generated files if desired; no commit was created by Codex in this run.
 
+## Latest run — October 7, 2026
+- 2026-10-07T13:38:01-0400 [TOOL] Fresh Flipp/Wishabi generation for upcoming `Semaine du 8 au 14 octobre 2026` used `BONS_SPECIAUX_RUN_DATE=2026-10-08T12:00:00-04:00`: 1,901 priced items from nine overlapping flyers, with 18 expired CSV rows excluded and no Firecrawl. Full OCR/proof validation, price history (+1,674), base and regional exports, flyer pages, offer evidence, reports and Obsidian pack completed. Non-critical OSM refresh returned HTTP 504 and retained its prior directory data. Evidence: generated week folder and `data/store-directory-status.json`.
+- 2026-10-07T13:38:01-0400 [TOOL] Validation passed: `npm run check` (315 tests), browser syntax, pantry QA, category QA (0 high-confidence; nine frozen-food ambiguities), 44 generated JSON parses and no conflict markers. Chrome localhost confirmed newest week first, Costco off by default, data/proof controls and basket render.
+- 2026-10-07T13:38:01-0400 [TOOL] Direct Cloudflare Pages deployment succeeded: `https://b1189d9c.bons-speciaux-joliette.pages.dev`. `npm run verify:published` matched 14 published files; live production index first label is `8 au 14 octobre 2026`. No GitHub fallback/push used.
+
 ## Latest run — September 23, 2026
 - 2026-09-23T13:38:44-04:00 [USER] Canonical workspace only; target upcoming September 24–30 flyers with `BONS_SPECIAUX_RUN_DATE=2026-09-24T12:00:00-04:00`.
 - 2026-09-23T13:38:44-04:00 [TOOL] Fresh Flipp/Wishabi collection: 1834 priced items, nine stores, 1737 new source IDs versus last week. All source periods overlap the target; Costco monthly offers end September 27. No Firecrawl; 18 expired CSV rows skipped. OCR enabled, no recovered extra offers. Evidence: `/tmp/mom-grocerie-2026-09-23-weekly.log`, new week's `Autres/raw-items.json`.
@@ -397,3 +402,14 @@ Relevant files:
 - Acceptance: Future runs use main without creating another linked worktree.
 - Constraints: Preserve schedule/prompt; configuration change requires a separate user request.
 - Status: NOT REQUESTED. Current automation points at the canonical checkout but uses `execution_environment = worktree`; setting was left unchanged.
+
+## Weekly flyer publication — 2026-10-15
+- 2026-10-15T11:34:25-04:00 [USER] Generated and authorized publication of the current Québec flyer cycle, including Joliette, Montréal and Québec refreshes.
+- 2026-10-15T11:34:25-04:00 [CODE] Added a pantry-QA false-positive exclusion for shelf-stable macaroni-and-cheese meals; generated data was not manually patched. Files: `src/generate-report.ts`, `tests/report-generation.test.ts`.
+- 2026-10-15T11:34:25-04:00 [TOOL] Live Flipp/Wishabi weekly pipeline targeted `Semaine du 15 au 21 octobre 2026` via `BONS_SPECIAUX_RUN_DATE=2026-10-15T12:00:00-04:00`. Base: 91 retained specials / 1,527 products; refresh: Montréal 1,686 and Québec 1,692 offers. Flyer metadata, regional snapshots, offer evidence and price history (35,522 observations) rebuilt. `npm run check` passed (315 tests), pantry/category QA passed with 0 high-confidence errors (9 frozen-food ambiguities), 56 website JSON files parsed, browser smoke passed.
+- 2026-10-15T11:34:25-04:00 [TOOL] RELEASED with direct `npm run deploy:cloudflare` to `https://b89a0587.bons-speciaux-joliette.pages.dev`; `npm run verify:published` matched 14 files. Public alias `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returns `15 au 21 octobre 2026` first. Existing concurrent changes were preserved.
+
+## Weekly flyer publication — 2026-10-21
+- 2026-10-21T13:20:48-04:00 [TOOL] Generated the upcoming `Semaine du 22 au 28 octobre 2026` using the normal Thursday override `BONS_SPECIAUX_RUN_DATE=2026-10-22T12:00:00-04:00`. Live Flipp/Wishabi returned 1,648 products across Familiprix, Inter-Marché, Maxi, Metro, IGA, Marchés Tradition, Super C, BoniChoix and Costco; the dated CSV supplement contributed zero rows. The slow non-blocking store-directory refresh retained its prior verified snapshot.
+- 2026-10-21T13:20:48-04:00 [TOOL] Required OCR proof pass, report, current prices, flyer pages, Montréal/Québec refreshes, offer evidence, price history and Obsidian export completed. Base index: 80 retained specials / 1,369 all products. `npm run check` passed (315 tests); pantry/category QA passed with 0 high-confidence errors and 7 frozen-food ambiguity notes; 64 release JSON files parsed; browser smoke passed without console errors.
+- 2026-10-21T13:20:48-04:00 [TOOL] RELEASED through direct `npm run deploy:cloudflare`; `npm run verify:published` matched 14 files. Public alias `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returns `Semaine du 22 au 28 octobre 2026` first. Existing concurrent changes were preserved.

@@ -675,6 +675,9 @@ function categoryTitle(id: ShopperCategoryId): string {
 }
 
 function suggestNonPantryCategoryFromText(text: string): { category: ShopperCategoryId; reason: string } | null {
+  // Shelf-stable macaroni and cheese is a pantry meal; its cheese ingredient
+  // must not make the pantry QA misreport it as a dairy placement.
+  if (/\bmacaroni (?:et|au|and) (?:fromage|cheese)\b/.test(text)) return null;
   if (healthName(text)) return { category: 'health', reason: 'mot de pharmacie/santé' };
   if (includesAny(text, HOUSEHOLD_KEYWORDS) || /\b(?:piles|batteries|dishwasher|lave vaisselle)\b/.test(text)) return { category: 'household', reason: 'mot de maison/entretien' };
   if (includesAny(text, FROZEN_NAME_KEYWORDS)) return { category: 'frozen', reason: 'mot de produit surgelé' };

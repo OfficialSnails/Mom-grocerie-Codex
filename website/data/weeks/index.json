@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-01T16:00:00.000Z",
+  "generatedAt": "2026-11-12T17:00:00.000Z",
   "weeks": [
     {
-      "slug": "semaine-du-1-au-7-octobre-2026",
-      "folderName": "Semaine du 1 au 7 octobre 2026",
-      "title": "Liste d'épicerie — 1 au 7 octobre 2026",
-      "weekRange": "1 au 7 octobre 2026",
-      "generatedAt": "2026-10-01T16:00:00.000Z",
-      "itemCount": 84,
-      "allItemCount": 1479,
-      "path": "data/weeks/semaine-du-1-au-7-octobre-2026/week.json"
+      "slug": "semaine-du-12-au-18-novembre-2026",
+      "folderName": "Semaine du 12 au 18 novembre 2026",
+      "title": "Liste d'épicerie — 12 au 18 novembre 2026",
+      "weekRange": "12 au 18 novembre 2026",
+      "generatedAt": "2026-11-12T17:00:00.000Z",
+      "itemCount": 88,
+      "allItemCount": 1465,
+      "path": "data/weeks/semaine-du-12-au-18-novembre-2026/week.json"
     },
     {
-      "slug": "semaine-du-24-au-30-septembre-2026",
-      "folderName": "Semaine du 24 au 30 septembre 2026",
-      "title": "Liste d'épicerie — 24 au 30 septembre 2026",
-      "weekRange": "24 au 30 septembre 2026",
-      "generatedAt": "2026-09-24T16:00:00.000Z",
-      "itemCount": 87,
-      "allItemCount": 1489,
-      "path": "data/weeks/semaine-du-24-au-30-septembre-2026/week.json"
+      "slug": "semaine-du-5-au-11-novembre-2026",
+      "folderName": "Semaine du 5 au 11 novembre 2026",
+      "title": "Liste d'épicerie — 5 au 11 novembre 2026",
+      "weekRange": "5 au 11 novembre 2026",
+      "generatedAt": "2026-11-05T17:00:00.000Z",
+      "itemCount": 83,
+      "allItemCount": 1572,
+      "path": "data/weeks/semaine-du-5-au-11-novembre-2026/week.json"
     }
   ]
 }

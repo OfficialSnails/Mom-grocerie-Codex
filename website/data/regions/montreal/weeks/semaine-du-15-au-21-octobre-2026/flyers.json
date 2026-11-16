@@ -1,0 +1,923 @@
+{
+  "flyers": [
+    {
+      "id": "8180961",
+      "storeId": "iga-montreal",
+      "storeName": "IGA",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8180961",
+      "cover": "https://f.wishabi.net/flyers/8180961/web_premium/1791820504.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/7ff3c5f5-6d94-4f56-9b13-67dbb73ccda8/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4605837738451,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1843,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 1843,
+          "right": 3686,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 3686,
+          "right": 5734,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 5734,
+          "right": 9830,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 9830,
+          "right": 11878,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 11878,
+          "right": 13926,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 13926,
+          "right": 15974,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 15974,
+          "right": 18022,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 18022,
+          "right": 22118,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 22118,
+          "right": 24166,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        },
+        {
+          "left": 24166,
+          "right": 26214,
+          "top": 0,
+          "bottom": -4096,
+          "page": 11
+        },
+        {
+          "left": 26214,
+          "right": 28262,
+          "top": 0,
+          "bottom": -4096,
+          "page": 12
+        },
+        {
+          "left": 28262,
+          "right": 30310,
+          "top": 0,
+          "bottom": -4096,
+          "page": 13
+        },
+        {
+          "left": 30310,
+          "right": 32358,
+          "top": 0,
+          "bottom": -4096,
+          "page": 14
+        },
+        {
+          "left": 32358,
+          "right": 34406,
+          "top": 0,
+          "bottom": -4096,
+          "page": 15
+        },
+        {
+          "left": 34406,
+          "right": 36454,
+          "top": 0,
+          "bottom": -4096,
+          "page": 16
+        },
+        {
+          "left": 36454,
+          "right": 38502,
+          "top": 0,
+          "bottom": -4096,
+          "page": 17
+        },
+        {
+          "left": 38502,
+          "right": 40550,
+          "top": 0,
+          "bottom": -4096,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "8182251",
+      "storeId": "superc-montreal",
+      "storeName": "Super C",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8182251",
+      "cover": "https://f.wishabi.net/flyers/8182251/web_premium/1791936940.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/3a523d2b-df19-4fb6-9fe0-ca07cbfc5a87/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.78708375378403,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5760,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 8064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 8064,
+          "right": 9216,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 9216,
+          "right": 10368,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 10368,
+          "right": 11520,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 11520,
+          "right": 12672,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 12672,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 13824,
+          "right": 14976,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 14976,
+          "right": 17280,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 17280,
+          "right": 18432,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 18432,
+          "right": 19584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 19584,
+          "right": 20736,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 20736,
+          "right": 21888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 21888,
+          "right": 23040,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "8184296",
+      "storeId": "familiprix-montreal",
+      "storeName": "Familiprix",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8184296",
+      "cover": "https://f.wishabi.net/flyers/8184296/web_organic/1791585761.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/6fe8cd4d-1797-4522-a4c8-a21190385ad2/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.77558804831534,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1219,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1219,
+          "right": 2438,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2438,
+          "right": 3657,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3657,
+          "right": 4876,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4876,
+          "right": 6095,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 6095,
+          "right": 7314,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "8182389",
+      "storeId": "intermarche-montreal",
+      "storeName": "L'Inter-Marché",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8182389",
+      "cover": "https://f.wishabi.net/flyers/8182389/web_organic/1791810047.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/0721d1ff-4557-4b5d-bd5a-e67652c64bfb/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.415770609319,
+      "pages": [
+        {
+          "left": 0,
+          "right": 780,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 780,
+          "right": 1560,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 1560,
+          "right": 3120,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 3120,
+          "right": 4680,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 4680,
+          "right": 6240,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 6240,
+          "right": 7800,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "8181580",
+      "storeId": "metro-montreal",
+      "storeName": "Metro",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8181580",
+      "cover": "https://f.wishabi.net/flyers/8181580/web_premium/1791998835.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/45c6456c-073a-41f1-88f7-9b83eddef3c8/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.7992171732616,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5760,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 6912,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 6912,
+          "right": 8064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8064,
+          "right": 9216,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9216,
+          "right": 10368,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 10368,
+          "right": 11520,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 11520,
+          "right": 12672,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 12672,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 13824,
+          "right": 14976,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 14976,
+          "right": 17280,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 17280,
+          "right": 18432,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 18432,
+          "right": 19584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 19584,
+          "right": 20736,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 20736,
+          "right": 21888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 21888,
+          "right": 23040,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        },
+        {
+          "left": 23040,
+          "right": 24192,
+          "top": 0,
+          "bottom": -2560,
+          "page": 20
+        },
+        {
+          "left": 24192,
+          "right": 25344,
+          "top": 0,
+          "bottom": -2560,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "8187150",
+      "storeId": "costco-montreal",
+      "storeName": "Costco",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8187150",
+      "cover": "https://f.wishabi.net/flyers/8187150/web_organic/1791916100.jpg",
+      "startsAt": "2026-10-12T00:00:00-04:00",
+      "endsAt": "2026-10-18T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/77766d2e-dd74-4f00-87a2-a9e106b02450/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4306870059013,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1811,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 1811,
+          "right": 3622,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 3622,
+          "right": 5433,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 5433,
+          "right": 7244,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 7244,
+          "right": 9055,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 9055,
+          "right": 10866,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 10866,
+          "right": 12677,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 12677,
+          "right": 14488,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 14488,
+          "right": 16299,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 16299,
+          "right": 20924,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "8179409",
+      "storeId": "bonichoix-montreal",
+      "storeName": "BoniChoix",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8179409",
+      "cover": "https://f.wishabi.net/flyers/8179409/web_organic/1791329064.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/20298ad3-61fe-4c0a-8623-eff21ed36e65/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.75068794716566,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5888,
+          "right": 7168,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 7168,
+          "right": 8448,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "8182228",
+      "storeId": "tradition-montreal",
+      "storeName": "Marchés Tradition",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8182228",
+      "cover": "https://f.wishabi.net/flyers/8182228/web_organic/1791469308.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/ce5feec1-69ff-431e-bff6-dc8481fb056b/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.78708375378403,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5888,
+          "right": 7168,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 7168,
+          "right": 8448,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8448,
+          "right": 9728,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9728,
+          "right": 12288,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "8181330",
+      "storeId": "maxi-montreal",
+      "storeName": "Maxi",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8181330",
+      "cover": "https://f.wishabi.net/flyers/8181330/web_organic/1792007591.jpg",
+      "startsAt": "2026-10-15T00:00:00-04:00",
+      "endsAt": "2026-10-21T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/819e3479-16c8-4304-a4a7-27d0b7dd7472/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4607570935193,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1843,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 1843,
+          "right": 3686,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 3686,
+          "right": 5734,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 5734,
+          "right": 7782,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 7782,
+          "right": 9830,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 9830,
+          "right": 11878,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 11878,
+          "right": 13926,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 13926,
+          "right": 15974,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 15974,
+          "right": 18022,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 18022,
+          "right": 20070,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        },
+        {
+          "left": 20070,
+          "right": 22118,
+          "top": 0,
+          "bottom": -4096,
+          "page": 11
+        },
+        {
+          "left": 22118,
+          "right": 24166,
+          "top": 0,
+          "bottom": -4096,
+          "page": 12
+        },
+        {
+          "left": 24166,
+          "right": 26214,
+          "top": 0,
+          "bottom": -4096,
+          "page": 13
+        },
+        {
+          "left": 26214,
+          "right": 28262,
+          "top": 0,
+          "bottom": -4096,
+          "page": 14
+        },
+        {
+          "left": 28262,
+          "right": 30310,
+          "top": 0,
+          "bottom": -4096,
+          "page": 15
+        },
+        {
+          "left": 30310,
+          "right": 32358,
+          "top": 0,
+          "bottom": -4096,
+          "page": 16
+        },
+        {
+          "left": 32358,
+          "right": 34406,
+          "top": 0,
+          "bottom": -4096,
+          "page": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "flyers": [
+    {
+      "id": "8210355",
+      "storeId": "bonichoix-joliette",
+      "storeName": "BoniChoix",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8210355",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/438946935/1793145761/extra_large.jpg",
+        "https://f.wishabi.net/page_items/438946884/1793145753/extra_large.jpg",
+        "https://f.wishabi.net/page_items/438946891/1793145758/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8210355/web_organic/1793125315.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/89bf5f8e-c755-4ef0-b6f2-d249532749f9/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.7449418512028,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5888,
+          "right": 8448,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 8448,
+          "right": 9728,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "8216471",
+      "storeId": "costco-quebec",
+      "storeName": "Costco",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8216471",
+      "startsAt": "2026-10-26T00:00:00-04:00",
+      "endsAt": "2026-11-22T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439395688/1793665661/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439395694/1793665660/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439395768/1793665666/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8216471/web_organic/1793739721.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/bb3242d7-29be-416d-97ba-e79a32c2921d/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.7900337399429,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1493,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1493,
+          "right": 2986,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2986,
+          "right": 4479,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 4479,
+          "right": 5972,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 5972,
+          "right": 7465,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 7465,
+          "right": 8958,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 8958,
+          "right": 10451,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 10451,
+          "right": 11944,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 11944,
+          "right": 13437,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 13437,
+          "right": 14930,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 14930,
+          "right": 16423,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 16423,
+          "right": 17916,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 17916,
+          "right": 19409,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 19409,
+          "right": 20902,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 20902,
+          "right": 22395,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 22395,
+          "right": 23888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 23888,
+          "right": 25381,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 25381,
+          "right": 26874,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 26874,
+          "right": 28367,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        },
+        {
+          "left": 28367,
+          "right": 29860,
+          "top": 0,
+          "bottom": -2560,
+          "page": 20
+        },
+        {
+          "left": 29860,
+          "right": 31353,
+          "top": 0,
+          "bottom": -2560,
+          "page": 21
+        },
+        {
+          "left": 31353,
+          "right": 32846,
+          "top": 0,
+          "bottom": -2560,
+          "page": 22
+        },
+        {
+          "left": 32846,
+          "right": 34339,
+          "top": 0,
+          "bottom": -2560,
+          "page": 23
+        },
+        {
+          "left": 34339,
+          "right": 35832,
+          "top": 0,
+          "bottom": -2560,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "8215033",
+      "storeId": "familiprix-joliette",
+      "storeName": "Familiprix",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8215033",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/438937662/1793165939/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439010454/1793165951/extra_large.jpg",
+        "https://f.wishabi.net/page_items/438937644/1793165929/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8215033/web_organic/1793399732.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/e8fab8e3-1b55-4190-a74d-df1e2eb812b8/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.77558804831534,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1219,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1219,
+          "right": 2438,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2438,
+          "right": 3657,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3657,
+          "right": 4876,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4876,
+          "right": 6095,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 6095,
+          "right": 7314,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 7314,
+          "right": 8533,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8533,
+          "right": 9752,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9752,
+          "right": 10971,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 10971,
+          "right": 12190,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "8216448",
+      "storeId": "iga-joliette",
+      "storeName": "IGA",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8216448",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439180528/1793419386/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439180537/1793419392/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439180543/1793419396/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8216448/web_premium/1793645339.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/218f2f48-555c-4d66-8c31-39fd4bcbb8da/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.79075709603956,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3584,
+          "right": 4864,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4864,
+          "right": 7424,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 7424,
+          "right": 8704,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 8704,
+          "right": 9984,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 9984,
+          "right": 11264,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 11264,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 13824,
+          "right": 15104,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 15104,
+          "right": 16384,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 16384,
+          "right": 17664,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 17664,
+          "right": 18944,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 18944,
+          "right": 20224,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 20224,
+          "right": 21504,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 21504,
+          "right": 22784,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 22784,
+          "right": 24064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 24064,
+          "right": 26624,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 26624,
+          "right": 27904,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "8213353",
+      "storeId": "intermarche-joliette",
+      "storeName": "L'Inter-Marché",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8213353",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439189703/1793317361/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439189596/1793317360/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439189598/1793317362/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8213353/web_organic/1793622116.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/3a905c46-1bf2-4650-97ff-e953cc365097/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4553601062064,
+      "pages": [
+        {
+          "left": 0,
+          "right": 780,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 780,
+          "right": 1560,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 1560,
+          "right": 3120,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 3120,
+          "right": 4680,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 4680,
+          "right": 6240,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 6240,
+          "right": 7800,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 7800,
+          "right": 9360,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 9360,
+          "right": 10920,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 10920,
+          "right": 12480,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 12480,
+          "right": 14040,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "8213703",
+      "storeId": "tradition-joliette",
+      "storeName": "Marchés Tradition",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8213703",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/438982913/1793188674/extra_large.jpg",
+        "https://f.wishabi.net/page_items/438983014/1793188674/extra_large.jpg",
+        "https://f.wishabi.net/page_items/438983021/1793188679/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8213703/web_organic/1793316836.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/90e559c5-fa66-4890-9294-f6a2f9c3d495/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.79639538158267,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5888,
+          "right": 7168,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 7168,
+          "right": 8448,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8448,
+          "right": 9728,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9728,
+          "right": 11008,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "8213411",
+      "storeId": "maxi-joliette",
+      "storeName": "Maxi",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8213411",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439271342/1793393200/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439271265/1793393183/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439271687/1793393199/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8213411/web_organic/1793729159.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/2ca2006d-3043-4d2d-942f-3091bda85fe0/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4606354009077,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1843,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 1843,
+          "right": 3686,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 3686,
+          "right": 5734,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 5734,
+          "right": 7782,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 7782,
+          "right": 9830,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 9830,
+          "right": 11878,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 11878,
+          "right": 13926,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 13926,
+          "right": 15974,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 15974,
+          "right": 18022,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 18022,
+          "right": 20070,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        },
+        {
+          "left": 20070,
+          "right": 22118,
+          "top": 0,
+          "bottom": -4096,
+          "page": 11
+        },
+        {
+          "left": 22118,
+          "right": 24166,
+          "top": 0,
+          "bottom": -4096,
+          "page": 12
+        },
+        {
+          "left": 24166,
+          "right": 26214,
+          "top": 0,
+          "bottom": -4096,
+          "page": 13
+        },
+        {
+          "left": 26214,
+          "right": 28262,
+          "top": 0,
+          "bottom": -4096,
+          "page": 14
+        },
+        {
+          "left": 28262,
+          "right": 30310,
+          "top": 0,
+          "bottom": -4096,
+          "page": 15
+        },
+        {
+          "left": 30310,
+          "right": 32358,
+          "top": 0,
+          "bottom": -4096,
+          "page": 16
+        },
+        {
+          "left": 32358,
+          "right": 34406,
+          "top": 0,
+          "bottom": -4096,
+          "page": 17
+        },
+        {
+          "left": 34406,
+          "right": 36454,
+          "top": 0,
+          "bottom": -4096,
+          "page": 18
+        },
+        {
+          "left": 36454,
+          "right": 38502,
+          "top": 0,
+          "bottom": -4096,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "8215593",
+      "storeId": "metro-joliette",
+      "storeName": "Metro",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8215593",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439343814/1793652012/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439343874/1793579140/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439343908/1793652146/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8215593/web_premium/1793729257.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/b0a8c304-3eb5-4f1d-bc4e-a56e3497728e/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.78708375378403,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5760,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 6912,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 6912,
+          "right": 8064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8064,
+          "right": 9216,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9216,
+          "right": 10368,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 10368,
+          "right": 11520,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 11520,
+          "right": 12672,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 12672,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 13824,
+          "right": 14976,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 14976,
+          "right": 16128,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 16128,
+          "right": 17280,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 17280,
+          "right": 18432,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 18432,
+          "right": 19584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 19584,
+          "right": 20736,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 20736,
+          "right": 21888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        },
+        {
+          "left": 21888,
+          "right": 23040,
+          "top": 0,
+          "bottom": -2560,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "8212287",
+      "storeId": "superc-joliette",
+      "storeName": "Super C",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8212287",
+      "startsAt": "2026-11-05T00:00:00-05:00",
+      "endsAt": "2026-11-11T23:59:59-05:00",
+      "images": [
+        "https://f.wishabi.net/page_items/439109764/1793248341/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439109542/1793248337/extra_large.jpg",
+        "https://f.wishabi.net/page_items/439109757/1793248335/extra_large.jpg"
+      ],
+      "cover": "https://f.wishabi.net/flyers/8212287/web_organic/1793657345.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/e817cbd3-6a55-4782-9f87-c19d354ac362/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.7896579585241,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5760,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 6912,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 6912,
+          "right": 8064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8064,
+          "right": 9216,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9216,
+          "right": 10368,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 10368,
+          "right": 11520,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 11520,
+          "right": 12672,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 12672,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 13824,
+          "right": 14976,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 14976,
+          "right": 16128,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 16128,
+          "right": 17280,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 17280,
+          "right": 18432,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 18432,
+          "right": 19584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 19584,
+          "right": 20736,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 20736,
+          "right": 21888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        },
+        {
+          "left": 21888,
+          "right": 23020,
+          "top": 0,
+          "bottom": -2560,
+          "page": 20
+        }
+      ]
+    }
+  ]
+}
