@@ -241,7 +241,7 @@ Déclencheurs:
 
 - automatique sur chaque push vers `main`
 - automatique le jeudi vers `12:00 UTC`, soit 7 h l'hiver et 8 h l'été à Joliette. Si la semaine est déjà dans Git, le run réutilise les données validées. Sinon, il génère les fichiers, les valide, les pousse, puis déploie dans le même run.
-- manuel sur `main` avec `Actions > Weekly grocery update > Run workflow`. Ce bouton relance la collecte.
+- manuel avec `Actions > Weekly grocery update > Run workflow`. Sur `main`, ce bouton relance la collecte. Choisir une autre branche lance uniquement la validation.
 
 Secrets GitHub requis:
 
