@@ -227,6 +227,8 @@ export async function main() {
   await refreshRegions();
   buildOfferEvidence(basename(weeklyPackDir));
 
+  if (process.env.GITHUB_ACTIONS === 'true') return;
+
   // Step 3: Export weekly pack into Obsidian
   console.log('🗂️ Export vers Obsidian...');
   try {

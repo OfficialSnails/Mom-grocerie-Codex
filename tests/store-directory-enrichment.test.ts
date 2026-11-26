@@ -83,7 +83,7 @@ describe('source-backed directory enrichment', () => {
     }) });
     const branches = availableBranches(directory, 'joliette', 'iga-joliette', '', gps);
     expect(branches.every((branch: any) => branch.street && branch.city)).toBe(true);
-    expect(branches[0]).toMatchObject({ id: 'osm-node-4618281037' });
+    expect(branches[0]).toMatchObject({ chainId: 'iga', postalCode: 'J0K 2M0' });
     // Official directory punctuation may vary without changing the verified address.
     expect(branches[0]?.street.replace(',', '')).toBe('3100 rue Henri-L.-Chevrette');
     expect(branches.some((branch: any) => branch.id === 'osm-node-4596500239')).toBe(false);

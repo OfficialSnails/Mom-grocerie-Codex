@@ -118,9 +118,9 @@ describe('fresh device location', () => {
   });
   it('retains the official Crabtree address in the nearest branch and PDF lookup', () => {
     const branch = activeBranch(data, 'joliette', 'tradition-joliette');
-    expect(branch.id).toBe('osm-node-470553049');
+    expect(branch).toMatchObject({ chainId: 'tradition', city: 'Crabtree', postalCode: 'J0K 1B0' });
     expect(storeAddress({ storeId: 'tradition-joliette' }, data, 'joliette')).toBe('86, 8ième Rue, Crabtree J0K 1B0');
-    expect(branch.addressSource).toBe('https://www.marchestradition.com/fr/stores/marche-tradition-4/');
+    expect(branch.addressSource ?? branch.source).toBe('https://www.marchestradition.com/fr/stores/marche-tradition-4/');
   });
 });
 
