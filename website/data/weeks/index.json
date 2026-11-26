@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-12T17:00:00.000Z",
+  "generatedAt": "2026-11-26T15:29:12.650Z",
   "weeks": [
+    {
+      "slug": "semaine-du-26-novembre-au-2-decembre-2026",
+      "folderName": "Semaine du 26 novembre au 2 décembre 2026",
+      "title": "Liste d'épicerie — 26 novembre au 2 décembre 2026",
+      "weekRange": "26 novembre au 2 décembre 2026",
+      "generatedAt": "2026-11-26T15:29:12.650Z",
+      "itemCount": 95,
+      "allItemCount": 1502,
+      "path": "data/weeks/semaine-du-26-novembre-au-2-decembre-2026/week.json"
+    },
     {
       "slug": "semaine-du-12-au-18-novembre-2026",
       "folderName": "Semaine du 12 au 18 novembre 2026",
@@ -10,16 +20,6 @@
       "itemCount": 88,
       "allItemCount": 1465,
       "path": "data/weeks/semaine-du-12-au-18-novembre-2026/week.json"
-    },
-    {
-      "slug": "semaine-du-5-au-11-novembre-2026",
-      "folderName": "Semaine du 5 au 11 novembre 2026",
-      "title": "Liste d'épicerie — 5 au 11 novembre 2026",
-      "weekRange": "5 au 11 novembre 2026",
-      "generatedAt": "2026-11-05T17:00:00.000Z",
-      "itemCount": 83,
-      "allItemCount": 1572,
-      "path": "data/weeks/semaine-du-5-au-11-novembre-2026/week.json"
     }
   ]
 }
