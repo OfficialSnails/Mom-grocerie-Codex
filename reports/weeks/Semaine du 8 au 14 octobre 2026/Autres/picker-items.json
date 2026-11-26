@@ -4,7 +4,7 @@
     "item_name": "Bananes",
     "store_id": "superc-joliette",
     "store_name": "Super C",
-    "price": "0,79 $",
+    "price": "0,79 $/lb",
     "category": "Fruits et légumes"
   },
   {
@@ -12,7 +12,7 @@
     "item_name": "POMMES CORTLAND",
     "store_id": "iga-joliette",
     "store_name": "IGA",
-    "price": "0,99 $",
+    "price": "0,99 $/lb",
     "category": "Fruits et légumes"
   },
   {
@@ -28,7 +28,7 @@
     "item_name": "Artichaut patates douces",
     "store_id": "superc-joliette",
     "store_name": "Super C",
-    "price": "1,49 $",
+    "price": "1,49 $/lb",
     "category": "Fruits et légumes"
   },
   {
@@ -76,7 +76,7 @@
     "item_name": "Clémentines",
     "store_id": "superc-joliette",
     "store_name": "Super C",
-    "price": "1,99 $",
+    "price": "1,99 $/lb",
     "category": "Fruits et légumes"
   },
   {
@@ -172,7 +172,7 @@
     "item_name": "Boeuf haché mi-maigre",
     "store_id": "superc-joliette",
     "store_name": "Super C",
-    "price": "4,97 $",
+    "price": "4,97 $/lb",
     "category": "Viandes et poissons"
   },
   {
@@ -212,7 +212,7 @@
     "item_name": "PORC HACHÉ MAIGRE",
     "store_id": "metro-joliette",
     "store_name": "Metro",
-    "price": "2,22 $",
+    "price": "2,22 $/lb",
     "category": "Viandes et poissons"
   },
   {
@@ -300,7 +300,7 @@
     "item_name": "Jeune dindon Butterball",
     "store_id": "superc-joliette",
     "store_name": "Super C",
-    "price": "2,99 $",
+    "price": "2,99 $/lb",
     "category": "Garde-manger et autres"
   },
   {
@@ -388,7 +388,7 @@
     "item_name": "ORANGES",
     "store_id": "intermarche-joliette",
     "store_name": "L'Inter-Marché",
-    "price": "1,79 $",
+    "price": "1,79 $/lb",
     "category": "Garde-manger et autres"
   },
   {
@@ -424,14 +424,6 @@
     "category": "Garde-manger et autres"
   },
   {
-    "id": "2026-10-08::metro-joliette::huile d'olive extra vierge",
-    "item_name": "HUILE D'OLIVE EXTRA VIERGE",
-    "store_id": "metro-joliette",
-    "store_name": "Metro",
-    "price": "8,99 $",
-    "category": "Garde-manger et autres"
-  },
-  {
     "id": "2026-10-08::familiprix-joliette::l'oreal paris superior preference, coloration permanente",
     "item_name": "L'ORÉAL PARIS Superior Preference, Coloration permanente",
     "store_id": "familiprix-joliette",
@@ -445,6 +437,14 @@
     "store_id": "maxi-joliette",
     "store_name": "Maxi",
     "price": "2,00 $",
+    "category": "Garde-manger et autres"
+  },
+  {
+    "id": "2026-10-08::metro-joliette::soupe prete-a-servir habitant",
+    "item_name": "SOUPE PRÊTE-À-SERVIR HABITANT",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "1,99 $",
     "category": "Garde-manger et autres"
   },
   {
@@ -564,7 +564,7 @@
     "item_name": "JEUNE DINDON SURGELÉ EXCELDOR",
     "store_id": "iga-joliette",
     "store_name": "IGA",
-    "price": "2,49 $",
+    "price": "2,49 $/lb",
     "category": "Surgelés"
   },
   {
@@ -581,6 +581,14 @@
     "store_id": "bonichoix-joliette",
     "store_name": "BoniChoix",
     "price": "3,99 $",
+    "category": "Surgelés"
+  },
+  {
+    "id": "2026-10-08::metro-joliette::natrel mochi a la creme glacee",
+    "item_name": "NATREL MOCHI À LA CRÈME GLACÉE",
+    "store_id": "metro-joliette",
+    "store_name": "Metro",
+    "price": "4,49 $",
     "category": "Surgelés"
   },
   {
@@ -728,8 +736,8 @@
     "category": "Collations et boissons"
   },
   {
-    "id": "2026-10-08::costco-quebec::godiva masterpiece - assortiment de chocolats,",
-    "item_name": "Godiva Masterpiece - Assortiment de chocolats, 421 g",
+    "id": "2026-10-08::costco-quebec::godiva masterpiece chocolate assortment,",
+    "item_name": "Godiva Masterpiece Chocolate Assortment, 421 g",
     "store_id": "costco-quebec",
     "store_name": "Costco",
     "price": "16,99 $",

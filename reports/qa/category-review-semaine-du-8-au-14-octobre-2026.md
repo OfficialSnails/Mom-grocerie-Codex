@@ -2,7 +2,7 @@
 
 ## Summary
 
-- products scanned: 1550
+- products scanned: 1533
 - high-confidence errors: 0
 - ambiguous review items: 9
 - category with most suspicious items: Surgelés

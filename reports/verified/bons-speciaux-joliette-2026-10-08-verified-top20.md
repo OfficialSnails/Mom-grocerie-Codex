@@ -61,19 +61,19 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436191279/1790831093/extra_large.jpg" alt="Preuve prix MÉLANGE À SAUCE ST-HUBERT" width="220" />
 > Texte source: MÉLANGE À SAUCE ST-HUBERT | ST-HUBERT SAUCE MIX
 
-**9.** 🟢 **THÉ GLACÉ FUZE** — 4,49 $
-> *Environ 34 % moins cher que le prix habituel.*
-> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
-> Texte source: THÉ GLACÉ FUZE | FUZE ICED TEA
-
-**10.** 🟢 **BLEUETS** — 2,44 $
+**9.** 🟢 **BLEUETS** — 2,44 $
 > *Environ 37 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191271/1791211269/extra_large.jpg" alt="Preuve prix BLEUETS" width="220" />
 > Texte source: BLEUETS | BLUEBERRIES
+
+**10.** 🟢 **THÉ GLACÉ FUZE** — 4,49 $
+> *Environ 34 % moins cher que le prix habituel.*
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
+> Texte source: THÉ GLACÉ FUZE | FUZE ICED TEA
 
 **11.** 🔵 **HUÎTRES MALPÈQUE STANDARD** — 6,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -87,7 +87,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436189450/1790831097/extra_large.jpg" alt="Preuve prix BONBONS MAYNARDS" width="220" />
 > Texte source: BONBONS MAYNARDS | MAYNARDS CANDIES
 
-**13.** 🔵 **PORC HACHÉ MAIGRE** — 2,22 $
+**13.** 🔵 **PORC HACHÉ MAIGRE** — 2,22 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191274/1791211271/extra_large.jpg" alt="Preuve prix PORC HACHÉ MAIGRE" width="220" />
@@ -118,17 +118,16 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436189454/1790831099/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE CANADA DRY" width="220" />
 > Texte source: BOISSON GAZEUSE CANADA DRY | SOFT DRINK
 
-**18.** ❓ **HUILE D'OLIVE EXTRA VIERGE** — 8,99 $
-> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436191253/1791211426/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE" width="220" />
-> Texte source: HUILE D'OLIVE EXTRA VIERGE | EXTRA VIRGIN OLIVE OIL
-
-**19.** ❓ **ORANGES NAVEL OU PAMPLEMOUSSES ROSES** — 3,99 $
+**18.** ❓ **ORANGES NAVEL OU PAMPLEMOUSSES ROSES** — 3,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436189009/1790831095/extra_large.jpg" alt="Preuve prix ORANGES NAVEL OU PAMPLEMOUSSES ROSES" width="220" />
 > Texte source: ORANGES NAVEL OU PAMPLEMOUSSES ROSES | NAVEL ORANGES OR PINK GRAPEFRUITS
+
+**19.** ❓ **NATREL MOCHI À LA CRÈME GLACÉE** — 4,49 $
+> Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/436189478/1790831099/extra_large.jpg" alt="Preuve prix NATREL MOCHI À LA CRÈME GLACÉE" width="220" />
 
 **20.** ❓ **SOUPE PRÊTE-À-SERVIR HABITANT** — 1,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
@@ -225,13 +224,13 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 ## IGA
 📍 17 rue Gauthier N, Notre-Dame-des-Prairies
 
-**1.** ✅ **POMMES SPARTAN** — 0,99 $
+**1.** ✅ **POMMES SPARTAN** — 0,99 $/lb
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436333400/1790932031/extra_large.jpg" alt="Preuve prix POMMES SPARTAN" width="220" />
 
-**2.** ✅ **POMMES EMPIRE OU McINTOSH** — 0,99 $
+**2.** ✅ **POMMES EMPIRE OU McINTOSH** — 0,99 $/lb
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -243,7 +242,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436336469/1790932026/extra_large.jpg" alt="Preuve prix POMMES EN VRAC" width="220" />
 
-**4.** ✅ **POMMES CORTLAND** — 0,99 $
+**4.** ✅ **POMMES CORTLAND** — 0,99 $/lb
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -319,7 +318,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436319223/1790932034/extra_large.jpg" alt="Preuve prix VIANDE DE PORC FUMÉE FUMOIRS GOSSELIN" width="220" />
 
-**18.** ❓ **JEUNE DINDON SURGELÉ EXCELDOR** — 2,49 $
+**18.** ❓ **JEUNE DINDON SURGELÉ EXCELDOR** — 2,49 $/lb
 > 🏆 Choix gagnant: moins cher que Marchés Tradition 2,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -353,7 +352,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436072733/1790864147/extra_large.jpg" alt="Preuve prix Jus Selection" width="220" />
 > Texte source: jus Selection | Selection juice
 
-**3.** ✅ **Bananes** — 0,79 $
+**3.** ✅ **Bananes** — 0,79 $/lb
 > *Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -368,14 +367,14 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436072489/1790863635/extra_large.jpg" alt="Preuve prix Croustilles Lay's" width="220" />
 > Texte source: croustilles Lay's
 
-**5.** ✅ **Jeune dindon Butterball** — 2,99 $
+**5.** ✅ **Jeune dindon Butterball** — 2,99 $/lb
 > *Très bon prix par rapport au prix habituel — pratique à garder en réserve.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436072663/1790803394/extra_large.jpg" alt="Preuve prix Jeune dindon Butterball" width="220" />
 > Texte source: jeune dindon Butterball | Butterball turkey
 
-**6.** ✅ **Boeuf haché mi-maigre** — 4,97 $
+**6.** ✅ **Boeuf haché mi-maigre** — 4,97 $/lb
 > *Très bon prix, proche du meilleur prix des 6 derniers mois.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -389,7 +388,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436072715/1790803395/extra_large.jpg" alt="Preuve prix Beurre d'arachide Selection" width="220" />
 > Texte source: beurre d'arachide Selection | Selection peanut butter
 
-**8.** 🟢 **Artichaut patates douces** — 1,49 $
+**8.** 🟢 **Artichaut patates douces** — 1,49 $/lb
 > *Environ 53 % moins cher que le prix habituel.*
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
@@ -447,7 +446,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436072722/1790864139/extra_large.jpg" alt="Preuve prix Mélange de la mer Irrésistible" width="220" />
 > Texte source: mélange de la mer Irrésistible | Irrésistible seafood medley
 
-**16.** 🔵 **Clémentines** — 1,99 $
+**16.** 🔵 **Clémentines** — 1,99 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436265009/1790897773/extra_large.jpg" alt="Preuve prix Clémentines" width="220" />
@@ -531,7 +530,7 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 <img src="https://f.wishabi.net/page_items/436264919/1790919892/extra_large.jpg" alt="Preuve prix CONCOMBRES ANGLAIS" width="220" />
 > Texte source: CONCOMBRES ANGLAIS | ENGLISH CUCUMBERS
 
-**2.** 🔵 **ORANGES** — 1,79 $
+**2.** 🔵 **ORANGES** — 1,79 $/lb
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436264915/1790919890/extra_large.jpg" alt="Preuve prix ORANGES" width="220" />
@@ -665,10 +664,10 @@ Prix en CAD. Cette liste finale ne garde que les produits alimentaires avec preu
 
 ## Costco
 
-**1.** ❓ **Godiva Masterpiece - Assortiment de chocolats, 421 g** — 16,99 $
+**1.** ❓ **Godiva Masterpiece Chocolate Assortment, 421 g** — 16,99 $
 > Vérification: VERIFIED_FLYER_STRUCTURED · Item alimentaire de circulaire Flipp avec nom brut, prix brut et lien source concordants.
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg" alt="Preuve prix Godiva Masterpiece - Assortiment de chocolats, 421 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg" alt="Preuve prix Godiva Masterpiece Chocolate Assortment, 421 g" width="220" />
 
 ---
 📊 107 produits retenus pour achat réel

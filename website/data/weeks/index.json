@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-22T16:28:10.203Z",
+  "generatedAt": "2026-11-26T15:29:12.650Z",
   "weeks": [
     {
-      "slug": "semaine-du-22-au-28-octobre-2026",
-      "folderName": "Semaine du 22 au 28 octobre 2026",
-      "title": "Liste d'épicerie — 22 au 28 octobre 2026",
-      "weekRange": "22 au 28 octobre 2026",
-      "generatedAt": "2026-10-22T16:28:10.203Z",
-      "itemCount": 82,
-      "allItemCount": 1369,
-      "path": "data/weeks/semaine-du-22-au-28-octobre-2026/week.json"
+      "slug": "semaine-du-26-novembre-au-2-decembre-2026",
+      "folderName": "Semaine du 26 novembre au 2 décembre 2026",
+      "title": "Liste d'épicerie — 26 novembre au 2 décembre 2026",
+      "weekRange": "26 novembre au 2 décembre 2026",
+      "generatedAt": "2026-11-26T15:29:12.650Z",
+      "itemCount": 95,
+      "allItemCount": 1502,
+      "path": "data/weeks/semaine-du-26-novembre-au-2-decembre-2026/week.json"
     },
     {
-      "slug": "semaine-du-8-au-14-octobre-2026",
-      "folderName": "Semaine du 8 au 14 octobre 2026",
-      "title": "Liste d'épicerie — 8 au 14 octobre 2026",
-      "weekRange": "8 au 14 octobre 2026",
-      "generatedAt": "2026-10-08T18:20:12.878Z",
-      "itemCount": 92,
-      "allItemCount": 1550,
-      "path": "data/weeks/semaine-du-8-au-14-octobre-2026/week.json"
+      "slug": "semaine-du-12-au-18-novembre-2026",
+      "folderName": "Semaine du 12 au 18 novembre 2026",
+      "title": "Liste d'épicerie — 12 au 18 novembre 2026",
+      "weekRange": "12 au 18 novembre 2026",
+      "generatedAt": "2026-11-12T17:00:00.000Z",
+      "itemCount": 88,
+      "allItemCount": 1465,
+      "path": "data/weeks/semaine-du-12-au-18-novembre-2026/week.json"
     }
   ]
 }

@@ -54,17 +54,17 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191279/1790831093/extra_large.jpg" alt="Preuve prix MÉLANGE À SAUCE ST-HUBERT" width="220" />
 
-**9.** 🟢 **THÉ GLACÉ FUZE** — 4,49 $ · économie ~2,30 $
-> *Environ 34 % moins cher que le prix habituel.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: THÉ GLACÉ FUZE | FUZE ICED TEA · [circulaire: Quebec](https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
-
-**10.** 🟢 **BLEUETS** — 2,44 $ · économie ~1,44 $
+**9.** 🟢 **BLEUETS** — 2,44 $ · économie ~1,44 $
 > *Environ 37 % moins cher que le prix habituel.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: BLEUETS | BLUEBERRIES · [circulaire: Quebec](https://f.wishabi.net/page_items/436191271/1791211269/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191271/1791211269/extra_large.jpg" alt="Preuve prix BLEUETS" width="220" />
+
+**10.** 🟢 **THÉ GLACÉ FUZE** — 4,49 $ · économie ~2,30 $
+> *Environ 34 % moins cher que le prix habituel.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: THÉ GLACÉ FUZE | FUZE ICED TEA · [circulaire: Quebec](https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
 
 **11.** 🔵 **HUÎTRES MALPÈQUE STANDARD** — 6,99 $ · économie ~5,60 $
 > Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: HUÎTRES MALPÈQUE STANDARD | STANDARD MALPEQUE OYSTERS · [circulaire: Quebec](https://f.wishabi.net/page_items/436189006/1790831093/extra_large.jpg)
@@ -96,31 +96,31 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191276/1790831091/extra_large.jpg" alt="Preuve prix CROUSTILLES YUM YUM" width="220" />
 
-**17.** 🔵 **FILETS DE PORC FRAIS** — 5,99 $ · 22% de rabais
-> 🏆 Meilleur prix vs BoniChoix, Marchés Tradition · 1,00 $ moins cher
-> *Ce produit était moins cher récemment (3,77 $). Mieux d'attendre.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · [circulaire: Quebec](https://f.wishabi.net/page_items/436189194/1790831098/extra_large.jpg)
-📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436189194/1790831098/extra_large.jpg" alt="Preuve prix FILETS DE PORC FRAIS" width="220" />
-
-**18.** 🔵 **LAIT FINEMENT FILTRÉ NATREL** — 3,49 $ · économie ~5,66 $
+**17.** 🔵 **LAIT FINEMENT FILTRÉ NATREL** — 3,49 $ · économie ~5,66 $
 > 🏆 Meilleur prix vs Super C · 1,39 $ moins cher
 > *Ce produit était moins cher récemment (0,97 $). Mieux d'attendre.*
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: LAIT FINEMENT FILTRÉ NATREL | NATREL FINE-FILTERED MILK · [circulaire: Quebec](https://f.wishabi.net/page_items/436826191/1791433303/extra_large.jpg)
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: LAIT FINEMENT FILTRÉ NATREL | NATREL FINE-FILTERED MILK · [circulaire: Quebec](https://f.wishabi.net/page_items/436191177/1790831108/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436826191/1791433303/extra_large.jpg" alt="Preuve prix LAIT FINEMENT FILTRÉ NATREL" width="220" />
+<img src="https://f.wishabi.net/page_items/436191177/1790831108/extra_large.jpg" alt="Preuve prix LAIT FINEMENT FILTRÉ NATREL" width="220" />
 
-**19.** 🔵 **PATATES DOUCES** — 1,99 $ · économie ~1,16 $
+**18.** 🔵 **PATATES DOUCES** — 1,99 $ · économie ~1,16 $
 > 🏆 Meilleur prix vs Maxi · 1,29 $ moins cher
 > *Ce produit était moins cher récemment (1,79 $). Mieux d'attendre.*
 > Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: PATATES DOUCES | SWEET POTATOES · [circulaire: Quebec](https://f.wishabi.net/page_items/436191078/1791211286/extra_large.jpg)
 📸 Preuve du prix
 <img src="https://f.wishabi.net/page_items/436191078/1791211286/extra_large.jpg" alt="Preuve prix PATATES DOUCES" width="220" />
 
-**20.** ❓ **GILLY FROZEN DUMPLINGS** — 8,99 $ · 18% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · [circulaire: Quebec](https://f.wishabi.net/page_items/436191134/1790831094/extra_large.jpg)
+**19.** 🔵 **FILETS DE PORC FRAIS** — 5,99 $ · 22% de rabais
+> 🏆 Meilleur prix vs BoniChoix, Marchés Tradition · 1,00 $ moins cher
+> *Ce produit était moins cher récemment (3,77 $). Mieux d'attendre.*
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · [circulaire: Quebec](https://f.wishabi.net/page_items/436189194/1790831098/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436191134/1790831094/extra_large.jpg" alt="Preuve prix GILLY FROZEN DUMPLINGS" width="220" />
+<img src="https://f.wishabi.net/page_items/436189194/1790831098/extra_large.jpg" alt="Preuve prix FILETS DE PORC FRAIS" width="220" />
+
+**20.** ❓ **SAUCISSON SCHNEIDERS** — 9,99 $ · 13% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-08 au 2026-10-14 · texte brut: SAUCISSON SCHNEIDERS | SCHNEIDERS SAUSAGE · [circulaire: Quebec](https://f.wishabi.net/page_items/436191353/1791211403/extra_large.jpg)
+📸 Preuve du prix
+<img src="https://f.wishabi.net/page_items/436191353/1791211403/extra_large.jpg" alt="Preuve prix SAUCISSON SCHNEIDERS" width="220" />
 
 ## Maxi
 📍 909 boul. Firestone, Joliette
@@ -873,105 +873,105 @@ Prix en CAD. Chaque produit retenu ci-dessous a une source vérifiable liée à 
 
 ## Costco
 
-**1.** ❓ **Pepsi - Boisson gazeuse 355 mL paquet de 32** — 21,49 $ · 14% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765281/1791394277/extra_large.jpg)
+**1.** ❓ **Ocean's Solid White Albacore Tuna, 6 × 184 g** — 16,99 $ · 19% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533335/1791226390/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765281/1791394277/extra_large.jpg" alt="Preuve prix Pepsi - Boisson gazeuse 355 mL paquet de 32" width="220" />
+<img src="https://f.wishabi.net/page_items/436533335/1791226390/extra_large.jpg" alt="Preuve prix Ocean's Solid White Albacore Tuna, 6 × 184 g" width="220" />
 
-**2.** ❓ **Biscuits à l'arrow-root M. Christie, 1,4 kg** — 14,99 $ · 17% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765346/1791394282/extra_large.jpg)
+**2.** ❓ **Downy Unstopables Ocean Mist In-wash Scent Booster Beads, 1.13 kg** — 24,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533282/1791226385/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765346/1791394282/extra_large.jpg" alt="Preuve prix Biscuits à l'arrow-root M. Christie, 1,4 kg" width="220" />
+<img src="https://f.wishabi.net/page_items/436533282/1791226385/extra_large.jpg" alt="Preuve prix Downy Unstopables Ocean Mist In-wash Scent Booster Beads, 1.13 kg" width="220" />
 
-**3.** ❓ **Godiva Masterpiece - Assortiment de chocolats, 421 g** — 16,99 $ · 26% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg)
+**3.** ❓ **Simple Mills Almond Flour Crackers, 482 g** — 11,99 $ · 20% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533342/1791226386/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg" alt="Preuve prix Godiva Masterpiece - Assortiment de chocolats, 421 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533342/1791226386/extra_large.jpg" alt="Preuve prix Simple Mills Almond Flour Crackers, 482 g" width="220" />
 
-**4.** ❓ **Pepsi - Zéro Sucre 355 mL paquet de 32** — 21,49 $ · 14% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765301/1791394279/extra_large.jpg)
+**4.** ❓ **Pepsi 355 mL 32-pack** — 21,49 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533269/1791226385/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765301/1791394279/extra_large.jpg" alt="Preuve prix Pepsi - Zéro Sucre 355 mL paquet de 32" width="220" />
+<img src="https://f.wishabi.net/page_items/436533269/1791226385/extra_large.jpg" alt="Preuve prix Pepsi 355 mL 32-pack" width="220" />
 
-**5.** ❓ **Forest For Climate - Couverts 360 unités** — 18,99 $ · 17% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765255/1791394275/extra_large.jpg)
+**5.** ❓ **Amos Peelerz Halloween Spooky Party Mix, 1.02 kg** — 15,99 $ · 16% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533307/1791226386/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765255/1791394275/extra_large.jpg" alt="Preuve prix Forest For Climate - Couverts 360 unités" width="220" />
+<img src="https://f.wishabi.net/page_items/436533307/1791226386/extra_large.jpg" alt="Preuve prix Amos Peelerz Halloween Spooky Party Mix, 1.02 kg" width="220" />
 
-**6.** ❓ **Mars - Barres de friandises assorties, 1,2 kg** — 23,99 $ · 11% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765312/1791394280/extra_large.jpg)
+**6.** ❓ **Gain Liquid Laundry Detergent , 4.82 L** — 23,49 $ · 16% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533296/1791226387/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765312/1791394280/extra_large.jpg" alt="Preuve prix Mars - Barres de friandises assorties, 1,2 kg" width="220" />
+<img src="https://f.wishabi.net/page_items/436533296/1791226387/extra_large.jpg" alt="Preuve prix Gain Liquid Laundry Detergent , 4.82 L" width="220" />
 
-**7.** ❓ **Always - Infini Flexfoam serviettes, 80 unités** — 15,99 $ · 20% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765368/1791394278/extra_large.jpg)
+**7.** ❓ **Simply Protein Crispy Snack Bars, 16 × 40 g** — 18,99 $ · 21% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533347/1791226389/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765368/1791394278/extra_large.jpg" alt="Preuve prix Always - Infini Flexfoam serviettes, 80 unités" width="220" />
+<img src="https://f.wishabi.net/page_items/436533347/1791226389/extra_large.jpg" alt="Preuve prix Simply Protein Crispy Snack Bars, 16 × 40 g" width="220" />
 
-**8.** ❓ **Alani Nu boisson énergisante glace pilée Hawaïenne 355 mL paquet de 12** — 21,99 $ · 15% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765330/1791394281/extra_large.jpg)
+**8.** ❓ **Dr Pepper Zero, 355 mL 32-pack** — 21,49 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533283/1791226386/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765330/1791394281/extra_large.jpg" alt="Preuve prix Alani Nu boisson énergisante glace pilée Hawaïenne 355 mL paquet de 12" width="220" />
+<img src="https://f.wishabi.net/page_items/436533283/1791226386/extra_large.jpg" alt="Preuve prix Dr Pepper Zero, 355 mL 32-pack" width="220" />
 
-**9.** ❓ **Ruffles - Croustilles nature, 612 g** — 7,99 $ · 20% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765319/1791394281/extra_large.jpg)
+**9.** ❓ **Alcan Classic Plus Aluminum Foil Wrap, 3-pack** — 16,99 $ · 19% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533293/1791226385/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765319/1791394281/extra_large.jpg" alt="Preuve prix Ruffles - Croustilles nature, 612 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533293/1791226385/extra_large.jpg" alt="Preuve prix Alcan Classic Plus Aluminum Foil Wrap, 3-pack" width="220" />
 
-**10.** ❓ **Thon blanc entier Ocean's, 6 × 184 g** — 16,99 $ · 19% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765334/1791394283/extra_large.jpg)
+**10.** ❓ **Crush Rainbow Pack 355 mL 32-pack** — 21,49 $ · 14% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533270/1791226387/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765334/1791394283/extra_large.jpg" alt="Preuve prix Thon blanc entier Ocean's, 6 × 184 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533270/1791226387/extra_large.jpg" alt="Preuve prix Crush Rainbow Pack 355 mL 32-pack" width="220" />
 
-**11.** ❓ **Better Than Bouillon - Base de poulet rôti biologique - 597 g** — 12,99 $ · 19% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765283/1791394277/extra_large.jpg)
+**11.** ❓ **Alani Nu Energy Drink Orange Kiss 355 ml, 12-pack** — 21,99 $ · 15% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533339/1791226383/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765283/1791394277/extra_large.jpg" alt="Preuve prix Better Than Bouillon - Base de poulet rôti biologique - 597 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533339/1791226383/extra_large.jpg" alt="Preuve prix Alani Nu Energy Drink Orange Kiss 355 ml, 12-pack" width="220" />
 
-**12.** ❓ **Simply Campbell's bouillons de poulet sans sel ajouté, 6 x 946 ml** — 13,49 $ · 16% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765320/1791394280/extra_large.jpg)
+**12.** ❓ **Tetley Orange Pekoe Tea, 300-pack** — 12,99 $ · 19% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533305/1791226384/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765320/1791394280/extra_large.jpg" alt="Preuve prix Simply Campbell's bouillons de poulet sans sel ajouté, 6 x 946 ml" width="220" />
+<img src="https://f.wishabi.net/page_items/436533305/1791226384/extra_large.jpg" alt="Preuve prix Tetley Orange Pekoe Tea, 300-pack" width="220" />
 
-**13.** ❓ **Crush - Boisson gazeuse saveurs variétes 355 mL paquet de 32** — 21,49 $ · 14% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765291/1791394278/extra_large.jpg)
+**13.** ❓ **Downy Soft Liquid Fabric Softener April Fresh 4.35 L, 251 Loads** — 19,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533268/1791226384/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765291/1791394278/extra_large.jpg" alt="Preuve prix Crush - Boisson gazeuse saveurs variétes 355 mL paquet de 32" width="220" />
+<img src="https://f.wishabi.net/page_items/436533268/1791226384/extra_large.jpg" alt="Preuve prix Downy Soft Liquid Fabric Softener April Fresh 4.35 L, 251 Loads" width="220" />
 
-**14.** ❓ **Tetley - Thé orange pekoe, Paquet de 300** — 12,99 $ · 19% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765286/1791394278/extra_large.jpg)
+**14.** ❓ **Vita Coco, Pure Coconut Water, 12 × 330 mL** — 20,99 $ · 16% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533315/1791226383/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765286/1791394278/extra_large.jpg" alt="Preuve prix Tetley - Thé orange pekoe, Paquet de 300" width="220" />
+<img src="https://f.wishabi.net/page_items/436533315/1791226383/extra_large.jpg" alt="Preuve prix Vita Coco, Pure Coconut Water, 12 × 330 mL" width="220" />
 
-**15.** ❓ **Amos Peelerz - Bonbons Gommeux Mélange festif effrayant, 1,02 kg** — 15,99 $ · 16% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765304/1791394279/extra_large.jpg)
+**15.** ❓ **Mr. Christie's Arrowroot Biscuits, 1.4 kg** — 14,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533287/1791226389/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765304/1791394279/extra_large.jpg" alt="Preuve prix Amos Peelerz - Bonbons Gommeux Mélange festif effrayant, 1,02 kg" width="220" />
+<img src="https://f.wishabi.net/page_items/436533287/1791226389/extra_large.jpg" alt="Preuve prix Mr. Christie's Arrowroot Biscuits, 1.4 kg" width="220" />
 
-**16.** ❓ **Nicorette Gomme menthe 2 mg, 2 x 210 morceaux** — 79,99 $ · 20% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765365/1791394276/extra_large.jpg)
+**16.** ❓ **Godiva Masterpiece Chocolate Assortment, 421 g** — 16,99 $ · 26% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765365/1791394276/extra_large.jpg" alt="Preuve prix Nicorette Gomme menthe 2 mg, 2 x 210 morceaux" width="220" />
+<img src="https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg" alt="Preuve prix Godiva Masterpiece Chocolate Assortment, 421 g" width="220" />
 
-**17.** ❓ **Alani Boisson Energisante Baiser orange 355 mL paquet de 12** — 21,99 $ · 15% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765290/1791394276/extra_large.jpg)
+**17.** ❓ **Better than Bouillon Organic Seasoned Vegetable Base, 597 g** — 12,99 $ · 19% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533266/1791226382/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765290/1791394276/extra_large.jpg" alt="Preuve prix Alani Boisson Energisante Baiser orange 355 mL paquet de 12" width="220" />
+<img src="https://f.wishabi.net/page_items/436533266/1791226382/extra_large.jpg" alt="Preuve prix Better than Bouillon Organic Seasoned Vegetable Base, 597 g" width="220" />
 
-**18.** ❓ **Better than Bouillon - Base de légumes assaisonnés biologique, 597 g** — 12,99 $ · 19% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765250/1791394274/extra_large.jpg)
+**18.** ❓ **Swiffer Dusters Dusting Kit with 28 Refills** — 23,99 $ · 17% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533271/1791226387/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765250/1791394274/extra_large.jpg" alt="Preuve prix Better than Bouillon - Base de légumes assaisonnés biologique, 597 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533271/1791226387/extra_large.jpg" alt="Preuve prix Swiffer Dusters Dusting Kit with 28 Refills" width="220" />
 
-**19.** ❓ **Kashi - Assortiment de bouchées fruitées biologiques torsadées, 24 × 20 g** — 19,99 $ · 17% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765343/1791394282/extra_large.jpg)
+**19.** ❓ **OLÉ Mocktail Variety Pack, 355 mL 18-pack** — 26,99 $ · 18% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533317/1791226384/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765343/1791394282/extra_large.jpg" alt="Preuve prix Kashi - Assortiment de bouchées fruitées biologiques torsadées, 24 × 20 g" width="220" />
+<img src="https://f.wishabi.net/page_items/436533317/1791226384/extra_large.jpg" alt="Preuve prix OLÉ Mocktail Variety Pack, 355 mL 18-pack" width="220" />
 
-**20.** ❓ **Dr Pepper Zéro sucre - Boisson, 355 mL paquet de 32** — 21,49 $ · 14% de rabais
-> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436765315/1791394278/extra_large.jpg)
+**20.** ❓ **Mars Assorted Candy Bars, 1.2 kg** — 23,99 $ · 11% de rabais
+> Source: circulaire Flipp · prix en CAD · valide 2026-10-05 au 2026-10-11 · [circulaire: Costco Grocery](https://f.wishabi.net/page_items/436533308/1791226386/extra_large.jpg)
 📸 Preuve du prix
-<img src="https://f.wishabi.net/page_items/436765315/1791394278/extra_large.jpg" alt="Preuve prix Dr Pepper Zéro sucre - Boisson, 355 mL paquet de 32" width="220" />
+<img src="https://f.wishabi.net/page_items/436533308/1791226386/extra_large.jpg" alt="Preuve prix Mars Assorted Candy Bars, 1.2 kg" width="220" />
 
 ---
 📊 171 spéciaux · Metro : 20 · Maxi : 20 · IGA : 20 · Super C : 20 · BoniChoix : 20 · Inter-Marché : 20 · Marchés Tradition : 20 · Familiprix : 20 · Costco : 20

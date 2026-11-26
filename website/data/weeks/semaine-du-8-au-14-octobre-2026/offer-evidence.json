@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T18:21:14.977Z",
+  "generatedAt": "2026-10-08T16:00:00.000Z",
   "weekStart": "2026-10-08",
   "offers": {
-    "2026-10-08::superc-joliette::bananes": {
+    "2026-10-08::superc-joliette::bananes::offer-%5B%22Bananes%22%2C0.79%2Cnull%5D": {
       "identity": "bananes",
       "format": null,
       "fetchedPrice": 0.79,
@@ -40,7 +40,7 @@
         ]
       }
     },
-    "2026-10-08::iga-joliette::pommes": {
+    "2026-10-08::iga-joliette::pommes::offer-%5B%22POMMES%20CORTLAND%22%2C0.99%2Cnull%5D": {
       "identity": "pommes cortland",
       "format": null,
       "fetchedPrice": 0.99,
@@ -106,7 +106,7 @@
       "advertisedPercent": 52,
       "source": "https://f.wishabi.net/page_items/436072501/1790863643/extra_large.jpg"
     },
-    "2026-10-08::superc-joliette::pommes de terre": {
+    "2026-10-08::superc-joliette::pommes de terre::offer-%5B%22Artichaut%20patates%20douces%22%2C1.49%2Cnull%5D": {
       "identity": "artichaut patates douces",
       "format": null,
       "fetchedPrice": 1.49,
@@ -276,7 +276,7 @@
       "advertisedPercent": 50,
       "source": "https://f.wishabi.net/page_items/436447654/1791207233/extra_large.jpg"
     },
-    "2026-10-08::superc-joliette::clementines": {
+    "2026-10-08::superc-joliette::clementines::offer-%5B%22Cl%C3%A9mentines%22%2C1.99%2Cnull%5D": {
       "identity": "clementines",
       "format": null,
       "fetchedPrice": 1.99,
@@ -1654,7 +1654,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 21,
-      "source": "https://f.wishabi.net/page_items/436826192/1791433304/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191178/1790831109/extra_large.jpg"
     },
     "2026-10-08::iga-joliette::cafe::offer-%5B%22COLORANT%20%C3%80%20CAF%C3%89%20COMPLIMENTS%22%2C4.99%2Cnull%5D": {
       "identity": "colorant a cafe compliments",
@@ -2964,17 +2964,6 @@
       "advertisedPercent": 77,
       "source": "https://f.wishabi.net/page_items/436514102/1791212697/extra_large.jpg"
     },
-    "2026-10-08::metro-joliette::pommes::offer-%5B%22POMMES%20HONEYCRISP%22%2C3.49%2Cnull%5D": {
-      "identity": "pommes honeycrisp",
-      "format": null,
-      "fetchedPrice": 3.49,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436191313/1791211337/extra_large.jpg"
-    },
     "2026-10-08::iga-joliette::pommes::offer-%5B%22POMMES%20HONEYCRISP%22%2C1.99%2Cnull%5D": {
       "identity": "pommes honeycrisp",
       "format": null,
@@ -2985,6 +2974,17 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436319133/1790932028/extra_large.jpg"
+    },
+    "2026-10-08::metro-joliette::pommes::offer-%5B%22POMMES%20HONEYCRISP%22%2C3.49%2Cnull%5D": {
+      "identity": "pommes honeycrisp",
+      "format": null,
+      "fetchedPrice": 3.49,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 13,
+      "source": "https://f.wishabi.net/page_items/436191313/1791211337/extra_large.jpg"
     },
     "2026-10-08::superc-joliette::pommes::offer-%5B%22Pommes%20McIntosh%22%2C1.5%2Cnull%5D": {
       "identity": "pommes mcintosh",
@@ -3311,8 +3311,8 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::raisins": {
-      "identity": "sunmaid marbre a la cannelle pain aux raisins 3 x 450 g",
+    "2026-10-08::costco-quebec::pain": {
+      "identity": "sunmaid raisin cinnamon swirl raisin bread 3 x 450 g",
       "format": null,
       "fetchedPrice": 9.99,
       "formatLabel": "3 × 450g",
@@ -3320,16 +3320,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765259/1791394274/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533302/1791226382/extra_large.jpg",
       "observations": {
-        "from": "2026-07-06",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-07-06",
-            "price": 9.99
-          },
           {
             "date": "2026-10-05",
             "price": 9.99
@@ -3537,48 +3533,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::brookside - chocolat noir, aromes d'acais et de bleuets,": {
-      "identity": "brookside chocolat noir aromes d acais et de bleuets 850 g",
-      "format": null,
-      "fetchedPrice": 12.99,
-      "formatLabel": "850g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 19,
-      "source": "https://f.wishabi.net/page_items/436765337/1791394282/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-25",
-        "to": "2026-10-05",
-        "weeks": 6,
-        "points": [
-          {
-            "date": "2026-05-25",
-            "price": 12.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 12.99
-          },
-          {
-            "date": "2026-08-17",
-            "price": 12.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 12.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 12.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 12.99
-          }
-        ]
-      }
-    },
     "2026-10-08::tradition-joliette::bruschetta ou salade fontaine sante": {
       "identity": "bruschetta ou salade fontaine sante",
       "format": null,
@@ -3747,44 +3701,6 @@
           {
             "date": "2026-08-20",
             "price": 13.49
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::kellogg's - cereales raisin bran deux pelletees, .": {
-      "identity": "kellogg s cereales raisin bran deux pelletees 1 44 kg",
-      "format": null,
-      "fetchedPrice": 10.99,
-      "formatLabel": "1.44kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 15,
-      "source": "https://f.wishabi.net/page_items/436765267/1791394274/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-18",
-        "to": "2026-10-05",
-        "weeks": 5,
-        "points": [
-          {
-            "date": "2026-05-18",
-            "price": 10.99
-          },
-          {
-            "date": "2026-05-25",
-            "price": 10.99
-          },
-          {
-            "date": "2026-06-01",
-            "price": 10.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 10.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 10.99
           }
         ]
       }
@@ -4160,8 +4076,8 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::boursin ail et fines herbes": {
-      "identity": "boursin ail et fines herbes",
+    "2026-10-08::costco-quebec::boursin garlic & fine herbs": {
+      "identity": "boursin garlic fine herbs",
       "format": null,
       "fetchedPrice": 9.99,
       "formatLabel": null,
@@ -4169,7 +4085,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436765258/1791394275/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533350/1791226382/extra_large.jpg",
       "observations": {
         "from": "2026-10-05",
         "to": "2026-10-05",
@@ -4767,6 +4683,28 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436276198/1790923328/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::kellogg's two scoops raisin bran cereal, .": {
+      "identity": "kellogg s two scoops raisin bran cereal 1 44 kg",
+      "format": null,
+      "fetchedPrice": 10.99,
+      "formatLabel": "1.44kg",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 15,
+      "source": "https://f.wishabi.net/page_items/436533314/1791226382/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 10.99
+          }
+        ]
+      }
     },
     "2026-10-08::superc-joliette::kit a salade dole": {
       "identity": "kit a salade dole",
@@ -5431,7 +5369,7 @@
       "advertisedPercent": 33,
       "source": "https://f.wishabi.net/page_items/436189457/1790831101/extra_large.jpg"
     },
-    "2026-10-08::superc-joliette::boeuf hache": {
+    "2026-10-08::superc-joliette::boeuf hache::offer-%5B%22Boeuf%20hach%C3%A9%20mi-maigre%22%2C4.97%2Cnull%5D": {
       "identity": "boeuf hache mi maigre",
       "format": null,
       "fetchedPrice": 4.97,
@@ -5620,7 +5558,7 @@
         ]
       }
     },
-    "2026-10-08::metro-joliette::porc hache maigre": {
+    "2026-10-08::metro-joliette::porc hache maigre::offer-%5B%22PORC%20HACH%C3%89%20MAIGRE%22%2C2.22%2Cnull%5D": {
       "identity": "porc hache maigre",
       "format": null,
       "fetchedPrice": 2.22,
@@ -6602,17 +6540,6 @@
         ]
       }
     },
-    "2026-10-08::metro-joliette::cotes de porc": {
-      "identity": "carre de longe de porc frais",
-      "format": null,
-      "fetchedPrice": 6.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436191146/1790831102/extra_large.jpg"
-    },
     "2026-10-08::iga-joliette::cotes de porc": {
       "identity": "carre de longe de porc frais",
       "format": null,
@@ -6634,6 +6561,17 @@
           }
         ]
       }
+    },
+    "2026-10-08::metro-joliette::cotes de porc": {
+      "identity": "carre de longe de porc frais",
+      "format": null,
+      "fetchedPrice": 6.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 13,
+      "source": "https://f.wishabi.net/page_items/436191146/1790831102/extra_large.jpg"
     },
     "2026-10-08::bonichoix-joliette::charcuteries tranchees compliments": {
       "identity": "charcuteries tranchees compliments",
@@ -7178,28 +7116,6 @@
       "advertisedPercent": 17,
       "source": "https://f.wishabi.net/page_items/436191143/1790831100/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::beurre": {
-      "identity": "kfi poulet au beurre sauce de cuisson 2 650 ml",
-      "format": null,
-      "fetchedPrice": 12.99,
-      "formatLabel": "2 × 650ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436765307/1791394279/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-09-28",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 12.99
-          }
-        ]
-      }
-    },
     "2026-10-08::metro-joliette::lait::offer-%5B%22OSSO%20BUCO%20DE%20VEAU%20DE%20LAIT%22%2C13.99%2Cnull%5D": {
       "identity": "osso buco de veau de lait",
       "format": null,
@@ -7428,32 +7344,6 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436191091/1790831093/extra_large.jpg"
     },
-    "2026-10-08::metro-joliette::salami de genes mastro": {
-      "identity": "salami de genes mastro",
-      "format": null,
-      "fetchedPrice": 4.79,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 9,
-      "source": "https://f.wishabi.net/page_items/436189330/1790831094/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-23",
-        "to": "2026-09-10",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-07-23",
-            "price": 6.99
-          },
-          {
-            "date": "2026-09-10",
-            "price": 3.49
-          }
-        ]
-      }
-    },
     "2026-10-08::iga-joliette::salami de genes mastro": {
       "identity": "salami de genes mastro",
       "format": null,
@@ -7480,6 +7370,32 @@
         ]
       }
     },
+    "2026-10-08::metro-joliette::salami de genes mastro": {
+      "identity": "salami de genes mastro",
+      "format": null,
+      "fetchedPrice": 4.79,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 9,
+      "source": "https://f.wishabi.net/page_items/436189330/1790831094/extra_large.jpg",
+      "observations": {
+        "from": "2026-07-23",
+        "to": "2026-09-10",
+        "weeks": 2,
+        "points": [
+          {
+            "date": "2026-07-23",
+            "price": 6.99
+          },
+          {
+            "date": "2026-09-10",
+            "price": 3.49
+          }
+        ]
+      }
+    },
     "2026-10-08::metro-joliette::saucisses fraiches": {
       "identity": "saucisses fraiches",
       "format": null,
@@ -7489,7 +7405,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436191356/1791211406/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191357/1791211407/extra_large.jpg",
       "observations": {
         "from": "2026-05-28",
         "to": "2026-10-01",
@@ -7572,7 +7488,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 23,
-      "source": "https://f.wishabi.net/page_items/436826179/1791433294/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191165/1790831100/extra_large.jpg",
       "observations": {
         "from": "2026-05-21",
         "to": "2026-09-03",
@@ -8964,7 +8880,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436189012/1790831097/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191301/1791211280/extra_large.jpg"
     },
     "2026-10-08::iga-joliette::gigot d'agneau desosse frais thomas farms": {
       "identity": "gigot d agneau desosse frais thomas farms",
@@ -9729,32 +9645,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::simply campbell's bouillons de poulet sans sel ajoute, x": {
-      "identity": "simply campbell s bouillons de poulet sans sel ajoute 6 x 946 ml",
-      "format": null,
-      "fetchedPrice": 13.49,
-      "formatLabel": "6 × 946ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765320/1791394280/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 13.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 13.49
-          }
-        ]
-      }
-    },
     "2026-10-08::superc-joliette::tartare de boeuf la cage": {
       "identity": "tartare de boeuf la cage",
       "format": null,
@@ -9784,32 +9674,6 @@
           {
             "date": "2026-07-16",
             "price": 1.29
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::thon blanc entier ocean's, ×": {
-      "identity": "thon blanc entier ocean s 6 184 g",
-      "format": null,
-      "fetchedPrice": 16.99,
-      "formatLabel": "6 × 184g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 19,
-      "source": "https://f.wishabi.net/page_items/436765334/1791394283/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-20",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-07-20",
-            "price": 16.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 16.99
           }
         ]
       }
@@ -10046,7 +9910,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436826191/1791433303/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191177/1790831108/extra_large.jpg",
       "observations": {
         "from": "2026-06-25",
         "to": "2026-06-25",
@@ -10606,7 +10470,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 23,
-      "source": "https://f.wishabi.net/page_items/436826188/1791433301/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191174/1790831106/extra_large.jpg"
     },
     "2026-10-08::bonichoix-joliette::cafe": {
       "identity": "cremier a cafe natrel",
@@ -11055,7 +10919,7 @@
       }
     },
     "2026-10-08::costco-quebec::yogourt": {
-      "identity": "quaker barres tendres yogourt 40 35 g",
+      "identity": "quaker yogourt granola bars 40 35 g",
       "format": null,
       "fetchedPrice": 17.99,
       "formatLabel": "40 × 35g",
@@ -11063,20 +10927,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436765298/1791394280/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533354/1791226386/extra_large.jpg",
       "observations": {
-        "from": "2026-08-17",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 3,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-08-17",
-            "price": 17.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 17.99
-          },
           {
             "date": "2026-10-05",
             "price": 17.99
@@ -11386,7 +11242,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436826181/1791433296/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191167/1790831101/extra_large.jpg",
       "observations": {
         "from": "2026-05-14",
         "to": "2026-10-01",
@@ -11636,44 +11492,6 @@
           {
             "date": "2026-08-13",
             "price": 10.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::ritz - bits mini sandwiches, craquelins a saveur de fromage, ×": {
-      "identity": "ritz bits mini sandwiches craquelins a saveur de fromage 34 42 g",
-      "format": null,
-      "fetchedPrice": 16.49,
-      "formatLabel": "34 × 42g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436765287/1791394278/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-18",
-        "to": "2026-10-05",
-        "weeks": 5,
-        "points": [
-          {
-            "date": "2026-05-18",
-            "price": 16.49
-          },
-          {
-            "date": "2026-06-08",
-            "price": 16.49
-          },
-          {
-            "date": "2026-07-06",
-            "price": 16.49
-          },
-          {
-            "date": "2026-07-13",
-            "price": 16.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 16.49
           }
         ]
       }
@@ -12245,7 +12063,7 @@
         ]
       }
     },
-    "2026-10-08::superc-joliette::beurre": {
+    "2026-10-08::superc-joliette::beurre::offer-%5B%22Jeune%20dindon%20Butterball%22%2C2.99%2Cnull%5D": {
       "identity": "jeune dindon butterball",
       "format": null,
       "fetchedPrice": 2.99,
@@ -12634,7 +12452,7 @@
         ]
       }
     },
-    "2026-10-08::intermarche-joliette::oranges": {
+    "2026-10-08::intermarche-joliette::oranges::offer-%5B%22ORANGES%22%2C1.79%2Cnull%5D": {
       "identity": "oranges",
       "format": null,
       "fetchedPrice": 1.79,
@@ -14044,32 +13862,6 @@
         ]
       }
     },
-    "2026-10-08::metro-joliette::tartinade nutella": {
-      "identity": "tartinade nutella",
-      "format": null,
-      "fetchedPrice": 6.49,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436826178/1791433294/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-18",
-        "to": "2026-08-06",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-06-18",
-            "price": 7.99
-          },
-          {
-            "date": "2026-08-06",
-            "price": 6.79
-          }
-        ]
-      }
-    },
     "2026-10-08::iga-joliette::tartinade nutella": {
       "identity": "tartinade nutella",
       "format": null,
@@ -14140,6 +13932,32 @@
           {
             "date": "2026-09-10",
             "price": 8.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::metro-joliette::tartinade nutella": {
+      "identity": "tartinade nutella",
+      "format": null,
+      "fetchedPrice": 6.49,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436191164/1790831099/extra_large.jpg",
+      "observations": {
+        "from": "2026-06-18",
+        "to": "2026-08-06",
+        "weeks": 2,
+        "points": [
+          {
+            "date": "2026-06-18",
+            "price": 7.99
+          },
+          {
+            "date": "2026-08-06",
+            "price": 6.79
           }
         ]
       }
@@ -14286,6 +14104,28 @@
         ]
       }
     },
+    "2026-10-08::maxi-joliette::beurre::offer-%5B%22BEURRE%20D'ARACHIDE%20KRAFT%22%2C5.97%2C%22each%22%5D": {
+      "identity": "beurre d arachide kraft",
+      "format": null,
+      "fetchedPrice": 5.97,
+      "formatLabel": null,
+      "unit": "each",
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436276385/1790923339/extra_large.jpg",
+      "observations": {
+        "from": "2026-08-20",
+        "to": "2026-08-20",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-08-20",
+            "price": 5.97
+          }
+        ]
+      }
+    },
     "2026-10-08::bonichoix-joliette::beurre::offer-%5B%22BEURRE%20D'ARACHIDE%20KRAFT%22%2C6.99%2Cnull%5D": {
       "identity": "beurre d arachide kraft",
       "format": null,
@@ -14308,28 +14148,6 @@
           {
             "date": "2026-09-24",
             "price": 6.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::maxi-joliette::beurre::offer-%5B%22BEURRE%20D'ARACHIDE%20KRAFT%22%2C5.97%2C%22each%22%5D": {
-      "identity": "beurre d arachide kraft",
-      "format": null,
-      "fetchedPrice": 5.97,
-      "formatLabel": null,
-      "unit": "each",
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436276385/1790923339/extra_large.jpg",
-      "observations": {
-        "from": "2026-08-20",
-        "to": "2026-08-20",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-08-20",
-            "price": 5.97
           }
         ]
       }
@@ -14420,17 +14238,6 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436072481/1790863957/extra_large.jpg"
-    },
-    "2026-10-08::costco-quebec::cafe": {
-      "identity": "cafe instantane nescafe melange riche 475 g",
-      "format": null,
-      "fetchedPrice": 15.49,
-      "formatLabel": "475g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436765345/1791394282/extra_large.jpg"
     },
     "2026-10-08::iga-joliette::cafe::offer-%5B%22CAF%C3%89%20LAVAZZA%20CAPSULES%22%2C6.99%2Cnull%5D": {
       "identity": "cafe lavazza capsules",
@@ -15083,6 +14890,28 @@
       "advertisedPercent": 10,
       "source": "https://f.wishabi.net/page_items/436319243/1790932035/extra_large.jpg"
     },
+    "2026-10-08::costco-quebec::beurre": {
+      "identity": "kfi butter chicken cooking sauce 2 650 ml",
+      "format": null,
+      "fetchedPrice": 12.99,
+      "formatLabel": "2 × 650ml",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 13,
+      "source": "https://f.wishabi.net/page_items/436533272/1791226388/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 12.99
+          }
+        ]
+      }
+    },
     "2026-10-08::bonichoix-joliette::lait::offer-%5B%22LAIT%20DE%20COCO%20COMPLIMENTS%22%2C1.79%2Cnull%5D": {
       "identity": "lait de coco compliments",
       "format": null,
@@ -15153,8 +14982,8 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::cafe::offer-%5B%22McCaf%C3%A9%20%E2%80%93%20Caf%C3%A9%20%C3%A0%20torr%C3%A9faction%20fonc%C3%A9e%20melange%20d'automne%2C%2080%20godets%22%2C45.99%2Cnull%5D": {
-      "identity": "mccafe cafe a torrefaction foncee melange d automne 80 godets",
+    "2026-10-08::costco-quebec::cafe": {
+      "identity": "mccafe dark roast autumn blend coffee k cup pods 80 count",
       "format": null,
       "fetchedPrice": 45.99,
       "formatLabel": null,
@@ -15162,21 +14991,10 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 21,
-      "source": "https://f.wishabi.net/page_items/436765300/1791394277/extra_large.jpg",
-      "observations": {
-        "from": "2026-10-05",
-        "to": "2026-10-05",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-10-05",
-            "price": 45.99
-          }
-        ]
-      }
+      "source": "https://f.wishabi.net/page_items/436533340/1791226384/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::cafe::offer-%5B%22McCaf%C3%A9%20%E2%80%93%20Caf%C3%A9%20%C3%A0%20torr%C3%A9faction%20sup%C3%A9rieure%2C%2080%20godets%22%2C45.99%2Cnull%5D": {
-      "identity": "mccafe cafe a torrefaction superieure 80 godets",
+    "2026-10-08::costco-quebec::cafe::offer-%5B%22McCaf%C3%A9%20Premium%20Roast%20Coffee%20K-Cup%20Pods%2C%2080-count%22%2C45.99%2Cnull%5D": {
+      "identity": "mccafe premium roast coffee k cup pods 80 count",
       "format": null,
       "fetchedPrice": 45.99,
       "formatLabel": null,
@@ -15184,18 +15002,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 21,
-      "source": "https://f.wishabi.net/page_items/436765340/1791394284/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-09-28",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 45.99
-          }
-        ]
-      }
+      "source": "https://f.wishabi.net/page_items/436533359/1791226390/extra_large.jpg"
     },
     "2026-10-08::metro-joliette::cafe::offer-%5B%22MCCAF%C3%89%C2%AE%2010%20-%2012%20CAPSULES%20K-CUP%C2%AE%22%2C12.99%2Cnull%5D": {
       "identity": "mccafe 10 12 capsules k cup",
@@ -15294,6 +15101,28 @@
           {
             "date": "2026-09-24",
             "price": 3.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::cafe::offer-%5B%22Nescaf%C3%A9%20Rich%20Instant%20Coffee%2C%20475%20g%22%2C15.49%2Cnull%5D": {
+      "identity": "nescafe rich instant coffee 475 g",
+      "format": null,
+      "fetchedPrice": 15.49,
+      "formatLabel": "475g",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 18,
+      "source": "https://f.wishabi.net/page_items/436533346/1791226389/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 15.49
           }
         ]
       }
@@ -15555,7 +15384,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436826180/1791433295/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191166/1790831101/extra_large.jpg",
       "observations": {
         "from": "2026-06-18",
         "to": "2026-08-13",
@@ -15806,7 +15635,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 25,
-      "source": "https://f.wishabi.net/page_items/436826169/1791433287/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191155/1790831093/extra_large.jpg",
       "observations": {
         "from": "2026-06-04",
         "to": "2026-09-03",
@@ -16118,7 +15947,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 45,
-      "source": "https://f.wishabi.net/page_items/436826194/1791433305/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191180/1790831110/extra_large.jpg",
       "observations": {
         "from": "2026-06-18",
         "to": "2026-09-03",
@@ -16522,7 +16351,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 29,
-      "source": "https://f.wishabi.net/page_items/436826185/1791433299/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191171/1790831104/extra_large.jpg",
       "observations": {
         "from": "2026-05-14",
         "to": "2026-09-24",
@@ -18164,36 +17993,6 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436276571/1790923334/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::cereales vector de kellogg's, ,": {
-      "identity": "cereales vector de kellogg s 1 13 kg",
-      "format": null,
-      "fetchedPrice": 10.49,
-      "formatLabel": "1.13kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 19,
-      "source": "https://f.wishabi.net/page_items/436765293/1791394277/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-27",
-        "to": "2026-10-05",
-        "weeks": 3,
-        "points": [
-          {
-            "date": "2026-07-27",
-            "price": 10.49
-          },
-          {
-            "date": "2026-09-28",
-            "price": 10.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 10.49
-          }
-        ]
-      }
-    },
     "2026-10-08::iga-joliette::ceurs d'artichauts kim phat": {
       "identity": "ceurs d artichauts kim phat",
       "format": null,
@@ -18514,7 +18313,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436826184/1791433298/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191170/1790831103/extra_large.jpg",
       "observations": {
         "from": "2026-06-11",
         "to": "2026-10-01",
@@ -19466,7 +19265,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436826176/1791433292/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191162/1790831098/extra_large.jpg"
     },
     "2026-10-08::familiprix-joliette::kiss bare but better premium trunude ongles moyen 30un": {
       "identity": "kiss bare but better premium trunude ongles moyen 30un",
@@ -19826,7 +19625,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 13,
-      "source": "https://f.wishabi.net/page_items/436826183/1791433297/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191169/1790831103/extra_large.jpg",
       "observations": {
         "from": "2026-09-24",
         "to": "2026-09-24",
@@ -20433,32 +20232,6 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436336487/1790932038/extra_large.jpg"
-    },
-    "2026-10-08::costco-quebec::pepsi - zero sucre paquet de": {
-      "identity": "pepsi zero sucre 355 ml paquet de 32",
-      "format": null,
-      "fetchedPrice": 21.49,
-      "formatLabel": "355ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 14,
-      "source": "https://f.wishabi.net/page_items/436765301/1791394279/extra_large.jpg",
-      "observations": {
-        "from": "2026-08-31",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-08-31",
-            "price": 21.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 21.49
-          }
-        ]
-      }
     },
     "2026-10-08::intermarche-joliette::perogies cheemo": {
       "identity": "perogies cheemo",
@@ -21505,7 +21278,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 10,
-      "source": "https://f.wishabi.net/page_items/436826182/1791433297/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191168/1790831102/extra_large.jpg",
       "observations": {
         "from": "2026-06-11",
         "to": "2026-06-11",
@@ -21584,8 +21357,8 @@
       "advertisedPercent": 14,
       "source": "https://f.wishabi.net/page_items/436319337/1790932030/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::tetley - the orange pekoe, paquet de": {
-      "identity": "tetley the orange pekoe paquet de 300",
+    "2026-10-08::costco-quebec::tetley orange pekoe tea, -pack": {
+      "identity": "tetley orange pekoe tea 300 pack",
       "format": null,
       "fetchedPrice": 12.99,
       "formatLabel": null,
@@ -21593,16 +21366,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 19,
-      "source": "https://f.wishabi.net/page_items/436765286/1791394278/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533305/1791226384/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 12.99
-          },
           {
             "date": "2026-10-05",
             "price": 12.99
@@ -22487,86 +22256,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::bounce -selectionnez une taille feuilles assouplissantes, feuilles": {
-      "identity": "bounce selectionnez une taille feuilles assouplissantes 400 feuilles",
-      "format": null,
-      "fetchedPrice": 15.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 20,
-      "source": "https://f.wishabi.net/page_items/436765333/1791394283/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-08",
-        "to": "2026-10-05",
-        "weeks": 4,
-        "points": [
-          {
-            "date": "2026-06-08",
-            "price": 15.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 15.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 15.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 15.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::bounty plus - essuie-tout, x feuilles": {
-      "identity": "bounty plus essuie tout 12 x 91 feuilles",
-      "format": null,
-      "fetchedPrice": 33.49,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765308/1791394280/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-25",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-05-25",
-            "price": 33.49
-          },
-          {
-            "date": "2026-06-01",
-            "price": 33.49
-          },
-          {
-            "date": "2026-07-06",
-            "price": 33.49
-          },
-          {
-            "date": "2026-07-27",
-            "price": 33.49
-          },
-          {
-            "date": "2026-08-31",
-            "price": 33.49
-          },
-          {
-            "date": "2026-09-28",
-            "price": 33.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 33.49
-          }
-        ]
-      }
-    },
     "2026-10-08::familiprix-joliette::dove nettoyant corporel hypoallergenique": {
       "identity": "dove nettoyant corporel hypoallergenique 325ml",
       "format": null,
@@ -22607,232 +22296,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::downy soft - assouplissant liquide fraicheur d'avril , , brassees": {
-      "identity": "downy soft assouplissant liquide fraicheur d avril 4 35 l 251 brassees",
-      "format": null,
-      "fetchedPrice": 19.99,
-      "formatLabel": "4.35l",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765272/1791394276/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-25",
-        "to": "2026-10-05",
-        "weeks": 6,
-        "points": [
-          {
-            "date": "2026-05-25",
-            "price": 19.99
-          },
-          {
-            "date": "2026-06-01",
-            "price": 19.99
-          },
-          {
-            "date": "2026-08-17",
-            "price": 19.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 19.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 19.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 19.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::downy unstopables - brume oceanique rehausseur de parfum pour lessive, ,": {
-      "identity": "downy unstopables brume oceanique rehausseur de parfum pour lessive 1 13 kg",
-      "format": null,
-      "fetchedPrice": 24.99,
-      "formatLabel": "1.13kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765305/1791394278/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-18",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-05-18",
-            "price": 24.99
-          },
-          {
-            "date": "2026-05-25",
-            "price": 24.99
-          },
-          {
-            "date": "2026-06-01",
-            "price": 24.99
-          },
-          {
-            "date": "2026-07-06",
-            "price": 24.99
-          },
-          {
-            "date": "2026-07-13",
-            "price": 24.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 24.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 24.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::finish quantum everyday - detergent pour lave-vaisselle, tablettes": {
-      "identity": "finish quantum everyday detergent pour lave vaisselle 176 tablettes",
-      "format": null,
-      "fetchedPrice": 30.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765263/1791394275/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-06",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-07-06",
-            "price": 31.99
-          },
-          {
-            "date": "2026-07-13",
-            "price": 31.99
-          },
-          {
-            "date": "2026-07-20",
-            "price": 31.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 31.99
-          },
-          {
-            "date": "2026-08-31",
-            "price": 30.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 30.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 30.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::finish quantum ultimate+ - detergent pour lave-vaisselle, tablettes": {
-      "identity": "finish quantum ultimate detergent pour lave vaisselle 96 tablettes",
-      "format": null,
-      "fetchedPrice": 23.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765332/1791394280/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-18",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-05-18",
-            "price": 22.99
-          },
-          {
-            "date": "2026-05-25",
-            "price": 22.99
-          },
-          {
-            "date": "2026-06-01",
-            "price": 22.99
-          },
-          {
-            "date": "2026-08-17",
-            "price": 23.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 23.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 23.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 23.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::gain - detergent a lessive liquide, ,": {
-      "identity": "gain detergent a lessive liquide 4 82 l",
-      "format": null,
-      "fetchedPrice": 23.49,
-      "formatLabel": "4.82l",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765322/1791394280/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-18",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-05-18",
-            "price": 23.49
-          },
-          {
-            "date": "2026-07-06",
-            "price": 23.49
-          },
-          {
-            "date": "2026-07-13",
-            "price": 23.49
-          },
-          {
-            "date": "2026-07-20",
-            "price": 23.49
-          },
-          {
-            "date": "2026-07-27",
-            "price": 23.49
-          },
-          {
-            "date": "2026-09-28",
-            "price": 23.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 23.49
-          }
-        ]
-      }
-    },
     "2026-10-08::familiprix-joliette::huggies little movers couches pour bebes taille (plus de ) - 58un": {
       "identity": "huggies little movers couches pour bebes taille 5 plus de 12kg 58un",
       "format": null,
@@ -22859,98 +22322,6 @@
           {
             "date": "2026-09-17",
             "price": 22.49
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::lysol advanced - lingettes desinfectantes, lingettes": {
-      "identity": "lysol advanced lingettes desinfectantes 550 lingettes",
-      "format": null,
-      "fetchedPrice": 25.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 19,
-      "source": "https://f.wishabi.net/page_items/436765317/1791394281/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-08",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-06-08",
-            "price": 24.99
-          },
-          {
-            "date": "2026-07-06",
-            "price": 24.99
-          },
-          {
-            "date": "2026-07-13",
-            "price": 24.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 24.99
-          },
-          {
-            "date": "2026-08-31",
-            "price": 25.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 25.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 25.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::lysol advanced - nettoyant pour cuvettes, ×": {
-      "identity": "lysol advanced nettoyant pour cuvettes 4 946 ml",
-      "format": null,
-      "fetchedPrice": 16.99,
-      "formatLabel": "4 × 946ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 15,
-      "source": "https://f.wishabi.net/page_items/436765326/1791394282/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-08",
-        "to": "2026-10-05",
-        "weeks": 7,
-        "points": [
-          {
-            "date": "2026-06-08",
-            "price": 16.99
-          },
-          {
-            "date": "2026-07-20",
-            "price": 16.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 16.99
-          },
-          {
-            "date": "2026-08-17",
-            "price": 16.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 16.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 16.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 16.99
           }
         ]
       }
@@ -22992,40 +22363,6 @@
           {
             "date": "2026-09-10",
             "price": 9.89
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::tide advanced power - detergent a lessive liquide ultra concentre avec oxi, loads": {
-      "identity": "tide advanced power detergent a lessive liquide ultra concentre avec oxi 89 loads",
-      "format": null,
-      "fetchedPrice": 26.99,
-      "formatLabel": null,
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765313/1791394279/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-06",
-        "to": "2026-10-05",
-        "weeks": 4,
-        "points": [
-          {
-            "date": "2026-07-06",
-            "price": 27.49
-          },
-          {
-            "date": "2026-07-13",
-            "price": 27.49
-          },
-          {
-            "date": "2026-09-28",
-            "price": 26.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 26.99
           }
         ]
       }
@@ -23128,6 +22465,28 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/435858482/1790661157/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::bounty plus paper towel, x sheets": {
+      "identity": "bounty plus paper towel 12 x 91 sheets",
+      "format": null,
+      "fetchedPrice": 33.49,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533355/1791226387/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 33.49
+          }
+        ]
+      }
     },
     "2026-10-08::familiprix-joliette::cerave revitalisant hydratant antipelliculaire": {
       "identity": "cerave revitalisant hydratant antipelliculaire 266ml",
@@ -23315,58 +22674,6 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436264904/1790919890/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::dove - revitalisant hydratation quotidienne, .": {
-      "identity": "dove revitalisant hydratation quotidienne 1 18 l",
-      "format": null,
-      "fetchedPrice": 14.99,
-      "formatLabel": "1.18l",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436765361/1791394275/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 14.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 14.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::dove - shampooing hydratation quotidienne .": {
-      "identity": "dove shampooing hydratation quotidienne 1 18 l",
-      "format": null,
-      "fetchedPrice": 14.99,
-      "formatLabel": "1.18l",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436765359/1791394274/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 14.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 14.99
-          }
-        ]
-      }
-    },
     "2026-10-08::familiprix-joliette::dove antisudorifiques": {
       "identity": "dove antisudorifiques",
       "format": null,
@@ -23406,6 +22713,50 @@
           {
             "date": "2026-08-20",
             "price": 7.49
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::dove daily moisture conditioner, .": {
+      "identity": "dove daily moisture conditioner 1 18 l",
+      "format": null,
+      "fetchedPrice": 14.99,
+      "formatLabel": "1.18l",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436536835/1791229580/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 14.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::dove daily moisture shampoo .": {
+      "identity": "dove daily moisture shampoo 1 18 l",
+      "format": null,
+      "fetchedPrice": 14.99,
+      "formatLabel": "1.18l",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436536834/1791229579/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 14.99
           }
         ]
       }
@@ -23456,6 +22807,50 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/435858477/1790661154/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::downy soft liquid fabric softener april fresh ., loads": {
+      "identity": "downy soft liquid fabric softener april fresh 4 35 l 251 loads",
+      "format": null,
+      "fetchedPrice": 19.99,
+      "formatLabel": "4.35l",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 17,
+      "source": "https://f.wishabi.net/page_items/436533268/1791226384/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 19.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::downy unstopables ocean mist in-wash scent booster beads, .": {
+      "identity": "downy unstopables ocean mist in wash scent booster beads 1 13 kg",
+      "format": null,
+      "fetchedPrice": 24.99,
+      "formatLabel": "1.13kg",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 17,
+      "source": "https://f.wishabi.net/page_items/436533282/1791226385/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 24.99
+          }
+        ]
+      }
     },
     "2026-10-08::familiprix-joliette::energizer , piles selectionnees": {
       "identity": "energizer max piles selectionnees",
@@ -23633,6 +23028,50 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/435805055/1790661164/extra_large.jpg"
     },
+    "2026-10-08::costco-quebec::finish quantum everyday dishwasher detergent, tablets": {
+      "identity": "finish quantum everyday dishwasher detergent 176 tablets",
+      "format": null,
+      "fetchedPrice": 30.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533267/1791226383/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 30.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::finish quantum ultimate+ dishwasher detergent, tablets": {
+      "identity": "finish quantum ultimate dishwasher detergent 96 tablets",
+      "format": null,
+      "fetchedPrice": 23.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 17,
+      "source": "https://f.wishabi.net/page_items/436533285/1791226388/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 23.99
+          }
+        ]
+      }
+    },
     "2026-10-08::familiprix-joliette::fleecy assouplisseur de tissus": {
       "identity": "fleecy assouplisseur de tissus",
       "format": null,
@@ -23643,6 +23082,28 @@
       "regularPrice": null,
       "advertisedPercent": 40,
       "source": "https://f.wishabi.net/page_items/435803969/1790661139/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::gain liquid laundry detergent , .": {
+      "identity": "gain liquid laundry detergent 4 82 l",
+      "format": null,
+      "fetchedPrice": 23.49,
+      "formatLabel": "4.82l",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533296/1791226387/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 23.49
+          }
+        ]
+      }
     },
     "2026-10-08::familiprix-joliette::glade purificateur d'air - lessive fraiche": {
       "identity": "glade purificateur d air lessive fraiche 235g",
@@ -23879,6 +23340,28 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436276331/1790923346/extra_large.jpg"
     },
+    "2026-10-08::costco-quebec::lysol advanced disinfecting wipes, wipes": {
+      "identity": "lysol advanced disinfecting wipes 550 wipes",
+      "format": null,
+      "fetchedPrice": 25.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 19,
+      "source": "https://f.wishabi.net/page_items/436533356/1791226388/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 25.99
+          }
+        ]
+      }
+    },
     "2026-10-08::maxi-joliette::mouchoirs royale, un.": {
       "identity": "mouchoirs royale 6 un",
       "format": "1x6un",
@@ -23977,7 +23460,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436826187/1791433300/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191173/1790831105/extra_large.jpg"
     },
     "2026-10-08::maxi-joliette::papier hygienique royale": {
       "identity": "papier hygienique royale",
@@ -24010,7 +23493,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 9,
-      "source": "https://f.wishabi.net/page_items/436826174/1791433291/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191160/1790831096/extra_large.jpg"
     },
     "2026-10-08::superc-joliette::pastilles pour lave-vaisselle finish powerball": {
       "identity": "pastilles pour lave vaisselle finish powerball",
@@ -24146,6 +23629,28 @@
       "regularPrice": null,
       "advertisedPercent": 26,
       "source": "https://f.wishabi.net/page_items/435996846/1790809042/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::tide advanced power ultra concentrated liquid laundry detergent with oxi loads": {
+      "identity": "tide advanced power ultra concentrated liquid laundry detergent with oxi 89 loads",
+      "format": null,
+      "fetchedPrice": 26.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533295/1791226386/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 26.99
+          }
+        ]
+      }
     },
     "2026-10-08::familiprix-joliette::tide power pods oxi , capsules de detergent a lessive liquide": {
       "identity": "tide power pods oxi max capsules de detergent a lessive liquide",
@@ -25738,8 +25243,8 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/435804248/1790661159/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::nicorette gomme menthe mg, x morceaux": {
-      "identity": "nicorette gomme menthe 2 mg 2 x 210 morceaux",
+    "2026-10-08::costco-quebec::nicorette mint gum mg, x pieces": {
+      "identity": "nicorette mint gum 2 mg 2 x 210 pieces",
       "format": null,
       "fetchedPrice": 79.99,
       "formatLabel": null,
@@ -25747,16 +25252,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 20,
-      "source": "https://f.wishabi.net/page_items/436765365/1791394276/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436536837/1791229581/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 79.99
-          },
           {
             "date": "2026-10-05",
             "price": 79.99
@@ -25764,8 +25265,8 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::nicorette vapoeclair menthe, x vaporisations": {
-      "identity": "nicorette vapoeclair menthe 4 x 150 vaporisations",
+    "2026-10-08::costco-quebec::nicorette quickmist mint, x sprays": {
+      "identity": "nicorette quickmist mint 4 x 150 sprays",
       "format": null,
       "fetchedPrice": 99.99,
       "formatLabel": null,
@@ -25773,16 +25274,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436765367/1791394277/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436536838/1791229582/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 99.99
-          },
           {
             "date": "2026-10-05",
             "price": 99.99
@@ -26453,7 +25950,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 11,
-      "source": "https://f.wishabi.net/page_items/436826195/1791433306/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191181/1790831111/extra_large.jpg",
       "observations": {
         "from": "2026-06-18",
         "to": "2026-09-10",
@@ -26516,7 +26013,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436826170/1791433288/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191156/1790831094/extra_large.jpg"
     },
     "2026-10-08::metro-joliette::pain::offer-%5B%22PAINS%20%C3%80%20HOT-DOG%20BRIOCH%C3%89S%20IRR%C3%89SISTIBLE%22%2C5.49%2Cnull%5D": {
       "identity": "pains a hot dog brioches irresistible",
@@ -26606,44 +26103,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::pain": {
-      "identity": "sensible portions boite de craquelins de pain pita 567 g",
-      "format": null,
-      "fetchedPrice": 8.99,
-      "formatLabel": "567g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436765328/1791394282/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-08",
-        "to": "2026-10-05",
-        "weeks": 5,
-        "points": [
-          {
-            "date": "2026-06-08",
-            "price": 8.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 8.99
-          },
-          {
-            "date": "2026-08-17",
-            "price": 8.99
-          },
-          {
-            "date": "2026-08-24",
-            "price": 8.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 8.99
-          }
-        ]
-      }
-    },
     "2026-10-08::bonichoix-joliette::pain::offer-%5B%22VIENNOISERIES%20AU%20PAIN%20DOR%C3%89%22%2C5.49%2Cnull%5D": {
       "identity": "viennoiseries au pain dore",
       "format": null,
@@ -26701,7 +26160,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 36,
-      "source": "https://f.wishabi.net/page_items/436826186/1791433299/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191172/1790831105/extra_large.jpg",
       "observations": {
         "from": "2026-06-18",
         "to": "2026-09-10",
@@ -26756,40 +26215,6 @@
           {
             "date": "2026-09-24",
             "price": 5.5
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::two-bite - mini brioches a la cannelle, ,": {
-      "identity": "two bite mini brioches a la cannelle 1 04 kg",
-      "format": null,
-      "fetchedPrice": 8.99,
-      "formatLabel": "1.04kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436765329/1791394282/extra_large.jpg",
-      "observations": {
-        "from": "2026-05-25",
-        "to": "2026-10-05",
-        "weeks": 4,
-        "points": [
-          {
-            "date": "2026-05-25",
-            "price": 8.99
-          },
-          {
-            "date": "2026-06-01",
-            "price": 8.99
-          },
-          {
-            "date": "2026-09-28",
-            "price": 8.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 8.99
           }
         ]
       }
@@ -26952,7 +26377,7 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436276387/1790923340/extra_large.jpg"
     },
-    "2026-10-08::iga-joliette::jeune dindon surgele exceldor": {
+    "2026-10-08::iga-joliette::jeune dindon surgele exceldor::offer-%5B%22JEUNE%20DINDON%20SURGEL%C3%89%20EXCELDOR%22%2C2.49%2Cnull%5D": {
       "identity": "jeune dindon surgele exceldor",
       "format": null,
       "fetchedPrice": 2.49,
@@ -27253,18 +26678,18 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436826193/1791433304/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191179/1790831109/extra_large.jpg"
     },
-    "2026-10-08::metro-joliette::pates::offer-%5B%22D%C3%8ENER%20DE%20P%C3%82TES%20OU%20DE%20NOUILLES%20ANNIE'S%22%2C2.79%2Cnull%5D": {
+    "2026-10-08::metro-joliette::pates::offer-%5B%22D%C3%8ENER%20DE%20P%C3%82TES%20OU%20DE%20NOUILLES%20ANNIE'S%22%2C3.99%2Cnull%5D": {
       "identity": "diner de pates ou de nouilles annie s",
       "format": null,
-      "fetchedPrice": 2.79,
+      "fetchedPrice": 3.99,
       "formatLabel": null,
       "unit": null,
       "member": false,
       "regularPrice": null,
       "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436826172/1791433290/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191158/1790831095/extra_large.jpg",
       "observations": {
         "from": "2026-06-18",
         "to": "2026-06-18",
@@ -27328,7 +26753,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436826190/1791433302/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191176/1790831107/extra_large.jpg",
       "observations": {
         "from": "2026-06-11",
         "to": "2026-09-24",
@@ -28844,7 +28269,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 18,
-      "source": "https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg",
       "observations": {
         "from": "2026-06-04",
         "to": "2026-09-24",
@@ -29884,6 +29309,17 @@
         ]
       }
     },
+    "2026-10-08::maxi-joliette::croustilles miss vickie's": {
+      "identity": "croustilles miss vickie s",
+      "format": null,
+      "fetchedPrice": 4.5,
+      "formatLabel": null,
+      "unit": "each",
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436276553/1790923329/extra_large.jpg"
+    },
     "2026-10-08::bonichoix-joliette::croustilles miss vickie's": {
       "identity": "croustilles miss vickie s",
       "format": null,
@@ -29947,17 +29383,6 @@
           }
         ]
       }
-    },
-    "2026-10-08::maxi-joliette::croustilles miss vickie's": {
-      "identity": "croustilles miss vickie s",
-      "format": null,
-      "fetchedPrice": 4.5,
-      "formatLabel": null,
-      "unit": "each",
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": null,
-      "source": "https://f.wishabi.net/page_items/436276553/1790923329/extra_large.jpg"
     },
     "2026-10-08::superc-joliette::croustilles pringles": {
       "identity": "croustilles pringles",
@@ -30418,7 +29843,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 38,
-      "source": "https://f.wishabi.net/page_items/436826173/1791433290/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191159/1790831096/extra_large.jpg",
       "observations": {
         "from": "2026-05-14",
         "to": "2026-08-13",
@@ -30742,7 +30167,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 9,
-      "source": "https://f.wishabi.net/page_items/436826177/1791433293/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436191163/1790831098/extra_large.jpg",
       "observations": {
         "from": "2026-06-11",
         "to": "2026-09-17",
@@ -30889,40 +30314,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::g.h. cretors - sac de mais souffle melange chicago de": {
-      "identity": "g h cretors sac de mais souffle melange chicago de 737 g",
-      "format": null,
-      "fetchedPrice": 9.99,
-      "formatLabel": "737g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765303/1791394278/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-01",
-        "to": "2026-10-05",
-        "weeks": 4,
-        "points": [
-          {
-            "date": "2026-06-01",
-            "price": 8.99
-          },
-          {
-            "date": "2026-07-06",
-            "price": 8.99
-          },
-          {
-            "date": "2026-07-27",
-            "price": 8.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 9.99
-          }
-        ]
-      }
-    },
     "2026-10-08::bonichoix-joliette::gateaux hostess": {
       "identity": "gateaux hostess",
       "format": null,
@@ -31059,58 +30450,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::alani boisson energisante baiser orange paquet de": {
-      "identity": "alani boisson energisante baiser orange 355 ml paquet de 12",
-      "format": null,
-      "fetchedPrice": 21.99,
-      "formatLabel": "355ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 15,
-      "source": "https://f.wishabi.net/page_items/436765290/1791394276/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-27",
-        "to": "2026-10-05",
-        "weeks": 3,
-        "points": [
-          {
-            "date": "2026-07-27",
-            "price": 21.99
-          },
-          {
-            "date": "2026-08-31",
-            "price": 21.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 21.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::amos peelerz - bonbons gommeux melange festif effrayant, ,": {
-      "identity": "amos peelerz bonbons gommeux melange festif effrayant 1 02 kg",
-      "format": null,
-      "fetchedPrice": 15.99,
-      "formatLabel": "1.02kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 16,
-      "source": "https://f.wishabi.net/page_items/436765304/1791394279/extra_large.jpg",
-      "observations": {
-        "from": "2026-10-05",
-        "to": "2026-10-05",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-10-05",
-            "price": 15.99
-          }
-        ]
-      }
-    },
     "2026-10-08::maxi-joliette::barres de chocolat cadbury": {
       "identity": "barres de chocolat cadbury",
       "format": null,
@@ -31202,66 +30541,6 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436319287/1790932028/extra_large.jpg"
-    },
-    "2026-10-08::costco-quebec::biosteel - boisson sans sucre hydratation de variete, paquet de": {
-      "identity": "biosteel boisson sans sucre hydratation de variete 473 ml paquet de 24",
-      "format": null,
-      "fetchedPrice": 33.99,
-      "formatLabel": "473ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 15,
-      "source": "https://f.wishabi.net/page_items/436765285/1791394276/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-13",
-        "to": "2026-10-05",
-        "weeks": 3,
-        "points": [
-          {
-            "date": "2026-07-13",
-            "price": 33.99
-          },
-          {
-            "date": "2026-08-31",
-            "price": 33.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 33.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::biscuits a l'arrow-root m. christie, ,": {
-      "identity": "biscuits a l arrow root m christie 1 4 kg",
-      "format": null,
-      "fetchedPrice": 14.99,
-      "formatLabel": "1.4kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765346/1791394282/extra_large.jpg",
-      "observations": {
-        "from": "2026-06-01",
-        "to": "2026-10-05",
-        "weeks": 3,
-        "points": [
-          {
-            "date": "2026-06-01",
-            "price": 14.99
-          },
-          {
-            "date": "2026-07-13",
-            "price": 14.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 14.99
-          }
-        ]
-      }
     },
     "2026-10-08::maxi-joliette::biscuits au sucre kimberley's bakeshoppe,": {
       "identity": "biscuits au sucre kimberley s bakeshoppe 383 g",
@@ -31593,6 +30872,28 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436264978/1790919894/extra_large.jpg"
+    },
+    "2026-10-08::costco-quebec::brookside dark chocolate acai & blueberry flavours,": {
+      "identity": "brookside dark chocolate acai blueberry flavours 850 g",
+      "format": null,
+      "fetchedPrice": 12.99,
+      "formatLabel": "850g",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 19,
+      "source": "https://f.wishabi.net/page_items/436533275/1791226392/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 12.99
+          }
+        ]
+      }
     },
     "2026-10-08::familiprix-joliette::cadbury friandise": {
       "identity": "cadbury friandise",
@@ -31934,88 +31235,6 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436264985/1790919889/extra_large.jpg"
-    },
-    "2026-10-08::costco-quebec::crush - boisson gazeuse saveurs varietes paquet de": {
-      "identity": "crush boisson gazeuse saveurs varietes 355 ml paquet de 32",
-      "format": null,
-      "fetchedPrice": 21.49,
-      "formatLabel": "355ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 14,
-      "source": "https://f.wishabi.net/page_items/436765291/1791394278/extra_large.jpg",
-      "observations": {
-        "from": "2026-08-31",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-08-31",
-            "price": 21.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 21.49
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::dare - craquelins assortis, ,": {
-      "identity": "dare craquelins assortis 1 25 kg",
-      "format": null,
-      "fetchedPrice": 12.49,
-      "formatLabel": "1.25kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 17,
-      "source": "https://f.wishabi.net/page_items/436765284/1791394276/extra_large.jpg",
-      "observations": {
-        "from": "2026-07-27",
-        "to": "2026-10-05",
-        "weeks": 3,
-        "points": [
-          {
-            "date": "2026-07-27",
-            "price": 12.49
-          },
-          {
-            "date": "2026-09-28",
-            "price": 12.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 12.49
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::dr pepper zero sucre - boisson, paquet de": {
-      "identity": "dr pepper zero sucre boisson 355 ml paquet de 32",
-      "format": null,
-      "fetchedPrice": 21.49,
-      "formatLabel": "355ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 14,
-      "source": "https://f.wishabi.net/page_items/436765315/1791394278/extra_large.jpg",
-      "observations": {
-        "from": "2026-08-31",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-08-31",
-            "price": 21.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 21.49
-          }
-        ]
-      }
     },
     "2026-10-08::superc-joliette::eau de source gazeifiee irresistible": {
       "identity": "eau de source gazeifiee irresistible",
@@ -32395,6 +31614,28 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436336533/1790932056/extra_large.jpg"
     },
+    "2026-10-08::costco-quebec::g.h. cretors chicago mix popcorn,": {
+      "identity": "g h cretors chicago mix popcorn 737 g",
+      "format": null,
+      "fetchedPrice": 9.99,
+      "formatLabel": "737g",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 17,
+      "source": "https://f.wishabi.net/page_items/436533294/1791226385/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 9.99
+          }
+        ]
+      }
+    },
     "2026-10-08::intermarche-joliette::galettes ou croustilles de riz crispy minis": {
       "identity": "galettes ou croustilles de riz crispy minis",
       "format": null,
@@ -32454,8 +31695,8 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::godiva masterpiece - assortiment de chocolats,": {
-      "identity": "godiva masterpiece assortiment de chocolats 421 g",
+    "2026-10-08::costco-quebec::godiva masterpiece chocolate assortment,": {
+      "identity": "godiva masterpiece chocolate assortment 421 g",
       "format": null,
       "fetchedPrice": 16.99,
       "formatLabel": "421g",
@@ -32463,16 +31704,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 26,
-      "source": "https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 16.99
-          },
           {
             "date": "2026-10-05",
             "price": 16.99
@@ -32679,28 +31916,6 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::mars - barres de friandises assorties, ,": {
-      "identity": "mars barres de friandises assorties 1 2 kg",
-      "format": null,
-      "fetchedPrice": 23.99,
-      "formatLabel": "1.2kg",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 11,
-      "source": "https://f.wishabi.net/page_items/436765312/1791394280/extra_large.jpg",
-      "observations": {
-        "from": "2026-10-05",
-        "to": "2026-10-05",
-        "weeks": 1,
-        "points": [
-          {
-            "date": "2026-10-05",
-            "price": 23.99
-          }
-        ]
-      }
-    },
     "2026-10-08::familiprix-joliette::mars petites joies assortiment de friandises format collation": {
       "identity": "mars petites joies assortiment de 50 friandises format collation 526g",
       "format": null,
@@ -32743,7 +31958,7 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 22,
-      "source": "https://f.wishabi.net/page_items/436826175/1791433292/extra_large.jpg"
+      "source": "https://f.wishabi.net/page_items/436191161/1790831097/extra_large.jpg"
     },
     "2026-10-08::metro-joliette::melange chocolats favoris": {
       "identity": "melange chocolats favoris",
@@ -32833,6 +32048,28 @@
         ]
       }
     },
+    "2026-10-08::costco-quebec::mr. christie's arrowroot biscuits, .": {
+      "identity": "mr christie s arrowroot biscuits 1 4 kg",
+      "format": null,
+      "fetchedPrice": 14.99,
+      "formatLabel": "1.4kg",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 17,
+      "source": "https://f.wishabi.net/page_items/436533287/1791226389/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 14.99
+          }
+        ]
+      }
+    },
     "2026-10-08::intermarche-joliette::nestle chocolate stand up pouches, - , -": {
       "identity": "nestle chocolate stand up pouches 76 203 g 76 203 g",
       "format": null,
@@ -32873,32 +32110,6 @@
           {
             "date": "2026-09-24",
             "price": 19.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::pepsi - boisson gazeuse paquet de": {
-      "identity": "pepsi boisson gazeuse 355 ml paquet de 32",
-      "format": null,
-      "fetchedPrice": 21.49,
-      "formatLabel": "355ml",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 14,
-      "source": "https://f.wishabi.net/page_items/436765281/1791394277/extra_large.jpg",
-      "observations": {
-        "from": "2026-08-31",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-08-31",
-            "price": 21.49
-          },
-          {
-            "date": "2026-10-05",
-            "price": 21.49
           }
         ]
       }
@@ -32991,8 +32202,8 @@
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436072559/1790803384/extra_large.jpg"
     },
-    "2026-10-08::costco-quebec::ruffles - croustilles nature,": {
-      "identity": "ruffles croustilles nature 612 g",
+    "2026-10-08::costco-quebec::ruffles regular potato chips,": {
+      "identity": "ruffles regular potato chips 612 g",
       "format": null,
       "fetchedPrice": 7.99,
       "formatLabel": "612g",
@@ -33000,16 +32211,12 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 20,
-      "source": "https://f.wishabi.net/page_items/436765319/1791394281/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533333/1791226389/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 7.99
-          },
           {
             "date": "2026-10-05",
             "price": 7.99
@@ -33027,58 +32234,6 @@
       "regularPrice": null,
       "advertisedPercent": null,
       "source": "https://f.wishabi.net/page_items/436276257/1790923326/extra_large.jpg"
-    },
-    "2026-10-08::costco-quebec::simple mills - craquelins a la farine d'amande,": {
-      "identity": "simple mills craquelins a la farine d amande 482 g",
-      "format": null,
-      "fetchedPrice": 11.99,
-      "formatLabel": "482g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 20,
-      "source": "https://f.wishabi.net/page_items/436765318/1791394279/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 11.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 11.99
-          }
-        ]
-      }
-    },
-    "2026-10-08::costco-quebec::simply protein - barres croustillantes, ×": {
-      "identity": "simply protein barres croustillantes 16 40 g",
-      "format": null,
-      "fetchedPrice": 18.99,
-      "formatLabel": "16 × 40g",
-      "unit": null,
-      "member": false,
-      "regularPrice": null,
-      "advertisedPercent": 21,
-      "source": "https://f.wishabi.net/page_items/436765347/1791394283/extra_large.jpg",
-      "observations": {
-        "from": "2026-09-28",
-        "to": "2026-10-05",
-        "weeks": 2,
-        "points": [
-          {
-            "date": "2026-09-28",
-            "price": 18.99
-          },
-          {
-            "date": "2026-10-05",
-            "price": 18.99
-          }
-        ]
-      }
     },
     "2026-10-08::familiprix-joliette::skittles & starburst, friandises, petites joies": {
       "identity": "skittles starburst friandises 70 petites joies",
@@ -33098,6 +32253,28 @@
           {
             "date": "2026-09-24",
             "price": 12.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::sparkling ice flavoured water beverage variety pack, x": {
+      "identity": "sparkling ice flavoured water beverage variety pack 24 x 503 ml",
+      "format": null,
+      "fetchedPrice": 25.47,
+      "formatLabel": "24 × 503ml",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533284/1791226387/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 25.47
           }
         ]
       }
@@ -33167,8 +32344,30 @@
         ]
       }
     },
-    "2026-10-08::costco-quebec::witor's - chocolats italiens assortis,": {
-      "identity": "witor s chocolats italiens assortis 1 kg",
+    "2026-10-08::costco-quebec::vita coco, pure coconut water, ×": {
+      "identity": "vita coco pure coconut water 12 330 ml",
+      "format": null,
+      "fetchedPrice": 20.99,
+      "formatLabel": "12 × 330ml",
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 16,
+      "source": "https://f.wishabi.net/page_items/436533315/1791226383/extra_large.jpg",
+      "observations": {
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-10-05",
+            "price": 20.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::costco-quebec::witor's assorted italian chocolates,": {
+      "identity": "witor s assorted italian chocolates 1 kg",
       "format": null,
       "fetchedPrice": 18.99,
       "formatLabel": "1kg",
@@ -33176,22 +32375,236 @@
       "member": false,
       "regularPrice": null,
       "advertisedPercent": 21,
-      "source": "https://f.wishabi.net/page_items/436765327/1791394279/extra_large.jpg",
+      "source": "https://f.wishabi.net/page_items/436533343/1791226386/extra_large.jpg",
       "observations": {
-        "from": "2026-09-28",
+        "from": "2026-10-05",
         "to": "2026-10-05",
-        "weeks": 2,
+        "weeks": 1,
         "points": [
-          {
-            "date": "2026-09-28",
-            "price": 18.99
-          },
           {
             "date": "2026-10-05",
             "price": 18.99
           }
         ]
       }
+    },
+    "2026-10-08::superc-joliette::bananes": {
+      "identity": "bananes",
+      "format": null,
+      "fetchedPrice": 0.79,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436265028/1790897785/extra_large.jpg",
+      "observations": {
+        "from": "2026-05-28",
+        "to": "2026-10-01",
+        "weeks": 5,
+        "points": [
+          {
+            "date": "2026-05-28",
+            "price": 0.79
+          },
+          {
+            "date": "2026-06-18",
+            "price": 0.79
+          },
+          {
+            "date": "2026-09-17",
+            "price": 0.79
+          },
+          {
+            "date": "2026-09-24",
+            "price": 0.79
+          },
+          {
+            "date": "2026-10-01",
+            "price": 0.79
+          }
+        ]
+      }
+    },
+    "2026-10-08::iga-joliette::pommes": {
+      "identity": "pommes cortland",
+      "format": null,
+      "fetchedPrice": 0.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436319130/1790932026/extra_large.jpg"
+    },
+    "2026-10-08::superc-joliette::pommes de terre": {
+      "identity": "artichaut patates douces",
+      "format": null,
+      "fetchedPrice": 1.49,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436072506/1790803386/extra_large.jpg"
+    },
+    "2026-10-08::superc-joliette::clementines": {
+      "identity": "clementines",
+      "format": null,
+      "fetchedPrice": 1.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436265009/1790897773/extra_large.jpg",
+      "observations": {
+        "from": "2026-06-04",
+        "to": "2026-10-01",
+        "weeks": 7,
+        "points": [
+          {
+            "date": "2026-06-04",
+            "price": 4.99
+          },
+          {
+            "date": "2026-06-11",
+            "price": 4.97
+          },
+          {
+            "date": "2026-06-25",
+            "price": 4.99
+          },
+          {
+            "date": "2026-07-23",
+            "price": 2.75
+          },
+          {
+            "date": "2026-07-30",
+            "price": 4.99
+          },
+          {
+            "date": "2026-09-24",
+            "price": 4.99
+          },
+          {
+            "date": "2026-10-01",
+            "price": 4.99
+          }
+        ]
+      }
+    },
+    "2026-10-08::superc-joliette::boeuf hache": {
+      "identity": "boeuf hache mi maigre",
+      "format": null,
+      "fetchedPrice": 4.97,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 34,
+      "source": "https://f.wishabi.net/page_items/436072496/1790863640/extra_large.jpg",
+      "observations": {
+        "from": "2026-07-30",
+        "to": "2026-09-24",
+        "weeks": 2,
+        "points": [
+          {
+            "date": "2026-07-30",
+            "price": 4.95
+          },
+          {
+            "date": "2026-09-24",
+            "price": 7.49
+          }
+        ]
+      }
+    },
+    "2026-10-08::metro-joliette::porc hache maigre": {
+      "identity": "porc hache maigre",
+      "format": null,
+      "fetchedPrice": 2.22,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 62,
+      "source": "https://f.wishabi.net/page_items/436191274/1791211271/extra_large.jpg",
+      "observations": {
+        "from": "2026-05-21",
+        "to": "2026-10-01",
+        "weeks": 6,
+        "points": [
+          {
+            "date": "2026-05-21",
+            "price": 4.44
+          },
+          {
+            "date": "2026-06-25",
+            "price": 4.44
+          },
+          {
+            "date": "2026-07-23",
+            "price": 4.44
+          },
+          {
+            "date": "2026-08-13",
+            "price": 4.44
+          },
+          {
+            "date": "2026-08-27",
+            "price": 4.44
+          },
+          {
+            "date": "2026-10-01",
+            "price": 4.44
+          }
+        ]
+      }
+    },
+    "2026-10-08::superc-joliette::beurre": {
+      "identity": "jeune dindon butterball",
+      "format": null,
+      "fetchedPrice": 2.99,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": 21,
+      "source": "https://f.wishabi.net/page_items/436072663/1790803394/extra_large.jpg"
+    },
+    "2026-10-08::intermarche-joliette::oranges": {
+      "identity": "oranges",
+      "format": null,
+      "fetchedPrice": 1.79,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436264915/1790919890/extra_large.jpg",
+      "observations": {
+        "from": "2026-05-28",
+        "to": "2026-05-28",
+        "weeks": 1,
+        "points": [
+          {
+            "date": "2026-05-28",
+            "price": 4.19
+          }
+        ]
+      }
+    },
+    "2026-10-08::iga-joliette::jeune dindon surgele exceldor": {
+      "identity": "jeune dindon surgele exceldor",
+      "format": null,
+      "fetchedPrice": 2.49,
+      "formatLabel": null,
+      "unit": null,
+      "member": false,
+      "regularPrice": null,
+      "advertisedPercent": null,
+      "source": "https://f.wishabi.net/page_items/436319079/1790932041/extra_large.jpg"
     }
   }
 }

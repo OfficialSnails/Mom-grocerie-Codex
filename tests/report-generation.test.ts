@@ -808,6 +808,12 @@ describe('weekly shopper-facing reports', () => {
         price: '7,99 $',
         categoryId: 'pantry',
       },
+      {
+        name: 'Dîner de macaroni au fromage',
+        storeName: "L'Inter-Marché",
+        price: '4,00 $',
+        categoryId: 'pantry',
+      },
     ]);
 
     expect(findings).toEqual([

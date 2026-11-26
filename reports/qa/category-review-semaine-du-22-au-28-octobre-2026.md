@@ -34,6 +34,13 @@
   - Price: 17,99 $
   - Reason: mot de viande/poisson
 
+- **Product:** Tournedos de poulet Selection
+  - Current category: Surgelés
+  - Suggested category: Viandes et poissons
+  - Store: Super C
+  - Price: 10,00 $
+  - Reason: mot de viande/poisson
+
 - **Product:** Boulettes de porc Marc Angelo
   - Current category: Surgelés
   - Suggested category: Viandes et poissons
@@ -54,13 +61,6 @@
   - Store: Super C
   - Price: 3,99 $
   - Reason: mot clair de fruit/légume
-
-- **Product:** Tournedos de poulet Selection
-  - Current category: Surgelés
-  - Suggested category: Viandes et poissons
-  - Store: Super C
-  - Price: 10,00 $
-  - Reason: mot de viande/poisson
 
 ## Suggested classifier rule additions
 

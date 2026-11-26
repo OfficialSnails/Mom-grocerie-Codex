@@ -680,15 +680,15 @@
       "startsAt": "2026-10-22T00:00:00-04:00",
       "endsAt": "2026-10-28T23:59:59-04:00",
       "images": [
-        "https://f.wishabi.net/page_items/437600537/1792425238/extra_large.jpg",
-        "https://f.wishabi.net/page_items/437600508/1792425110/extra_large.jpg",
-        "https://f.wishabi.net/page_items/437600545/1792425244/extra_large.jpg"
+        "https://f.wishabi.net/page_items/437600805/1792425093/extra_large.jpg",
+        "https://f.wishabi.net/page_items/437600804/1792425092/extra_large.jpg",
+        "https://f.wishabi.net/page_items/437600807/1792425094/extra_large.jpg"
       ],
-      "cover": "https://f.wishabi.net/flyers/8192477/web_premium/1792635848.jpg",
-      "imageBase": "https://f.wishabi.net/flyers/eb7fdf87-a5c2-4504-81b1-d1f05c6c8f15/",
+      "cover": "https://f.wishabi.net/flyers/8192477/web_organic/1792425974.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/62506892-d847-4dec-947e-0f7c9be5e010/",
       "height": 2560,
       "level": 4,
-      "tileSpan": 396.7992171732616,
+      "tileSpan": 396.78708375378403,
       "pages": [
         {
           "left": 0,
@@ -720,122 +720,115 @@
         },
         {
           "left": 4608,
-          "right": 6912,
+          "right": 5760,
           "top": 0,
           "bottom": -2560,
           "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 6912,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
         },
         {
           "left": 6912,
           "right": 8064,
           "top": 0,
           "bottom": -2560,
-          "page": 6
+          "page": 7
         },
         {
           "left": 8064,
           "right": 9216,
           "top": 0,
           "bottom": -2560,
-          "page": 7
+          "page": 8
         },
         {
           "left": 9216,
           "right": 10368,
           "top": 0,
           "bottom": -2560,
-          "page": 8
+          "page": 9
         },
         {
           "left": 10368,
           "right": 11520,
           "top": 0,
           "bottom": -2560,
-          "page": 9
+          "page": 10
         },
         {
           "left": 11520,
           "right": 12672,
           "top": 0,
           "bottom": -2560,
-          "page": 10
+          "page": 11
         },
         {
           "left": 12672,
           "right": 13824,
           "top": 0,
           "bottom": -2560,
-          "page": 11
+          "page": 12
         },
         {
           "left": 13824,
           "right": 14976,
           "top": 0,
           "bottom": -2560,
-          "page": 12
+          "page": 13
         },
         {
           "left": 14976,
           "right": 16128,
           "top": 0,
           "bottom": -2560,
-          "page": 13
+          "page": 14
         },
         {
           "left": 16128,
           "right": 17280,
           "top": 0,
           "bottom": -2560,
-          "page": 14
+          "page": 15
         },
         {
           "left": 17280,
           "right": 18432,
           "top": 0,
           "bottom": -2560,
-          "page": 15
+          "page": 16
         },
         {
           "left": 18432,
           "right": 19584,
           "top": 0,
           "bottom": -2560,
-          "page": 16
+          "page": 17
         },
         {
           "left": 19584,
           "right": 20736,
           "top": 0,
           "bottom": -2560,
-          "page": 17
+          "page": 18
         },
         {
           "left": 20736,
           "right": 21888,
           "top": 0,
           "bottom": -2560,
-          "page": 18
+          "page": 19
         },
         {
           "left": 21888,
           "right": 23040,
           "top": 0,
           "bottom": -2560,
-          "page": 19
-        },
-        {
-          "left": 23040,
-          "right": 24192,
-          "top": 0,
-          "bottom": -2560,
           "page": 20
-        },
-        {
-          "left": 24192,
-          "right": 25344,
-          "top": 0,
-          "bottom": -2560,
-          "page": 21
         }
       ]
     },
@@ -851,7 +844,7 @@
         "https://f.wishabi.net/page_items/437587486/1792207480/extra_large.jpg",
         "https://f.wishabi.net/page_items/437587464/1792207479/extra_large.jpg"
       ],
-      "cover": "https://f.wishabi.net/flyers/8188827/web_premium/1792466648.jpg",
+      "cover": "https://f.wishabi.net/flyers/8188827/web_organic/1792466648.jpg",
       "imageBase": "https://f.wishabi.net/flyers/8c9305fd-f144-4521-82da-821ebaf2bf29/",
       "height": 2560,
       "level": 4,

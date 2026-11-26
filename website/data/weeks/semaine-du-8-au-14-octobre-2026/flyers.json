@@ -63,93 +63,16 @@
       ]
     },
     {
-      "id": "8181002",
+      "id": "8177073",
       "storeId": "costco-quebec",
       "storeName": "Costco",
-      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8181002",
+      "url": "https://flipp.com/en-ca/joliette-qc/flyer/8177073",
       "startsAt": "2026-10-05T00:00:00-04:00",
       "endsAt": "2026-10-11T23:59:59-04:00",
       "images": [
-        "https://f.wishabi.net/page_items/436765281/1791394277/extra_large.jpg",
-        "https://f.wishabi.net/page_items/436765346/1791394282/extra_large.jpg",
-        "https://f.wishabi.net/page_items/436765361/1791394275/extra_large.jpg"
-      ],
-      "cover": "https://f.wishabi.net/flyers/8181002/web_organic/1791395673.jpg",
-      "imageBase": "https://f.wishabi.net/flyers/56001167-e2f6-4b58-bd19-39e0d5a010af/",
-      "height": 4096,
-      "level": 4,
-      "tileSpan": 596.4306870059013,
-      "pages": [
-        {
-          "left": 0,
-          "right": 1811,
-          "top": 0,
-          "bottom": -4096,
-          "page": 1
-        },
-        {
-          "left": 1811,
-          "right": 3622,
-          "top": 0,
-          "bottom": -4096,
-          "page": 2
-        },
-        {
-          "left": 3622,
-          "right": 5433,
-          "top": 0,
-          "bottom": -4096,
-          "page": 3
-        },
-        {
-          "left": 5433,
-          "right": 7244,
-          "top": 0,
-          "bottom": -4096,
-          "page": 4
-        },
-        {
-          "left": 7244,
-          "right": 9055,
-          "top": 0,
-          "bottom": -4096,
-          "page": 5
-        },
-        {
-          "left": 9055,
-          "right": 10866,
-          "top": 0,
-          "bottom": -4096,
-          "page": 6
-        },
-        {
-          "left": 10866,
-          "right": 12677,
-          "top": 0,
-          "bottom": -4096,
-          "page": 7
-        },
-        {
-          "left": 12677,
-          "right": 14488,
-          "top": 0,
-          "bottom": -4096,
-          "page": 8
-        },
-        {
-          "left": 14488,
-          "right": 16299,
-          "top": 0,
-          "bottom": -4096,
-          "page": 9
-        },
-        {
-          "left": 16299,
-          "right": 20924,
-          "top": 0,
-          "bottom": -4096,
-          "page": 10
-        }
+        "https://f.wishabi.net/page_items/436533335/1791226390/extra_large.jpg",
+        "https://f.wishabi.net/page_items/436533282/1791226385/extra_large.jpg",
+        "https://f.wishabi.net/page_items/436533342/1791226386/extra_large.jpg"
       ]
     },
     {
@@ -737,11 +660,11 @@
       "endsAt": "2026-10-14T23:59:59-04:00",
       "images": [
         "https://f.wishabi.net/page_items/436191308/1791211333/extra_large.jpg",
-        "https://f.wishabi.net/page_items/436193835/1790831108/extra_large.jpg",
-        "https://f.wishabi.net/page_items/436189506/1790831096/extra_large.jpg"
+        "https://f.wishabi.net/page_items/436191315/1791211339/extra_large.jpg",
+        "https://f.wishabi.net/page_items/436191316/1791211348/extra_large.jpg"
       ],
-      "cover": "https://f.wishabi.net/flyers/8171653/web_premium/1791433288.jpg",
-      "imageBase": "https://f.wishabi.net/flyers/488850e1-097d-4d7a-b81d-7a697f4abecb/",
+      "cover": "https://f.wishabi.net/flyers/8171653/web_organic/1791213073.jpg",
+      "imageBase": "https://f.wishabi.net/flyers/af511c59-8fa3-46b2-9ab1-f6dfe794db6b/",
       "height": 2560,
       "level": 4,
       "tileSpan": 396.78708375378403,
@@ -921,7 +844,7 @@
         "https://f.wishabi.net/page_items/436072483/1790863959/extra_large.jpg",
         "https://f.wishabi.net/page_items/436072467/1790863945/extra_large.jpg"
       ],
-      "cover": "https://f.wishabi.net/flyers/8176948/web_premium/1791225404.jpg",
+      "cover": "https://f.wishabi.net/flyers/8176948/web_organic/1791225404.jpg",
       "imageBase": "https://f.wishabi.net/flyers/30de701d-8fe0-418e-9b24-dcf79cdb7472/",
       "height": 2560,
       "level": 4,

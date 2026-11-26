@@ -65,6 +65,309 @@
       ]
     },
     {
+      "id": "8190642",
+      "storeId": "maxi-montreal",
+      "storeName": "Maxi",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8190642",
+      "cover": "https://f.wishabi.net/flyers/8190642/web_organic/1792420445.jpg",
+      "startsAt": "2026-10-22T00:00:00-04:00",
+      "endsAt": "2026-10-28T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/bd9bafaa-4be7-4902-8311-31b1476141ec/",
+      "height": 4096,
+      "level": 4,
+      "tileSpan": 596.4606354009077,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1843,
+          "top": 0,
+          "bottom": -4096,
+          "page": 1
+        },
+        {
+          "left": 1843,
+          "right": 3686,
+          "top": 0,
+          "bottom": -4096,
+          "page": 2
+        },
+        {
+          "left": 3686,
+          "right": 5734,
+          "top": 0,
+          "bottom": -4096,
+          "page": 3
+        },
+        {
+          "left": 5734,
+          "right": 7782,
+          "top": 0,
+          "bottom": -4096,
+          "page": 4
+        },
+        {
+          "left": 7782,
+          "right": 9830,
+          "top": 0,
+          "bottom": -4096,
+          "page": 5
+        },
+        {
+          "left": 9830,
+          "right": 11878,
+          "top": 0,
+          "bottom": -4096,
+          "page": 6
+        },
+        {
+          "left": 11878,
+          "right": 13926,
+          "top": 0,
+          "bottom": -4096,
+          "page": 7
+        },
+        {
+          "left": 13926,
+          "right": 15974,
+          "top": 0,
+          "bottom": -4096,
+          "page": 8
+        },
+        {
+          "left": 15974,
+          "right": 18022,
+          "top": 0,
+          "bottom": -4096,
+          "page": 9
+        },
+        {
+          "left": 18022,
+          "right": 20070,
+          "top": 0,
+          "bottom": -4096,
+          "page": 10
+        },
+        {
+          "left": 20070,
+          "right": 22118,
+          "top": 0,
+          "bottom": -4096,
+          "page": 11
+        },
+        {
+          "left": 22118,
+          "right": 24166,
+          "top": 0,
+          "bottom": -4096,
+          "page": 12
+        },
+        {
+          "left": 24166,
+          "right": 26214,
+          "top": 0,
+          "bottom": -4096,
+          "page": 13
+        },
+        {
+          "left": 26214,
+          "right": 28262,
+          "top": 0,
+          "bottom": -4096,
+          "page": 14
+        },
+        {
+          "left": 28262,
+          "right": 30310,
+          "top": 0,
+          "bottom": -4096,
+          "page": 15
+        },
+        {
+          "left": 30310,
+          "right": 32358,
+          "top": 0,
+          "bottom": -4096,
+          "page": 16
+        },
+        {
+          "left": 32358,
+          "right": 34406,
+          "top": 0,
+          "bottom": -4096,
+          "page": 17
+        },
+        {
+          "left": 34406,
+          "right": 36454,
+          "top": 0,
+          "bottom": -4096,
+          "page": 18
+        },
+        {
+          "left": 36454,
+          "right": 38502,
+          "top": 0,
+          "bottom": -4096,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "8192477",
+      "storeId": "metro-montreal",
+      "storeName": "Metro",
+      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8192477",
+      "cover": "https://f.wishabi.net/flyers/8192477/web_organic/1792425974.jpg",
+      "startsAt": "2026-10-22T00:00:00-04:00",
+      "endsAt": "2026-10-28T23:59:59-04:00",
+      "imageBase": "https://f.wishabi.net/flyers/62506892-d847-4dec-947e-0f7c9be5e010/",
+      "height": 2560,
+      "level": 4,
+      "tileSpan": 396.78708375378403,
+      "pages": [
+        {
+          "left": 0,
+          "right": 1152,
+          "top": 0,
+          "bottom": -2560,
+          "page": 1
+        },
+        {
+          "left": 1152,
+          "right": 2304,
+          "top": 0,
+          "bottom": -2560,
+          "page": 2
+        },
+        {
+          "left": 2304,
+          "right": 3456,
+          "top": 0,
+          "bottom": -2560,
+          "page": 3
+        },
+        {
+          "left": 3456,
+          "right": 4608,
+          "top": 0,
+          "bottom": -2560,
+          "page": 4
+        },
+        {
+          "left": 4608,
+          "right": 5760,
+          "top": 0,
+          "bottom": -2560,
+          "page": 5
+        },
+        {
+          "left": 5760,
+          "right": 6912,
+          "top": 0,
+          "bottom": -2560,
+          "page": 6
+        },
+        {
+          "left": 6912,
+          "right": 8064,
+          "top": 0,
+          "bottom": -2560,
+          "page": 7
+        },
+        {
+          "left": 8064,
+          "right": 9216,
+          "top": 0,
+          "bottom": -2560,
+          "page": 8
+        },
+        {
+          "left": 9216,
+          "right": 10368,
+          "top": 0,
+          "bottom": -2560,
+          "page": 9
+        },
+        {
+          "left": 10368,
+          "right": 11520,
+          "top": 0,
+          "bottom": -2560,
+          "page": 10
+        },
+        {
+          "left": 11520,
+          "right": 12672,
+          "top": 0,
+          "bottom": -2560,
+          "page": 11
+        },
+        {
+          "left": 12672,
+          "right": 13824,
+          "top": 0,
+          "bottom": -2560,
+          "page": 12
+        },
+        {
+          "left": 13824,
+          "right": 14976,
+          "top": 0,
+          "bottom": -2560,
+          "page": 13
+        },
+        {
+          "left": 14976,
+          "right": 16128,
+          "top": 0,
+          "bottom": -2560,
+          "page": 14
+        },
+        {
+          "left": 16128,
+          "right": 17280,
+          "top": 0,
+          "bottom": -2560,
+          "page": 15
+        },
+        {
+          "left": 17280,
+          "right": 18432,
+          "top": 0,
+          "bottom": -2560,
+          "page": 16
+        },
+        {
+          "left": 18432,
+          "right": 19584,
+          "top": 0,
+          "bottom": -2560,
+          "page": 17
+        },
+        {
+          "left": 19584,
+          "right": 20736,
+          "top": 0,
+          "bottom": -2560,
+          "page": 18
+        },
+        {
+          "left": 20736,
+          "right": 21888,
+          "top": 0,
+          "bottom": -2560,
+          "page": 19
+        },
+        {
+          "left": 21888,
+          "right": 23040,
+          "top": 0,
+          "bottom": -2560,
+          "page": 20
+        }
+      ]
+    },
+    {
       "id": "8190144",
       "storeId": "intermarche-montreal",
       "storeName": "L'Inter-Marché",
@@ -204,7 +507,7 @@
       "storeId": "superc-montreal",
       "storeName": "Super C",
       "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8188827",
-      "cover": "https://f.wishabi.net/flyers/8188827/web_premium/1792466648.jpg",
+      "cover": "https://f.wishabi.net/flyers/8188827/web_organic/1792466648.jpg",
       "startsAt": "2026-10-22T00:00:00-04:00",
       "endsAt": "2026-10-28T23:59:59-04:00",
       "imageBase": "https://f.wishabi.net/flyers/8c9305fd-f144-4521-82da-821ebaf2bf29/",
@@ -606,316 +909,6 @@
           "top": 0,
           "bottom": -4096,
           "page": 10
-        }
-      ]
-    },
-    {
-      "id": "8190642",
-      "storeId": "maxi-montreal",
-      "storeName": "Maxi",
-      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8190642",
-      "cover": "https://f.wishabi.net/flyers/8190642/web_organic/1792420445.jpg",
-      "startsAt": "2026-10-22T00:00:00-04:00",
-      "endsAt": "2026-10-28T23:59:59-04:00",
-      "imageBase": "https://f.wishabi.net/flyers/bd9bafaa-4be7-4902-8311-31b1476141ec/",
-      "height": 4096,
-      "level": 4,
-      "tileSpan": 596.4606354009077,
-      "pages": [
-        {
-          "left": 0,
-          "right": 1843,
-          "top": 0,
-          "bottom": -4096,
-          "page": 1
-        },
-        {
-          "left": 1843,
-          "right": 3686,
-          "top": 0,
-          "bottom": -4096,
-          "page": 2
-        },
-        {
-          "left": 3686,
-          "right": 5734,
-          "top": 0,
-          "bottom": -4096,
-          "page": 3
-        },
-        {
-          "left": 5734,
-          "right": 7782,
-          "top": 0,
-          "bottom": -4096,
-          "page": 4
-        },
-        {
-          "left": 7782,
-          "right": 9830,
-          "top": 0,
-          "bottom": -4096,
-          "page": 5
-        },
-        {
-          "left": 9830,
-          "right": 11878,
-          "top": 0,
-          "bottom": -4096,
-          "page": 6
-        },
-        {
-          "left": 11878,
-          "right": 13926,
-          "top": 0,
-          "bottom": -4096,
-          "page": 7
-        },
-        {
-          "left": 13926,
-          "right": 15974,
-          "top": 0,
-          "bottom": -4096,
-          "page": 8
-        },
-        {
-          "left": 15974,
-          "right": 18022,
-          "top": 0,
-          "bottom": -4096,
-          "page": 9
-        },
-        {
-          "left": 18022,
-          "right": 20070,
-          "top": 0,
-          "bottom": -4096,
-          "page": 10
-        },
-        {
-          "left": 20070,
-          "right": 22118,
-          "top": 0,
-          "bottom": -4096,
-          "page": 11
-        },
-        {
-          "left": 22118,
-          "right": 24166,
-          "top": 0,
-          "bottom": -4096,
-          "page": 12
-        },
-        {
-          "left": 24166,
-          "right": 26214,
-          "top": 0,
-          "bottom": -4096,
-          "page": 13
-        },
-        {
-          "left": 26214,
-          "right": 28262,
-          "top": 0,
-          "bottom": -4096,
-          "page": 14
-        },
-        {
-          "left": 28262,
-          "right": 30310,
-          "top": 0,
-          "bottom": -4096,
-          "page": 15
-        },
-        {
-          "left": 30310,
-          "right": 32358,
-          "top": 0,
-          "bottom": -4096,
-          "page": 16
-        },
-        {
-          "left": 32358,
-          "right": 34406,
-          "top": 0,
-          "bottom": -4096,
-          "page": 17
-        },
-        {
-          "left": 34406,
-          "right": 36454,
-          "top": 0,
-          "bottom": -4096,
-          "page": 18
-        },
-        {
-          "left": 36454,
-          "right": 38502,
-          "top": 0,
-          "bottom": -4096,
-          "page": 19
-        }
-      ]
-    },
-    {
-      "id": "8192477",
-      "storeId": "metro-montreal",
-      "storeName": "Metro",
-      "url": "https://flipp.com/fr-ca/montreal-qc/flyer/8192477",
-      "cover": "https://f.wishabi.net/flyers/8192477/web_premium/1792635848.jpg",
-      "startsAt": "2026-10-22T00:00:00-04:00",
-      "endsAt": "2026-10-28T23:59:59-04:00",
-      "imageBase": "https://f.wishabi.net/flyers/eb7fdf87-a5c2-4504-81b1-d1f05c6c8f15/",
-      "height": 2560,
-      "level": 4,
-      "tileSpan": 396.7992171732616,
-      "pages": [
-        {
-          "left": 0,
-          "right": 1152,
-          "top": 0,
-          "bottom": -2560,
-          "page": 1
-        },
-        {
-          "left": 1152,
-          "right": 2304,
-          "top": 0,
-          "bottom": -2560,
-          "page": 2
-        },
-        {
-          "left": 2304,
-          "right": 3456,
-          "top": 0,
-          "bottom": -2560,
-          "page": 3
-        },
-        {
-          "left": 3456,
-          "right": 4608,
-          "top": 0,
-          "bottom": -2560,
-          "page": 4
-        },
-        {
-          "left": 4608,
-          "right": 6912,
-          "top": 0,
-          "bottom": -2560,
-          "page": 5
-        },
-        {
-          "left": 6912,
-          "right": 8064,
-          "top": 0,
-          "bottom": -2560,
-          "page": 6
-        },
-        {
-          "left": 8064,
-          "right": 9216,
-          "top": 0,
-          "bottom": -2560,
-          "page": 7
-        },
-        {
-          "left": 9216,
-          "right": 10368,
-          "top": 0,
-          "bottom": -2560,
-          "page": 8
-        },
-        {
-          "left": 10368,
-          "right": 11520,
-          "top": 0,
-          "bottom": -2560,
-          "page": 9
-        },
-        {
-          "left": 11520,
-          "right": 12672,
-          "top": 0,
-          "bottom": -2560,
-          "page": 10
-        },
-        {
-          "left": 12672,
-          "right": 13824,
-          "top": 0,
-          "bottom": -2560,
-          "page": 11
-        },
-        {
-          "left": 13824,
-          "right": 14976,
-          "top": 0,
-          "bottom": -2560,
-          "page": 12
-        },
-        {
-          "left": 14976,
-          "right": 16128,
-          "top": 0,
-          "bottom": -2560,
-          "page": 13
-        },
-        {
-          "left": 16128,
-          "right": 17280,
-          "top": 0,
-          "bottom": -2560,
-          "page": 14
-        },
-        {
-          "left": 17280,
-          "right": 18432,
-          "top": 0,
-          "bottom": -2560,
-          "page": 15
-        },
-        {
-          "left": 18432,
-          "right": 19584,
-          "top": 0,
-          "bottom": -2560,
-          "page": 16
-        },
-        {
-          "left": 19584,
-          "right": 20736,
-          "top": 0,
-          "bottom": -2560,
-          "page": 17
-        },
-        {
-          "left": 20736,
-          "right": 21888,
-          "top": 0,
-          "bottom": -2560,
-          "page": 18
-        },
-        {
-          "left": 21888,
-          "right": 23040,
-          "top": 0,
-          "bottom": -2560,
-          "page": 19
-        },
-        {
-          "left": 23040,
-          "right": 24192,
-          "top": 0,
-          "bottom": -2560,
-          "page": 20
-        },
-        {
-          "left": 24192,
-          "right": 25344,
-          "top": 0,
-          "bottom": -2560,
-          "page": 21
         }
       ]
     }

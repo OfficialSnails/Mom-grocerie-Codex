@@ -22,16 +22,16 @@ cssclasses:
 
 ## 🥬 Fruits et légumes
 
-- [ ] **Bananes** — **0,79 $**
+- [ ] **Bananes** — **0,79 $/lb**
   - 📍 **Magasin:** Super C
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 1,74 $/kg.
   - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436265028/1790897785/extra_large.jpg" alt="Preuve prix Bananes" width="220" />
 
-- [ ] **POMMES CORTLAND** — **0,99 $**
+- [ ] **POMMES CORTLAND** — **0,99 $/lb**
   - 📍 **Magasin:** IGA
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 2,18 $/kg.
   - ✅ **Pourquoi:** Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436319130/1790932026/extra_large.jpg" alt="Preuve prix POMMES CORTLAND" width="220" />
@@ -45,9 +45,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072501/1790863643/extra_large.jpg" alt="Preuve prix Poireaux" width="220" />
 
-- [ ] **Artichaut patates douces** — **1,49 $**
+- [ ] **Artichaut patates douces** — **1,49 $/lb**
   - 📍 **Magasin:** Super C
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 3,28 $/kg.
   - ✅ **Pourquoi:** Environ 53 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072506/1790803386/extra_large.jpg" alt="Preuve prix Artichaut patates douces" width="220" />
@@ -85,9 +85,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436447654/1791207233/extra_large.jpg" alt="Preuve prix CLÉMENTINES COMPLIMENTS" width="220" />
 
-- [ ] **Clémentines** — **1,99 $**
+- [ ] **Clémentines** — **1,99 $/lb**
   - 📍 **Magasin:** Super C
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 4,39 $/kg.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436265009/1790897773/extra_large.jpg" alt="Preuve prix Clémentines" width="220" />
 
@@ -165,9 +165,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436189336/1790831099/extra_large.jpg" alt="Preuve prix RÔTI DE POITRINE DE POULET MAPLE LODGE" width="220" />
 
-- [ ] **Boeuf haché mi-maigre** — **4,97 $**
+- [ ] **Boeuf haché mi-maigre** — **4,97 $/lb**
   - 📍 **Magasin:** Super C
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 10,96 $/kg.
   - ✅ **Pourquoi:** Très bon prix, proche du meilleur prix des 6 derniers mois.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072496/1790863640/extra_large.jpg" alt="Preuve prix Boeuf haché mi-maigre" width="220" />
@@ -202,9 +202,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072655/1790803389/extra_large.jpg" alt="Preuve prix Saucisses fumées au poulet Selection" width="220" />
 
-- [ ] **PORC HACHÉ MAIGRE** — **2,22 $**
+- [ ] **PORC HACHÉ MAIGRE** — **2,22 $/lb**
   - 📍 **Magasin:** Metro
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 4,89 $/kg.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436191274/1791211271/extra_large.jpg" alt="Preuve prix PORC HACHÉ MAIGRE" width="220" />
 
@@ -279,9 +279,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436191339/1791211359/extra_large.jpg" alt="Preuve prix VINAIGRETTE MAG" width="220" />
 
-- [ ] **Jeune dindon Butterball** — **2,99 $**
+- [ ] **Jeune dindon Butterball** — **2,99 $/lb**
   - 📍 **Magasin:** Super C
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 6,59 $/kg.
   - ✅ **Pourquoi:** Très bon prix par rapport au prix habituel — pratique à garder en réserve.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072663/1790803394/extra_large.jpg" alt="Preuve prix Jeune dindon Butterball" width="220" />
@@ -348,9 +348,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436191259/1791211259/extra_large.jpg" alt="Preuve prix SIROP D'ÉRABLE IRRÉSISTIBLE" width="220" />
 
-- [ ] **ORANGES** — **1,79 $**
+- [ ] **ORANGES** — **1,79 $/lb**
   - 📍 **Magasin:** L'Inter-Marché
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 3,95 $/kg.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436264915/1790919890/extra_large.jpg" alt="Preuve prix ORANGES" width="220" />
 
@@ -384,12 +384,6 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436090797/1790812266/extra_large.jpg" alt="Preuve prix COKE OU PEPSI" width="220" />
 
-- [ ] **HUILE D'OLIVE EXTRA VIERGE** — **8,99 $**
-  - 📍 **Magasin:** Metro
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
-  - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/436191253/1791211426/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE" width="220" />
-
 - [ ] **L'ORÉAL PARIS Superior Preference, Coloration permanente** — **13,99 $**
   - 📍 **Magasin:** Familiprix
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
@@ -400,6 +394,12 @@ cssclasses:
   - 📍 **Magasin:** Maxi
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436275925/1790923898/extra_large.jpg" alt="Preuve prix RAGOÛT DE BOULETTES CORDON BLEU, 410 G OU SOUPE CHUNKY CAMPBELL'S, 515 ML" width="220" />
+
+- [ ] **SOUPE PRÊTE-À-SERVIR HABITANT** — **1,99 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/436191287/1790831096/extra_large.jpg" alt="Preuve prix SOUPE PRÊTE-À-SERVIR HABITANT" width="220" />
 
 
 ## 🧼 Maison et entretien
@@ -497,11 +497,11 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436072711/1790803393/extra_large.jpg" alt="Preuve prix Dîner Michelina's" width="220" />
 
-- [ ] **JEUNE DINDON SURGELÉ EXCELDOR** — **2,49 $**
+- [ ] **JEUNE DINDON SURGELÉ EXCELDOR** — **2,49 $/lb**
   - 📍 **Magasin:** IGA
-  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - ⚖️ **Échelle:** Équivaut à 5,49 $/kg.
   - 📊 Gagne contre Marchés Tradition 2,99 $
-  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+  - 🏅 Pourquoi ça gagne: 0,50 $/kg moins cher que le prochain meilleur prix
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436319079/1790932041/extra_large.jpg" alt="Preuve prix JEUNE DINDON SURGELÉ EXCELDOR" width="220" />
 
@@ -516,6 +516,12 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/436373844/1791002444/extra_large.jpg" alt="Preuve prix CRÈME SURE SEALTEST (500 mL), MOCHI À LA CRÈME GLACÉE NATREL (6 x 35 mL)" width="220" />
+
+- [ ] **NATREL MOCHI À LA CRÈME GLACÉE** — **4,49 $**
+  - 📍 **Magasin:** Metro
+  - ⚖️ **Échelle:** Format à vérifier sur la photo.
+  - 📸 **Preuve du prix**
+    <img src="https://f.wishabi.net/page_items/436189478/1790831099/extra_large.jpg" alt="Preuve prix NATREL MOCHI À LA CRÈME GLACÉE" width="220" />
 
 
 ## 🍪 Collations et boissons
@@ -579,7 +585,7 @@ cssclasses:
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - ✅ **Pourquoi:** Environ 34 % moins cher que le prix habituel.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
+    <img src="https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
 
 - [ ] **CROUSTILLES PRINGLES** — **2,50 $**
   - 📍 **Magasin:** Maxi
@@ -641,9 +647,9 @@ cssclasses:
   - 📸 **Preuve du prix**
     <img src="https://f.wishabi.net/page_items/435803974/1790661141/extra_large.jpg" alt="Preuve prix Essentiel Croustilles Assaisonnées Ondulées 150g" width="220" />
 
-- [ ] **Godiva Masterpiece - Assortiment de chocolats, 421 g** — **16,99 $**
+- [ ] **Godiva Masterpiece Chocolate Assortment, 421 g** — **16,99 $**
   - 📍 **Magasin:** Costco
   - ⚖️ **Échelle:** Format à vérifier sur la photo.
   - 📸 **Preuve du prix**
-    <img src="https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg" alt="Preuve prix Godiva Masterpiece - Assortiment de chocolats, 421 g" width="220" />
+    <img src="https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg" alt="Preuve prix Godiva Masterpiece Chocolate Assortment, 421 g" width="220" />
 

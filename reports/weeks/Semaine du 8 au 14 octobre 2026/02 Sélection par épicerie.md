@@ -13,7 +13,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ---
 
 ## 🏬 Metro
-> [!info] 17 produits retenus
+> [!info] 18 produits retenus
 > 📍 180 rue Beaudry N, Joliette
 
 - **BARRES PROTÉINÉES CLIF BUILDERS**
@@ -80,7 +80,7 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   - Pourquoi: Environ 34 % moins cher que le prix habituel.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/436826171/1791433289/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
+  <img src="https://f.wishabi.net/page_items/436191157/1790831094/extra_large.jpg" alt="Preuve prix THÉ GLACÉ FUZE" width="220" />
 
 - **BONBONS MAYNARDS**
   - 🍪 Section: Collations et boissons
@@ -98,8 +98,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **PORC HACHÉ MAIGRE**
   - 🥩 Section: Viandes et poissons
-  - Prix: 2,22 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 2,22 $/lb
+  - Échelle: Équivaut à 4,89 $/kg.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436191274/1791211271/extra_large.jpg" alt="Preuve prix PORC HACHÉ MAIGRE" width="220" />
 
@@ -133,12 +133,12 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436189454/1790831099/extra_large.jpg" alt="Preuve prix BOISSON GAZEUSE CANADA DRY" width="220" />
 
-- **HUILE D'OLIVE EXTRA VIERGE**
-  - 🥫 Section: Garde-manger et autres
-  - Prix: 8,99 $
+- **NATREL MOCHI À LA CRÈME GLACÉE**
+  - 🧊 Section: Surgelés
+  - Prix: 4,49 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/436191253/1791211426/extra_large.jpg" alt="Preuve prix HUILE D'OLIVE EXTRA VIERGE" width="220" />
+  <img src="https://f.wishabi.net/page_items/436189478/1790831099/extra_large.jpg" alt="Preuve prix NATREL MOCHI À LA CRÈME GLACÉE" width="220" />
 
 - **ORANGES NAVEL OU PAMPLEMOUSSES ROSES**
   - 🥬 Section: Fruits et légumes
@@ -146,6 +146,13 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436189009/1790831095/extra_large.jpg" alt="Preuve prix ORANGES NAVEL OU PAMPLEMOUSSES ROSES" width="220" />
+
+- **SOUPE PRÊTE-À-SERVIR HABITANT**
+  - 🥫 Section: Garde-manger et autres
+  - Prix: 1,99 $
+  - Échelle: Format à vérifier sur la photo.
+  📸 Preuve du prix
+  <img src="https://f.wishabi.net/page_items/436191287/1790831096/extra_large.jpg" alt="Preuve prix SOUPE PRÊTE-À-SERVIR HABITANT" width="220" />
 
 ---
 
@@ -245,8 +252,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **POMMES CORTLAND**
   - 🥬 Section: Fruits et légumes
-  - Prix: 0,99 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 0,99 $/lb
+  - Échelle: Équivaut à 2,18 $/kg.
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436319130/1790932026/extra_large.jpg" alt="Preuve prix POMMES CORTLAND" width="220" />
@@ -353,10 +360,10 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **JEUNE DINDON SURGELÉ EXCELDOR**
   - 🧊 Section: Surgelés
-  - Prix: 2,49 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 2,49 $/lb
+  - Échelle: Équivaut à 5,49 $/kg.
   - 📊 Gagne contre Marchés Tradition 2,99 $
-  - 🏅 Pourquoi ça gagne: 0,50 $ moins cher que le prochain meilleur prix
+  - 🏅 Pourquoi ça gagne: 0,50 $/kg moins cher que le prochain meilleur prix
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436319079/1790932041/extra_large.jpg" alt="Preuve prix JEUNE DINDON SURGELÉ EXCELDOR" width="220" />
 
@@ -386,8 +393,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Bananes**
   - 🥬 Section: Fruits et légumes
-  - Prix: 0,79 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 0,79 $/lb
+  - Échelle: Équivaut à 1,74 $/kg.
   - Pourquoi: Excellent prix — parmi les meilleurs vus dans les 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436265028/1790897785/extra_large.jpg" alt="Preuve prix Bananes" width="220" />
@@ -410,16 +417,16 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Jeune dindon Butterball**
   - 🥫 Section: Garde-manger et autres
-  - Prix: 2,99 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 2,99 $/lb
+  - Échelle: Équivaut à 6,59 $/kg.
   - Pourquoi: Très bon prix par rapport au prix habituel — pratique à garder en réserve.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436072663/1790803394/extra_large.jpg" alt="Preuve prix Jeune dindon Butterball" width="220" />
 
 - **Boeuf haché mi-maigre**
   - 🥩 Section: Viandes et poissons
-  - Prix: 4,97 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 4,97 $/lb
+  - Échelle: Équivaut à 10,96 $/kg.
   - Pourquoi: Très bon prix, proche du meilleur prix des 6 derniers mois.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436072496/1790863640/extra_large.jpg" alt="Preuve prix Boeuf haché mi-maigre" width="220" />
@@ -446,8 +453,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Artichaut patates douces**
   - 🥬 Section: Fruits et légumes
-  - Prix: 1,49 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 1,49 $/lb
+  - Échelle: Équivaut à 3,28 $/kg.
   - Pourquoi: Environ 53 % moins cher que le prix habituel.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436072506/1790803386/extra_large.jpg" alt="Preuve prix Artichaut patates douces" width="220" />
@@ -512,8 +519,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **Clémentines**
   - 🥬 Section: Fruits et légumes
-  - Prix: 1,99 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 1,99 $/lb
+  - Échelle: Équivaut à 4,39 $/kg.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436265009/1790897773/extra_large.jpg" alt="Preuve prix Clémentines" width="220" />
 
@@ -579,8 +586,8 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 
 - **ORANGES**
   - 🥫 Section: Garde-manger et autres
-  - Prix: 1,79 $
-  - Échelle: Format à vérifier sur la photo.
+  - Prix: 1,79 $/lb
+  - Échelle: Équivaut à 3,95 $/kg.
   📸 Preuve du prix
   <img src="https://f.wishabi.net/page_items/436264915/1790919890/extra_large.jpg" alt="Preuve prix ORANGES" width="220" />
 
@@ -751,9 +758,9 @@ Pour choisir des produits, utilise `01 Choix d'items.md`. Ce fichier évite de d
 ## 🏬 Costco
 > [!info] 1 produit retenu
 
-- **Godiva Masterpiece - Assortiment de chocolats, 421 g**
+- **Godiva Masterpiece Chocolate Assortment, 421 g**
   - 🍪 Section: Collations et boissons
   - Prix: 16,99 $
   - Échelle: Format à vérifier sur la photo.
   📸 Preuve du prix
-  <img src="https://f.wishabi.net/page_items/436765331/1791394281/extra_large.jpg" alt="Preuve prix Godiva Masterpiece - Assortiment de chocolats, 421 g" width="220" />
+  <img src="https://f.wishabi.net/page_items/436533297/1791226388/extra_large.jpg" alt="Preuve prix Godiva Masterpiece Chocolate Assortment, 421 g" width="220" />

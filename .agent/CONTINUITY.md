@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Remove the saved-list address-copy button and deploy the complete frontend/backend.
-Now: 2026-10-04T16:02:16-04:00 [CODE] Removed only the address-copy action. Modifier, Maps, whole-list copying and all saved data remain. TypeScript, release preflight and 315 tests pass; local saved-list/branch-dialog smoke passes.
-Next: None for this release. Provider activation remains outside this removal/deployment task.
+Goal: Keep the canonical checkout, GitHub main and Cloudflare aligned for weekly releases.
+Now: 2026-11-26 [TOOL] GitHub's last five scheduled releases stopped on store directory tests. Runs 45893319336 and 44602042350 show provider ID and punctuation drift. The repair preserves the location and PDF checks, makes PRs validate without deploying, and blocks candidates older than the live snapshot. Reconciled both Git histories using the verified November 26 release as the current snapshot. Older GitHub-only price-history observations are still accessible in the original Git commits.
+Next: Confirm the checks and live snapshot for the merged release. The next Thursday run will exercise scheduled collection when main lacks the current cycle.
 Open questions: Ordering remains parked; production Clerk still requires owned-domain/live setup.
 
 ## Decisions
@@ -70,6 +70,11 @@ Relevant files:
 
 ## Follow ups
 - Commit/push generated files if desired; no commit was created by Codex in this run.
+
+## Latest run — October 7, 2026
+- 2026-10-07T13:38:01-0400 [TOOL] Fresh Flipp/Wishabi generation for upcoming `Semaine du 8 au 14 octobre 2026` used `BONS_SPECIAUX_RUN_DATE=2026-10-08T12:00:00-04:00`: 1,901 priced items from nine overlapping flyers, with 18 expired CSV rows excluded and no Firecrawl. Full OCR/proof validation, price history (+1,674), base and regional exports, flyer pages, offer evidence, reports and Obsidian pack completed. Non-critical OSM refresh returned HTTP 504 and retained its prior directory data. Evidence: generated week folder and `data/store-directory-status.json`.
+- 2026-10-07T13:38:01-0400 [TOOL] Validation passed: `npm run check` (315 tests), browser syntax, pantry QA, category QA (0 high-confidence; nine frozen-food ambiguities), 44 generated JSON parses and no conflict markers. Chrome localhost confirmed newest week first, Costco off by default, data/proof controls and basket render.
+- 2026-10-07T13:38:01-0400 [TOOL] Direct Cloudflare Pages deployment succeeded: `https://b1189d9c.bons-speciaux-joliette.pages.dev`. `npm run verify:published` matched 14 published files; live production index first label is `8 au 14 octobre 2026`. No GitHub fallback/push used.
 
 ## Latest run — September 23, 2026
 - 2026-09-23T13:38:44-04:00 [USER] Canonical workspace only; target upcoming September 24–30 flyers with `BONS_SPECIAUX_RUN_DATE=2026-09-24T12:00:00-04:00`.
@@ -385,3 +390,26 @@ Relevant files:
 - 2026-10-04T16:02:16-04:00 [TOOL] `npm run check` passed TypeScript, preflight and 315 tests; diff check passed. Initial sandbox attempt could not create tsx IPC; authorized rerun passed. Real 4197 saved-list page has no address-copy control and branch dialog opens; 4187 account page loads. No browser errors. Evidence: `/tmp/grocery-address-copy-removal-check.log`, `output/account-no-address-copy.png`. Publication pending.
 
 - 2026-10-04T16:05:10-04:00 [TOOL] RELEASED `fe606c0d3e51aa4e907bdc4932252f4bb60fb518`: Actions `37230603487` successful; Cloudflare `https://58b78936.bons-speciaux-joliette.pages.dev`. Worker compiled and Functions bundle uploaded; public `account-locations.js` matches local and 14 published data files verified. Refreshed live account page has no browser errors. Backend config reads return account enabled=false, instacart=false, addressSearch=false; these provider settings were intentionally unchanged. Supersedes publication pending. Evidence: `/tmp/grocery-address-copy-removal-deploy.log`, workflow receipt.
+
+## Linked-worktree cleanup — 2026-10-04T16:22:10-04:00
+- 2026-10-04T16:22:10-04:00 [USER] Clean linked worktrees so only main remains.
+- 2026-10-04T16:22:10-04:00 [TOOL] All six detached HEADs were ancestors of main; none had unique commits. Worktrees 5eca, 97b8, c5eb and f764 had local changes. Preserved binary working/index patches plus every changed, untracked and ignored file, including caches/dependencies, in `output/worktree-backups/2026-10-04T161938-0400/`; archive contents and SHA-256 hashes verified before removal. Recovery steps and manifest are in that folder. No live processes were observed using the six checkout directories.
+- 2026-10-04T16:22:10-04:00 [TOOL] Removed 26f4, 5eca, 97b8, ba6a, c5eb and f764 with Git's worktree removal command. Verified exactly one worktree, branch main, original HEAD `6b3607c53ae6441702761d61e600dfc941965434` and clean status before this ledger receipt. No application edits, merge, push or deployment; no code tests needed for checkout cleanup.
+
+### Follow-up: future worktree creation
+- Scope: Optionally run weekly grocery automation in the canonical checkout.
+- Area: Codex automation `mom-grocerie` execution environment.
+- Acceptance: Future runs use main without creating another linked worktree.
+- Constraints: Preserve schedule/prompt; configuration change requires a separate user request.
+- Status: NOT REQUESTED. Current automation points at the canonical checkout but uses `execution_environment = worktree`; setting was left unchanged.
+
+## Weekly flyer publication — 2026-10-15
+- 2026-10-15T11:34:25-04:00 [USER] Generated and authorized publication of the current Québec flyer cycle, including Joliette, Montréal and Québec refreshes.
+- 2026-10-15T11:34:25-04:00 [CODE] Added a pantry-QA false-positive exclusion for shelf-stable macaroni-and-cheese meals; generated data was not manually patched. Files: `src/generate-report.ts`, `tests/report-generation.test.ts`.
+- 2026-10-15T11:34:25-04:00 [TOOL] Live Flipp/Wishabi weekly pipeline targeted `Semaine du 15 au 21 octobre 2026` via `BONS_SPECIAUX_RUN_DATE=2026-10-15T12:00:00-04:00`. Base: 91 retained specials / 1,527 products; refresh: Montréal 1,686 and Québec 1,692 offers. Flyer metadata, regional snapshots, offer evidence and price history (35,522 observations) rebuilt. `npm run check` passed (315 tests), pantry/category QA passed with 0 high-confidence errors (9 frozen-food ambiguities), 56 website JSON files parsed, browser smoke passed.
+- 2026-10-15T11:34:25-04:00 [TOOL] RELEASED with direct `npm run deploy:cloudflare` to `https://b89a0587.bons-speciaux-joliette.pages.dev`; `npm run verify:published` matched 14 files. Public alias `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returns `15 au 21 octobre 2026` first. Existing concurrent changes were preserved.
+
+## Weekly flyer publication — 2026-10-21
+- 2026-10-21T13:20:48-04:00 [TOOL] Generated the upcoming `Semaine du 22 au 28 octobre 2026` using the normal Thursday override `BONS_SPECIAUX_RUN_DATE=2026-10-22T12:00:00-04:00`. Live Flipp/Wishabi returned 1,648 products across Familiprix, Inter-Marché, Maxi, Metro, IGA, Marchés Tradition, Super C, BoniChoix and Costco; the dated CSV supplement contributed zero rows. The slow non-blocking store-directory refresh retained its prior verified snapshot.
+- 2026-10-21T13:20:48-04:00 [TOOL] Required OCR proof pass, report, current prices, flyer pages, Montréal/Québec refreshes, offer evidence, price history and Obsidian export completed. Base index: 80 retained specials / 1,369 all products. `npm run check` passed (315 tests); pantry/category QA passed with 0 high-confidence errors and 7 frozen-food ambiguity notes; 64 release JSON files parsed; browser smoke passed without console errors.
+- 2026-10-21T13:20:48-04:00 [TOOL] RELEASED through direct `npm run deploy:cloudflare`; `npm run verify:published` matched 14 files. Public alias `https://bons-speciaux-joliette.pages.dev/data/weeks/index.json` returns `Semaine du 22 au 28 octobre 2026` first. Existing concurrent changes were preserved.

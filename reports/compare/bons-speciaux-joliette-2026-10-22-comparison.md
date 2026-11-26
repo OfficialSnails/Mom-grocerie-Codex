@@ -1,20 +1,20 @@
 # Comparaison des listes — 22 au 28 octobre 2026
 
-- Ancienne liste mom: 161 lignes
-- Liste vérifiée: 88 lignes
-- Différence: -73 lignes
+- Ancienne liste mom: 160 lignes
+- Liste vérifiée: 86 lignes
+- Différence: -74 lignes
 
 ## Répartition vérifiée
 
 - Metro: 19
 - Maxi: 11
-- IGA: 15
+- IGA: 14
 - Super C: 20
 - BoniChoix: 2
 - L'Inter-Marché: 1
 - Marchés Tradition: 11
 - Familiprix: 7
-- Costco: 2
+- Costco: 1
 
 ## Statut
 
