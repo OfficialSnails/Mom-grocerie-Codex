@@ -18,6 +18,10 @@ permissions:
 env:
   TZ: America/Toronto
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   review:
     if: github.event_name == 'pull_request'

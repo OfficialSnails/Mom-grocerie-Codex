@@ -233,17 +233,15 @@ Important pour la version hébergée:
 
 ### Mise à jour automatique avec GitHub
 
-Le workflow GitHub Actions `.github/workflows/weekly-cloudflare.yml` garde Cloudflare à jour à partir de GitHub:
+Le workflow `.github/workflows/weekly-cloudflare.yml` valide les PR avec `npm run check` et les deux contrôles de catégories. Un push sur `main` valide puis déploie le contenu de `main` vers Cloudflare Pages.
 
-- à chaque push sur `main`, il installe les dépendances, lance `npm test`, puis déploie `website/` sur Cloudflare Pages
-- chaque jeudi, il peut aussi lancer `npm run weekly`, committer les nouveaux fichiers de semaine, tester, puis déployer
-- avant tout déploiement, il faut vérifier qu'aucun fichier généré ne contient de marqueurs de conflit Git (`<<<<<<<`, `=======`, `>>>>>>>`) et que `website/data/weeks/index.json` ainsi que chaque `website/data/weeks/*/week.json` se lisent comme du JSON valide. Ne jamais déployer si ces vérifications échouent.
+Pour une livraison depuis le Mac, synchroniser le dossier canonique propre avec `git pull --ff-only` avant de générer. Après validation, inclure uniquement les fichiers de la livraison dans la PR, puis fusionner la PR pour lancer le déploiement. Si le pull rapide est refusé, examiner les commits des deux côtés avant de reprendre. Pour vérifier la livraison, ouvrir le run GitHub et confirmer que `verify:published` a comparé les données locales et publiques.
 
 Déclencheurs:
 
 - automatique sur chaque push vers `main`
-- automatique le jeudi à `12:00 UTC` environ, soit le matin à Joliette pendant l'heure avancée
-- manuel avec `Actions > Weekly grocery update > Run workflow`
+- automatique le jeudi vers `12:00 UTC`, soit 7 h l'hiver et 8 h l'été à Joliette. Si la semaine est déjà dans Git, le run réutilise les données validées. Sinon, il génère les fichiers, les valide, les pousse, puis déploie dans le même run.
+- manuel sur `main` avec `Actions > Weekly grocery update > Run workflow`. Ce bouton relance la collecte.
 
 Secrets GitHub requis:
 
@@ -256,7 +254,7 @@ Secrets GitHub requis:
 - Cloudflare est connecté localement avec `officialsnails@gmail.com`
 - Le site live est `https://bons-speciaux-joliette.pages.dev/`
 - Le projet Cloudflare Pages actuel est un projet Direct Upload. Il ne se connecte pas directement comme projet Git Cloudflare, mais GitHub Actions déploie vers le même projet Cloudflare avec Wrangler. C'est le chemin à garder pour conserver l'URL actuelle.
-- Ce dossier local pointe vers `https://github.com/OfficialSnails/Mom-grocerie-Codex.git`; il faut pousser avec GitHub Desktop et ajouter les secrets GitHub avant que l'automatisation fonctionne côté GitHub.
+- Le dépôt est `https://github.com/OfficialSnails/Mom-grocerie-Codex.git`. On peut pousser par Git en SSH ou avec GitHub Desktop.
 
 ### Validation du site
 

@@ -1,9 +1,9 @@
 # Continuity
 
 ## Snapshot
-Goal: Keep only the canonical main worktree.
-Now: 2026-10-04T16:22:10-04:00 [TOOL] Six detached linked worktrees removed after verified recovery backups. `git worktree list` shows only this checkout on main. Application code and deployed release unchanged.
-Next: None for this cleanup. Weekly automation remains configured to create future worktrees.
+Goal: Keep the canonical checkout, GitHub main and Cloudflare aligned for weekly releases.
+Now: 2026-11-26 [TOOL] GitHub's last five scheduled releases stopped on store directory tests. Runs 45893319336 and 44602042350 show provider ID and punctuation drift. The repair preserves the location and PDF checks, makes PRs validate without deploying, and blocks candidates older than the live snapshot. Reconciled both Git histories using the verified November 26 release as the current snapshot. Older GitHub-only price-history observations are still accessible in the original Git commits.
+Next: Confirm the checks and live snapshot for the merged release. The next Thursday run will exercise scheduled collection when main lacks the current cycle.
 Open questions: Ordering remains parked; production Clerk still requires owned-domain/live setup.
 
 ## Decisions
